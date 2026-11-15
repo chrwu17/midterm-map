@@ -19,7 +19,7 @@ Midterm Map teaches people with little political knowledge who was on their ball
 |---|---|
 | Audience is new voters in general, English only | The user's choice; an early idea of a Latino-voter focus and Spanish was dropped. |
 | Show 2026 results plus evergreen Lessons | The election had just happened; Lessons keep the site useful afterward. |
-| Senate and governor only | 71 races can be curated by hand; 435 House races cannot, yet. |
+| Senate and governor get full profiles; House gets results only | 71 races can be curated by hand; 435 House races cannot. House districts show candidates, parties, shares and the winner, with no positions. |
 | Major candidates get full profiles; others get name, party, vote share | Fair and complete without doubling the research. |
 | Six fixed issues for everyone: economy, health care, immigration, education, climate and energy, abortion | The same questions for every candidate make comparison fair. |
 | No ZIP lookup, no "match me" quiz | A matching quiz is hard to keep neutral. |

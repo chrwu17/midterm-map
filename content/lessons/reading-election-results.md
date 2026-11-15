@@ -2,7 +2,7 @@
 title: "Reading Election Results"
 slug: "reading-election-results"
 summary: "Why results come in slowly, what it means when a race is called, and how runoffs and recounts work."
-order: 7
+order: 8
 ---
 
 Election night can feel confusing. Numbers change, news outlets say different things, and some races are not settled for days.

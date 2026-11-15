@@ -2,7 +2,7 @@
 title: "What a Governor Does"
 slug: "what-a-governor-does"
 summary: "A governor leads a state's executive branch, signs or vetoes bills, and runs the state's day-to-day government."
-order: 3
+order: 4
 ---
 
 A governor is the top elected leader of a state. Think of the job as a state-level version of the president, with powers set by each state's own constitution.

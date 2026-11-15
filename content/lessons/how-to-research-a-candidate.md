@@ -2,7 +2,7 @@
 title: "How to Research a Candidate"
 slug: "how-to-research-a-candidate"
 summary: "Learn to compare what candidates say with what they do, spot spin, and use nonpartisan tools to decide."
-order: 5
+order: 6
 ---
 
 You do not need to be an expert to make a smart choice. A few good habits are enough.

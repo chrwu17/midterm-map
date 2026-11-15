@@ -2,7 +2,7 @@
 title: "How to Register and Vote"
 slug: "how-to-register-and-vote"
 summary: "A simple walkthrough of checking your registration, getting ready, and casting a ballot, with links to vote.gov for your state's rules."
-order: 4
+order: 5
 ---
 
 Voting rules in the United States are set mostly by states, so the details change depending on where you live. This lesson covers the general steps. For your state's exact rules and deadlines, use [vote.gov](https://vote.gov), the official federal guide.

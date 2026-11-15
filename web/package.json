@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "validate-data": "node ../scripts/validate-data.mjs --quiet",
+    "validate-data": "node ../scripts/validate-data.mjs --quiet && node ../scripts/validate-house.mjs",
     "prebuild": "npm run validate-data",
     "build": "next build",
     "start": "next start",

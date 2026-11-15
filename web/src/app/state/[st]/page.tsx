@@ -6,6 +6,8 @@ import { getRacesForState } from "@/lib/races";
 import { getLessons } from "@/lib/lessons";
 import { pageMeta } from "@/lib/seo";
 import { RaceCard } from "@/components/race-card";
+import { HouseSection } from "@/components/house-section";
+import { getHouseForState } from "@/lib/house";
 import { Reveal } from "@/components/motion-provider";
 
 export const dynamicParams = false;
@@ -20,13 +22,13 @@ export async function generateMetadata({ params }: { params: Promise<{ st: strin
   if (!s) return { title: "Midterm Map" };
   return pageMeta(
     `${s.name}: 2026 Senate and governor races | Midterm Map`,
-    `Who ran and who won in ${s.name}'s 2026 U.S. Senate and governor races, and where the major candidates stand, in plain, nonpartisan language.`,
+    `Who ran and who won in ${s.name}'s 2026 U.S. Senate, governor and U.S. House races, and where the major Senate and governor candidates stand, in plain, nonpartisan language.`,
     `/state/${st.toLowerCase()}/`,
   );
 }
 
-function explainerHref(office: "senate" | "governor") {
-  const re = office === "senate" ? /senat/i : /governor/i;
+function explainerHref(office: "senate" | "governor" | "house") {
+  const re = office === "senate" ? /senat/i : office === "house" ? /house|representative/i : /governor/i;
   const l = getLessons().find((x) => re.test(`${x.slug} ${x.title}`));
   return l ? `/learn/${l.slug}/` : "/learn/";
 }
@@ -36,6 +38,7 @@ export default async function StatePage({ params }: { params: Promise<{ st: stri
   const state = STATE_BY_CODE.get(st.toUpperCase());
   if (!state) notFound();
   const races = getRacesForState(state.code);
+  const house = getHouseForState(state.code);
   // One set per page, so each glossary term gets a popover only where it first appears.
   const seen = new Set<string>();
   const expected = [state.senate2026 && "a U.S. Senate race", state.governor2026 && "a governor race"].filter(Boolean);
@@ -48,8 +51,10 @@ export default async function StatePage({ params }: { params: Promise<{ st: stri
       <h1 className="mt-3 text-[clamp(2.25rem,5vw,3.5rem)] font-semibold leading-tight">{state.name}</h1>
       <p className="mt-2 max-w-[60ch] text-lg text-muted-foreground">
         {expected.length
-          ? `On November 3, 2026, ${state.name} had ${expected.join(" and ")}.`
-          : `${state.name} had no U.S. Senate or governor race in 2026.`}
+          ? `On November 3, 2026, ${state.name} had ${expected.join(" and ")}${house ? ", plus its U.S. House races" : ""}.`
+          : house
+            ? `${state.name} had no U.S. Senate or governor race in 2026, but it did vote for its U.S. House members.`
+            : `${state.name} had no U.S. Senate or governor race in 2026.`}
       </p>
 
       <Reveal className="mt-10 space-y-8">
@@ -69,7 +74,8 @@ export default async function StatePage({ params }: { params: Promise<{ st: stri
               </p>
             </div>
           ))}
-        {expected.length === 0 && races.length === 0 && (
+        {house && <HouseSection house={house} explainer={getLessons().some((l) => /house|representative/i.test(`${l.slug} ${l.title}`)) ? explainerHref("house") : undefined} />}
+        {expected.length === 0 && races.length === 0 && !house && (
           <div data-reveal className="rounded-xl border border-border bg-card p-7">
             <h2 className="text-xl font-semibold">No Senate or governor race in 2026</h2>
             <p className="mt-2 max-w-[60ch] text-muted-foreground">

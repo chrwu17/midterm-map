@@ -2,7 +2,7 @@
 title: "Political Terms Glossary"
 slug: "political-terms"
 summary: "Plain-English definitions of about 20 words you will hear during election season."
-order: 6
+order: 7
 ---
 
 Political talk is full of jargon. Here are common terms, in simple language. For more, the [Senate glossary](https://www.senate.gov/reference/glossary_term/glossary.htm) and [Ballotpedia](https://ballotpedia.org/) are helpful.

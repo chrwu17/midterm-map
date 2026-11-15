@@ -5,8 +5,9 @@ Last updated 2026-11-15. The first build is committed (fc44407); the 2026-11-15 
 ## What exists
 
 - Site in `web/`: Next.js static export. Home with the US map, a page for each of the 50 states, seven Lessons, and an About page. Run with `cd web && npm install && npm run dev`.
+- House results in `data/house/`: 435 districts, one file per state, results only (no bios or positions). Shown on each state page in a "U.S. House" section. Validate with `node scripts/validate-house.mjs` (the build runs it). 426 called, 7 uncalled (AK-AL, CA-23, MN-01, NC-05, NC-07, NC-10, TN-04), 2 runoff (LA-05, LA-06; Dec 12). Winners were compared against a second source in all 50 states; see `data/house/CROSSCHECK.md`. Numbers were read partly through a fetch summarizer, so check against the source page before quoting.
 - Data in `data/races/`: 71 race files (35 U.S. Senate, 36 governor), one per Race, following `data/SCHEMA.md`.
-- Lessons in `content/lessons/`: seven Markdown files.
+- Lessons in `content/lessons/`: eight Markdown files, including "What a U.S. Representative Does" (added 2026-11-15; facts checked against the Constitution text at archives.gov and house.gov pages).
 - Validator: `node scripts/validate-data.mjs` (0 errors, about 110 warnings at last run; the warnings are the gaps below).
 - Planning record in `issues/`: the map is `0000-map-midterm-map-site.md`.
 
