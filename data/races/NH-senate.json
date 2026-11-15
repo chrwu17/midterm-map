@@ -33,6 +33,16 @@
           "issue": "abortion",
           "summary": "Says he has worked to protect funding for Planned Parenthood.",
           "source": "https://chrispappas.org/about/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he supports comprehensive immigration reform that fixes the system and also addresses border security with better infrastructure and technology.",
+          "source": "https://chrispappas.org/priority/immigration/"
+        },
+        {
+          "issue": "economy",
+          "summary": "Says he is pushing tax cuts for working families and small businesses.",
+          "source": "https://chrispappas.org/about/"
         }
       ],
       "sources": [

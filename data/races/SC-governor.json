@@ -66,13 +66,28 @@
         },
         {
           "issue": "climate",
-          "summary": "Says data centers must \"Bring Your Own Energy.\"",
-          "source": "https://ontheissues.org/Jermaine_Johnson.htm"
+          "summary": "Says that if data centers come to South Carolina, it should be a net-zero for South Carolinians, which he calls \"Bring Your Own Energy.\"",
+          "source": "https://www.wbtv.com/2026/10/26/south-carolina-governors-race-where-alan-wilson-jermaine-johnson-stand-key-issues/"
         },
         {
           "issue": "abortion",
-          "summary": "Says medical decisions are best left to families and their doctors, and voted against the 2023 Fetal Heartbeat and Protection from Abortion Act.",
-          "source": "https://ontheissues.org/Jermaine_Johnson.htm"
+          "summary": "Says women's healthcare decisions should be between a woman and her doctor.",
+          "source": "https://www.wsoctv.com/news/local/political-beat-candidate-guide-south-carolina-governor-d/HH2M7VTXGVH3VI5YLBS4PN36CE/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he wants to expand Medicaid, fund rural hospitals and guarantee an OBGYN in every county.",
+          "source": "https://www.wsoctv.com/news/local/political-beat-candidate-guide-south-carolina-governor-d/HH2M7VTXGVH3VI5YLBS4PN36CE/"
+        },
+        {
+          "issue": "economy",
+          "summary": "Says he wants to lower income and property taxes for working South Carolinians.",
+          "source": "https://abc6onyourside.com/news/nation-world/what-to-know-before-scs-governor-primaries-candidates-issues-and-endorsements-pam-evette-nancy-mace-ralph-norman-rom-reddy-alan-wilson-jermaine-johnson-mullins-mcleod-billy-webster-june-9-primary-election-preview-south-carolina"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Said he does not support current ICE operations in the state \"in the way that they're doing it now.\"",
+          "source": "https://www.abccolumbia.com/?p=2933101"
         }
       ],
       "sources": [

@@ -35,9 +35,9 @@ Last updated 2026-11-15. The first build is committed (fc44407); the 2026-11-15 
 | Races called / uncalled | 69 / 2 (both Alaska; ranked-choice count on Nov 18) |
 | Major candidates | 143, all with a bio |
 | With a confirmed website | 129 |
-| With four or more positions | 133 |
-| Positions | 665 |
-| Positions citing Wikipedia or OnTheIssues | 64 |
+| With four or more positions | 138 |
+| Positions | 673 |
+| Positions citing Wikipedia or OnTheIssues | 34 |
 | Minor candidates listed | 100 |
 | Candidates with no vote share | 17 |
 
@@ -52,9 +52,10 @@ Last updated 2026-11-15. The first build is committed (fc44407); the 2026-11-15 
 
 - Vote shares are unofficial. On 2026-11-15 the eight races that were missing shares (IL, MI, NJ, OR, TX Senate; NE and OR governor; NE Senate) were filled from one count each: Michigan and Texas from Wikipedia's results table, Nebraska from the Secretary of State's unofficial results, Illinois, New Jersey and Oregon from The Green Papers. Shares were computed from the vote counts on those pages. Oregon's count was about 97% reported on Nov 13 and has kept moving, and Illinois and New Jersey changed count source, so those three are the first to refresh. Write-in candidates are not listed.
 - Mixed counts: three races had shares from two different counts and were fixed (CA, CO, HI governor; FL Senate special reset too). The validator only catches totals above 100.5%, so a milder mix could remain elsewhere.
-- Nine major candidates have fewer than four positions. None: Michael Katz (DE Senate), Darline Graham (SC Senate). Three each: Bernadette Wilson, Dave Bronson (AK governor), Darren Bailey (IL governor), Mike Rogers (MI Senate), Chris Pappas (NH Senate), Jermaine Johnson (SC governor), Dan Ahlers (SD governor).
-- 63 positions cite secondary sources (Wikipedia and OnTheIssues). On 2026-11-15 the campaign sites of about 20 of those candidates and all nine thin profiles were opened: only Mark Warner (abortion, reworded to match his plan page) and Rob Sand (one economy position added) had a page that supports a sentence. Most campaign sites say little about specific issues, and many positions are votes or lawsuits that only news or government records can source. Katz's and Graham's sites have no issue content (Graham's is a concession message), so they stay empty. Next sources to try: news reports and each candidate's issue subpages (Barr /issues, Bronson /policies, Ahlers /about-3 were truncated).
-- Some position sentences are accurate but clunky after the sweep ("Lists X among the goals … according to KOLD").
+- Five major candidates have fewer than four positions. None: Michael Katz (DE Senate), Darline Graham (SC Senate); their sites have no issue content. Three each: Bernadette Wilson (AK Senate), Dave Bronson (AK governor), Dan Ahlers (SD governor, no sourced page for the other issues). The 2026-11-15 pass filled Pappas, Rogers, Jermaine Johnson and Darren Bailey (see `data/CHANGELOG-2026-11-15-pass.md`). Alaska profiles were left alone until the Nov 18 count.
+- 34 positions still cite secondary sources (Wikipedia and OnTheIssues), down from 64: the 2026-11-15 pass re-sourced 33 to news or official pages. The rest had no page that supports them; mostly Barry Moore, Sullivan and Peltola (Alaska, not touched), Sanders, Guckian, Brock Smith, Capito, Barr, Booker (ICE). Find them with a grep for `wikipedia.org|ontheissues.org` in `data/races`.
+- Ten stiff position sentences (Demuth, James, El-Sayed, Rogers, Holscher, Bodnar, Colom, Booker, Mizusawa, Hageman) were reworded on 2026-11-15 after re-opening each source; Holscher's immigration, abortion and climate sentences and a few Demuth ones were not re-opened.
+- A few position sentences outside the ten reworded candidates may still read stiffly.
 - Lessons: facts were checked against web sources, but several official sites (vote.gov, Congress.gov, AP) block automated fetches, so those links were not opened.
 - Kansas governor was marked called from HPPR and KCUR reports of the AP call and of a concession; AP's own page was not opened.
 

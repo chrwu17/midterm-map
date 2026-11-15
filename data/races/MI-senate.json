@@ -21,12 +21,12 @@
       "positions": [
         {
           "issue": "healthcare",
-          "summary": "Says he wrote the book on Medicare for All and that it does not have to ban additional private insurance through unions or employers.",
+          "summary": "Says he \"literally wrote the book on Medicare for All\" and that it does not have to ban additional private insurance through unions or employers.",
           "source": "https://abdulforsenate.com/priority/medicare-for-all-the-path-to-a-healthier-america/"
         },
         {
           "issue": "immigration",
-          "summary": "Says ICE should be abolished, with immigration enforcement under a new structure, a safe and secure border, and a clear pathway to citizenship for people stuck in limbo.",
+          "summary": "Says ICE should be abolished and immigration enforcement rebuilt under a new structure, with a safe, secure border and a clear pathway to citizenship for people stuck in limbo.",
           "source": "https://abdulforsenate.com/priority/money-out-of-politics/"
         },
         {
@@ -63,18 +63,23 @@
       "positions": [
         {
           "issue": "economy",
-          "summary": "Says he will focus on bringing manufacturing jobs back home.",
+          "summary": "Says he wants to bring manufacturing jobs back home.",
           "source": "https://www.rogersforsenate.com/"
         },
         {
           "issue": "healthcare",
-          "summary": "Says he will require hospitals and insurers to post real prices, expand Trump Rx bulk purchasing for drugs, and require insurers to report denial rates.",
+          "summary": "Says hospitals and insurers should have to show real prices before care, wants wider access to Trump Rx bulk drug purchasing, and would require insurers to publish denial rates.",
           "source": "https://www.rogersforsenate.com/healthplan"
         },
         {
           "issue": "education",
-          "summary": "Says he will prioritize education, not indoctrination.",
+          "summary": "Says he wants to prioritize education, not indoctrination.",
           "source": "https://www.rogersforsenate.com/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Said in a 2024 campaign ad that Michigan voters have already decided the abortion issue, that he respects that decision, and that he would not do anything to change it in the Senate.",
+          "source": "https://www.foxnews.com/politics/rogers-addresses-abortion-slotkin-attacks-michigan-voters-already-decided"
         }
       ],
       "sources": [
