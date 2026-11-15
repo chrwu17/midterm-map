@@ -1,0 +1,466 @@
+{
+ "state": "PA",
+ "stateName": "Pennsylvania",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "PA-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "bob-harvie",
+   "candidates": [
+    {
+     "id": "bob-harvie",
+     "name": "Bob Harvie",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 52.74
+    },
+    {
+     "id": "brian-fitzpatrick",
+     "name": "Brian Fitzpatrick",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 47.26
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "brendan-boyle",
+   "candidates": [
+    {
+     "id": "brendan-boyle",
+     "name": "Brendan Boyle",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 80.86
+    },
+    {
+     "id": "jessica-arriaga",
+     "name": "Jessica Arriaga",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 19.14
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/PA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "chris-rabb",
+   "candidates": [
+    {
+     "id": "chris-rabb",
+     "name": "Chris Rabb",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 93.65
+    },
+    {
+     "id": "dennis-mahoney",
+     "name": "Dennis Mahoney",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 6.4
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "madeleine-dean",
+   "candidates": [
+    {
+     "id": "madeleine-dean",
+     "name": "Madeleine Dean",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 67.19
+    },
+    {
+     "id": "aurora-stuski",
+     "name": "Aurora Stuski",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 32.81
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/PA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "mary-gay-scanlon",
+   "candidates": [
+    {
+     "id": "mary-gay-scanlon",
+     "name": "Mary Gay Scanlon",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 72.2
+    },
+    {
+     "id": "nicholas-manganaro",
+     "name": "Nicholas Manganaro",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 27.8
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/PA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "chrissy-houlahan",
+   "candidates": [
+    {
+     "id": "chrissy-houlahan",
+     "name": "Chrissy Houlahan",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 64.48
+    },
+    {
+     "id": "marty-young",
+     "name": "Marty Young",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 35.52
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/PA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "bob-brooks",
+   "candidates": [
+    {
+     "id": "bob-brooks",
+     "name": "Bob Brooks",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 56.1
+    },
+    {
+     "id": "ryan-mackenzie",
+     "name": "Ryan Mackenzie",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 43.9
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "paige-cognetti",
+   "candidates": [
+    {
+     "id": "paige-cognetti",
+     "name": "Paige Cognetti",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 54.47
+    },
+    {
+     "id": "rob-bresnahan",
+     "name": "Rob Bresnahan",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 45.52
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "dan-meuser",
+   "candidates": [
+    {
+     "id": "dan-meuser",
+     "name": "Dan Meuser",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 61.44
+    },
+    {
+     "id": "rachel-wallace",
+     "name": "Rachel Wallace",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 38.56
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/PA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-10",
+   "district": "10",
+   "status": "called",
+   "winnerId": "janelle-stelson",
+   "candidates": [
+    {
+     "id": "janelle-stelson",
+     "name": "Janelle Stelson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 55.06
+    },
+    {
+     "id": "scott-perry",
+     "name": "Scott Perry",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 44.93
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-11",
+   "district": "11",
+   "status": "called",
+   "winnerId": "lloyd-smucker",
+   "candidates": [
+    {
+     "id": "lloyd-smucker",
+     "name": "Lloyd Smucker",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 55.39
+    },
+    {
+     "id": "nancy-mannion",
+     "name": "Nancy Mannion",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 44.61
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/PA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-12",
+   "district": "12",
+   "status": "called",
+   "winnerId": "summer-lee",
+   "candidates": [
+    {
+     "id": "summer-lee",
+     "name": "Summer Lee",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 65.64
+    },
+    {
+     "id": "james-hayes",
+     "name": "James Hayes",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 34.36
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/PA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-13",
+   "district": "13",
+   "status": "called",
+   "winnerId": "john-joyce",
+   "candidates": [
+    {
+     "id": "john-joyce",
+     "name": "John Joyce",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 67.43
+    },
+    {
+     "id": "beth-farnham",
+     "name": "Beth Farnham",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 32.57
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/PA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-14",
+   "district": "14",
+   "status": "called",
+   "winnerId": "guy-reschenthaler",
+   "candidates": [
+    {
+     "id": "guy-reschenthaler",
+     "name": "Guy Reschenthaler",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 57.5
+    },
+    {
+     "id": "alan-bradstock",
+     "name": "Alan Bradstock",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 42.5
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/PA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-15",
+   "district": "15",
+   "status": "called",
+   "winnerId": "glenn-thompson",
+   "candidates": [
+    {
+     "id": "glenn-thompson",
+     "name": "Glenn Thompson",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 63.78
+    },
+    {
+     "id": "ray-bilger",
+     "name": "Ray Bilger",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 36.22
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/PA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-16",
+   "district": "16",
+   "status": "called",
+   "winnerId": "mike-kelly",
+   "candidates": [
+    {
+     "id": "mike-kelly",
+     "name": "Mike Kelly",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 53.83
+    },
+    {
+     "id": "justin-wagner",
+     "name": "Justin Wagner",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.17
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/PA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "PA-17",
+   "district": "17",
+   "status": "called",
+   "winnerId": "chris-deluzio",
+   "candidates": [
+    {
+     "id": "chris-deluzio",
+     "name": "Chris Deluzio",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.91
+    },
+    {
+     "id": "tony-guy",
+     "name": "Tony Guy",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 37.09
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/PA"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

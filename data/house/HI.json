@@ -1,0 +1,75 @@
+{
+ "state": "HI",
+ "stateName": "Hawaii",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "HI-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "ed-case",
+   "candidates": [
+    {
+     "id": "ed-case",
+     "name": "Ed Case",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 67.95
+    },
+    {
+     "id": "adriel-lam",
+     "name": "Adriel Lam",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 21.68
+    },
+    {
+     "id": "jordan-conley",
+     "name": "Jordan Conley",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": 3.77
+    },
+    {
+     "id": "nathan-berning",
+     "name": "Nathan Berning",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.26
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/HI"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "HI-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "jill-tokuda",
+   "candidates": [
+    {
+     "id": "jill-tokuda",
+     "name": "Jill Tokuda",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.92
+    },
+    {
+     "id": "brenton-awa",
+     "name": "Brenton Awa",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 31.69
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/HI"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

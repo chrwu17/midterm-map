@@ -1,0 +1,48 @@
+{
+ "state": "ND",
+ "stateName": "North Dakota",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "ND-AL",
+   "district": "AL",
+   "status": "called",
+   "winnerId": "julie-fedorchak",
+   "candidates": [
+    {
+     "id": "julie-fedorchak",
+     "name": "Julie Fedorchak",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 57.43
+    },
+    {
+     "id": "trygve-hammer",
+     "name": "Trygve Hammer",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 36.68
+    },
+    {
+     "id": "charles-tuttle",
+     "name": "Charles Tuttle",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "helene-neville",
+     "name": "Helene Neville",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_North_Dakota"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

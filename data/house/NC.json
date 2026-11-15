@@ -1,0 +1,457 @@
+{
+ "state": "NC",
+ "stateName": "North Carolina",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "NC-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "don-davis",
+   "candidates": [
+    {
+     "id": "don-davis",
+     "name": "Don Davis",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 50.14
+    },
+    {
+     "id": "laurie-buckhout",
+     "name": "Laurie Buckhout",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 46.7
+    },
+    {
+     "id": "tom-bailey",
+     "name": "Tom Bailey",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 3.17
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NC-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "deborah-ross",
+   "candidates": [
+    {
+     "id": "deborah-ross",
+     "name": "Deborah Ross",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 75.08
+    },
+    {
+     "id": "eugene-douglass",
+     "name": "Eugene Douglass",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 23.45
+    },
+    {
+     "id": "matthew-laszacs",
+     "name": "Matthew Laszacs",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.31
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NC-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "raymond-smith-jr",
+   "candidates": [
+    {
+     "id": "raymond-smith-jr",
+     "name": "Raymond Smith Jr.",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 49.43
+    },
+    {
+     "id": "greg-murphy",
+     "name": "Greg Murphy",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.32
+    },
+    {
+     "id": "daniel-cavender",
+     "name": "Daniel Cavender",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.25
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NC-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "valerie-foushee",
+   "candidates": [
+    {
+     "id": "valerie-foushee",
+     "name": "Valerie Foushee",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 79.14
+    },
+    {
+     "id": "max-ganorkar",
+     "name": "Max Ganorkar",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 18.92
+    },
+    {
+     "id": "guy-meilleur",
+     "name": "Guy Meilleur",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.95
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NC-05",
+   "district": "5",
+   "status": "uncalled",
+   "winnerId": null,
+   "candidates": [
+    {
+     "id": "chuck-hubbard",
+     "name": "Chuck Hubbard",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.74
+    },
+    {
+     "id": "virginia-foxx",
+     "name": "Virginia Foxx",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 48.62
+    },
+    {
+     "id": "robert-luffman",
+     "name": "Robert Luffman",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.64
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://www.thegreenpapers.com/G26/NC"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NC-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "cyril-jefferson",
+   "candidates": [
+    {
+     "id": "cyril-jefferson",
+     "name": "Cyril Jefferson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 51.2
+    },
+    {
+     "id": "addison-mcdowell",
+     "name": "Addison McDowell",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 48.8
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NC-07",
+   "district": "7",
+   "status": "uncalled",
+   "winnerId": null,
+   "candidates": [
+    {
+     "id": "david-rouzer",
+     "name": "David Rouzer",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.87
+    },
+    {
+     "id": "kimberly-hardy",
+     "name": "Kimberly Hardy",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 49.15
+    },
+    {
+     "id": "maad-abu-ghazalah",
+     "name": "Maad Abu-Ghazalah",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 0.98
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://www.thegreenpapers.com/G26/NC"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NC-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "mark-harris",
+   "candidates": [
+    {
+     "id": "mark-harris",
+     "name": "Mark Harris",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 50.36
+    },
+    {
+     "id": "colby-watson",
+     "name": "Colby Watson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.65
+    },
+    {
+     "id": "bo-whitehead",
+     "name": "Bo Whitehead",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": 0.99
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NC-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "richard-ojeda",
+   "candidates": [
+    {
+     "id": "richard-ojeda",
+     "name": "Richard Ojeda",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 51.15
+    },
+    {
+     "id": "richard-hudson",
+     "name": "Richard Hudson",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 48.85
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NC-10",
+   "district": "10",
+   "status": "uncalled",
+   "winnerId": null,
+   "candidates": [
+    {
+     "id": "pat-harrigan",
+     "name": "Pat Harrigan",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.63
+    },
+    {
+     "id": "ashley-bell",
+     "name": "Ashley Bell",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.78
+    },
+    {
+     "id": "steve-feldman",
+     "name": "Steve Feldman",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.59
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NC-11",
+   "district": "11",
+   "status": "called",
+   "winnerId": "jamie-ager",
+   "candidates": [
+    {
+     "id": "jamie-ager",
+     "name": "Jamie Ager",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 57.13
+    },
+    {
+     "id": "jennifer-balkcom",
+     "name": "Jennifer Balkcom",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 41.31
+    },
+    {
+     "id": "travis-groo",
+     "name": "Travis Groo",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.56
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NC-12",
+   "district": "12",
+   "status": "called",
+   "winnerId": "alma-adams",
+   "candidates": [
+    {
+     "id": "alma-adams",
+     "name": "Alma Adams",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 81.23
+    },
+    {
+     "id": "jack-codiga",
+     "name": "Jack Codiga",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 18.77
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NC-13",
+   "district": "13",
+   "status": "called",
+   "winnerId": "paul-barringer",
+   "candidates": [
+    {
+     "id": "paul-barringer",
+     "name": "Paul Barringer",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 50.55
+    },
+    {
+     "id": "brad-knott",
+     "name": "Brad Knott",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 48.03
+    },
+    {
+     "id": "steven-swinton",
+     "name": "Steven Swinton",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.42
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NC-14",
+   "district": "14",
+   "status": "called",
+   "winnerId": "lakesha-womack",
+   "candidates": [
+    {
+     "id": "lakesha-womack",
+     "name": "LaKesha Womack",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 51.14
+    },
+    {
+     "id": "tim-moore",
+     "name": "Tim Moore",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 48.86
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

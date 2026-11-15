@@ -1,0 +1,143 @@
+{
+ "state": "KS",
+ "stateName": "Kansas",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "KS-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "tracey-mann",
+   "candidates": [
+    {
+     "id": "tracey-mann",
+     "name": "Tracey Mann",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 59.43
+    },
+    {
+     "id": "lauren-reinhold",
+     "name": "Lauren Reinhold",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 37.86
+    },
+    {
+     "id": "steven-jacob",
+     "name": "Steven Jacob",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.71
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/KS"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "KS-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "derek-schmidt",
+   "candidates": [
+    {
+     "id": "derek-schmidt",
+     "name": "Derek Schmidt",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 51.21
+    },
+    {
+     "id": "don-coover",
+     "name": "Don Coover",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 45.04
+    },
+    {
+     "id": "john-hauer",
+     "name": "John Hauer",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 3.74
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/KS"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "KS-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "sharice-davids",
+   "candidates": [
+    {
+     "id": "sharice-davids",
+     "name": "Sharice Davids",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 59.57
+    },
+    {
+     "id": "eric-jenkins",
+     "name": "Eric Jenkins",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 38.38
+    },
+    {
+     "id": "steven-hohe",
+     "name": "Steven Hohe",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.05
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/KS"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "KS-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "ron-estes",
+   "candidates": [
+    {
+     "id": "ron-estes",
+     "name": "Ron Estes",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 53.54
+    },
+    {
+     "id": "katy-tyndell",
+     "name": "Katy Tyndell",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 44.08
+    },
+    {
+     "id": "drew-cranmer",
+     "name": "Drew Cranmer",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.38
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/KS"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "state": "SD",
+ "stateName": "South Dakota",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "SD-AL",
+   "district": "AL",
+   "status": "called",
+   "winnerId": "marty-jackley",
+   "candidates": [
+    {
+     "id": "marty-jackley",
+     "name": "Marty Jackley",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 64.01
+    },
+    {
+     "id": "nikki-gronli",
+     "name": "Nikki Gronli",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 35.99
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_South_Dakota"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

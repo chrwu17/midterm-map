@@ -1,0 +1,88 @@
+{
+ "state": "NM",
+ "stateName": "New Mexico",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "NM-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "melanie-stansbury",
+   "candidates": [
+    {
+     "id": "melanie-stansbury",
+     "name": "Melanie Stansbury",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 63.64
+    },
+    {
+     "id": "didi-okpareke",
+     "name": "Didi Okpareke",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 36.36
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NM"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NM-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "gabe-vasquez",
+   "candidates": [
+    {
+     "id": "gabe-vasquez",
+     "name": "Gabe Vasquez",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 58.75
+    },
+    {
+     "id": "greg-cunningham",
+     "name": "Greg Cunningham",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 41.25
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NM"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NM-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "teresa-leger-fernandez",
+   "candidates": [
+    {
+     "id": "teresa-leger-fernandez",
+     "name": "Teresa Leger Fernández",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 61.66
+    },
+    {
+     "id": "martin-zamora",
+     "name": "Martin Zamora",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 38.34
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NM"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

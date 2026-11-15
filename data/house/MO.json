@@ -1,0 +1,279 @@
+{
+ "state": "MO",
+ "stateName": "Missouri",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "MO-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "wesley-bell",
+   "candidates": [
+    {
+     "id": "wesley-bell",
+     "name": "Wesley Bell",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 81.51
+    },
+    {
+     "id": "paul-berry",
+     "name": "Paul Berry",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 13.92
+    },
+    {
+     "id": "tom-schmitz",
+     "name": "Tom Schmitz",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 4.57
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MO-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "fred-wellman",
+   "candidates": [
+    {
+     "id": "fred-wellman",
+     "name": "Fred Wellman",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 51.14
+    },
+    {
+     "id": "ann-wagner",
+     "name": "Ann Wagner",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 46.21
+    },
+    {
+     "id": "brandon-daugherty",
+     "name": "Brandon Daugherty",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.65
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MO-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "bob-onder",
+   "candidates": [
+    {
+     "id": "bob-onder",
+     "name": "Bob Onder",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 52.51
+    },
+    {
+     "id": "bethany-mann",
+     "name": "Bethany Mann",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 44.78
+    },
+    {
+     "id": "jim-higgins",
+     "name": "Jim Higgins",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.73
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MO-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "mark-alford",
+   "candidates": [
+    {
+     "id": "mark-alford",
+     "name": "Mark Alford",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 61.46
+    },
+    {
+     "id": "jordan-herrera",
+     "name": "Jordan Herrera",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 35.54
+    },
+    {
+     "id": "thomas-holbrook",
+     "name": "Thomas Holbrook",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.9
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MO-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "emanuel-cleaver",
+   "candidates": [
+    {
+     "id": "emanuel-cleaver",
+     "name": "Emanuel Cleaver",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 69.49
+    },
+    {
+     "id": "rick-brattin",
+     "name": "Rick Brattin",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 28.13
+    },
+    {
+     "id": "randy-langkraehr",
+     "name": "Randy Langkraehr",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.38
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MO-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "chris-stigall",
+   "candidates": [
+    {
+     "id": "chris-stigall",
+     "name": "Chris Stigall",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 58.65
+    },
+    {
+     "id": "josh-smead",
+     "name": "Josh Smead",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 38.95
+    },
+    {
+     "id": "andy-maidment",
+     "name": "Andy Maidment",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.34
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MO-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "eric-burlison",
+   "candidates": [
+    {
+     "id": "eric-burlison",
+     "name": "Eric Burlison",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 62.15
+    },
+    {
+     "id": "missi-hesketh",
+     "name": "Missi Hesketh",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 35.38
+    },
+    {
+     "id": "kevin-craig",
+     "name": "Kevin Craig",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.41
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MO-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "jason-smith",
+   "candidates": [
+    {
+     "id": "jason-smith",
+     "name": "Jason Smith",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 67.73
+    },
+    {
+     "id": "chris-reichard",
+     "name": "Chris Reichard",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 29.17
+    },
+    {
+     "id": "rebecca-sharpe-lombard",
+     "name": "Rebecca Sharpe Lombard",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 3.1
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "state": "IN",
+ "stateName": "Indiana",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "IN-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "frank-j-mrvan",
+   "candidates": [
+    {
+     "id": "frank-j-mrvan",
+     "name": "Frank J. Mrvan",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 63.02
+    },
+    {
+     "id": "barb-regnitz",
+     "name": "Barb Regnitz",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 36.99
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IN-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "rudy-yakym",
+   "candidates": [
+    {
+     "id": "rudy-yakym",
+     "name": "Rudy Yakym",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 51.28
+    },
+    {
+     "id": "jamee-decio",
+     "name": "Jamee Decio",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.12
+    },
+    {
+     "id": "william-henry",
+     "name": "William Henry",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IN-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "marlin-stutzman",
+   "candidates": [
+    {
+     "id": "marlin-stutzman",
+     "name": "Marlin Stutzman",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 54.88
+    },
+    {
+     "id": "kelly-thompson",
+     "name": "Kelly Thompson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 45.12
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IN-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "jim-baird",
+   "candidates": [
+    {
+     "id": "jim-baird",
+     "name": "Jim Baird",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 54.23
+    },
+    {
+     "id": "drew-cox",
+     "name": "Drew Cox",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 45.77
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IN-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "j-d-ford",
+   "candidates": [
+    {
+     "id": "j-d-ford",
+     "name": "J. D. Ford",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 51.66
+    },
+    {
+     "id": "victoria-spartz",
+     "name": "Victoria Spartz",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 48.34
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IN-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "jefferson-shreve",
+   "candidates": [
+    {
+     "id": "jefferson-shreve",
+     "name": "Jefferson Shreve",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 55.09
+    },
+    {
+     "id": "cinde-wirth",
+     "name": "Cinde Wirth",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 44.91
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IN-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "andre-carson",
+   "candidates": [
+    {
+     "id": "andre-carson",
+     "name": "André Carson",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 76.97
+    },
+    {
+     "id": "patrick-mcauley",
+     "name": "Patrick McAuley",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 20.41
+    },
+    {
+     "id": "james-sceniak",
+     "name": "James Sceniak",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IN-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "mark-messmer",
+   "candidates": [
+    {
+     "id": "mark-messmer",
+     "name": "Mark Messmer",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 55.21
+    },
+    {
+     "id": "mary-allen",
+     "name": "Mary Allen",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 44.79
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IN-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "erin-houchin",
+   "candidates": [
+    {
+     "id": "erin-houchin",
+     "name": "Erin Houchin",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 54.02
+    },
+    {
+     "id": "brad-meyer",
+     "name": "Brad Meyer",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 43.49
+    },
+    {
+     "id": "tonya-hudson",
+     "name": "Tonya Hudson",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,358 @@
+{
+ "state": "LA",
+ "stateName": "Louisiana",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "LA-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "steve-scalise",
+   "candidates": [
+    {
+     "id": "steve-scalise",
+     "name": "Steve Scalise",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 60.71
+    },
+    {
+     "id": "lauren-jewett",
+     "name": "Lauren Jewett",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 33.96
+    },
+    {
+     "id": "randall-arrington",
+     "name": "Randall Arrington",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 3.71
+    },
+    {
+     "id": "liddy-glass",
+     "name": "Liddy Glass",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.62
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/LA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "LA-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "troy-carter",
+   "candidates": [
+    {
+     "id": "troy-carter",
+     "name": "Troy Carter",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 79.91
+    },
+    {
+     "id": "peter-williams",
+     "name": "Peter Williams",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 15.11
+    },
+    {
+     "id": "lisa-ballay",
+     "name": "Lisa Ballay",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.66
+    },
+    {
+     "id": "renada-collins",
+     "name": "Renada Collins",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.25
+    },
+    {
+     "id": "walter-beach",
+     "name": "Walter Beach",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.06
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/LA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "LA-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "clay-higgins",
+   "candidates": [
+    {
+     "id": "clay-higgins",
+     "name": "Clay Higgins",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 54.98
+    },
+    {
+     "id": "john-day",
+     "name": "John Day",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 20.92
+    },
+    {
+     "id": "caleb-walker",
+     "name": "Caleb Walker",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 8.48
+    },
+    {
+     "id": "priscilla-gonzalez",
+     "name": "Priscilla Gonzalez",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 7.16
+    },
+    {
+     "id": "kate-cotten",
+     "name": "Kate Cotten",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 6.66
+    },
+    {
+     "id": "tia-lebrun",
+     "name": "Tia LeBrun",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.79
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/LA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "LA-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "mike-johnson",
+   "candidates": [
+    {
+     "id": "mike-johnson",
+     "name": "Mike Johnson",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 58.5
+    },
+    {
+     "id": "conrad-cable",
+     "name": "Conrad Cable",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 22.96
+    },
+    {
+     "id": "matt-gromlich",
+     "name": "Matt Gromlich",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 14.27
+    },
+    {
+     "id": "mike-nichols",
+     "name": "Mike Nichols",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 3.16
+    },
+    {
+     "id": "gordon-heslop",
+     "name": "Gordon Heslop",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 1.12
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/LA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "LA-05",
+   "district": "5",
+   "status": "runoff",
+   "winnerId": null,
+   "candidates": [
+    {
+     "id": "patricia-moore",
+     "name": "Patricia Moore",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 17.89
+    },
+    {
+     "id": "gabe-firment",
+     "name": "Gabe Firment",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 17.17
+    },
+    {
+     "id": "misti-cordell",
+     "name": "Misti Cordell",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 14.64
+    },
+    {
+     "id": "michael-echols",
+     "name": "Michael Echols",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 14.44
+    },
+    {
+     "id": "stewart-cathey-jr",
+     "name": "Stewart Cathey Jr.",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 12.36
+    },
+    {
+     "id": "antonio-wilson",
+     "name": "Antonio Wilson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 12.01
+    },
+    {
+     "id": "dan-mckay",
+     "name": "Dan McKay",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 7.04
+    },
+    {
+     "id": "austin-magee",
+     "name": "Austin Magee",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 3.47
+    },
+    {
+     "id": "omar-dantzler",
+     "name": "Omar Dantzler",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 0.98
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/LA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "LA-06",
+   "district": "6",
+   "status": "runoff",
+   "winnerId": null,
+   "candidates": [
+    {
+     "id": "chauna-banks",
+     "name": "Chauna Banks",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 19.41
+    },
+    {
+     "id": "blake-miguez",
+     "name": "Blake Miguez",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 19.18
+    },
+    {
+     "id": "rick-edmonds",
+     "name": "Rick Edmonds",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 18.81
+    },
+    {
+     "id": "lindsay-garcia",
+     "name": "Lindsay Garcia",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 12.8
+    },
+    {
+     "id": "stephen-wagley",
+     "name": "Stephen Wagley",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 10.75
+    },
+    {
+     "id": "pat-forbes",
+     "name": "Pat Forbes",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 9.09
+    },
+    {
+     "id": "larry-davis",
+     "name": "Larry Davis",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 4.33
+    },
+    {
+     "id": "monique-appeaning",
+     "name": "Monique Appeaning",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 3.1
+    },
+    {
+     "id": "rufus-craig",
+     "name": "Rufus Craig",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.32
+    },
+    {
+     "id": "michael-mebruer",
+     "name": "Michael Mebruer",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 1.21
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/LA"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

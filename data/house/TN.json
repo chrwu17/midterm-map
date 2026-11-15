@@ -1,0 +1,446 @@
+{
+ "state": "TN",
+ "stateName": "Tennessee",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "TN-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "diana-harshbarger",
+   "candidates": [
+    {
+     "id": "diana-harshbarger",
+     "name": "Diana Harshbarger",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 67.41
+    },
+    {
+     "id": "kristi-burke",
+     "name": "Kristi Burke",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 29.46
+    },
+    {
+     "id": "joshua-ashburn",
+     "name": "Joshua Ashburn",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.0
+    },
+    {
+     "id": "billy-cody",
+     "name": "Billy Cody",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.67
+    },
+    {
+     "id": "chris-campbell",
+     "name": "Chris Campbell",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.62
+    },
+    {
+     "id": "richard-baker",
+     "name": "Richard Baker",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.58
+    },
+    {
+     "id": "tyler-mcclain",
+     "name": "Tyler McClain",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.26
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TN"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TN-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "tim-burchett",
+   "candidates": [
+    {
+     "id": "tim-burchett",
+     "name": "Tim Burchett",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 57.73
+    },
+    {
+     "id": "michaela-barnett",
+     "name": "Michaela Barnett",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 41.16
+    },
+    {
+     "id": "bruce-fine",
+     "name": "Bruce Fine",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.73
+    },
+    {
+     "id": "adam-heimerman",
+     "name": "Adam Heimerman",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.38
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TN"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TN-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "chuck-fleischmann",
+   "candidates": [
+    {
+     "id": "chuck-fleischmann",
+     "name": "Chuck Fleischmann",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 57.59
+    },
+    {
+     "id": "anna-golladay",
+     "name": "Anna Golladay",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 40.21
+    },
+    {
+     "id": "dean-arnold",
+     "name": "Dean Arnold",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.9
+    },
+    {
+     "id": "rodney-joe-king",
+     "name": "Rodney Joe King",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.51
+    },
+    {
+     "id": "jean-howard-hill",
+     "name": "Jean Howard-Hill",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.39
+    },
+    {
+     "id": "donnie-ownby",
+     "name": "Donnie Ownby",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.22
+    },
+    {
+     "id": "edward-roland",
+     "name": "Edward Roland",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.17
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TN"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TN-04",
+   "district": "4",
+   "status": "uncalled",
+   "winnerId": null,
+   "candidates": [
+    {
+     "id": "victoria-broderick",
+     "name": "Victoria Broderick",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.87
+    },
+    {
+     "id": "scott-desjarlais",
+     "name": "Scott DesJarlais",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 48.73
+    },
+    {
+     "id": "jacob-anders",
+     "name": "Jacob Anders",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.45
+    },
+    {
+     "id": "clay-faircloth",
+     "name": "Clay Faircloth",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.95
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TN"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TN-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "charlie-hatcher",
+   "candidates": [
+    {
+     "id": "charlie-hatcher",
+     "name": "Charlie Hatcher",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 51.66
+    },
+    {
+     "id": "chaz-molder",
+     "name": "Chaz Molder",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.72
+    },
+    {
+     "id": "james-johnson",
+     "name": "James Johnson",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.24
+    },
+    {
+     "id": "micheal-oleary",
+     "name": "Micheál O'Leary",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.38
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TN"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TN-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "johnny-garrett",
+   "candidates": [
+    {
+     "id": "johnny-garrett",
+     "name": "Johnny Garrett",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 50.77
+    },
+    {
+     "id": "mike-croley",
+     "name": "Mike Croley",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.51
+    },
+    {
+     "id": "christopher-monday",
+     "name": "Christopher Monday",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.14
+    },
+    {
+     "id": "angus-purdy",
+     "name": "Angus Purdy",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.58
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TN"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TN-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "matt-van-epps",
+   "candidates": [
+    {
+     "id": "matt-van-epps",
+     "name": "Matt Van Epps",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 50.27
+    },
+    {
+     "id": "darden-copeland",
+     "name": "Darden Copeland",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.1
+    },
+    {
+     "id": "andrew-koontz",
+     "name": "Andrew Koontz",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.08
+    },
+    {
+     "id": "lowell-reynolds",
+     "name": "Lowell Reynolds",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.55
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TN"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TN-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "david-kustoff",
+   "candidates": [
+    {
+     "id": "david-kustoff",
+     "name": "David Kustoff",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 51.63
+    },
+    {
+     "id": "heidi-kuhn",
+     "name": "Heidi Kuhn",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.36
+    },
+    {
+     "id": "pamela-moses",
+     "name": "Pamela Moses",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.47
+    },
+    {
+     "id": "horace-taylor",
+     "name": "Horace Taylor",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.39
+    },
+    {
+     "id": "adam-austill",
+     "name": "Adam Austill",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.39
+    },
+    {
+     "id": "wells-blankenship",
+     "name": "Wells Blankenship",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.32
+    },
+    {
+     "id": "antonio-futch",
+     "name": "Antonio Futch",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.23
+    },
+    {
+     "id": "henry-ward-iii",
+     "name": "Henry Ward III",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.22
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TN"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TN-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "brent-taylor",
+   "candidates": [
+    {
+     "id": "brent-taylor",
+     "name": "Brent Taylor",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 49.63
+    },
+    {
+     "id": "justin-pearson",
+     "name": "Justin Pearson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.5
+    },
+    {
+     "id": "dennis-clark",
+     "name": "Dennis Clark",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.07
+    },
+    {
+     "id": "michelle-head",
+     "name": "Michelle Head",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.8
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TN"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

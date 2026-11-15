@@ -1,0 +1,82 @@
+{
+ "state": "MT",
+ "stateName": "Montana",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "MT-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "sam-forstag",
+   "candidates": [
+    {
+     "id": "sam-forstag",
+     "name": "Sam Forstag",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 50.33
+    },
+    {
+     "id": "aaron-flint",
+     "name": "Aaron Flint",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 46.78
+    },
+    {
+     "id": "nick-sheedy",
+     "name": "Nick Sheedy",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MT-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "troy-downing",
+   "candidates": [
+    {
+     "id": "troy-downing",
+     "name": "Troy Downing",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 58.11
+    },
+    {
+     "id": "brian-miller",
+     "name": "Brian Miller",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 32.26
+    },
+    {
+     "id": "michael-eisenhauer",
+     "name": "Michael Eisenhauer",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 7.8
+    },
+    {
+     "id": "patrick-mccracken",
+     "name": "Patrick McCracken",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.83
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

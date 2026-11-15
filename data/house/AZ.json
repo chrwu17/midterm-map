@@ -1,0 +1,294 @@
+{
+ "state": "AZ",
+ "stateName": "Arizona",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "AZ-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "amish-shah",
+   "candidates": [
+    {
+     "id": "amish-shah",
+     "name": "Amish Shah",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 52.41
+    },
+    {
+     "id": "jay-feely",
+     "name": "Jay Feely",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 45.5
+    },
+    {
+     "id": "monica-alponte",
+     "name": "Monica Alponte",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AZ-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "eli-crane",
+   "candidates": [
+    {
+     "id": "eli-crane",
+     "name": "Eli Crane",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.58
+    },
+    {
+     "id": "jonathan-nez",
+     "name": "Jonathan Nez",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.51
+    },
+    {
+     "id": "curtis-goodwin",
+     "name": "Curtis Goodwin",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AZ-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "yassamin-ansari",
+   "candidates": [
+    {
+     "id": "yassamin-ansari",
+     "name": "Yassamin Ansari",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 87.4
+    },
+    {
+     "id": "alan-aversa",
+     "name": "Alan Aversa",
+     "party": "Other",
+     "partyLabel": "No Labels",
+     "incumbent": false,
+     "voteShare": 6.07
+    },
+    {
+     "id": "david-redkey",
+     "name": "David Redkey",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": 5.2
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AZ-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "greg-stanton",
+   "candidates": [
+    {
+     "id": "greg-stanton",
+     "name": "Greg Stanton",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.36
+    },
+    {
+     "id": "zuhdi-jasser",
+     "name": "Zuhdi Jasser",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 35.22
+    },
+    {
+     "id": "tisha-benoit",
+     "name": "Tisha Benoit",
+     "party": "Other",
+     "partyLabel": "No Labels",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AZ-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "mark-lamb",
+   "candidates": [
+    {
+     "id": "mark-lamb",
+     "name": "Mark Lamb",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 51.7
+    },
+    {
+     "id": "elizabeth-lee",
+     "name": "Elizabeth Lee",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.3
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AZ-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "joanna-mendoza",
+   "candidates": [
+    {
+     "id": "joanna-mendoza",
+     "name": "JoAnna Mendoza",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 53.0
+    },
+    {
+     "id": "juan-ciscomani",
+     "name": "Juan Ciscomani",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 44.9
+    },
+    {
+     "id": "jereme-peters",
+     "name": "Jereme Peters",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "gary-swing",
+     "name": "Gary Swing",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AZ-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "adelita-grijalva",
+   "candidates": [
+    {
+     "id": "adelita-grijalva",
+     "name": "Adelita Grijalva",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 71.95
+    },
+    {
+     "id": "daniel-butierez",
+     "name": "Daniel Butierez",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 28.02
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AZ-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "abraham-hamadeh",
+   "candidates": [
+    {
+     "id": "abraham-hamadeh",
+     "name": "Abraham Hamadeh",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 51.23
+    },
+    {
+     "id": "bernadette-greene-placentia",
+     "name": "Bernadette Greene-Placentia",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.77
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AZ-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "paul-gosar",
+   "candidates": [
+    {
+     "id": "paul-gosar",
+     "name": "Paul Gosar",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 57.46
+    },
+    {
+     "id": "dani-sterbinsky",
+     "name": "Dani Sterbinsky",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 42.53
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

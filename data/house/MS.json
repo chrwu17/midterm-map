@@ -1,0 +1,143 @@
+{
+ "state": "MS",
+ "stateName": "Mississippi",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "MS-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "trent-kelly",
+   "candidates": [
+    {
+     "id": "trent-kelly",
+     "name": "Trent Kelly",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 58.01
+    },
+    {
+     "id": "cliff-johnson",
+     "name": "Cliff Johnson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 40.59
+    },
+    {
+     "id": "johnny-baucom",
+     "name": "Johnny Baucom",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.4
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/MS"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MS-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "bennie-thompson",
+   "candidates": [
+    {
+     "id": "bennie-thompson",
+     "name": "Bennie Thompson",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 67.89
+    },
+    {
+     "id": "ron-eller",
+     "name": "Ron Eller",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 29.7
+    },
+    {
+     "id": "bennie-foster",
+     "name": "Bennie Foster",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 2.41
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/MS"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MS-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "michael-guest",
+   "candidates": [
+    {
+     "id": "michael-guest",
+     "name": "Michael Guest",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 57.32
+    },
+    {
+     "id": "michael-chiaradio",
+     "name": "Michael Chiaradio",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 41.42
+    },
+    {
+     "id": "erik-kiehle",
+     "name": "Erik Kiehle",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.26
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/MS"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MS-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "mike-ezell",
+   "candidates": [
+    {
+     "id": "mike-ezell",
+     "name": "Mike Ezell",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 60.87
+    },
+    {
+     "id": "jeffrey-hulum-iii",
+     "name": "Jeffrey Hulum III",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 36.06
+    },
+    {
+     "id": "carl-boyanton",
+     "name": "Carl Boyanton",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 3.07
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/MS"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

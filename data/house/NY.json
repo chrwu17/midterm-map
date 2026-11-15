@@ -1,0 +1,763 @@
+{
+ "state": "NY",
+ "stateName": "New York",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "NY-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "nick-lalota",
+   "candidates": [
+    {
+     "id": "nick-lalota",
+     "name": "Nick LaLota",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.97
+    },
+    {
+     "id": "chris-gallant",
+     "name": "Chris Gallant",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.78
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "andrew-garbarino",
+   "candidates": [
+    {
+     "id": "andrew-garbarino",
+     "name": "Andrew Garbarino",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.67
+    },
+    {
+     "id": "patrick-halpin",
+     "name": "Patrick Halpin",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.43
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "tom-suozzi",
+   "candidates": [
+    {
+     "id": "tom-suozzi",
+     "name": "Tom Suozzi",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 53.86
+    },
+    {
+     "id": "mike-lipetri",
+     "name": "Mike LiPetri",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 43.78
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "laura-gillen",
+   "candidates": [
+    {
+     "id": "laura-gillen",
+     "name": "Laura Gillen",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 55.34
+    },
+    {
+     "id": "jeanine-driscoll",
+     "name": "Jeanine Driscoll",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 42.19
+    },
+    {
+     "id": "blay-tarnoff",
+     "name": "Blay Tarnoff",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 0.24
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "gregory-meeks",
+   "candidates": [
+    {
+     "id": "gregory-meeks",
+     "name": "Gregory Meeks",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 77.92
+    },
+    {
+     "id": "george-marsh",
+     "name": "George Marsh",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 18.64
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "grace-meng",
+   "candidates": [
+    {
+     "id": "grace-meng",
+     "name": "Grace Meng",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 66.26
+    },
+    {
+     "id": "joseph-chou",
+     "name": "Joseph Chou",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 29.54
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "claire-valdez",
+   "candidates": [
+    {
+     "id": "claire-valdez",
+     "name": "Claire Valdez",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 80.39
+    },
+    {
+     "id": "melvin-rivera",
+     "name": "Melvin Rivera",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 14.49
+    },
+    {
+     "id": "priscilla-ghaznavi",
+     "name": "Priscilla Ghaznavi",
+     "party": "Other",
+     "partyLabel": "Our Future",
+     "incumbent": false,
+     "voteShare": 1.28
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "hakeem-jeffries",
+   "candidates": [
+    {
+     "id": "hakeem-jeffries",
+     "name": "Hakeem Jeffries",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 74.51
+    },
+    {
+     "id": "lewis-mizrahi",
+     "name": "Lewis Mizrahi",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 18.58
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "yvette-clarke",
+   "candidates": [
+    {
+     "id": "yvette-clarke",
+     "name": "Yvette Clarke",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 77.11
+    },
+    {
+     "id": "joel-anabilah-azumah",
+     "name": "Joel Anabilah-Azumah",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 15.99
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-10",
+   "district": "10",
+   "status": "called",
+   "winnerId": "brad-lander",
+   "candidates": [
+    {
+     "id": "brad-lander",
+     "name": "Brad Lander",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 80.36
+    },
+    {
+     "id": "jennifer-moore",
+     "name": "Jennifer Moore",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 15.33
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-11",
+   "district": "11",
+   "status": "called",
+   "winnerId": "nicole-malliotakis",
+   "candidates": [
+    {
+     "id": "nicole-malliotakis",
+     "name": "Nicole Malliotakis",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 54.71
+    },
+    {
+     "id": "michael-decillis",
+     "name": "Michael DeCillis",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 42.69
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-12",
+   "district": "12",
+   "status": "called",
+   "winnerId": "micah-lasher",
+   "candidates": [
+    {
+     "id": "micah-lasher",
+     "name": "Micah Lasher",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 75.34
+    },
+    {
+     "id": "caroline-shinkle",
+     "name": "Caroline Shinkle",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 19.54
+    },
+    {
+     "id": "karen-ortiz",
+     "name": "Karen Ortiz",
+     "party": "Other",
+     "partyLabel": "Karen Ortiz",
+     "incumbent": false,
+     "voteShare": 1.33
+    },
+    {
+     "id": "wilneida-negron",
+     "name": "Wilneida Negron",
+     "party": "Other",
+     "partyLabel": "For All of Us",
+     "incumbent": false,
+     "voteShare": 1.13
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-13",
+   "district": "13",
+   "status": "called",
+   "winnerId": "darializa-avila-chevalier",
+   "candidates": [
+    {
+     "id": "darializa-avila-chevalier",
+     "name": "Darializa Avila Chevalier",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 81.92
+    },
+    {
+     "id": "jomo-williams",
+     "name": "Jomo Williams",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 10.64
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-14",
+   "district": "14",
+   "status": "called",
+   "winnerId": "alexandria-ocasio-cortez",
+   "candidates": [
+    {
+     "id": "alexandria-ocasio-cortez",
+     "name": "Alexandria Ocasio-Cortez",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 76.14
+    },
+    {
+     "id": "diamant-hysenaj",
+     "name": "Diamant Hysenaj",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 20.97
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-15",
+   "district": "15",
+   "status": "called",
+   "winnerId": "ritchie-torres",
+   "candidates": [
+    {
+     "id": "ritchie-torres",
+     "name": "Ritchie Torres",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 74.04
+    },
+    {
+     "id": "stylo-sapaskis",
+     "name": "Stylo Sapaskis",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 10.26
+    },
+    {
+     "id": "andre-easton",
+     "name": "Andre Easton",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 8.4
+    },
+    {
+     "id": "jose-vega",
+     "name": "Jose Vega",
+     "party": "Other",
+     "partyLabel": "Speak The Truth",
+     "incumbent": false,
+     "voteShare": 1.85
+    },
+    {
+     "id": "gonzalo-duran",
+     "name": "Gonzalo Duran",
+     "party": "Other",
+     "partyLabel": "Conservative",
+     "incumbent": false,
+     "voteShare": 1.64
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-16",
+   "district": "16",
+   "status": "called",
+   "winnerId": "george-latimer",
+   "candidates": [
+    {
+     "id": "george-latimer",
+     "name": "George Latimer",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 73.02
+    },
+    {
+     "id": "joseph-cinquemani",
+     "name": "Joseph Cinquemani",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 23.07
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-17",
+   "district": "17",
+   "status": "called",
+   "winnerId": "cait-conley",
+   "candidates": [
+    {
+     "id": "cait-conley",
+     "name": "Cait Conley",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 52.52
+    },
+    {
+     "id": "mike-lawler",
+     "name": "Mike Lawler",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 46.56
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-18",
+   "district": "18",
+   "status": "called",
+   "winnerId": "pat-ryan",
+   "candidates": [
+    {
+     "id": "pat-ryan",
+     "name": "Pat Ryan",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.15
+    },
+    {
+     "id": "jacqueline-auringer",
+     "name": "Jacqueline Auringer",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 36.63
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-19",
+   "district": "19",
+   "status": "called",
+   "winnerId": "josh-riley",
+   "candidates": [
+    {
+     "id": "josh-riley",
+     "name": "Josh Riley",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 56.47
+    },
+    {
+     "id": "peter-oberacker",
+     "name": "Peter Oberacker",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 42.0
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-20",
+   "district": "20",
+   "status": "called",
+   "winnerId": "paul-tonko",
+   "candidates": [
+    {
+     "id": "paul-tonko",
+     "name": "Paul Tonko",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.81
+    },
+    {
+     "id": "ralph-ambrosio",
+     "name": "Ralph Ambrosio",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 35.75
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-21",
+   "district": "21",
+   "status": "called",
+   "winnerId": "anthony-constantino",
+   "candidates": [
+    {
+     "id": "anthony-constantino",
+     "name": "Anthony Constantino",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 49.51
+    },
+    {
+     "id": "blake-gendebien",
+     "name": "Blake Gendebien",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.79
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-22",
+   "district": "22",
+   "status": "called",
+   "winnerId": "john-mannion",
+   "candidates": [
+    {
+     "id": "john-mannion",
+     "name": "John Mannion",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 57.76
+    },
+    {
+     "id": "kailee-buller",
+     "name": "Kailee Buller",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 40.98
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-23",
+   "district": "23",
+   "status": "called",
+   "winnerId": "nick-langworthy",
+   "candidates": [
+    {
+     "id": "nick-langworthy",
+     "name": "Nick Langworthy",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 59.34
+    },
+    {
+     "id": "aaron-gies",
+     "name": "Aaron Gies",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 39.24
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-24",
+   "district": "24",
+   "status": "called",
+   "winnerId": "claudia-tenney",
+   "candidates": [
+    {
+     "id": "claudia-tenney",
+     "name": "Claudia Tenney",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 59.42
+    },
+    {
+     "id": "alissa-ellman",
+     "name": "Alissa Ellman",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 39.0
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-25",
+   "district": "25",
+   "status": "called",
+   "winnerId": "joseph-morelle",
+   "candidates": [
+    {
+     "id": "joseph-morelle",
+     "name": "Joseph Morelle",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.02
+    },
+    {
+     "id": "virginia-mcintyre",
+     "name": "Virginia McIntyre",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 36.36
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NY-26",
+   "district": "26",
+   "status": "called",
+   "winnerId": "tim-kennedy",
+   "candidates": [
+    {
+     "id": "tim-kennedy",
+     "name": "Tim Kennedy",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 63.89
+    },
+    {
+     "id": "dennis-hannon",
+     "name": "Dennis Hannon",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 32.86
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NY"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

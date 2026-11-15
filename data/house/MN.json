@@ -1,0 +1,231 @@
+{
+ "state": "MN",
+ "stateName": "Minnesota",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "MN-01",
+   "district": "1",
+   "status": "uncalled",
+   "winnerId": null,
+   "candidates": [
+    {
+     "id": "jake-johnson",
+     "name": "Jake Johnson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 49.99
+    },
+    {
+     "id": "brad-finstad",
+     "name": "Brad Finstad",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.89
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://www.thegreenpapers.com/G26/MN"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MN-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "matt-little",
+   "candidates": [
+    {
+     "id": "matt-little",
+     "name": "Matt Little",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 57.1
+    },
+    {
+     "id": "eric-pratt",
+     "name": "Eric Pratt",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 42.81
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MN-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "kelly-morrison",
+   "candidates": [
+    {
+     "id": "kelly-morrison",
+     "name": "Kelly Morrison",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 64.04
+    },
+    {
+     "id": "tyler-bass",
+     "name": "Tyler Bass",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 35.85
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MN-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "betty-mccollum",
+   "candidates": [
+    {
+     "id": "betty-mccollum",
+     "name": "Betty McCollum",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 73.07
+    },
+    {
+     "id": "paul-wikstrom",
+     "name": "Paul Wikstrom",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 26.78
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MN-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "ilhan-omar",
+   "candidates": [
+    {
+     "id": "ilhan-omar",
+     "name": "Ilhan Omar",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 76.48
+    },
+    {
+     "id": "john-nagel",
+     "name": "John Nagel",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 16.23
+    },
+    {
+     "id": "develle-jackson",
+     "name": "DeVelle Jackson",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 7.02
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MN-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "tom-emmer",
+   "candidates": [
+    {
+     "id": "tom-emmer",
+     "name": "Tom Emmer",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 55.73
+    },
+    {
+     "id": "doug-chapin",
+     "name": "Doug Chapin",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 44.16
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MN-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "michelle-fischbach",
+   "candidates": [
+    {
+     "id": "michelle-fischbach",
+     "name": "Michelle Fischbach",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 64.88
+    },
+    {
+     "id": "erik-osberg",
+     "name": "Erik Osberg",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 35.03
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MN-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "pete-stauber",
+   "candidates": [
+    {
+     "id": "pete-stauber",
+     "name": "Pete Stauber",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 53.07
+    },
+    {
+     "id": "trina-swanson",
+     "name": "Trina Swanson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.84
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

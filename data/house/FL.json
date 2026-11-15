@@ -1,0 +1,898 @@
+{
+ "state": "FL",
+ "stateName": "Florida",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "FL-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "jimmy-patronis",
+   "candidates": [
+    {
+     "id": "jimmy-patronis",
+     "name": "Jimmy Patronis",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 62.47
+    },
+    {
+     "id": "gay-valimont",
+     "name": "Gay Valimont",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 35.62
+    },
+    {
+     "id": "tyler-davis",
+     "name": "Tyler Davis",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "austin-rogers",
+   "candidates": [
+    {
+     "id": "austin-rogers",
+     "name": "Austin Rogers",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 52.09
+    },
+    {
+     "id": "amanda-green",
+     "name": "Amanda Green",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.91
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "kat-cammack",
+   "candidates": [
+    {
+     "id": "kat-cammack",
+     "name": "Kat Cammack",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 55.13
+    },
+    {
+     "id": "seth-harp",
+     "name": "Seth Harp",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 42.98
+    },
+    {
+     "id": "mike-klein",
+     "name": "Mike Klein",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "aaron-bean",
+   "candidates": [
+    {
+     "id": "aaron-bean",
+     "name": "Aaron Bean",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 50.2
+    },
+    {
+     "id": "lashonda-holloway",
+     "name": "LaShonda Holloway",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.1
+    },
+    {
+     "id": "todd-schaefer",
+     "name": "Todd Schaefer",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "mike-sell",
+     "name": "Mike Sell",
+     "party": "Other",
+     "partyLabel": "Florida Forward",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "john-rutherford",
+   "candidates": [
+    {
+     "id": "john-rutherford",
+     "name": "John Rutherford",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 56.42
+    },
+    {
+     "id": "rachel-grage",
+     "name": "Rachel Grage",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 43.59
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "randy-fine",
+   "candidates": [
+    {
+     "id": "randy-fine",
+     "name": "Randy Fine",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 58.9
+    },
+    {
+     "id": "eric-yonce",
+     "name": "Eric Yonce",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 39.9
+    },
+    {
+     "id": "andrew-parrott",
+     "name": "Andrew Parrott",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "michael-gist",
+     "name": "Michael Gist",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "ryan-elijah",
+   "candidates": [
+    {
+     "id": "ryan-elijah",
+     "name": "Ryan Elijah",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 49.7
+    },
+    {
+     "id": "bale-dalton",
+     "name": "Bale Dalton",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 49.2
+    },
+    {
+     "id": "christopher-dennison",
+     "name": "Christopher Dennison",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "mike-haridopolos",
+   "candidates": [
+    {
+     "id": "mike-haridopolos",
+     "name": "Mike Haridopolos",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 53.17
+    },
+    {
+     "id": "jennifer-jenkins",
+     "name": "Jennifer Jenkins",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.83
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/FL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "darren-soto",
+   "candidates": [
+    {
+     "id": "darren-soto",
+     "name": "Darren Soto",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 50.26
+    },
+    {
+     "id": "dan-green",
+     "name": "Dan Green",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 49.74
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/FL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-10",
+   "district": "10",
+   "status": "called",
+   "winnerId": "maxwell-frost",
+   "candidates": [
+    {
+     "id": "maxwell-frost",
+     "name": "Maxwell Frost",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-11",
+   "district": "11",
+   "status": "called",
+   "winnerId": "joe-strada",
+   "candidates": [
+    {
+     "id": "joe-strada",
+     "name": "Joe Strada",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 52.93
+    },
+    {
+     "id": "james-pericola",
+     "name": "James Pericola",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 45.99
+    },
+    {
+     "id": "ralph-groves",
+     "name": "Ralph Groves",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.08
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/FL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-12",
+   "district": "12",
+   "status": "called",
+   "winnerId": "gus-bilirakis",
+   "candidates": [
+    {
+     "id": "gus-bilirakis",
+     "name": "Gus Bilirakis",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 52.69
+    },
+    {
+     "id": "kimberly-overman",
+     "name": "Kimberly Overman",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 45.91
+    },
+    {
+     "id": "branden-scrivener",
+     "name": "Branden Scrivener",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-13",
+   "district": "13",
+   "status": "called",
+   "winnerId": "anna-paulina-luna",
+   "candidates": [
+    {
+     "id": "anna-paulina-luna",
+     "name": "Anna Paulina Luna",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.5
+    },
+    {
+     "id": "leela-gray",
+     "name": "Leela Gray",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.7
+    },
+    {
+     "id": "tony-darrigo",
+     "name": "Tony D'Arrigo",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-14",
+   "district": "14",
+   "status": "called",
+   "winnerId": "kathy-castor",
+   "candidates": [
+    {
+     "id": "kathy-castor",
+     "name": "Kathy Castor",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 51.23
+    },
+    {
+     "id": "mike-beltran",
+     "name": "Mike Beltran",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 45.87
+    },
+    {
+     "id": "brian-lambert",
+     "name": "Brian Lambert",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-15",
+   "district": "15",
+   "status": "called",
+   "winnerId": "laurel-lee",
+   "candidates": [
+    {
+     "id": "laurel-lee",
+     "name": "Laurel Lee",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 54.29
+    },
+    {
+     "id": "robert-people",
+     "name": "Robert People",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 45.71
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-16",
+   "district": "16",
+   "status": "called",
+   "winnerId": "sydney-gruters",
+   "candidates": [
+    {
+     "id": "sydney-gruters",
+     "name": "Sydney Gruters",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 51.22
+    },
+    {
+     "id": "kelly-kirschner",
+     "name": "Kelly Kirschner",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.98
+    },
+    {
+     "id": "mark-davis",
+     "name": "Mark Davis",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-17",
+   "district": "17",
+   "status": "called",
+   "winnerId": "greg-steube",
+   "candidates": [
+    {
+     "id": "greg-steube",
+     "name": "Greg Steube",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 58.44
+    },
+    {
+     "id": "matthew-montavon",
+     "name": "Matthew Montavon",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 40.14
+    },
+    {
+     "id": "michael-quirk",
+     "name": "Michael Quirk",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-18",
+   "district": "18",
+   "status": "called",
+   "winnerId": "scott-franklin",
+   "candidates": [
+    {
+     "id": "scott-franklin",
+     "name": "Scott Franklin",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 50.32
+    },
+    {
+     "id": "curtis-gibson",
+     "name": "Curtis Gibson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.68
+    },
+    {
+     "id": "deva-simmons",
+     "name": "Deva Simmons",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-19",
+   "district": "19",
+   "status": "called",
+   "winnerId": "jim-schwartzel",
+   "candidates": [
+    {
+     "id": "jim-schwartzel",
+     "name": "Jim Schwartzel",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 61.07
+    },
+    {
+     "id": "victor-arias",
+     "name": "Victor Arias",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 37.62
+    },
+    {
+     "id": "seth-haskin",
+     "name": "Seth Haskin",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-20",
+   "district": "20",
+   "status": "called",
+   "winnerId": "debbie-wasserman-schultz",
+   "candidates": [
+    {
+     "id": "debbie-wasserman-schultz",
+     "name": "Debbie Wasserman Schultz",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 74.33
+    },
+    {
+     "id": "brent-andersen",
+     "name": "Brent Andersen",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 21.72
+    },
+    {
+     "id": "kedner-maxime",
+     "name": "Kedner Maxime",
+     "party": "Other",
+     "partyLabel": "Independent Party of Florida",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-21",
+   "district": "21",
+   "status": "called",
+   "winnerId": "brian-mast",
+   "candidates": [
+    {
+     "id": "brian-mast",
+     "name": "Brian Mast",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 53.89
+    },
+    {
+     "id": "james-martin",
+     "name": "James Martin",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 44.81
+    },
+    {
+     "id": "alexander-cooke",
+     "name": "Alexander Cooke",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-22",
+   "district": "22",
+   "status": "called",
+   "winnerId": "pia-dandiya",
+   "candidates": [
+    {
+     "id": "pia-dandiya",
+     "name": "Pia Dandiya",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 51.9
+    },
+    {
+     "id": "casey-askar",
+     "name": "Casey Askar",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 48.1
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-23",
+   "district": "23",
+   "status": "called",
+   "winnerId": "lois-frankel",
+   "candidates": [
+    {
+     "id": "lois-frankel",
+     "name": "Lois Frankel",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 65.64
+    },
+    {
+     "id": "deborah-adeimy",
+     "name": "Deborah Adeimy",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 34.33
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-24",
+   "district": "24",
+   "status": "called",
+   "winnerId": "oliver-gilbert",
+   "candidates": [
+    {
+     "id": "oliver-gilbert",
+     "name": "Oliver Gilbert",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 80.59
+    },
+    {
+     "id": "te-mayonna-brown",
+     "name": "Te Mayonna Brown",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 19.33
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-25",
+   "district": "25",
+   "status": "called",
+   "winnerId": "jared-moskowitz",
+   "candidates": [
+    {
+     "id": "jared-moskowitz",
+     "name": "Jared Moskowitz",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 51.27
+    },
+    {
+     "id": "scott-singer",
+     "name": "Scott Singer",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 46.63
+    },
+    {
+     "id": "peter-jassenoff",
+     "name": "Peter Jassenoff",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-26",
+   "district": "26",
+   "status": "called",
+   "winnerId": "mario-diaz-balart",
+   "candidates": [
+    {
+     "id": "mario-diaz-balart",
+     "name": "Mario Díaz-Balart",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.87
+    },
+    {
+     "id": "nicole-locklin",
+     "name": "Nicole Locklin",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 49.13
+    },
+    {
+     "id": "deborah-ann-meidinger-hosey",
+     "name": "Deborah Ann Meidinger Hosey",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-27",
+   "district": "27",
+   "status": "called",
+   "winnerId": "maria-elvira-salazar",
+   "candidates": [
+    {
+     "id": "maria-elvira-salazar",
+     "name": "María Elvira Salazar",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 50.22
+    },
+    {
+     "id": "eliott-rodriguez",
+     "name": "Eliott Rodriguez",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 49.78
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "FL-28",
+   "district": "28",
+   "status": "called",
+   "winnerId": "carlos-a-gimenez",
+   "candidates": [
+    {
+     "id": "carlos-a-gimenez",
+     "name": "Carlos A. Giménez",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 52.87
+    },
+    {
+     "id": "phil-ehr",
+     "name": "Phil Ehr",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 45.63
+    },
+    {
+     "id": "eddy-rojas",
+     "name": "Eddy Rojas",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

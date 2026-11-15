@@ -1,0 +1,48 @@
+{
+ "state": "AK",
+ "stateName": "Alaska",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "AK-AL",
+   "district": "AL",
+   "status": "uncalled",
+   "winnerId": null,
+   "candidates": [
+    {
+     "id": "nick-begich-iii",
+     "name": "Nick Begich III",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "eric-hafner",
+     "name": "Eric Hafner",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "bill-hill",
+     "name": "Bill Hill",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "jim-mcdermott",
+     "name": "Jim McDermott",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Alaska"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

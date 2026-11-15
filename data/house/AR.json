@@ -1,0 +1,129 @@
+{
+ "state": "AR",
+ "stateName": "Arkansas",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "AR-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "rick-crawford",
+   "candidates": [
+    {
+     "id": "rick-crawford",
+     "name": "Rick Crawford",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 65.5
+    },
+    {
+     "id": "terri-green",
+     "name": "Terri Green",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 31.0
+    },
+    {
+     "id": "steve-parsons",
+     "name": "Steve Parsons",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AR-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "french-hill",
+   "candidates": [
+    {
+     "id": "french-hill",
+     "name": "French Hill",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 50.87
+    },
+    {
+     "id": "chris-jones",
+     "name": "Chris Jones",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 49.13
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AR-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "steve-womack",
+   "candidates": [
+    {
+     "id": "steve-womack",
+     "name": "Steve Womack",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 54.91
+    },
+    {
+     "id": "robb-ryerse",
+     "name": "Robb Ryerse",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 41.5
+    },
+    {
+     "id": "bobby-wilson",
+     "name": "Bobby Wilson",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AR-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "bruce-westerman",
+   "candidates": [
+    {
+     "id": "bruce-westerman",
+     "name": "Bruce Westerman",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 65.49
+    },
+    {
+     "id": "james-russell",
+     "name": "James Russell",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 34.51
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

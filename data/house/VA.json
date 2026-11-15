@@ -1,0 +1,402 @@
+{
+ "state": "VA",
+ "stateName": "Virginia",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "VA-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "shannon-taylor",
+   "candidates": [
+    {
+     "id": "shannon-taylor",
+     "name": "Shannon Taylor",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 51.32
+    },
+    {
+     "id": "rob-wittman",
+     "name": "Rob Wittman",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 48.43
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "VA-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "elaine-luria",
+   "candidates": [
+    {
+     "id": "elaine-luria",
+     "name": "Elaine Luria",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 53.22
+    },
+    {
+     "id": "jen-kiggans",
+     "name": "Jen Kiggans",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 44.31
+    },
+    {
+     "id": "j-matt-baker",
+     "name": "J. Matt Baker",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "geral-staten",
+     "name": "Geral Staten",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "VA-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "bobby-scott",
+   "candidates": [
+    {
+     "id": "bobby-scott",
+     "name": "Bobby Scott",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 72.57
+    },
+    {
+     "id": "edwin-rivera",
+     "name": "Edwin Rivera",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 24.03
+    },
+    {
+     "id": "makiba-gaines",
+     "name": "Makiba Gaines",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "stephen-woll",
+     "name": "Stephen Woll",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "VA-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "jennifer-mcclellan",
+   "candidates": [
+    {
+     "id": "jennifer-mcclellan",
+     "name": "Jennifer McClellan",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 72.23
+    },
+    {
+     "id": "robert-murray",
+     "name": "Robert Murray",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 26.19
+    },
+    {
+     "id": "joan-bell",
+     "name": "Joan Bell",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "VA-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "john-mcguire",
+   "candidates": [
+    {
+     "id": "john-mcguire",
+     "name": "John McGuire",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.87
+    },
+    {
+     "id": "tom-perriello",
+     "name": "Tom Perriello",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.31
+    },
+    {
+     "id": "cooke-harvey",
+     "name": "Cooke Harvey",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "VA-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "ben-cline",
+   "candidates": [
+    {
+     "id": "ben-cline",
+     "name": "Ben Cline",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 55.43
+    },
+    {
+     "id": "beth-macy",
+     "name": "Beth Macy",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 44.37
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "VA-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "eugene-vindman",
+   "candidates": [
+    {
+     "id": "eugene-vindman",
+     "name": "Eugene Vindman",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 60.0
+    },
+    {
+     "id": "doug-ollivant",
+     "name": "Doug Ollivant",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 37.39
+    },
+    {
+     "id": "alaha-ahrar",
+     "name": "Alaha Ahrar",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "taner-demirci-lopez",
+     "name": "Taner Demirci Lopez",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "randall-terry",
+     "name": "Randall Terry",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "joshua-ertle",
+     "name": "Joshua Ertle",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "VA-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "don-beyer",
+   "candidates": [
+    {
+     "id": "don-beyer",
+     "name": "Don Beyer",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 79.45
+    },
+    {
+     "id": "tony-sabio",
+     "name": "Tony Sabio",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 17.83
+    },
+    {
+     "id": "tim-sharman",
+     "name": "Tim Sharman",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "shelly-arnoldi",
+     "name": "Shelly Arnoldi",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "VA-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "morgan-griffith",
+   "candidates": [
+    {
+     "id": "morgan-griffith",
+     "name": "Morgan Griffith",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 65.88
+    },
+    {
+     "id": "joy-powers",
+     "name": "Joy Powers",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 33.91
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "VA-10",
+   "district": "10",
+   "status": "called",
+   "winnerId": "suhas-subramanyam",
+   "candidates": [
+    {
+     "id": "suhas-subramanyam",
+     "name": "Suhas Subramanyam",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 61.52
+    },
+    {
+     "id": "dave-beckwith",
+     "name": "Dave Beckwith",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 36.47
+    },
+    {
+     "id": "ahsen-malik",
+     "name": "Ahsen Malik",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "VA-11",
+   "district": "11",
+   "status": "called",
+   "winnerId": "james-walkinshaw",
+   "candidates": [
+    {
+     "id": "james-walkinshaw",
+     "name": "James Walkinshaw",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 74.26
+    },
+    {
+     "id": "arthur-purves",
+     "name": "Arthur Purves",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 24.19
+    },
+    {
+     "id": "dianne-blais",
+     "name": "Dianne Blais",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

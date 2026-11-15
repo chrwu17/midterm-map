@@ -1,0 +1,133 @@
+{
+ "state": "NE",
+ "stateName": "Nebraska",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "NE-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "mike-flood",
+   "candidates": [
+    {
+     "id": "mike-flood",
+     "name": "Mike Flood",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.98
+    },
+    {
+     "id": "chris-backemeyer",
+     "name": "Chris Backemeyer",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.48
+    },
+    {
+     "id": "nik-sandman",
+     "name": "Nik Sandman",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "daniel-hartong",
+     "name": "Daniel Hartong",
+     "party": "Other",
+     "partyLabel": "America First",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NE-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "denise-powell",
+   "candidates": [
+    {
+     "id": "denise-powell",
+     "name": "Denise Powell",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 56.68
+    },
+    {
+     "id": "brinker-harding",
+     "name": "Brinker Harding",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 40.74
+    },
+    {
+     "id": "eric-foreman",
+     "name": "Eric Foreman",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NE-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "adrian-smith",
+   "candidates": [
+    {
+     "id": "adrian-smith",
+     "name": "Adrian Smith",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 71.03
+    },
+    {
+     "id": "becky-stille",
+     "name": "Becky Stille",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 19.97
+    },
+    {
+     "id": "mark-cohen",
+     "name": "Mark Cohen",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "david-else",
+     "name": "David Else",
+     "party": "Other",
+     "partyLabel": "Legal Marijuana Now",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "macey-budke",
+     "name": "Macey Budke",
+     "party": "Other",
+     "partyLabel": "Working People",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

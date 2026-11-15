@@ -1,0 +1,244 @@
+{
+ "state": "MD",
+ "stateName": "Maryland",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "MD-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "andy-harris",
+   "candidates": [
+    {
+     "id": "andy-harris",
+     "name": "Andy Harris",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 52.12
+    },
+    {
+     "id": "dan-schwartz",
+     "name": "Dan Schwartz",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.71
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MD-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "johnny-olszewski",
+   "candidates": [
+    {
+     "id": "johnny-olszewski",
+     "name": "Johnny Olszewski",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 64.95
+    },
+    {
+     "id": "dave-wallace",
+     "name": "Dave Wallace",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 34.83
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MD-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "sarah-elfreth",
+   "candidates": [
+    {
+     "id": "sarah-elfreth",
+     "name": "Sarah Elfreth",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 67.75
+    },
+    {
+     "id": "berney-flowers",
+     "name": "Berney Flowers",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 31.98
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MD-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "glenn-ivey",
+   "candidates": [
+    {
+     "id": "glenn-ivey",
+     "name": "Glenn Ivey",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 89.1
+    },
+    {
+     "id": "george-mcdermott",
+     "name": "George McDermott",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 6.01
+    },
+    {
+     "id": "sam-husseini",
+     "name": "Sam Husseini",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MD-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "adrian-boafo",
+   "candidates": [
+    {
+     "id": "adrian-boafo",
+     "name": "Adrian Boafo",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 70.28
+    },
+    {
+     "id": "chris-chaffee",
+     "name": "Chris Chaffee",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 28.91
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MD-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "april-mcclain-delaney",
+   "candidates": [
+    {
+     "id": "april-mcclain-delaney",
+     "name": "April McClain Delaney",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 58.94
+    },
+    {
+     "id": "robin-ficker",
+     "name": "Robin Ficker",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 38.07
+    },
+    {
+     "id": "moshe-landman",
+     "name": "Moshe Landman",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MD-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "kweisi-mfume",
+   "candidates": [
+    {
+     "id": "kweisi-mfume",
+     "name": "Kweisi Mfume",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 84.54
+    },
+    {
+     "id": "scott-collier",
+     "name": "Scott Collier",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 14.93
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MD-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "jamie-raskin",
+   "candidates": [
+    {
+     "id": "jamie-raskin",
+     "name": "Jamie Raskin",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 83.27
+    },
+    {
+     "id": "cheryl-riley",
+     "name": "Cheryl Riley",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 14.81
+    },
+    {
+     "id": "nancy-wallace",
+     "name": "Nancy Wallace",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

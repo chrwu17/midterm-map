@@ -1,0 +1,243 @@
+{
+ "state": "MA",
+ "stateName": "Massachusetts",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "MA-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "richard-neal",
+   "candidates": [
+    {
+     "id": "richard-neal",
+     "name": "Richard Neal",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 65.38
+    },
+    {
+     "id": "nadia-milleron",
+     "name": "Nadia Milleron",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 34.62
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/MA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MA-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "jim-mcgovern",
+   "candidates": [
+    {
+     "id": "jim-mcgovern",
+     "name": "Jim McGovern",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 100.0
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/MA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MA-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "lori-trahan",
+   "candidates": [
+    {
+     "id": "lori-trahan",
+     "name": "Lori Trahan",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 67.15
+    },
+    {
+     "id": "gary-grossi",
+     "name": "Gary Grossi",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 30.35
+    },
+    {
+     "id": "dennis-conlon",
+     "name": "Dennis Conlon",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 2.5
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/MA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MA-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "jake-auchincloss",
+   "candidates": [
+    {
+     "id": "jake-auchincloss",
+     "name": "Jake Auchincloss",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 66.37
+    },
+    {
+     "id": "thomas-stalcup",
+     "name": "Thomas Stalcup",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 33.63
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/MA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MA-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "katherine-clark",
+   "candidates": [
+    {
+     "id": "katherine-clark",
+     "name": "Katherine Clark",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 100.0
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/MA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MA-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "dan-koh",
+   "candidates": [
+    {
+     "id": "dan-koh",
+     "name": "Dan Koh",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 63.45
+    },
+    {
+     "id": "micah-jones",
+     "name": "Micah Jones",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 36.55
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/MA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MA-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "ayanna-pressley",
+   "candidates": [
+    {
+     "id": "ayanna-pressley",
+     "name": "Ayanna Pressley",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 100.0
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/MA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MA-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "stephen-lynch",
+   "candidates": [
+    {
+     "id": "stephen-lynch",
+     "name": "Stephen Lynch",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 69.47
+    },
+    {
+     "id": "robert-burke",
+     "name": "Robert Burke",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 26.77
+    },
+    {
+     "id": "rasheed-walters",
+     "name": "Rasheed Walters",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 3.76
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/MA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "MA-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "bill-keating",
+   "candidates": [
+    {
+     "id": "bill-keating",
+     "name": "Bill Keating",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 60.9
+    },
+    {
+     "id": "tyler-macallister",
+     "name": "Tyler MacAllister",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 39.1
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/MA"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

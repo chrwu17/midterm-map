@@ -1,0 +1,225 @@
+{
+ "state": "SC",
+ "stateName": "South Carolina",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "SC-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "nancy-lacore",
+   "candidates": [
+    {
+     "id": "nancy-lacore",
+     "name": "Nancy Lacore",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 49.66
+    },
+    {
+     "id": "jenny-costa-honeycutt",
+     "name": "Jenny Costa Honeycutt",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 48.63
+    },
+    {
+     "id": "bill-reeside",
+     "name": "Bill Reeside",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.64
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "SC-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "joe-wilson",
+   "candidates": [
+    {
+     "id": "joe-wilson",
+     "name": "Joe Wilson",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.82
+    },
+    {
+     "id": "zyon-khalifa",
+     "name": "Zyon Khalifa",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.83
+    },
+    {
+     "id": "dayna-alane-smith",
+     "name": "Dayna Alane Smith",
+     "party": "Other",
+     "partyLabel": "Workers",
+     "incumbent": false,
+     "voteShare": 1.24
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "SC-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "sheri-biggs",
+   "candidates": [
+    {
+     "id": "sheri-biggs",
+     "name": "Sheri Biggs",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 63.68
+    },
+    {
+     "id": "eunice-lehmacher",
+     "name": "Eunice Lehmacher",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 34.39
+    },
+    {
+     "id": "brian-corriea",
+     "name": "Brian Corriea",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.87
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "SC-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "william-timmons",
+   "candidates": [
+    {
+     "id": "william-timmons",
+     "name": "William Timmons",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 51.71
+    },
+    {
+     "id": "courtney-mcclain",
+     "name": "Courtney McClain",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 45.65
+    },
+    {
+     "id": "jessica-ethridge",
+     "name": "Jessica Ethridge",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.54
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "SC-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "wes-climer",
+   "candidates": [
+    {
+     "id": "wes-climer",
+     "name": "Wes Climer",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 52.81
+    },
+    {
+     "id": "mallory-dittmer",
+     "name": "Mallory Dittmer",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.13
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "SC-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "jim-clyburn",
+   "candidates": [
+    {
+     "id": "jim-clyburn",
+     "name": "Jim Clyburn",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 69.36
+    },
+    {
+     "id": "john-peterson",
+     "name": "John Peterson",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 30.52
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "SC-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "russell-fry",
+   "candidates": [
+    {
+     "id": "russell-fry",
+     "name": "Russell Fry",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 56.71
+    },
+    {
+     "id": "john-vincent",
+     "name": "John Vincent",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 43.23
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

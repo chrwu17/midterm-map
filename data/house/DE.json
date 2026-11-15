@@ -1,0 +1,34 @@
+{
+ "state": "DE",
+ "stateName": "Delaware",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "DE-AL",
+   "district": "AL",
+   "status": "called",
+   "winnerId": "sarah-mcbride",
+   "candidates": [
+    {
+     "id": "sarah-mcbride",
+     "name": "Sarah McBride",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 64.35
+    },
+    {
+     "id": "joseph-arminio",
+     "name": "Joseph Arminio",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 35.65
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Delaware"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

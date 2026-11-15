@@ -1,0 +1,1089 @@
+{
+ "state": "TX",
+ "stateName": "Texas",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "TX-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "nathaniel-moran",
+   "candidates": [
+    {
+     "id": "nathaniel-moran",
+     "name": "Nathaniel Moran",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 69.04
+    },
+    {
+     "id": "yolanda-prince",
+     "name": "Yolanda Prince",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 30.96
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "steve-toth",
+   "candidates": [
+    {
+     "id": "steve-toth",
+     "name": "Steve Toth",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 50.98
+    },
+    {
+     "id": "shaun-finnie",
+     "name": "Shaun Finnie",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 49.02
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "keith-self",
+   "candidates": [
+    {
+     "id": "keith-self",
+     "name": "Keith Self",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 52.74
+    },
+    {
+     "id": "evan-hunt",
+     "name": "Evan Hunt",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.26
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "pat-fallon",
+   "candidates": [
+    {
+     "id": "pat-fallon",
+     "name": "Pat Fallon",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 56.05
+    },
+    {
+     "id": "jason-pearce",
+     "name": "Jason Pearce",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 43.94
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "lance-gooden",
+   "candidates": [
+    {
+     "id": "lance-gooden",
+     "name": "Lance Gooden",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 51.47
+    },
+    {
+     "id": "chelsey-hockett",
+     "name": "Chelsey Hockett",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.53
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "jake-ellzey",
+   "candidates": [
+    {
+     "id": "jake-ellzey",
+     "name": "Jake Ellzey",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 52.16
+    },
+    {
+     "id": "danny-minton",
+     "name": "Danny Minton",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.83
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "lizzie-fletcher",
+   "candidates": [
+    {
+     "id": "lizzie-fletcher",
+     "name": "Lizzie Fletcher",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 70.84
+    },
+    {
+     "id": "alexander-hale",
+     "name": "Alexander Hale",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 27.54
+    },
+    {
+     "id": "espoir-ngabo",
+     "name": "Espoir Ngabo",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": 1.61
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "jessica-steinmann",
+   "candidates": [
+    {
+     "id": "jessica-steinmann",
+     "name": "Jessica Steinmann",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 53.21
+    },
+    {
+     "id": "laura-jones",
+     "name": "Laura Jones",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.79
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "leticia-gutierrez",
+   "candidates": [
+    {
+     "id": "leticia-gutierrez",
+     "name": "Leticia Gutierrez",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 57.55
+    },
+    {
+     "id": "alex-mealer",
+     "name": "Alex Mealer",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 42.45
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-10",
+   "district": "10",
+   "status": "called",
+   "winnerId": "chris-gober",
+   "candidates": [
+    {
+     "id": "chris-gober",
+     "name": "Chris Gober",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 53.76
+    },
+    {
+     "id": "caitlin-rourk",
+     "name": "Caitlin Rourk",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.24
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-11",
+   "district": "11",
+   "status": "called",
+   "winnerId": "august-pfluger",
+   "candidates": [
+    {
+     "id": "august-pfluger",
+     "name": "August Pfluger",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 59.5
+    },
+    {
+     "id": "claire-reynolds",
+     "name": "Claire Reynolds",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 40.5
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-12",
+   "district": "12",
+   "status": "called",
+   "winnerId": "craig-goldman",
+   "candidates": [
+    {
+     "id": "craig-goldman",
+     "name": "Craig Goldman",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 53.12
+    },
+    {
+     "id": "angela-rodriguez-prilliman",
+     "name": "Angela Rodriguez Prilliman",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.88
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-13",
+   "district": "13",
+   "status": "called",
+   "winnerId": "ronny-jackson",
+   "candidates": [
+    {
+     "id": "ronny-jackson",
+     "name": "Ronny Jackson",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 65.24
+    },
+    {
+     "id": "mark-nair",
+     "name": "Mark Nair",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 34.73
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-14",
+   "district": "14",
+   "status": "called",
+   "winnerId": "randy-weber",
+   "candidates": [
+    {
+     "id": "randy-weber",
+     "name": "Randy Weber",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 54.02
+    },
+    {
+     "id": "thurman-bartie",
+     "name": "Thurman Bartie",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 45.99
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-15",
+   "district": "15",
+   "status": "called",
+   "winnerId": "bobby-pulido",
+   "candidates": [
+    {
+     "id": "bobby-pulido",
+     "name": "Bobby Pulido",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 62.33
+    },
+    {
+     "id": "monica-de-la-cruz",
+     "name": "Monica De La Cruz",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 37.68
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-16",
+   "district": "16",
+   "status": "called",
+   "winnerId": "veronica-escobar",
+   "candidates": [
+    {
+     "id": "veronica-escobar",
+     "name": "Veronica Escobar",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 70.8
+    },
+    {
+     "id": "adam-bauman",
+     "name": "Adam Bauman",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 29.2
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-17",
+   "district": "17",
+   "status": "called",
+   "winnerId": "pete-sessions",
+   "candidates": [
+    {
+     "id": "pete-sessions",
+     "name": "Pete Sessions",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 53.55
+    },
+    {
+     "id": "casey-shepard",
+     "name": "Casey Shepard",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.44
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-18",
+   "district": "18",
+   "status": "called",
+   "winnerId": "christian-menefee",
+   "candidates": [
+    {
+     "id": "christian-menefee",
+     "name": "Christian Menefee",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 86.15
+    },
+    {
+     "id": "ronald-whitfield",
+     "name": "Ronald Whitfield",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 13.98
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-19",
+   "district": "19",
+   "status": "called",
+   "winnerId": "tom-sell",
+   "candidates": [
+    {
+     "id": "tom-sell",
+     "name": "Tom Sell",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 69.42
+    },
+    {
+     "id": "kyle-rable",
+     "name": "Kyle Rable",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 30.49
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-20",
+   "district": "20",
+   "status": "called",
+   "winnerId": "joaquin-castro",
+   "candidates": [
+    {
+     "id": "joaquin-castro",
+     "name": "Joaquin Castro",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 77.63
+    },
+    {
+     "id": "edgardo-rafael-baez",
+     "name": "Edgardo Rafael Baez",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 22.39
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-21",
+   "district": "21",
+   "status": "called",
+   "winnerId": "mark-teixeira",
+   "candidates": [
+    {
+     "id": "mark-teixeira",
+     "name": "Mark Teixeira",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 54.53
+    },
+    {
+     "id": "kristin-hook",
+     "name": "Kristin Hook",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 45.48
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-22",
+   "district": "22",
+   "status": "called",
+   "winnerId": "trever-nehls",
+   "candidates": [
+    {
+     "id": "trever-nehls",
+     "name": "Trever Nehls",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 51.82
+    },
+    {
+     "id": "marquette-greene-scott",
+     "name": "Marquette Greene-Scott",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.18
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-23",
+   "district": "23",
+   "status": "called",
+   "winnerId": "katy-padilla-stout",
+   "candidates": [
+    {
+     "id": "katy-padilla-stout",
+     "name": "Katy Padilla Stout",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 52.13
+    },
+    {
+     "id": "brandon-herrera",
+     "name": "Brandon Herrera",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 43.97
+    },
+    {
+     "id": "ben-mendoza",
+     "name": "Ben Mendoza",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 3.89
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-24",
+   "district": "24",
+   "status": "called",
+   "winnerId": "beth-van-duyne",
+   "candidates": [
+    {
+     "id": "beth-van-duyne",
+     "name": "Beth Van Duyne",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 53.43
+    },
+    {
+     "id": "kevin-burge",
+     "name": "Kevin Burge",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.57
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-25",
+   "district": "25",
+   "status": "called",
+   "winnerId": "roger-williams",
+   "candidates": [
+    {
+     "id": "roger-williams",
+     "name": "Roger Williams",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 53.74
+    },
+    {
+     "id": "dione-sims",
+     "name": "Dione Sims",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.26
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-26",
+   "district": "26",
+   "status": "called",
+   "winnerId": "brandon-gill",
+   "candidates": [
+    {
+     "id": "brandon-gill",
+     "name": "Brandon Gill",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 54.54
+    },
+    {
+     "id": "steven-shook",
+     "name": "Steven Shook",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 44.18
+    },
+    {
+     "id": "phil-gray",
+     "name": "Phil Gray",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 1.29
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-27",
+   "district": "27",
+   "status": "called",
+   "winnerId": "michael-cloud",
+   "candidates": [
+    {
+     "id": "michael-cloud",
+     "name": "Michael Cloud",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 51.15
+    },
+    {
+     "id": "tanya-lloyd",
+     "name": "Tanya Lloyd",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.84
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-28",
+   "district": "28",
+   "status": "called",
+   "winnerId": "henry-cuellar",
+   "candidates": [
+    {
+     "id": "henry-cuellar",
+     "name": "Henry Cuellar",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 65.76
+    },
+    {
+     "id": "tano-tijerina",
+     "name": "Tano Tijerina",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 29.64
+    },
+    {
+     "id": "marlon-duran",
+     "name": "Marlón Durán",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": 4.6
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-29",
+   "district": "29",
+   "status": "called",
+   "winnerId": "sylvia-garcia",
+   "candidates": [
+    {
+     "id": "sylvia-garcia",
+     "name": "Sylvia Garcia",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 79.94
+    },
+    {
+     "id": "martha-fierro",
+     "name": "Martha Fierro",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 20.06
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-30",
+   "district": "30",
+   "status": "called",
+   "winnerId": "frederick-haynes-iii",
+   "candidates": [
+    {
+     "id": "frederick-haynes-iii",
+     "name": "Frederick Haynes III",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 82.64
+    },
+    {
+     "id": "everett-jackson",
+     "name": "Everett Jackson",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 17.36
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-31",
+   "district": "31",
+   "status": "called",
+   "winnerId": "john-carter",
+   "candidates": [
+    {
+     "id": "john-carter",
+     "name": "John Carter",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 53.78
+    },
+    {
+     "id": "justin-early",
+     "name": "Justin Early",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 44.83
+    },
+    {
+     "id": "greg-stoker",
+     "name": "Greg Stoker",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": 1.39
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-32",
+   "district": "32",
+   "status": "called",
+   "winnerId": "jace-yarbrough",
+   "candidates": [
+    {
+     "id": "jace-yarbrough",
+     "name": "Jace Yarbrough",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 51.45
+    },
+    {
+     "id": "dan-barrios",
+     "name": "Dan Barrios",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.55
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-33",
+   "district": "33",
+   "status": "called",
+   "winnerId": "colin-allred",
+   "candidates": [
+    {
+     "id": "colin-allred",
+     "name": "Colin Allred",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 78.55
+    },
+    {
+     "id": "patrick-gillespie",
+     "name": "Patrick Gillespie",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 21.42
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-34",
+   "district": "34",
+   "status": "called",
+   "winnerId": "vicente-gonzalez",
+   "candidates": [
+    {
+     "id": "vicente-gonzalez",
+     "name": "Vicente Gonzalez",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 55.69
+    },
+    {
+     "id": "eric-flores",
+     "name": "Eric Flores",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 39.67
+    },
+    {
+     "id": "eddie-espinoza",
+     "name": "Eddie Espinoza",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": 2.34
+    },
+    {
+     "id": "chris-royal",
+     "name": "Chris Royal",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.3
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-35",
+   "district": "35",
+   "status": "called",
+   "winnerId": "johnny-garcia",
+   "candidates": [
+    {
+     "id": "johnny-garcia",
+     "name": "Johnny Garcia",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 55.43
+    },
+    {
+     "id": "carlos-de-la-cruz",
+     "name": "Carlos De La Cruz",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 44.57
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-36",
+   "district": "36",
+   "status": "called",
+   "winnerId": "brian-babin",
+   "candidates": [
+    {
+     "id": "brian-babin",
+     "name": "Brian Babin",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 53.56
+    },
+    {
+     "id": "rhonda-hart",
+     "name": "Rhonda Hart",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.44
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-37",
+   "district": "37",
+   "status": "called",
+   "winnerId": "greg-casar",
+   "candidates": [
+    {
+     "id": "greg-casar",
+     "name": "Greg Casar",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 83.75
+    },
+    {
+     "id": "lauren-pena",
+     "name": "Lauren Peña",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 16.25
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "TX-38",
+   "district": "38",
+   "status": "called",
+   "winnerId": "jon-bonck",
+   "candidates": [
+    {
+     "id": "jon-bonck",
+     "name": "Jon Bonck",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 51.54
+    },
+    {
+     "id": "melissa-mcdonough",
+     "name": "Melissa McDonough",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.33
+    },
+    {
+     "id": "alex-mcmenemy",
+     "name": "Alex McMenemy",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": 1.13
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/TX"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

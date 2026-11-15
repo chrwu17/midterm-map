@@ -1,0 +1,97 @@
+{
+ "state": "ID",
+ "stateName": "Idaho",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "ID-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "russ-fulcher",
+   "candidates": [
+    {
+     "id": "russ-fulcher",
+     "name": "Russ Fulcher",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 64.23
+    },
+    {
+     "id": "kaylee-peterson",
+     "name": "Kaylee Peterson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 28.9
+    },
+    {
+     "id": "sarah-zabel",
+     "name": "Sarah Zabel",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 6.06
+    },
+    {
+     "id": "brendan-gomez",
+     "name": "Brendan Gomez",
+     "party": "Other",
+     "partyLabel": "Constitution",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "ID-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "mike-simpson",
+   "candidates": [
+    {
+     "id": "mike-simpson",
+     "name": "Mike Simpson",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 51.71
+    },
+    {
+     "id": "ellie-gilbreath",
+     "name": "Ellie Gilbreath",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 40.29
+    },
+    {
+     "id": "tripp-hutchinson",
+     "name": "Tripp Hutchinson",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "emre-houser",
+     "name": "Emre Houser",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "will-johanson",
+     "name": "Will Johanson",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "state": "ME",
+ "stateName": "Maine",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "ME-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "chellie-pingree",
+   "candidates": [
+    {
+     "id": "chellie-pingree",
+     "name": "Chellie Pingree",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 65.89
+    },
+    {
+     "id": "ronald-russell",
+     "name": "Ronald Russell",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 34.1
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maine"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "ME-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "paul-lepage",
+   "candidates": [
+    {
+     "id": "paul-lepage",
+     "name": "Paul LePage",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 50.81
+    },
+    {
+     "id": "matthew-dunlap",
+     "name": "Matthew Dunlap",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 49.19
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/ME"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

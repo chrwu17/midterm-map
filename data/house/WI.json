@@ -1,0 +1,258 @@
+{
+ "state": "WI",
+ "stateName": "Wisconsin",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "WI-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "mitchell-berman",
+   "candidates": [
+    {
+     "id": "mitchell-berman",
+     "name": "Mitchell Berman",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 51.91
+    },
+    {
+     "id": "bryan-steil",
+     "name": "Bryan Steil",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 48.09
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WI"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WI-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "mark-pocan",
+   "candidates": [
+    {
+     "id": "mark-pocan",
+     "name": "Mark Pocan",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 100.0
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WI"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WI-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "rebecca-cooke",
+   "candidates": [
+    {
+     "id": "rebecca-cooke",
+     "name": "Rebecca Cooke",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 52.43
+    },
+    {
+     "id": "derrick-van-orden",
+     "name": "Derrick Van Orden",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 45.8
+    },
+    {
+     "id": "alexander-kent",
+     "name": "Alexander Kent",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.22
+    },
+    {
+     "id": "rustin-provance",
+     "name": "Rustin Provance",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.55
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WI"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WI-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "gwen-moore",
+   "candidates": [
+    {
+     "id": "gwen-moore",
+     "name": "Gwen Moore",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 80.01
+    },
+    {
+     "id": "tim-rogers",
+     "name": "Tim Rogers",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 17.46
+    },
+    {
+     "id": "arthur-burks",
+     "name": "Arthur Burks",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 2.54
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WI"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WI-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "scott-fitzgerald",
+   "candidates": [
+    {
+     "id": "scott-fitzgerald",
+     "name": "Scott Fitzgerald",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 59.05
+    },
+    {
+     "id": "andrew-beck",
+     "name": "Andrew Beck",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 40.95
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WI"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WI-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "glenn-grothman",
+   "candidates": [
+    {
+     "id": "glenn-grothman",
+     "name": "Glenn Grothman",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 52.76
+    },
+    {
+     "id": "brad-smith",
+     "name": "Brad Smith",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 43.37
+    },
+    {
+     "id": "elizabeth-fitzgibbon",
+     "name": "Elizabeth Fitzgibbon",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.62
+    },
+    {
+     "id": "michael-thurow",
+     "name": "Michael Thurow",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.19
+    },
+    {
+     "id": "matthew-arndt",
+     "name": "Matthew Arndt",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": 1.07
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WI"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WI-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "michael-alfonso",
+   "candidates": [
+    {
+     "id": "michael-alfonso",
+     "name": "Michael Alfonso",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 56.4
+    },
+    {
+     "id": "fred-clark",
+     "name": "Fred Clark",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 43.6
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WI"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WI-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "tony-wied",
+   "candidates": [
+    {
+     "id": "tony-wied",
+     "name": "Tony Wied",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 53.9
+    },
+    {
+     "id": "rick-crosson",
+     "name": "Rick Crosson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.1
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WI"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "state": "CT",
+ "stateName": "Connecticut",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "CT-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "luke-bronin",
+   "candidates": [
+    {
+     "id": "luke-bronin",
+     "name": "Luke Bronin",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 67.28
+    },
+    {
+     "id": "amy-chai",
+     "name": "Amy Chai",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 30.96
+    },
+    {
+     "id": "mary-sanders",
+     "name": "Mary Sanders",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": 1.75
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CT-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "joe-courtney",
+   "candidates": [
+    {
+     "id": "joe-courtney",
+     "name": "Joe Courtney",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.45
+    },
+    {
+     "id": "george-austin",
+     "name": "George Austin",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 37.54
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CT-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "rosa-delauro",
+   "candidates": [
+    {
+     "id": "rosa-delauro",
+     "name": "Rosa DeLauro",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 61.21
+    },
+    {
+     "id": "chris-lancia",
+     "name": "Chris Lancia",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 35.56
+    },
+    {
+     "id": "thomas-egan",
+     "name": "Thomas Egan",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 2.96
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CT-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "jim-himes",
+   "candidates": [
+    {
+     "id": "jim-himes",
+     "name": "Jim Himes",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 65.58
+    },
+    {
+     "id": "michael-goldstein",
+     "name": "Michael Goldstein",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 32.51
+    },
+    {
+     "id": "benjamin-wesley",
+     "name": "Benjamin Wesley",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.91
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CT-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "jahana-hayes",
+   "candidates": [
+    {
+     "id": "jahana-hayes",
+     "name": "Jahana Hayes",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 57.83
+    },
+    {
+     "id": "chris-shea",
+     "name": "Chris Shea",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 42.15
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

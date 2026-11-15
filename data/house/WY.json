@@ -1,0 +1,49 @@
+{
+ "state": "WY",
+ "stateName": "Wyoming",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "WY-AL",
+   "district": "AL",
+   "status": "called",
+   "winnerId": "chuck-gray",
+   "candidates": [
+    {
+     "id": "chuck-gray",
+     "name": "Chuck Gray",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 54.22
+    },
+    {
+     "id": "lisa-kinney",
+     "name": "Lisa Kinney",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 33.48
+    },
+    {
+     "id": "shawn-johnson",
+     "name": "Shawn Johnson",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 7.42
+    },
+    {
+     "id": "jeffrey-haggit",
+     "name": "Jeffrey Haggit",
+     "party": "Other",
+     "partyLabel": "Constitution",
+     "incumbent": false,
+     "voteShare": 4.32
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Wyoming"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

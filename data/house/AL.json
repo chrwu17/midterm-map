@@ -1,0 +1,196 @@
+{
+ "state": "AL",
+ "stateName": "Alabama",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "AL-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "jerry-carl",
+   "candidates": [
+    {
+     "id": "jerry-carl",
+     "name": "Jerry Carl",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 59.07
+    },
+    {
+     "id": "clyde-jones-jr",
+     "name": "Clyde Jones Jr.",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 40.93
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AL-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "shomari-figures",
+   "candidates": [
+    {
+     "id": "shomari-figures",
+     "name": "Shomari Figures",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 53.75
+    },
+    {
+     "id": "rhett-marques",
+     "name": "Rhett Marques",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 46.25
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AL-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "mike-rogers",
+   "candidates": [
+    {
+     "id": "mike-rogers",
+     "name": "Mike Rogers",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 63.95
+    },
+    {
+     "id": "lee-mcinnis",
+     "name": "Lee McInnis",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 36.05
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AL-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "robert-aderholt",
+   "candidates": [
+    {
+     "id": "robert-aderholt",
+     "name": "Robert Aderholt",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 74.9
+    },
+    {
+     "id": "amanda-pusczek",
+     "name": "Amanda Pusczek",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 25.1
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AL-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "dale-strong",
+   "candidates": [
+    {
+     "id": "dale-strong",
+     "name": "Dale Strong",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 53.24
+    },
+    {
+     "id": "andrew-sneed",
+     "name": "Andrew Sneed",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.76
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AL-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "gary-palmer",
+   "candidates": [
+    {
+     "id": "gary-palmer",
+     "name": "Gary Palmer",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 57.47
+    },
+    {
+     "id": "maurice-mercer",
+     "name": "Maurice Mercer",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 42.53
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "AL-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "terri-sewell",
+   "candidates": [
+    {
+     "id": "terri-sewell",
+     "name": "Terri Sewell",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 69.4
+    },
+    {
+     "id": "ammie-akin",
+     "name": "Ammie Akin",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 30.6
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

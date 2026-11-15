@@ -1,0 +1,69 @@
+{
+ "state": "WV",
+ "stateName": "West Virginia",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "WV-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "carol-miller",
+   "candidates": [
+    {
+     "id": "carol-miller",
+     "name": "Carol Miller",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 57.06
+    },
+    {
+     "id": "vince-george",
+     "name": "Vince George",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 39.63
+    },
+    {
+     "id": "belinda-fox-spencer",
+     "name": "Belinda Fox-Spencer",
+     "party": "Other",
+     "partyLabel": "Constitution",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_West_Virginia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WV-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "riley-moore",
+   "candidates": [
+    {
+     "id": "riley-moore",
+     "name": "Riley Moore",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 59.36
+    },
+    {
+     "id": "ace-parsi",
+     "name": "Ace Parsi",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 40.62
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_West_Virginia"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

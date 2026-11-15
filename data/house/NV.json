@@ -1,0 +1,157 @@
+{
+ "state": "NV",
+ "stateName": "Nevada",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "NV-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "dina-titus",
+   "candidates": [
+    {
+     "id": "dina-titus",
+     "name": "Dina Titus",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 59.21
+    },
+    {
+     "id": "carrie-buck",
+     "name": "Carrie Buck",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 37.69
+    },
+    {
+     "id": "steven-st-john",
+     "name": "Steven St. John",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "bobby-khan",
+     "name": "Bobby Khan",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NV-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "teresa-benitez-thompson",
+   "candidates": [
+    {
+     "id": "teresa-benitez-thompson",
+     "name": "Teresa Benitez-Thompson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 50.22
+    },
+    {
+     "id": "david-flippo",
+     "name": "David Flippo",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 44.3
+    },
+    {
+     "id": "lynn-chapman",
+     "name": "Lynn Chapman",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 5.47
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NV-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "susie-lee",
+   "candidates": [
+    {
+     "id": "susie-lee",
+     "name": "Susie Lee",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 59.6
+    },
+    {
+     "id": "martin-odonnell",
+     "name": "Martin O'Donnell",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 38.1
+    },
+    {
+     "id": "jon-kamerath",
+     "name": "Jon Kamerath",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NV-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "steven-horsford",
+   "candidates": [
+    {
+     "id": "steven-horsford",
+     "name": "Steven Horsford",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 60.44
+    },
+    {
+     "id": "cody-whipple",
+     "name": "Cody Whipple",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 37.67
+    },
+    {
+     "id": "russell-best",
+     "name": "Russell Best",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "william-johnson",
+     "name": "William Johnson",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "state": "NH",
+ "stateName": "New Hampshire",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "NH-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "stefany-shaheen",
+   "candidates": [
+    {
+     "id": "stefany-shaheen",
+     "name": "Stefany Shaheen",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 56.95
+    },
+    {
+     "id": "anthony-dilorenzo",
+     "name": "Anthony DiLorenzo",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 42.88
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NH"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NH-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "maggie-goodlander",
+   "candidates": [
+    {
+     "id": "maggie-goodlander",
+     "name": "Maggie Goodlander",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 58.78
+    },
+    {
+     "id": "lily-tang-williams",
+     "name": "Lily Tang Williams",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 38.78
+    },
+    {
+     "id": "robbie-mahrou",
+     "name": "Robbie Mahrou",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 2.36
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/NH"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

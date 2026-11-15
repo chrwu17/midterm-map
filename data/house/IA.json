@@ -1,0 +1,136 @@
+{
+ "state": "IA",
+ "stateName": "Iowa",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "IA-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "christina-bohannan",
+   "candidates": [
+    {
+     "id": "christina-bohannan",
+     "name": "Christina Bohannan",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 52.83
+    },
+    {
+     "id": "mariannette-miller-meeks",
+     "name": "Mariannette Miller-Meeks",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 43.58
+    },
+    {
+     "id": "michael-bridgford",
+     "name": "Michael Bridgford",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IA-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "lindsay-james",
+   "candidates": [
+    {
+     "id": "lindsay-james",
+     "name": "Lindsay James",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 49.54
+    },
+    {
+     "id": "joe-mitchell",
+     "name": "Joe Mitchell",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 45.56
+    },
+    {
+     "id": "rick-stewart",
+     "name": "Rick Stewart",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "dave-bushaw",
+     "name": "Dave Bushaw",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IA-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "sarah-trone-garriott",
+   "candidates": [
+    {
+     "id": "sarah-trone-garriott",
+     "name": "Sarah Trone Garriott",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 53.65
+    },
+    {
+     "id": "zach-nunn",
+     "name": "Zach Nunn",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 46.36
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IA-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "chris-mcgowan",
+   "candidates": [
+    {
+     "id": "chris-mcgowan",
+     "name": "Chris McGowan",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 59.06
+    },
+    {
+     "id": "david-dawson",
+     "name": "David Dawson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 40.93
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

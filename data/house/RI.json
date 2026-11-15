@@ -1,0 +1,68 @@
+{
+ "state": "RI",
+ "stateName": "Rhode Island",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "RI-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "gabe-amo",
+   "candidates": [
+    {
+     "id": "gabe-amo",
+     "name": "Gabe Amo",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 68.63
+    },
+    {
+     "id": "kellie-keenan",
+     "name": "Kellie Keenan",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 27.49
+    },
+    {
+     "id": "pedro-desouza",
+     "name": "Pedro DeSouza",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Rhode_Island"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "RI-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "seth-magaziner",
+   "candidates": [
+    {
+     "id": "seth-magaziner",
+     "name": "Seth Magaziner",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 61.9
+    },
+    {
+     "id": "vic-mellor",
+     "name": "Vic Mellor",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 37.8
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Rhode_Island"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

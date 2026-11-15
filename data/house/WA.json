@@ -1,0 +1,277 @@
+{
+ "state": "WA",
+ "stateName": "Washington",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "WA-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "suzan-delbene",
+   "candidates": [
+    {
+     "id": "suzan-delbene",
+     "name": "Suzan DelBene",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 67.45
+    },
+    {
+     "id": "mary-silva",
+     "name": "Mary Silva",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 32.24
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WA-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "rick-larsen",
+   "candidates": [
+    {
+     "id": "rick-larsen",
+     "name": "Rick Larsen",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 66.53
+    },
+    {
+     "id": "edwin-feller",
+     "name": "Edwin Feller",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 33.08
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WA-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "marie-gluesenkamp-perez",
+   "candidates": [
+    {
+     "id": "marie-gluesenkamp-perez",
+     "name": "Marie Gluesenkamp Perez",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 53.6
+    },
+    {
+     "id": "john-braun",
+     "name": "John Braun",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 45.4
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WA-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "amanda-mckinney",
+   "candidates": [
+    {
+     "id": "amanda-mckinney",
+     "name": "Amanda McKinney",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 53.93
+    },
+    {
+     "id": "john-duresky",
+     "name": "John Duresky",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 45.87
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WA-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "michael-baumgartner",
+   "candidates": [
+    {
+     "id": "michael-baumgartner",
+     "name": "Michael Baumgartner",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 52.01
+    },
+    {
+     "id": "carmela-conroy",
+     "name": "Carmela Conroy",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.59
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WA-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "emily-randall",
+   "candidates": [
+    {
+     "id": "emily-randall",
+     "name": "Emily Randall",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.41
+    },
+    {
+     "id": "teresa-fox",
+     "name": "Teresa Fox",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 37.37
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WA-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "pramila-jayapal",
+   "candidates": [
+    {
+     "id": "pramila-jayapal",
+     "name": "Pramila Jayapal",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 87.58
+    },
+    {
+     "id": "nirav-sheth",
+     "name": "Nirav Sheth",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 12.06
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WA-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "kim-schrier",
+   "candidates": [
+    {
+     "id": "kim-schrier",
+     "name": "Kim Schrier",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 57.04
+    },
+    {
+     "id": "spencer-meline",
+     "name": "Spencer Meline",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 42.69
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WA-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "adam-smith",
+   "candidates": [
+    {
+     "id": "adam-smith",
+     "name": "Adam Smith",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 75.65
+    },
+    {
+     "id": "doug-basler",
+     "name": "Doug Basler",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 23.62
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "WA-10",
+   "district": "10",
+   "status": "called",
+   "winnerId": "marilyn-strickland",
+   "candidates": [
+    {
+     "id": "marilyn-strickland",
+     "name": "Marilyn Strickland",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 63.84
+    },
+    {
+     "id": "chris-chung",
+     "name": "Chris Chung",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 35.52
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/WA"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

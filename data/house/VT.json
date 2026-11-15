@@ -1,0 +1,62 @@
+{
+ "state": "VT",
+ "stateName": "Vermont",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "VT-AL",
+   "district": "AL",
+   "status": "called",
+   "winnerId": "becca-balint",
+   "candidates": [
+    {
+     "id": "becca-balint",
+     "name": "Becca Balint",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 65.22
+    },
+    {
+     "id": "gerald-malloy",
+     "name": "Gerald Malloy",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 30.87
+    },
+    {
+     "id": "suzanne-seymour",
+     "name": "Suzanne Seymour",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.43
+    },
+    {
+     "id": "ryan-p-walton",
+     "name": "Ryan P. Walton",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.9
+    },
+    {
+     "id": "phoenix-k-altair",
+     "name": "Phoenix K. Altair",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.77
+    },
+    {
+     "id": "adam-ortiz",
+     "name": "Adam Ortiz",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.72
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Vermont"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

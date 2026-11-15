@@ -1,0 +1,170 @@
+{
+ "state": "OK",
+ "stateName": "Oklahoma",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "OK-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "mark-tedford",
+   "candidates": [
+    {
+     "id": "mark-tedford",
+     "name": "Mark Tedford",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 52.3
+    },
+    {
+     "id": "john-croisant",
+     "name": "John Croisant",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.7
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OK-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "josh-brecheen",
+   "candidates": [
+    {
+     "id": "josh-brecheen",
+     "name": "Josh Brecheen",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 67.96
+    },
+    {
+     "id": "brandon-wade",
+     "name": "Brandon Wade",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 28.97
+    },
+    {
+     "id": "ronnie-hopkins",
+     "name": "Ronnie Hopkins",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 3.07
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OK-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "frank-lucas",
+   "candidates": [
+    {
+     "id": "frank-lucas",
+     "name": "Frank Lucas",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 63.96
+    },
+    {
+     "id": "suzie-byrd",
+     "name": "Suzie Byrd",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 36.04
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OK-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "tom-cole",
+   "candidates": [
+    {
+     "id": "tom-cole",
+     "name": "Tom Cole",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 57.6
+    },
+    {
+     "id": "mitchell-jacob",
+     "name": "Mitchell Jacob",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 39.48
+    },
+    {
+     "id": "rocco-bonacci",
+     "name": "Rocco Bonacci",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 2.93
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OK-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "stephanie-bice",
+   "candidates": [
+    {
+     "id": "stephanie-bice",
+     "name": "Stephanie Bice",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.51
+    },
+    {
+     "id": "jena-nelson",
+     "name": "Jena Nelson",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.25
+    },
+    {
+     "id": "robert-henri",
+     "name": "Robert Henri",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.52
+    },
+    {
+     "id": "austin-nieves",
+     "name": "Austin Nieves",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 0.77
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

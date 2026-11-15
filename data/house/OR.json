@@ -1,0 +1,185 @@
+{
+ "state": "OR",
+ "stateName": "Oregon",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "OR-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "suzanne-bonamici",
+   "candidates": [
+    {
+     "id": "suzanne-bonamici",
+     "name": "Suzanne Bonamici",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 71.23
+    },
+    {
+     "id": "barbara-kahl",
+     "name": "Barbara Kahl",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 28.61
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/OR"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OR-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "cliff-bentz",
+   "candidates": [
+    {
+     "id": "cliff-bentz",
+     "name": "Cliff Bentz",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 61.45
+    },
+    {
+     "id": "chris-beck",
+     "name": "Chris Beck",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 38.42
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/OR"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OR-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "maxine-dexter",
+   "candidates": [
+    {
+     "id": "maxine-dexter",
+     "name": "Maxine Dexter",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 77.36
+    },
+    {
+     "id": "loran-ayles",
+     "name": "Loran Ayles",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 22.42
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/OR"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OR-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "val-hoyle",
+   "candidates": [
+    {
+     "id": "val-hoyle",
+     "name": "Val Hoyle",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 53.65
+    },
+    {
+     "id": "monique-despain",
+     "name": "Monique DeSpain",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 42.78
+    },
+    {
+     "id": "justin-filip",
+     "name": "Justin Filip",
+     "party": "Other",
+     "partyLabel": "Pacific Green",
+     "incumbent": false,
+     "voteShare": 3.47
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/OR"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OR-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "janelle-bynum",
+   "candidates": [
+    {
+     "id": "janelle-bynum",
+     "name": "Janelle Bynum",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 53.83
+    },
+    {
+     "id": "patti-adair",
+     "name": "Patti Adair",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 43.88
+    },
+    {
+     "id": "andrea-townsend",
+     "name": "Andrea Townsend",
+     "party": "Other",
+     "partyLabel": "Pacific Green",
+     "incumbent": false,
+     "voteShare": 2.22
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/OR"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OR-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "andrea-salinas",
+   "candidates": [
+    {
+     "id": "andrea-salinas",
+     "name": "Andrea Salinas",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 58.34
+    },
+    {
+     "id": "david-russ",
+     "name": "David Russ",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 41.55
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/OR"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

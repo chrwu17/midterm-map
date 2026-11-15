@@ -1,0 +1,347 @@
+{
+ "state": "CO",
+ "stateName": "Colorado",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "CO-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "melat-kiros",
+   "candidates": [
+    {
+     "id": "melat-kiros",
+     "name": "Melat Kiros",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 78.3
+    },
+    {
+     "id": "christy-peterson",
+     "name": "Christy Peterson",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 14.12
+    },
+    {
+     "id": "shimon-blau",
+     "name": "Shimon Blau",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 5.46
+    },
+    {
+     "id": "chad-humphrey",
+     "name": "Chad Humphrey",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "critter-milton",
+     "name": "Critter Milton",
+     "party": "Other",
+     "partyLabel": "Unity",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CO-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "joe-neguse",
+   "candidates": [
+    {
+     "id": "joe-neguse",
+     "name": "Joe Neguse",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 74.58
+    },
+    {
+     "id": "kelley-dennison",
+     "name": "Kelley Dennison",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 23.58
+    },
+    {
+     "id": "gaylon-kent",
+     "name": "Gaylon Kent",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CO-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "jeff-hurd",
+   "candidates": [
+    {
+     "id": "jeff-hurd",
+     "name": "Jeff Hurd",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 49.27
+    },
+    {
+     "id": "dwayne-romero",
+     "name": "Dwayne Romero",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.43
+    },
+    {
+     "id": "cory-robertson",
+     "name": "Cory Robertson",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "clifton-brown",
+     "name": "Clifton Brown",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CO-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "eileen-laubacher",
+   "candidates": [
+    {
+     "id": "eileen-laubacher",
+     "name": "Eileen Laubacher",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.77
+    },
+    {
+     "id": "lauren-boebert",
+     "name": "Lauren Boebert",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 47.93
+    },
+    {
+     "id": "douglas-mangeris",
+     "name": "Douglas Mangeris",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CO-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "jessica-killin",
+   "candidates": [
+    {
+     "id": "jessica-killin",
+     "name": "Jessica Killin",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 50.51
+    },
+    {
+     "id": "jeff-crank",
+     "name": "Jeff Crank",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 45.79
+    },
+    {
+     "id": "mark-elworth",
+     "name": "Mark Elworth",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "christopher-mitchell",
+     "name": "Christopher Mitchell",
+     "party": "Other",
+     "partyLabel": "Constitution",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CO-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "jason-crow",
+   "candidates": [
+    {
+     "id": "jason-crow",
+     "name": "Jason Crow",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 65.76
+    },
+    {
+     "id": "jason-clark",
+     "name": "Jason Clark",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 31.12
+    },
+    {
+     "id": "patty-mcmahon",
+     "name": "Patty McMahon",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "samir-ezzeldin-witta",
+     "name": "Samir Ezzeldin Witta",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "meredith-ryan",
+     "name": "Meredith Ryan",
+     "party": "Other",
+     "partyLabel": "Unity",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CO-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "brittany-pettersen",
+   "candidates": [
+    {
+     "id": "brittany-pettersen",
+     "name": "Brittany Pettersen",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 60.68
+    },
+    {
+     "id": "tim-bennett",
+     "name": "Tim Bennett",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 36.11
+    },
+    {
+     "id": "joe-krzeczkowski",
+     "name": "Joe Krzeczkowski",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "dan-sallis",
+     "name": "Dan Sallis",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "susan-hall",
+     "name": "Susan Hall",
+     "party": "Other",
+     "partyLabel": "Unity",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "lawrence-clark",
+     "name": "Lawrence Clark",
+     "party": "Other",
+     "partyLabel": "Constitution",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CO-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "manny-rutinel",
+   "candidates": [
+    {
+     "id": "manny-rutinel",
+     "name": "Manny Rutinel",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 55.41
+    },
+    {
+     "id": "gabe-evans",
+     "name": "Gabe Evans",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 40.69
+    },
+    {
+     "id": "dave-wood",
+     "name": "Dave Wood",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

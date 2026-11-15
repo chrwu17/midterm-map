@@ -1,0 +1,481 @@
+{
+ "state": "IL",
+ "stateName": "Illinois",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "IL-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "jonathan-jackson",
+   "candidates": [
+    {
+     "id": "jonathan-jackson",
+     "name": "Jonathan Jackson",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 72.52
+    },
+    {
+     "id": "christian-maxwell",
+     "name": "Christian Maxwell",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 27.48
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "donna-miller",
+   "candidates": [
+    {
+     "id": "donna-miller",
+     "name": "Donna Miller",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 73.06
+    },
+    {
+     "id": "michael-noack",
+     "name": "Michael Noack",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 26.94
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "delia-ramirez",
+   "candidates": [
+    {
+     "id": "delia-ramirez",
+     "name": "Delia Ramirez",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 77.53
+    },
+    {
+     "id": "angel-oakley",
+     "name": "Angel Oakley",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 22.47
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "patty-garcia",
+   "candidates": [
+    {
+     "id": "patty-garcia",
+     "name": "Patty García",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 71.32
+    },
+    {
+     "id": "lupe-castillo",
+     "name": "Lupe Castillo",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 15.85
+    },
+    {
+     "id": "chris-getty",
+     "name": "Chris Getty",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 9.16
+    },
+    {
+     "id": "ed-hershey",
+     "name": "Ed Hershey",
+     "party": "Other",
+     "partyLabel": "Working Class",
+     "incumbent": false,
+     "voteShare": 3.66
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "mike-quigley",
+   "candidates": [
+    {
+     "id": "mike-quigley",
+     "name": "Mike Quigley",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 77.22
+    },
+    {
+     "id": "tommy-hanson",
+     "name": "Tommy Hanson",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 22.78
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "sean-casten",
+   "candidates": [
+    {
+     "id": "sean-casten",
+     "name": "Sean Casten",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.95
+    },
+    {
+     "id": "niki-conforti",
+     "name": "Niki Conforti",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 37.05
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "la-shawn-ford",
+   "candidates": [
+    {
+     "id": "la-shawn-ford",
+     "name": "La Shawn Ford",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 89.32
+    },
+    {
+     "id": "chad-koppie",
+     "name": "Chad Koppie",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 10.68
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "melissa-bean",
+   "candidates": [
+    {
+     "id": "melissa-bean",
+     "name": "Melissa Bean",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 64.32
+    },
+    {
+     "id": "jennifer-davis",
+     "name": "Jennifer Davis",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 35.68
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "daniel-biss",
+   "candidates": [
+    {
+     "id": "daniel-biss",
+     "name": "Daniel Biss",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 76.85
+    },
+    {
+     "id": "john-elleson",
+     "name": "John Elleson",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 23.15
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-10",
+   "district": "10",
+   "status": "called",
+   "winnerId": "brad-schneider",
+   "candidates": [
+    {
+     "id": "brad-schneider",
+     "name": "Brad Schneider",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 70.36
+    },
+    {
+     "id": "carl-lambrecht",
+     "name": "Carl Lambrecht",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 29.64
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-11",
+   "district": "11",
+   "status": "called",
+   "winnerId": "bill-foster",
+   "candidates": [
+    {
+     "id": "bill-foster",
+     "name": "Bill Foster",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 64.26
+    },
+    {
+     "id": "jeff-walter",
+     "name": "Jeff Walter",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 35.74
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-12",
+   "district": "12",
+   "status": "called",
+   "winnerId": "mike-bost",
+   "candidates": [
+    {
+     "id": "mike-bost",
+     "name": "Mike Bost",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 69.53
+    },
+    {
+     "id": "julie-fortier",
+     "name": "Julie Fortier",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 30.47
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-13",
+   "district": "13",
+   "status": "called",
+   "winnerId": "nikki-budzinski",
+   "candidates": [
+    {
+     "id": "nikki-budzinski",
+     "name": "Nikki Budzinski",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.67
+    },
+    {
+     "id": "jeff-wilson",
+     "name": "Jeff Wilson",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 37.33
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-14",
+   "district": "14",
+   "status": "called",
+   "winnerId": "lauren-underwood",
+   "candidates": [
+    {
+     "id": "lauren-underwood",
+     "name": "Lauren Underwood",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.65
+    },
+    {
+     "id": "james-marter",
+     "name": "James Marter",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 37.35
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-15",
+   "district": "15",
+   "status": "called",
+   "winnerId": "mary-miller",
+   "candidates": [
+    {
+     "id": "mary-miller",
+     "name": "Mary Miller",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 66.84
+    },
+    {
+     "id": "jennifer-todd",
+     "name": "Jennifer Todd",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 33.16
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-16",
+   "district": "16",
+   "status": "called",
+   "winnerId": "darin-lahood",
+   "candidates": [
+    {
+     "id": "darin-lahood",
+     "name": "Darin LaHood",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 58.85
+    },
+    {
+     "id": "paul-nolley",
+     "name": "Paul Nolley",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 41.15
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "IL-17",
+   "district": "17",
+   "status": "called",
+   "winnerId": "eric-sorensen",
+   "candidates": [
+    {
+     "id": "eric-sorensen",
+     "name": "Eric Sorensen",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 60.1
+    },
+    {
+     "id": "dillan-vancil",
+     "name": "Dillan Vancil",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 39.9
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/IL"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

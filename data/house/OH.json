@@ -1,0 +1,461 @@
+{
+ "state": "OH",
+ "stateName": "Ohio",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "OH-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "greg-landsman",
+   "candidates": [
+    {
+     "id": "greg-landsman",
+     "name": "Greg Landsman",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 54.36
+    },
+    {
+     "id": "eric-conroy",
+     "name": "Eric Conroy",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 42.93
+    },
+    {
+     "id": "nathan-weise",
+     "name": "Nathan Weise",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "david-taylor",
+   "candidates": [
+    {
+     "id": "david-taylor",
+     "name": "David Taylor",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 64.24
+    },
+    {
+     "id": "jennifer-mazzuckelli",
+     "name": "Jennifer Mazzuckelli",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 35.76
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "joyce-beatty",
+   "candidates": [
+    {
+     "id": "joyce-beatty",
+     "name": "Joyce Beatty",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 77.22
+    },
+    {
+     "id": "cleophus-dulaney",
+     "name": "Cleophus Dulaney",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 22.78
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "jim-jordan",
+   "candidates": [
+    {
+     "id": "jim-jordan",
+     "name": "Jim Jordan",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 64.55
+    },
+    {
+     "id": "joshua-kolasinski",
+     "name": "Joshua Kolasinski",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 31.28
+    },
+    {
+     "id": "tracey-tackett",
+     "name": "Tracey Tackett",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "bob-latta",
+   "candidates": [
+    {
+     "id": "bob-latta",
+     "name": "Bob Latta",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 54.31
+    },
+    {
+     "id": "brian-shaver",
+     "name": "Brian Shaver",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 42.59
+    },
+    {
+     "id": "michael-veloff",
+     "name": "Michael Veloff",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "michael-rulli",
+   "candidates": [
+    {
+     "id": "michael-rulli",
+     "name": "Michael Rulli",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 60.4
+    },
+    {
+     "id": "elizabeth-kirtley",
+     "name": "Elizabeth Kirtley",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 39.6
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "brian-poindexter",
+   "candidates": [
+    {
+     "id": "brian-poindexter",
+     "name": "Brian Poindexter",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 54.94
+    },
+    {
+     "id": "max-miller",
+     "name": "Max Miller",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 45.07
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "warren-davidson",
+   "candidates": [
+    {
+     "id": "warren-davidson",
+     "name": "Warren Davidson",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 52.14
+    },
+    {
+     "id": "vanessa-enoch",
+     "name": "Vanessa Enoch",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.86
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "marcy-kaptur",
+   "candidates": [
+    {
+     "id": "marcy-kaptur",
+     "name": "Marcy Kaptur",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 52.73
+    },
+    {
+     "id": "derek-merrin",
+     "name": "Derek Merrin",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 47.27
+    },
+    {
+     "id": "matthew-althaus",
+     "name": "Matthew Althaus",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-10",
+   "district": "10",
+   "status": "called",
+   "winnerId": "kristina-knickerbocker",
+   "candidates": [
+    {
+     "id": "kristina-knickerbocker",
+     "name": "Kristina Knickerbocker",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 49.34
+    },
+    {
+     "id": "mike-turner",
+     "name": "Mike Turner",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 47.71
+    },
+    {
+     "id": "thomas-mcmasters",
+     "name": "Thomas McMasters",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.95
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-11",
+   "district": "11",
+   "status": "called",
+   "winnerId": "shontel-brown",
+   "candidates": [
+    {
+     "id": "shontel-brown",
+     "name": "Shontel Brown",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 83.53
+    },
+    {
+     "id": "mike-kirchner",
+     "name": "Mike Kirchner",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 16.47
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-12",
+   "district": "12",
+   "status": "called",
+   "winnerId": "troy-balderson",
+   "candidates": [
+    {
+     "id": "troy-balderson",
+     "name": "Troy Balderson",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 59.39
+    },
+    {
+     "id": "jerrad-christian",
+     "name": "Jerrad Christian",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 40.61
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-13",
+   "district": "13",
+   "status": "called",
+   "winnerId": "emilia-sykes",
+   "candidates": [
+    {
+     "id": "emilia-sykes",
+     "name": "Emilia Sykes",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 59.98
+    },
+    {
+     "id": "carey-coleman",
+     "name": "Carey Coleman",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 38.42
+    },
+    {
+     "id": "sandeep-dixit",
+     "name": "Sandeep Dixit",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.61
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-14",
+   "district": "14",
+   "status": "called",
+   "winnerId": "david-joyce",
+   "candidates": [
+    {
+     "id": "david-joyce",
+     "name": "David Joyce",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 55.03
+    },
+    {
+     "id": "maria-jukic",
+     "name": "Maria Jukic",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 44.97
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "OH-15",
+   "district": "15",
+   "status": "called",
+   "winnerId": "don-leonard",
+   "candidates": [
+    {
+     "id": "don-leonard",
+     "name": "Don Leonard",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 51.9
+    },
+    {
+     "id": "mike-carey",
+     "name": "Mike Carey",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 45.27
+    },
+    {
+     "id": "brennan-barrington",
+     "name": "Brennan Barrington",
+     "party": "Libertarian",
+     "incumbent": false,
+     "voteShare": 2.83
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

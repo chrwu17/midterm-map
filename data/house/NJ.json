@@ -1,0 +1,409 @@
+{
+ "state": "NJ",
+ "stateName": "New Jersey",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "NJ-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "donald-norcross",
+   "candidates": [
+    {
+     "id": "donald-norcross",
+     "name": "Donald Norcross",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 70.4
+    },
+    {
+     "id": "damon-galdo",
+     "name": "Damon Galdo",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 29.6
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NJ-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "zack-mullock",
+   "candidates": [
+    {
+     "id": "zack-mullock",
+     "name": "Zack Mullock",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 50.87
+    },
+    {
+     "id": "jeff-van-drew",
+     "name": "Jeff Van Drew",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 48.08
+    },
+    {
+     "id": "ramon-mora-jr",
+     "name": "Ramon Mora Jr.",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NJ-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "herb-conaway",
+   "candidates": [
+    {
+     "id": "herb-conaway",
+     "name": "Herb Conaway",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.76
+    },
+    {
+     "id": "michael-mcguire",
+     "name": "Michael McGuire",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 35.28
+    },
+    {
+     "id": "ryan-kelly",
+     "name": "Ryan Kelly",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "steven-welzer",
+     "name": "Steven Welzer",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NJ-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "chris-smith",
+   "candidates": [
+    {
+     "id": "chris-smith",
+     "name": "Chris Smith",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 59.0
+    },
+    {
+     "id": "rachel-peace",
+     "name": "Rachel Peace",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 41.0
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NJ-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "josh-gottheimer",
+   "candidates": [
+    {
+     "id": "josh-gottheimer",
+     "name": "Josh Gottheimer",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.46
+    },
+    {
+     "id": "sean-kirrane",
+     "name": "Sean Kirrane",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 34.56
+    },
+    {
+     "id": "adam-rueda",
+     "name": "Adam Rueda",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NJ-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "frank-pallone",
+   "candidates": [
+    {
+     "id": "frank-pallone",
+     "name": "Frank Pallone",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 69.43
+    },
+    {
+     "id": "hillary-herzig",
+     "name": "Hillary Herzig",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 30.58
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NJ-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "rebecca-bennett",
+   "candidates": [
+    {
+     "id": "rebecca-bennett",
+     "name": "Rebecca Bennett",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 57.54
+    },
+    {
+     "id": "thomas-kean-jr",
+     "name": "Thomas Kean Jr.",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 40.91
+    },
+    {
+     "id": "seamus-otoole",
+     "name": "Seamus O'Toole",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 1.55
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NJ-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "rob-menendez",
+   "candidates": [
+    {
+     "id": "rob-menendez",
+     "name": "Rob Menendez",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 88.57
+    },
+    {
+     "id": "craig-honts",
+     "name": "Craig Honts",
+     "party": "Other",
+     "partyLabel": "Socialist Workers",
+     "incumbent": false,
+     "voteShare": 4.27
+    },
+    {
+     "id": "aristotle-eliopoulos",
+     "name": "Aristotle Eliopoulos",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 4.23
+    },
+    {
+     "id": "dashone-hughey",
+     "name": "Da'Shone Hughey",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": 2.93
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NJ-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "nellie-pou",
+   "candidates": [
+    {
+     "id": "nellie-pou",
+     "name": "Nellie Pou",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 66.75
+    },
+    {
+     "id": "rosie-pino",
+     "name": "Rosie Pino",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 31.79
+    },
+    {
+     "id": "terrisa-bukovinac",
+     "name": "Terrisa Bukovinac",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NJ-10",
+   "district": "10",
+   "status": "called",
+   "winnerId": "lamonica-mciver",
+   "candidates": [
+    {
+     "id": "lamonica-mciver",
+     "name": "LaMonica McIver",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 84.62
+    },
+    {
+     "id": "carmen-bucco",
+     "name": "Carmen Bucco",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 15.38
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NJ-11",
+   "district": "11",
+   "status": "called",
+   "winnerId": "analilia-mejia",
+   "candidates": [
+    {
+     "id": "analilia-mejia",
+     "name": "Analilia Mejia",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 60.81
+    },
+    {
+     "id": "joe-hathaway",
+     "name": "Joe Hathaway",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 38.29
+    },
+    {
+     "id": "alan-bond",
+     "name": "Alan Bond",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "NJ-12",
+   "district": "12",
+   "status": "called",
+   "winnerId": "adam-hamawy",
+   "candidates": [
+    {
+     "id": "adam-hamawy",
+     "name": "Adam Hamawy",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 70.55
+    },
+    {
+     "id": "gregg-mele",
+     "name": "Gregg Mele",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 27.94
+    },
+    {
+     "id": "winston-jordan",
+     "name": "Winston Jordan",
+     "party": "Independent",
+     "incumbent": false,
+     "voteShare": null
+    },
+    {
+     "id": "andres-jinete",
+     "name": "Andres Jinete",
+     "party": "Green",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

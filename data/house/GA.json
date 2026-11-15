@@ -1,0 +1,385 @@
+{
+ "state": "GA",
+ "stateName": "Georgia",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "GA-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "jim-kingston",
+   "candidates": [
+    {
+     "id": "jim-kingston",
+     "name": "Jim Kingston",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 51.42
+    },
+    {
+     "id": "amanda-hollowell",
+     "name": "Amanda Hollowell",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 48.58
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "GA-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "sanford-bishop",
+   "candidates": [
+    {
+     "id": "sanford-bishop",
+     "name": "Sanford Bishop",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 60.79
+    },
+    {
+     "id": "matt-day",
+     "name": "Matt Day",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 39.21
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "GA-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "brian-jack",
+   "candidates": [
+    {
+     "id": "brian-jack",
+     "name": "Brian Jack",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 58.62
+    },
+    {
+     "id": "maura-keller",
+     "name": "Maura Keller",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 41.38
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "GA-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "hank-johnson",
+   "candidates": [
+    {
+     "id": "hank-johnson",
+     "name": "Hank Johnson",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 82.71
+    },
+    {
+     "id": "james-duffie",
+     "name": "James Duffie",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 17.38
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "GA-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "nikema-williams",
+   "candidates": [
+    {
+     "id": "nikema-williams",
+     "name": "Nikema Williams",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 90.19
+    },
+    {
+     "id": "john-oscar-salvesen",
+     "name": "John Oscar Salvesen",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "GA-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "lucy-mcbath",
+   "candidates": [
+    {
+     "id": "lucy-mcbath",
+     "name": "Lucy McBath",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 80.87
+    },
+    {
+     "id": "kevin-martin",
+     "name": "Kevin Martin",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 19.11
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "GA-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "rich-mccormick",
+   "candidates": [
+    {
+     "id": "rich-mccormick",
+     "name": "Rich McCormick",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 56.19
+    },
+    {
+     "id": "tony-kozycki",
+     "name": "Tony Kozycki",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 43.81
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "GA-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "austin-scott",
+   "candidates": [
+    {
+     "id": "austin-scott",
+     "name": "Austin Scott",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 60.43
+    },
+    {
+     "id": "kelly-esti",
+     "name": "Kelly Esti",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 39.58
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "GA-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "andrew-clyde",
+   "candidates": [
+    {
+     "id": "andrew-clyde",
+     "name": "Andrew Clyde",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 59.3
+    },
+    {
+     "id": "caitlyn-gegen",
+     "name": "Caitlyn Gegen",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 40.7
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "GA-10",
+   "district": "10",
+   "status": "called",
+   "winnerId": "houston-gaines",
+   "candidates": [
+    {
+     "id": "houston-gaines",
+     "name": "Houston Gaines",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 53.59
+    },
+    {
+     "id": "pam-delancy",
+     "name": "Pam Delancy",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.41
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "GA-11",
+   "district": "11",
+   "status": "called",
+   "winnerId": "john-cowan",
+   "candidates": [
+    {
+     "id": "john-cowan",
+     "name": "John Cowan",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 55.36
+    },
+    {
+     "id": "chris-harden",
+     "name": "Chris Harden",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 44.63
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "GA-12",
+   "district": "12",
+   "status": "called",
+   "winnerId": "rick-allen",
+   "candidates": [
+    {
+     "id": "rick-allen",
+     "name": "Rick Allen",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 52.09
+    },
+    {
+     "id": "ceretta-smith",
+     "name": "Ceretta Smith",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.91
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "GA-13",
+   "district": "13",
+   "status": "called",
+   "winnerId": "jasmine-clark",
+   "candidates": [
+    {
+     "id": "jasmine-clark",
+     "name": "Jasmine Clark",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 79.87
+    },
+    {
+     "id": "jonathan-chavez",
+     "name": "Jonathan Chavez",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": null
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "GA-14",
+   "district": "14",
+   "status": "called",
+   "winnerId": "clay-fuller",
+   "candidates": [
+    {
+     "id": "clay-fuller",
+     "name": "Clay Fuller",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 58.78
+    },
+    {
+     "id": "shawn-harris",
+     "name": "Shawn Harris",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 41.22
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}

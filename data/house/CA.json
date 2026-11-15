@@ -1,0 +1,1411 @@
+{
+ "state": "CA",
+ "stateName": "California",
+ "electionDate": "2026-11-03",
+ "districts": [
+  {
+   "id": "CA-01",
+   "district": "1",
+   "status": "called",
+   "winnerId": "mike-mcguire",
+   "candidates": [
+    {
+     "id": "mike-mcguire",
+     "name": "Mike McGuire",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 58.6
+    },
+    {
+     "id": "james-gallagher",
+     "name": "James Gallagher",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 41.4
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-02",
+   "district": "2",
+   "status": "called",
+   "winnerId": "jared-huffman",
+   "candidates": [
+    {
+     "id": "jared-huffman",
+     "name": "Jared Huffman",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 66.93
+    },
+    {
+     "id": "robin-littau",
+     "name": "Robin Littau",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 33.07
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-03",
+   "district": "3",
+   "status": "called",
+   "winnerId": "ami-bera",
+   "candidates": [
+    {
+     "id": "ami-bera",
+     "name": "Ami Bera",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 58.77
+    },
+    {
+     "id": "robb-tucker",
+     "name": "Robb Tucker",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 41.23
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-04",
+   "district": "4",
+   "status": "called",
+   "winnerId": "eric-jones",
+   "candidates": [
+    {
+     "id": "eric-jones",
+     "name": "Eric Jones",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 52.53
+    },
+    {
+     "id": "mike-thompson",
+     "name": "Mike Thompson",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 47.47
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-05",
+   "district": "5",
+   "status": "called",
+   "winnerId": "tom-mcclintock",
+   "candidates": [
+    {
+     "id": "tom-mcclintock",
+     "name": "Tom McClintock",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 55.79
+    },
+    {
+     "id": "michael-masuda",
+     "name": "Michael Masuda",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 44.21
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-06",
+   "district": "6",
+   "status": "called",
+   "winnerId": "richard-pan",
+   "candidates": [
+    {
+     "id": "richard-pan",
+     "name": "Richard Pan",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 58.88
+    },
+    {
+     "id": "kevin-kiley",
+     "name": "Kevin Kiley",
+     "party": "Independent",
+     "incumbent": true,
+     "voteShare": 41.12
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-07",
+   "district": "7",
+   "status": "called",
+   "winnerId": "doris-matsui",
+   "candidates": [
+    {
+     "id": "doris-matsui",
+     "name": "Doris Matsui",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 52.42
+    },
+    {
+     "id": "mai-vang",
+     "name": "Mai Vang",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 47.58
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-08",
+   "district": "8",
+   "status": "called",
+   "winnerId": "john-garamendi",
+   "candidates": [
+    {
+     "id": "john-garamendi",
+     "name": "John Garamendi",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 73.42
+    },
+    {
+     "id": "rudy-recile",
+     "name": "Rudy Recile",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 26.58
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-09",
+   "district": "9",
+   "status": "called",
+   "winnerId": "josh-harder",
+   "candidates": [
+    {
+     "id": "josh-harder",
+     "name": "Josh Harder",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 67.09
+    },
+    {
+     "id": "john-mcbride",
+     "name": "John McBride",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 32.91
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-10",
+   "district": "10",
+   "status": "called",
+   "winnerId": "mark-desaulnier",
+   "candidates": [
+    {
+     "id": "mark-desaulnier",
+     "name": "Mark DeSaulnier",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 69.7
+    },
+    {
+     "id": "jeff-frese",
+     "name": "Jeff Frese",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 30.3
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-11",
+   "district": "11",
+   "status": "called",
+   "winnerId": "scott-wiener",
+   "candidates": [
+    {
+     "id": "scott-wiener",
+     "name": "Scott Wiener",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 53.33
+    },
+    {
+     "id": "connie-chan",
+     "name": "Connie Chan",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 46.67
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-12",
+   "district": "12",
+   "status": "called",
+   "winnerId": "lateefah-simon",
+   "candidates": [
+    {
+     "id": "lateefah-simon",
+     "name": "Lateefah Simon",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 80.41
+    },
+    {
+     "id": "jamie-joyce",
+     "name": "Jamie Joyce",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 19.59
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-13",
+   "district": "13",
+   "status": "called",
+   "winnerId": "adam-gray",
+   "candidates": [
+    {
+     "id": "adam-gray",
+     "name": "Adam Gray",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 62.38
+    },
+    {
+     "id": "kevin-lincoln",
+     "name": "Kevin Lincoln",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 37.62
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-14",
+   "district": "14",
+   "status": "called",
+   "winnerId": "aisha-wahab",
+   "candidates": [
+    {
+     "id": "aisha-wahab",
+     "name": "Aisha Wahab",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 57.56
+    },
+    {
+     "id": "melissa-hernandez",
+     "name": "Melissa Hernandez",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 42.44
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-15",
+   "district": "15",
+   "status": "called",
+   "winnerId": "kevin-mullin",
+   "candidates": [
+    {
+     "id": "kevin-mullin",
+     "name": "Kevin Mullin",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 79.95
+    },
+    {
+     "id": "charles-hoelter",
+     "name": "Charles Hoelter",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 20.05
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-16",
+   "district": "16",
+   "status": "called",
+   "winnerId": "sam-liccardo",
+   "candidates": [
+    {
+     "id": "sam-liccardo",
+     "name": "Sam Liccardo",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 77.96
+    },
+    {
+     "id": "peter-soule",
+     "name": "Peter Soulé",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 22.04
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-17",
+   "district": "17",
+   "status": "called",
+   "winnerId": "ro-khanna",
+   "candidates": [
+    {
+     "id": "ro-khanna",
+     "name": "Ro Khanna",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 72.71
+    },
+    {
+     "id": "ritesh-tandon",
+     "name": "Ritesh Tandon",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 27.29
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-18",
+   "district": "18",
+   "status": "called",
+   "winnerId": "zoe-lofgren",
+   "candidates": [
+    {
+     "id": "zoe-lofgren",
+     "name": "Zoe Lofgren",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 73.0
+    },
+    {
+     "id": "shane-lewis",
+     "name": "Shane Lewis",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 27.0
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-19",
+   "district": "19",
+   "status": "called",
+   "winnerId": "jimmy-panetta",
+   "candidates": [
+    {
+     "id": "jimmy-panetta",
+     "name": "Jimmy Panetta",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 72.09
+    },
+    {
+     "id": "peter-coe-verbica",
+     "name": "Peter Coe Verbica",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 27.91
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-20",
+   "district": "20",
+   "status": "called",
+   "winnerId": "vince-fong",
+   "candidates": [
+    {
+     "id": "vince-fong",
+     "name": "Vince Fong",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 61.3
+    },
+    {
+     "id": "sandra-van-scotter",
+     "name": "Sandra Van Scotter",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 38.7
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-21",
+   "district": "21",
+   "status": "called",
+   "winnerId": "jim-costa",
+   "candidates": [
+    {
+     "id": "jim-costa",
+     "name": "Jim Costa",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 64.45
+    },
+    {
+     "id": "kyle-kirkland",
+     "name": "Kyle Kirkland",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 35.55
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-22",
+   "district": "22",
+   "status": "called",
+   "winnerId": "randy-villegas",
+   "candidates": [
+    {
+     "id": "randy-villegas",
+     "name": "Randy Villegas",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 67.8
+    },
+    {
+     "id": "david-valadao",
+     "name": "David Valadao",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 32.2
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-23",
+   "district": "23",
+   "status": "uncalled",
+   "winnerId": null,
+   "candidates": [
+    {
+     "id": "jay-obernolte",
+     "name": "Jay Obernolte",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 50.81
+    },
+    {
+     "id": "tessa-lynn-hodge",
+     "name": "Tessa Lynn Hodge",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 49.19
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-24",
+   "district": "24",
+   "status": "called",
+   "winnerId": "salud-carbajal",
+   "candidates": [
+    {
+     "id": "salud-carbajal",
+     "name": "Salud Carbajal",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 66.2
+    },
+    {
+     "id": "bob-smith",
+     "name": "Bob Smith",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 33.8
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-25",
+   "district": "25",
+   "status": "called",
+   "winnerId": "raul-ruiz",
+   "candidates": [
+    {
+     "id": "raul-ruiz",
+     "name": "Raul Ruiz",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 65.92
+    },
+    {
+     "id": "joe-males",
+     "name": "Joe Males",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 34.08
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-26",
+   "district": "26",
+   "status": "called",
+   "winnerId": "jacqui-irwin",
+   "candidates": [
+    {
+     "id": "jacqui-irwin",
+     "name": "Jacqui Irwin",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 62.91
+    },
+    {
+     "id": "sam-gallucci",
+     "name": "Sam Gallucci",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 37.09
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-27",
+   "district": "27",
+   "status": "called",
+   "winnerId": "george-t-whitesides",
+   "candidates": [
+    {
+     "id": "george-t-whitesides",
+     "name": "George T. Whitesides",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 64.21
+    },
+    {
+     "id": "jason-gibbs",
+     "name": "Jason Gibbs",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 35.79
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-28",
+   "district": "28",
+   "status": "called",
+   "winnerId": "judy-chu",
+   "candidates": [
+    {
+     "id": "judy-chu",
+     "name": "Judy Chu",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 69.6
+    },
+    {
+     "id": "april-verlato",
+     "name": "April Verlato",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 30.4
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-29",
+   "district": "29",
+   "status": "called",
+   "winnerId": "luz-rivas",
+   "candidates": [
+    {
+     "id": "luz-rivas",
+     "name": "Luz Rivas",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 57.28
+    },
+    {
+     "id": "angelica-duenas",
+     "name": "Angelica Dueñas",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 42.72
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-30",
+   "district": "30",
+   "status": "called",
+   "winnerId": "laura-friedman",
+   "candidates": [
+    {
+     "id": "laura-friedman",
+     "name": "Laura Friedman",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 77.62
+    },
+    {
+     "id": "scott-meyers",
+     "name": "Scott Meyers",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 22.38
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-31",
+   "district": "31",
+   "status": "called",
+   "winnerId": "gil-cisneros",
+   "candidates": [
+    {
+     "id": "gil-cisneros",
+     "name": "Gil Cisneros",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 66.39
+    },
+    {
+     "id": "eric-ching",
+     "name": "Eric Ching",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 33.61
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-32",
+   "district": "32",
+   "status": "called",
+   "winnerId": "brad-sherman",
+   "candidates": [
+    {
+     "id": "brad-sherman",
+     "name": "Brad Sherman",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 67.3
+    },
+    {
+     "id": "larry-thompson",
+     "name": "Larry Thompson",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 32.7
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-33",
+   "district": "33",
+   "status": "called",
+   "winnerId": "pete-aguilar",
+   "candidates": [
+    {
+     "id": "pete-aguilar",
+     "name": "Pete Aguilar",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 68.94
+    },
+    {
+     "id": "stephanie-vargas",
+     "name": "Stephanie Vargas",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 31.06
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-34",
+   "district": "34",
+   "status": "called",
+   "winnerId": "angela-gonzales-torres",
+   "candidates": [
+    {
+     "id": "angela-gonzales-torres",
+     "name": "Angela Gonzales-Torres",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 62.19
+    },
+    {
+     "id": "jimmy-gomez",
+     "name": "Jimmy Gomez",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 37.81
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-35",
+   "district": "35",
+   "status": "called",
+   "winnerId": "norma-torres",
+   "candidates": [
+    {
+     "id": "norma-torres",
+     "name": "Norma Torres",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 66.84
+    },
+    {
+     "id": "mike-cargile",
+     "name": "Mike Cargile",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 33.16
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-36",
+   "district": "36",
+   "status": "called",
+   "winnerId": "ted-lieu",
+   "candidates": [
+    {
+     "id": "ted-lieu",
+     "name": "Ted Lieu",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 73.02
+    },
+    {
+     "id": "houston-brignano",
+     "name": "Houston Brignano",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 26.98
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-37",
+   "district": "37",
+   "status": "called",
+   "winnerId": "sydney-kamlager-dove",
+   "candidates": [
+    {
+     "id": "sydney-kamlager-dove",
+     "name": "Sydney Kamlager-Dove",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 60.81
+    },
+    {
+     "id": "samantha-mota",
+     "name": "Samantha Mota",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 39.19
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-38",
+   "district": "38",
+   "status": "called",
+   "winnerId": "hilda-solis",
+   "candidates": [
+    {
+     "id": "hilda-solis",
+     "name": "Hilda Solis",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 67.45
+    },
+    {
+     "id": "pedro-casas",
+     "name": "Pedro Casas",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 32.55
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-39",
+   "district": "39",
+   "status": "called",
+   "winnerId": "mark-takano",
+   "candidates": [
+    {
+     "id": "mark-takano",
+     "name": "Mark Takano",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 68.98
+    },
+    {
+     "id": "steve-manos",
+     "name": "Steve Manos",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 31.02
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-40",
+   "district": "40",
+   "status": "called",
+   "winnerId": "ken-calvert",
+   "candidates": [
+    {
+     "id": "ken-calvert",
+     "name": "Ken Calvert",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 52.58
+    },
+    {
+     "id": "young-kim",
+     "name": "Young Kim",
+     "party": "Republican",
+     "incumbent": true,
+     "voteShare": 47.42
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-41",
+   "district": "41",
+   "status": "called",
+   "winnerId": "linda-sanchez",
+   "candidates": [
+    {
+     "id": "linda-sanchez",
+     "name": "Linda Sánchez",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 67.58
+    },
+    {
+     "id": "mitch-clemmons",
+     "name": "Mitch Clemmons",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 32.42
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-42",
+   "district": "42",
+   "status": "called",
+   "winnerId": "robert-garcia",
+   "candidates": [
+    {
+     "id": "robert-garcia",
+     "name": "Robert Garcia",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 61.94
+    },
+    {
+     "id": "brian-burley",
+     "name": "Brian Burley",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 38.06
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-43",
+   "district": "43",
+   "status": "called",
+   "winnerId": "maxine-waters",
+   "candidates": [
+    {
+     "id": "maxine-waters",
+     "name": "Maxine Waters",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 82.96
+    },
+    {
+     "id": "cristian-morales",
+     "name": "Cristian Morales",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 17.04
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-44",
+   "district": "44",
+   "status": "called",
+   "winnerId": "nanette-barragan",
+   "candidates": [
+    {
+     "id": "nanette-barragan",
+     "name": "Nanette Barragán",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 81.77
+    },
+    {
+     "id": "genevieve-angel",
+     "name": "Genevieve Angel",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 18.23
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-45",
+   "district": "45",
+   "status": "called",
+   "winnerId": "derek-tran",
+   "candidates": [
+    {
+     "id": "derek-tran",
+     "name": "Derek Tran",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 61.0
+    },
+    {
+     "id": "chuong-vo",
+     "name": "Chuong Vo",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 39.0
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-46",
+   "district": "46",
+   "status": "called",
+   "winnerId": "lou-correa",
+   "candidates": [
+    {
+     "id": "lou-correa",
+     "name": "Lou Correa",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 71.54
+    },
+    {
+     "id": "david-pan",
+     "name": "David Pan",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 28.46
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-47",
+   "district": "47",
+   "status": "called",
+   "winnerId": "dave-min",
+   "candidates": [
+    {
+     "id": "dave-min",
+     "name": "Dave Min",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 58.56
+    },
+    {
+     "id": "jenny-le-roux",
+     "name": "Jenny Le Roux",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 41.44
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-48",
+   "district": "48",
+   "status": "called",
+   "winnerId": "marni-von-wilpert",
+   "candidates": [
+    {
+     "id": "marni-von-wilpert",
+     "name": "Marni von Wilpert",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 59.48
+    },
+    {
+     "id": "jim-desmond",
+     "name": "Jim Desmond",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 40.52
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-49",
+   "district": "49",
+   "status": "called",
+   "winnerId": "mike-levin",
+   "candidates": [
+    {
+     "id": "mike-levin",
+     "name": "Mike Levin",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 59.16
+    },
+    {
+     "id": "armen-kurdian",
+     "name": "Armen Kurdian",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 40.84
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-50",
+   "district": "50",
+   "status": "called",
+   "winnerId": "scott-peters",
+   "candidates": [
+    {
+     "id": "scott-peters",
+     "name": "Scott Peters",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 63.4
+    },
+    {
+     "id": "steve-cohen",
+     "name": "Steve Cohen",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 36.6
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-51",
+   "district": "51",
+   "status": "called",
+   "winnerId": "sara-jacobs",
+   "candidates": [
+    {
+     "id": "sara-jacobs",
+     "name": "Sara Jacobs",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 65.92
+    },
+    {
+     "id": "ricardo-cabrera",
+     "name": "Ricardo Cabrera",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 34.08
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  },
+  {
+   "id": "CA-52",
+   "district": "52",
+   "status": "called",
+   "winnerId": "juan-vargas",
+   "candidates": [
+    {
+     "id": "juan-vargas",
+     "name": "Juan Vargas",
+     "party": "Democratic",
+     "incumbent": true,
+     "voteShare": 71.55
+    },
+    {
+     "id": "jeff-belle",
+     "name": "Jeff Belle",
+     "party": "Republican",
+     "incumbent": false,
+     "voteShare": 28.45
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.thegreenpapers.com/G26/CA"
+   ],
+   "lastVerified": "2026-11-15"
+  }
+ ]
+}
