@@ -46,7 +46,19 @@ export default async function LessonPage({ params }: { params: Promise<{ slug: s
       <h1 className="mt-3 text-[clamp(2rem,5vw,3rem)] font-semibold leading-tight">{lesson.title}</h1>
       {lesson.summary && <p className="mt-3 text-lg text-muted-foreground">{lesson.summary}</p>}
       <div className="prose-lesson mt-8">
-        <ReactMarkdown>{lesson.body}</ReactMarkdown>
+        <ReactMarkdown
+          components={{
+            // Internal links go through next/link so they keep the site's base path (GitHub Pages serves from a sub-path).
+            a: ({ href, children }) =>
+              href?.startsWith("/") ? (
+                <Link href={href}>{children}</Link>
+              ) : (
+                <a href={href}>{children}</a>
+              ),
+          }}
+        >
+          {lesson.body}
+        </ReactMarkdown>
       </div>
       <nav aria-label="More lessons" className="mt-12 grid gap-4 border-t border-border pt-6 sm:grid-cols-2">
         {prev ? (
