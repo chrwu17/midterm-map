@@ -92,3 +92,7 @@ function load(): Map<string, HouseState> {
 export function getHouseForState(code: string): HouseState | undefined {
   return load().get(code.toUpperCase());
 }
+
+export function getAllHouse(): HouseState[] {
+  return [...load().values()].sort((a, b) => a.stateName.localeCompare(b.stateName));
+}
