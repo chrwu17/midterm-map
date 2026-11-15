@@ -1,7 +1,7 @@
 ---
 title: Close the design gate on the home and state pages
 labels: [wayfinder:task]
-status: open
+status: done
 parent: 0000-map-midterm-map-site
 ---
 

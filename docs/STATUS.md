@@ -1,6 +1,6 @@
 # Status: Midterm Map
 
-Last updated 2026-11-14, end of the first build session. Nothing is committed to git yet.
+Last updated 2026-11-15. The first build is committed (fc44407); the 2026-11-15 fixes below are not.
 
 ## What exists
 
@@ -15,8 +15,10 @@ Last updated 2026-11-14, end of the first build session. Nothing is committed to
 - Final build and lint pass (run 2026-11-14 at 8:46 pm, 63 pages). The build runs the data validator first.
 - Motion is a hero headline entrance (SplitText + GSAP), a one-time map entrance, hover and focus dimming on the map, Lenis smooth scroll. Scroll-triggered card fades and growing vote bars came out in the motion review because they slowed reading down.
 - Jargon popovers on state pages, fed from `content/lessons/political-terms.md`.
-- Design gate (taste skill): OPEN, 28 to 29 failures after three rounds, home page only. Real ones to fix next: lesson cards have no icons, buttons aren't one consistent style, the headline doesn't name what the site is, map focus rings. Four waivers with reasons are in `web/.taste-skill/waivers.json`.
-- Still to do: the tooltip doesn't follow the cursor smoothly; the gate never ran on a state page; the site is not deployed.
+- Design gate (taste skill): PASS on the home page (2026-11-15). Five waivers with reasons are in `web/.taste-skill/waivers.json` (Lenis smooth scroll, no dealt moment, the map as half the hero, and the one-line footer twice). The gate caps waivers at five. The gate has only ever run on the home page, never on a state page.
+- Home page now: headline and map side by side in one full screen, then a lessons section with a live preview of Lesson 1. Small-state chips sit in a "Small states" disclosure under the map.
+- Fixed 2026-11-15: Lenis kept a stale page height, so the scroll stopped short of the bottom after an accordion opened. It now re-measures on any size change (`web/src/components/motion-provider.tsx`). Three lesson links pointed at `/lessons/` instead of `/learn/`. Map states now show a real focus outline.
+- Still to do: the site is not deployed.
 - Prose: the humanizer skill was run over the Lessons and over every race summary, bio and position (trims and reorders only, so some sentences still read stiffly). It was not run over the on-page site copy, the README or this file.
 
 ## Last changes before the session ended (8:47 to 8:55 pm)

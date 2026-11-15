@@ -140,19 +140,22 @@ h1, h2 { text-wrap: balance; }
 
 :focus-visible { outline: 2px solid var(--civic); outline-offset: 2px; }
 
+:root { --nav-h: 61px; }
+.wrap { width: calc(100% - 2rem); max-width: 1200px; margin-inline: auto; }
+@media (min-width: 640px) { .wrap { width: calc(100% - 4rem); } }
+
 .state-path {
   fill: var(--map-none);
   stroke: var(--paper);
   stroke-width: 1;
   cursor: pointer;
   transition: fill 150ms var(--ease-out), stroke 150ms var(--ease-out), opacity 150ms var(--ease-out);
-  outline: none;
 }
 .state-path[data-kind="senate"] { fill: var(--map-senate); }
 .state-path[data-kind="governor"] { fill: var(--map-governor); }
 .state-path[data-kind="both"] { fill: var(--map-both); }
 .state-path:hover, .state-path:focus-visible, .state-path[data-active="true"] { stroke: var(--ink); stroke-width: 2; }
-.state-path:focus-visible { stroke: var(--civic); stroke-width: 2; transition: none; }
+.state-path:focus-visible { stroke: var(--civic); stroke-width: 2; transition: none; outline: 2px solid var(--civic); outline-offset: 3px; }
 .map-tip { will-change: transform; }
 .js [data-split-pending="true"] { visibility: hidden; }
 
@@ -206,7 +209,6 @@ h1, h2 { text-wrap: balance; }
 .small-state[data-kind="both"] .small-state-swatch { background: var(--map-both); }
 .small-state:hover, .small-state[data-active="true"] { border-color: var(--ink); }
 .small-state:focus-visible { outline: 3px solid var(--civic); outline-offset: 1px; }
-@media (min-width: 640px) { .small-state { min-height: 36px; } }
 @media (pointer: coarse) { .small-state { min-height: 44px; } }
 
 /* Glossary terms: dotted underline trigger plus a small definition popover. */

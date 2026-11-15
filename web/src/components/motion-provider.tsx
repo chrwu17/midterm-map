@@ -13,7 +13,23 @@ export function MotionProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
     const lenis = new Lenis({ duration: 0.8, autoRaf: true, anchors: true, syncTouch: false });
-    return () => lenis.destroy();
+    // Lenis caches the page height. Accordions, popovers, web fonts and client-side route changes all
+    // change it after load, and a stale value stops the scroll short of the real bottom. Re-measure
+    // whenever the document's size changes.
+    const resize = () => lenis.resize();
+    const observer = new ResizeObserver(resize);
+    observer.observe(document.body);
+    observer.observe(document.documentElement);
+    const mutations = new MutationObserver(resize);
+    mutations.observe(document.body, { childList: true, subtree: true, attributes: true, attributeFilter: ["data-state", "open", "hidden", "style"] });
+    window.addEventListener("load", resize);
+    document.fonts?.ready.then(resize);
+    return () => {
+      observer.disconnect();
+      mutations.disconnect();
+      window.removeEventListener("load", resize);
+      lenis.destroy();
+    };
   }, []);
   return <>{children}</>;
 }

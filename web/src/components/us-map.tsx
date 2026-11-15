@@ -109,7 +109,11 @@ export function UsMap({ shapes, states }: { shapes: StateShape[]; states: MapSta
             </div>
           </div>
         )}
-        <ul className="mt-2 flex flex-wrap justify-end gap-1.5" aria-label="Small states">
+        <details className="small-states mt-2">
+          <summary className="inline-flex min-h-11 cursor-pointer items-center text-sm font-medium text-muted-foreground underline underline-offset-4 hover:text-foreground">
+            Small states: VT, NH, MA, RI, CT, NJ, DE, MD
+          </summary>
+        <ul className="mt-1 flex flex-wrap gap-1.5" aria-label="Small states">
           {SMALL_STATES.map((code) => {
             const st = byCode.get(code);
             const kind = st?.kind ?? "none";
@@ -134,10 +138,11 @@ export function UsMap({ shapes, states }: { shapes: StateShape[]; states: MapSta
             );
           })}
         </ul>
+        </details>
       </div>
 
-      <div className="mt-4 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-        <ul className="flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground" aria-label="Map legend">
+      <div className="mt-3 flex flex-wrap items-center justify-between gap-x-6 gap-y-2 sm:mt-4 sm:gap-y-3">
+        <ul className="flex flex-wrap gap-x-5 gap-y-1 text-sm text-muted-foreground" aria-label="Map legend">
           {(["both", "senate", "governor", "none"] as MapKind[]).map((k) => (
             <li key={k} className="flex items-center gap-2">
               <svg width="14" height="14" aria-hidden="true">
@@ -147,7 +152,7 @@ export function UsMap({ shapes, states }: { shapes: StateShape[]; states: MapSta
             </li>
           ))}
         </ul>
-        <label className="flex items-center gap-2 text-sm">
+        <label className="flex shrink-0 items-center gap-2 whitespace-nowrap text-sm">
           <span className="font-medium">Pick a state</span>
           <select
             className="press rounded-md border border-border bg-card px-3 py-2 text-base"

@@ -130,7 +130,7 @@ export function RaceCard({ race, explainer, seen = new Set() }: { race: Race; ex
               <h3 className="mt-8 text-lg font-semibold">Where they stand</h3>
               {withPositions.length > 0 && (
                 <p className="mt-1 max-w-[65ch] text-sm text-muted-foreground">
-                  In their own words, on the same six issues.
+                  The same six issues for every candidate, with a source for each answer.
                   {shownIssues.some((issue) => withPositions.some((c) => !c.positions.some((p) => p.issue === issue.key))) &&
                     " A dash means we found no clear public statement yet."}
                 </p>

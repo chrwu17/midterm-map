@@ -41,7 +41,7 @@ export default async function StatePage({ params }: { params: Promise<{ st: stri
   const expected = [state.senate2026 && "a U.S. Senate race", state.governor2026 && "a governor race"].filter(Boolean);
 
   return (
-    <div className="mx-auto max-w-[1120px] px-4 py-10 sm:px-8 sm:py-14">
+    <div className="wrap py-10 sm:py-14">
       <nav aria-label="Breadcrumb" className="text-sm text-muted-foreground">
         <Link href="/" className="underline">Map</Link> <span aria-hidden="true">/</span> {state.name}
       </nav>

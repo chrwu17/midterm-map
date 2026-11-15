@@ -23,11 +23,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="min-h-full flex flex-col bg-background text-foreground">
         {/* Marks a live script, so the hero headline is hidden for its entrance only when JS will reveal it. */}
         <script dangerouslySetInnerHTML={{ __html: "document.documentElement.classList.add('js')" }} />
-        <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded focus:bg-card focus:px-3 focus:py-2">
-          Skip to content
-        </a>
-        <header className="border-b border-border">
-          <nav className="mx-auto flex max-w-[1120px] items-center justify-between gap-4 px-4 py-4 sm:px-8" aria-label="Main">
+        <header className="nav relative z-20 border-b border-border">
+          <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded focus:bg-card focus:px-3 focus:py-2">
+            Skip to content
+          </a>
+
+          <nav className="wrap flex items-center justify-between gap-4 py-4" aria-label="Main">
             <Link href="/" className="font-heading text-lg font-semibold tracking-tight">
               Midterm Map
             </Link>
@@ -41,8 +42,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <MotionProvider>
           <main id="main" className="flex-1">{children}</main>
         </MotionProvider>
-        <footer className="border-t border-border">
-          <div className="mx-auto max-w-[1120px] px-4 py-8 text-sm text-muted-foreground sm:px-8">
+        <footer className="closing border-t border-border">
+          <div className="wrap py-8 text-sm text-muted-foreground">
             Midterm Map is a nonpartisan student project. It does not endorse any candidate or party.{" "}
             <Link href="/about/" className="underline">How we pick and check facts</Link>.
             Register or check your status at <a className="underline" href="https://vote.gov">vote.gov</a>.
