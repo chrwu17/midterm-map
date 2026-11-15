@@ -19,7 +19,7 @@ Last updated 2026-11-15. The first build is committed (fc44407); the 2026-11-15 
 - Design gate (taste skill): PASS on the home page (2026-11-15). Five waivers with reasons are in `web/.taste-skill/waivers.json` (Lenis smooth scroll, no dealt moment, the map as half the hero, and the one-line footer twice). The gate caps waivers at five. The gate has only ever run on the home page, never on a state page.
 - Home page now: headline and map side by side in one full screen, then a lessons section with a live preview of Lesson 1. Small-state chips sit in a "Small states" disclosure under the map.
 - Fixed 2026-11-15: Lenis kept a stale page height, so the scroll stopped short of the bottom after an accordion opened. It now re-measures on any size change (`web/src/components/motion-provider.tsx`). Three lesson links pointed at `/lessons/` instead of `/learn/`. Map states now show a real focus outline.
-- Still to do: the site is not deployed.
+- Deployed 2026-11-15 to GitHub Pages: https://chrwu17.github.io/midterm-map/ (public repo chrwu17/midterm-map). Every push to `main` runs `.github/workflows/pages.yml`, which runs both data validators, builds with `NEXT_PUBLIC_BASE_PATH=/midterm-map` and deploys `web/out`. A light/dark toggle sits in the header; with no saved choice the site follows the system setting.
 - Prose: the humanizer skill was run over the Lessons and over every race summary, bio and position (trims and reorders only, so some sentences still read stiffly). It was not run over the on-page site copy, the README or this file.
 
 ## Last changes before the session ended (8:47 to 8:55 pm)

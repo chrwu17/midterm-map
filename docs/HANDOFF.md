@@ -67,7 +67,7 @@ Add a Markdown file to `content/lessons/` with frontmatter `title`, `slug`, `sum
 Back up `data/races` first. Split the files into disjoint groups, one agent per group, and point each at the matching instructions file in `data/` (`PROFILE-PASS.md`, `SOURCE-SWEEP.md`, `SUMMARY-PASS.md`, `RESULTS-PASS.md`, `HUMANIZE-PASS.md`). Run the validator after.
 
 ### Deploy
-Not done yet. `npm run build` writes a static site to `web/out`, which any static host can serve (Vercel, Netlify, GitHub Pages). Commit to git first; nothing is committed.
+The site is live on GitHub Pages at https://chrwu17.github.io/midterm-map/. Pushing to `main` redeploys it through `.github/workflows/pages.yml` (about a minute). The workflow sets `NEXT_PUBLIC_BASE_PATH=/midterm-map`, because a project site is served from a sub-path; local `npm run dev` and `npm run build` leave it unset. If you move to a custom domain at the root, drop that variable and set `NEXT_PUBLIC_SITE_URL` to the new origin. Pushing over SSH failed in the agent environment; HTTPS with the `gh` login works.
 
 ## Tools and skills used
 
