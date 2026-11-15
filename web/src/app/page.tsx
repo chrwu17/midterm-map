@@ -6,6 +6,7 @@ import { getStateShapes } from "@/lib/geo";
 import { getMapStates } from "@/lib/map-data";
 import { getLessons } from "@/lib/lessons";
 import { LessonIcon } from "@/components/lesson-icon";
+import { getAllHouse } from "@/lib/house";
 import { Reveal } from "@/components/motion-provider";
 
 function takeaways(body: string): string[] {
@@ -22,6 +23,7 @@ export default function Home() {
   const states = getMapStates();
   const lessons = getLessons();
   const preview = lessons[0];
+  const districts = getAllHouse().flatMap((h) => h.districts);
   const points = preview ? takeaways(preview.body) : [];
   return (
     <>
@@ -42,8 +44,8 @@ export default function Home() {
             to={{ opacity: 1, y: 0 }}
           />
           <p className="mt-3 max-w-[44ch] text-[15px] leading-snug sm:mt-5 sm:text-lg sm:leading-relaxed text-muted-foreground">
-            Pick a state to see who ran on November 3, 2026, who won, and what each major candidate says about six big issues. It is
-            nonpartisan and written for people new to voting.
+            Pick a state to see who ran on November 3, 2026, who won, and what each major candidate says about six big issues. Each
+            state page also shows its U.S. House results. It is nonpartisan and written for people new to voting.
           </p>
           <a href="#map" className={btn("primary", "md", "mt-4 sm:mt-7")}>
             Pick your state on the map
@@ -57,6 +59,22 @@ export default function Home() {
           </p>
           <UsMap shapes={shapes} states={states} />
         </div>
+        </div>
+      </section>
+
+      <section aria-labelledby="house-heading" className="border-t border-border">
+        <div className="wrap flex flex-col gap-4 py-10 sm:flex-row sm:items-center sm:justify-between sm:gap-8 lg:py-14">
+          <div>
+            <h2 id="house-heading" className="text-3xl font-semibold">The U.S. House was on the ballot too</h2>
+            <p className="mt-2 max-w-[56ch] text-muted-foreground">
+              All {districts.length} House seats were up for election. Open any state to see the results in each of its districts: the
+              candidates, their vote shares and the projected winner. House pages show results only, without bios or positions.
+            </p>
+          </div>
+          <div className="flex shrink-0 flex-wrap gap-3">
+            <a href="#map" className={btn("primary", "md")}>Pick a state</a>
+            <Link href="/learn/what-a-representative-does/" className={btn("secondary", "md")}>What a Representative does</Link>
+          </div>
         </div>
       </section>
 
