@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Fraunces, Public_Sans } from "next/font/google";
 import { MotionProvider } from "@/components/motion-provider";
+import { ThemeToggle } from "@/components/theme-toggle";
 import { SITE_URL, pageMeta } from "@/lib/seo";
 import "./globals.css";
 
@@ -22,21 +23,24 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" suppressHydrationWarning className={`${fraunces.variable} ${publicSans.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col bg-background text-foreground">
         {/* Marks a live script, so the hero headline is hidden for its entrance only when JS will reveal it. */}
-        <script dangerouslySetInnerHTML={{ __html: "document.documentElement.classList.add('js')" }} />
+        <script dangerouslySetInnerHTML={{ __html: "document.documentElement.classList.add('js');try{var t=localStorage.getItem('theme');if(t==='light'||t==='dark')document.documentElement.classList.add(t)}catch(e){}" }} />
         <header className="nav relative z-20 border-b border-border">
           <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded focus:bg-card focus:px-3 focus:py-2">
             Skip to content
           </a>
 
-          <nav className="wrap flex items-center justify-between gap-4 py-4" aria-label="Main">
+          <nav className="wrap flex items-center justify-between gap-4 py-2" aria-label="Main">
             <Link href="/" className="font-heading text-lg font-semibold tracking-tight">
               Midterm Map
             </Link>
-            <ul className="flex gap-5 text-sm text-muted-foreground">
-              <li><Link className="hover:text-foreground" href="/">Map</Link></li>
-              <li><Link className="hover:text-foreground" href="/learn/">Learn</Link></li>
-              <li><Link className="hover:text-foreground" href="/about/">About</Link></li>
-            </ul>
+            <div className="flex items-center gap-3">
+              <ul className="flex gap-5 text-sm text-muted-foreground">
+                <li><Link className="hover:text-foreground" href="/">Map</Link></li>
+                <li><Link className="hover:text-foreground" href="/learn/">Learn</Link></li>
+                <li><Link className="hover:text-foreground" href="/about/">About</Link></li>
+              </ul>
+              <ThemeToggle />
+            </div>
           </nav>
         </header>
         <MotionProvider>
