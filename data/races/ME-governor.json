@@ -1,0 +1,109 @@
+{
+  "id": "ME-governor",
+  "state": "ME",
+  "stateName": "Maine",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "hannah-pingree",
+  "summary": "Democratic Gov. Janet Mills was term-limited, so the seat was open. Hannah Pingree (Democrat) won a three-way race against Bobby Charles (Republican) and Rick Bennett (independent).",
+  "candidates": [
+    {
+      "id": "hannah-pingree",
+      "name": "Hannah Pingree",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 54.44,
+      "bio": "Hannah Pingree is a former Speaker of the Maine House (2008-2010) and former director of the Governor's Office of Policy Innovation and the Future.",
+      "website": "https://hannahforgovernor.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she would invest $100 million a year in affordable housing and double the homestead exemption for Maine homeowners.",
+          "source": "https://hannahforgovernor.com/affordability/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she would create a state-backed public health insurance option that employers can offer and lower prescription drug costs through bulk purchasing.",
+          "source": "https://hannahforgovernor.com/health-care/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she would offer free, full-day Pre-K to every 4-year-old whose family wants it and raise the minimum teacher starting salary to $50,000.",
+          "source": "https://hannahforgovernor.com/education/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she would reach 100% clean energy by 2040 through competitive auctions for local solar, wind and storage.",
+          "source": "https://hannahforgovernor.com/climate/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says she would ensure access to the full range of reproductive health care, including rural maternity care.",
+          "source": "https://hannahforgovernor.com/health-care/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "bobby-charles",
+      "name": "Bobby Charles",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 37.44,
+      "bio": "Bobby Charles is a lawyer and former U.S. Assistant Secretary of State.",
+      "website": "https://bobbyformaine.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would abolish the state income tax, cut regulations, and create a $100K homestead exemption for property tax relief.",
+          "source": "https://bobbyformaine.com/issues"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he would dismantle cartel networks operating in Maine and enforce strict public safety and immigration policies.",
+          "source": "https://bobbyformaine.com/issues"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he wants schools refocused on reading, math and science, with educational freedom and curriculum transparency for parents.",
+          "source": "https://bobbyformaine.com/issues"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says his energy plan would cut energy costs for Mainers and restore reliable, affordable power.",
+          "source": "https://bobbyformaine.com/issues"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
+        "https://bobbyformaine.com/"
+      ]
+    },
+    {
+      "id": "rick-bennett",
+      "name": "Rick Bennett",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 8.08,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
+    "https://www.nhpr.org/2026-11-03/hannah-pingree-defeats-bobby-charles-and-rick-bennett-in-three-way-gubernatorial-race",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

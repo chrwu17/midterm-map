@@ -1,0 +1,105 @@
+{
+  "id": "OR-governor",
+  "state": "OR",
+  "stateName": "Oregon",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "tina-kotek",
+  "summary": "Oregon's sitting governor, Tina Kotek (Democrat), ran again and won, defeating Christine Drazan (Republican), who conceded.",
+  "candidates": [
+    {
+      "id": "tina-kotek",
+      "name": "Tina Kotek",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 53.3,
+      "bio": "Tina Kotek is the governor of Oregon, in office since January 2023. She previously served in the Oregon House, including as Speaker from 2013 to 2022.",
+      "website": "https://www.tinafororegon.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she wants to recruit business and investment in areas like renewable energy and biosciences, and has embraced some recommendations of her prosperity council, including replacing the state economic development agency with a commerce department.",
+          "source": "https://www.opb.org/article/2026/09/17/kotek-oregon-governor-reelection-platform-policies/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she would find money in her next budget to fund more instructional time in K-12 schools and opposes school vouchers.",
+          "source": "https://www.opb.org/article/2026/10/07/oregons-second-gubernatorial-debate-features-few-fireworks-plenty-of-policy/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Opposes aggressive enforcement of federal immigration laws in Oregon.",
+          "source": "https://www.opb.org/article/2026/09/17/kotek-oregon-governor-reelection-platform-policies/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says data centers should \"pay their fair share, commit to clean energy,\" and supports local data center moratoriums.",
+          "source": "https://opb.org/article/2026/08/30/data-centers-emerge-as-new-flashpoint-between-kotek-drazan-oregon-governors-race"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tina_Kotek"
+      ]
+    },
+    {
+      "id": "christine-drazan",
+      "name": "Christine Drazan",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 43.7,
+      "bio": "Christine Drazan is a Republican who served in the Oregon House, including as House Republican leader, and was appointed to a state Senate seat in October 2025. She was the Republican nominee for governor in 2022 and again in 2026.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Pledges to reduce taxes and says she wants to repeal the estate tax.",
+          "source": "https://www.opb.org/article/2026/10/07/oregons-second-gubernatorial-debate-features-few-fireworks-plenty-of-policy/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says she does not support banning abortion but stands on the pro-life side.",
+          "source": "https://katu.com/news/local/more-oregon-gubernatorial-debate-details-and-how-it-could-sway-the-election"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says she does not want National Guard troops in Oregon, and criticized Portland leaders for failing to uphold the city's own laws in handling protests at the city's ICE facility.",
+          "source": "https://katu.com/news/local/more-oregon-gubernatorial-debate-details-and-how-it-could-sway-the-election"
+        },
+        {
+          "issue": "climate",
+          "summary": "Supports communities declining to host data centers but opposes an \"arbitrary moratorium,\" and says Oregon \"cannot continue to be the Wild West for data center development.\"",
+          "source": "https://opb.org/article/2026/08/30/data-centers-emerge-as-new-flashpoint-between-kotek-drazan-oregon-governors-race"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Christine_Drazan",
+        "https://www.salemreporter.com/?p=156477"
+      ]
+    },
+    {
+      "id": "brett-smith",
+      "name": "Brett Smith",
+      "party": "Other",
+      "partyLabel": "Pacific Green",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://katu.com/news/politics/christine-drazan-concedes-oregon-governors-race-to-tina-kotek-says-remaining-ballots-wont-change-outcome",
+    "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Summary note moved: results are unofficial until certification on Dec. 10."
+}

@@ -1,0 +1,135 @@
+{
+  "id": "VT-governor",
+  "state": "VT",
+  "stateName": "Vermont",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "phil-scott",
+  "summary": "The sitting governor ran again: Phil Scott (Republican) won a sixth two-year term over Amanda Janoo, the Democratic/Progressive nominee.",
+  "candidates": [
+    {
+      "id": "phil-scott",
+      "name": "Phil Scott",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 52.43,
+      "bio": "Phil Scott is the governor of Vermont, in office since 2017. He previously served as lieutenant governor and as a state senator, and is a construction company owner.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he opposes new taxes and fees and describes his approach as frugal.",
+          "source": "https://vermontpublic.org/local-news/2026-10-28/phil-scott-built-broad-coalition-now-showing-cracks"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Issued a state order requiring primary care providers and pharmacies to offer COVID-19 vaccines to Vermonters age five and older who want one.",
+          "source": "https://www.mynbc5.com/article/vermont-covid-19-vaccine-access/67946739"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Told the U.S. attorney general that Vermont's sanctuary designation \"has been made in error\" because the state has no law or policy obstructing federal immigration enforcement.",
+          "source": "https://www.wcax.com/2025/08/19/vermont-gov-scott-rejects-sanctuary-state-designation/"
+        },
+        {
+          "issue": "education",
+          "summary": "Proposes consolidating Vermont's 119 school districts into five and giving the state more control over school spending.",
+          "source": "https://vermontpublic.org/local-news/2026-10-28/phil-scott-built-broad-coalition-now-showing-cracks"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Phil_Scott"
+      ]
+    },
+    {
+      "id": "amanda-janoo",
+      "name": "Amanda Janoo",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 45.83,
+      "bio": "Amanda Janoo is an economist and a first-time candidate for statewide office. She was the Democratic nominee for Vermont governor in 2026.",
+      "website": "https://www.janooforvt.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Proposes higher income taxes on top earners, including a surcharge on income above $500,000, and higher property taxes on wealthy out-of-state owners.",
+          "source": "https://www.vermontpublic.org/local-news/2026-10-20/amanda-janoo-pitches-voters-new-governor-economy"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Proposes a state-funded universal primary care system paid for by taxes on top earners.",
+          "source": "https://www.vermontpublic.org/local-news/2026-10-20/amanda-janoo-pitches-voters-new-governor-economy"
+        },
+        {
+          "issue": "education",
+          "summary": "Mentioned protecting \"small schools\" among her priorities in her campaign launch video.",
+          "source": "https://www.sevendaysvt.com/news/amanda-janoo-announces-bid-for-vermont-governor/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she would do \"anything I can do legally as governor\" to remove the Vermont Air National Guard's F-35 jets from state airspace.",
+          "source": "https://www.vermontpublic.org/local-news/2026-10-20/amanda-janoo-pitches-voters-new-governor-economy"
+        }
+      ],
+      "sources": [
+        "https://vtdigger.org/2026/03/10/first-democratic-challenger-to-phil-scott-enters-governors-race/"
+      ]
+    },
+    {
+      "id": "brian-judd",
+      "name": "Brian Judd",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.84,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "june-goodband",
+      "name": "June Goodband",
+      "party": "Other",
+      "partyLabel": "Green Mountain Peace and Justice",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.4,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "dean-roy",
+      "name": "Dean Roy",
+      "party": "Other",
+      "partyLabel": "Freedom and Unity",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.37,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.wcax.com/2026/11/04/scott-defeats-janoo-reelected-record-sixth-term/",
+    "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

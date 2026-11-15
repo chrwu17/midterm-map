@@ -1,0 +1,22 @@
+[
+  {
+    "check": "hero-screen",
+    "target": "Map of 2026 races by state",
+    "reason": "Same as hero-fill: the brief requires the map visible on first load, so the short hero is intentional."
+  },
+  {
+    "check": "container",
+    "target": "page",
+    "reason": "The site uses one consistent 1120px max-width container with 16/32px gutters on every section and the nav (design brief), just not the kit's .wrap class name."
+  },
+  {
+    "check": "moment-none",
+    "target": "(the page)",
+    "reason": "Nonpartisan civic explainer for new voters: the brief says motion never delays reading, so no decorative award-site moment."
+  },
+  {
+    "check": "effect-kind",
+    "target": "(the page)",
+    "reason": "The user explicitly asked for Lenis smooth scroll site-wide on this site; it is off under prefers-reduced-motion. Scroll-triggered reveals were removed in the motion review."
+  }
+]

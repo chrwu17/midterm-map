@@ -1,0 +1,116 @@
+{
+  "id": "NE-governor",
+  "state": "NE",
+  "stateName": "Nebraska",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "jim-pillen",
+  "summary": "Gov. Jim Pillen (Republican) ran for re-election and won a second term over Lynne Walz (Democrat) and two minor-party candidates.",
+  "candidates": [
+    {
+      "id": "jim-pillen",
+      "name": "Jim Pillen",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 50.41,
+      "bio": "Jim Pillen has been governor of Nebraska since 2023. President Trump endorsed him, and he ran with Lt. Gov. Joe Kelly.",
+      "website": "https://www.jimpillen.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says the budget deficit should be solved with \"durable, lasting tax cuts, not tax shifts,\" and wants lower property taxes and caps on local spending.",
+          "source": "https://voterguide.flatwaterfreepress.org/race/governor/"
+        },
+        {
+          "issue": "education",
+          "summary": "Supports school choice, including taxpayer-funded scholarships for private and parochial schools.",
+          "source": "https://nebraskapublicmedia.org/en/news/news-articles/what-to-know-about-the-10-candidates-hoping-to-be-the-next-governor-of-nebraska/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Turned the McCook work ethic camp into an ICE detention facility and has worked closely with the Trump administration.",
+          "source": "https://nebraskapublicmedia.org/en/news/news-articles/what-to-know-about-the-10-candidates-hoping-to-be-the-next-governor-of-nebraska/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Calls himself a \"pro-life governor\" and points to ending Medicaid subsidies for abortion providers.",
+          "source": "https://voterguide.flatwaterfreepress.org/race/governor/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "lynne-walz",
+      "name": "Lynne Walz",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 42.53,
+      "bio": "Lynne Walz is a former Nebraska state senator (2017-2025) and was the 2018 Democratic nominee for lieutenant governor.",
+      "website": "https://lynnewalz.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she would balance the state budget first, broaden the tax base to keep taxes low, and provide targeted property tax relief.",
+          "source": "https://voterguide.flatwaterfreepress.org/race/governor/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says education is under attack and pledges to stop it, and has voiced concern about public money going to private schools.",
+          "source": "https://www.wowt.com/2026/07/16/walz-talks-priorities-pivot-nebraska-primary-election-nov-3-faceoff/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Lists accessible health care among her priorities.",
+          "source": "https://www.wowt.com/2026/07/16/walz-talks-priorities-pivot-nebraska-primary-election-nov-3-faceoff/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says voters' recent abortion decisions should be respected, and opposes limits on abortion in cases of rape, incest or to save the mother's life.",
+          "source": "https://voterguide.flatwaterfreepress.org/race/governor/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "brett-lindstrom",
+      "name": "Brett Lindstrom",
+      "party": "Other",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [],
+      "partyLabel": "America First Party"
+    },
+    {
+      "id": "rick-beard",
+      "name": "Rick Beard",
+      "party": "Other",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [],
+      "partyLabel": "Legal Marijuana NOW"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

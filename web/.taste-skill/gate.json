@@ -1,0 +1,1337 @@
+{
+ "start": "2026-11-15T04:38:09.994Z",
+ "round": 3,
+ "idle": 0,
+ "errors": 0,
+ "status": "open",
+ "history": [
+  {
+   "at": "2026-11-15T04:40:05.748Z",
+   "mode": "hook",
+   "host": "claude",
+   "status": "fail",
+   "fails": 32,
+   "round": 0,
+   "reused": false,
+   "stopHookActive": false,
+   "decision": "block",
+   "reason": "32 FAILs remain (not a round: the gate has not been run by hand in this build yet):"
+  },
+  {
+   "at": "2026-11-15T04:40:06.484Z",
+   "mode": "manual",
+   "status": "fail",
+   "fails": 32,
+   "round": 1,
+   "reused": true,
+   "stopHookActive": false
+  },
+  {
+   "at": "2026-11-15T04:40:29.619Z",
+   "mode": "hook",
+   "host": "claude",
+   "status": "fail",
+   "fails": 32,
+   "round": 1,
+   "reused": true,
+   "stopHookActive": true,
+   "decision": "block",
+   "reason": "nothing changed since round 1 of 3, and 32 FAILs remain. Finishing again without a fix is blocked 1 more time, then counted as a round:"
+  },
+  {
+   "at": "2026-11-15T04:42:57.661Z",
+   "mode": "manual",
+   "status": "fail",
+   "fails": 28,
+   "round": 2,
+   "reused": false,
+   "stopHookActive": false
+  },
+  {
+   "at": "2026-11-15T04:46:11.686Z",
+   "mode": "manual",
+   "status": "open",
+   "fails": 28,
+   "round": 3,
+   "reused": false,
+   "stopHookActive": false
+  },
+  {
+   "at": "2026-11-15T04:46:58.052Z",
+   "mode": "hook",
+   "host": "claude",
+   "decision": "allow",
+   "reason": "no build is active here",
+   "stopHookActive": false
+  },
+  {
+   "at": "2026-11-15T04:47:50.219Z",
+   "mode": "hook",
+   "host": "claude",
+   "decision": "allow",
+   "reason": "no build is active here",
+   "stopHookActive": false
+  },
+  {
+   "at": "2026-11-15T04:47:56.623Z",
+   "mode": "hook",
+   "host": "claude",
+   "decision": "allow",
+   "reason": "no build is active here",
+   "stopHookActive": false
+  },
+  {
+   "at": "2026-11-15T04:48:46.694Z",
+   "mode": "hook",
+   "host": "claude",
+   "decision": "allow",
+   "reason": "no build is active here",
+   "stopHookActive": false
+  },
+  {
+   "at": "2026-11-15T04:50:13.159Z",
+   "mode": "hook",
+   "host": "claude",
+   "decision": "allow",
+   "reason": "no build is active here",
+   "stopHookActive": false
+  },
+  {
+   "at": "2026-11-15T04:52:14.287Z",
+   "mode": "hook",
+   "host": "claude",
+   "decision": "allow",
+   "reason": "no build is active here",
+   "stopHookActive": false
+  },
+  {
+   "at": "2026-11-15T04:54:34.065Z",
+   "mode": "hook",
+   "host": "claude",
+   "decision": "allow",
+   "reason": "no build is active here",
+   "stopHookActive": false
+  }
+ ],
+ "max": 3,
+ "marker": {
+  "page": "out/index.html",
+  "url": null,
+  "root": "out",
+  "kind": "service",
+  "category": "nonpartisan guide to 2026 Senate and governor races",
+  "primary": "Pick a state",
+  "rounds": 3,
+  "start": "2026-11-15T04:38:09.994Z",
+  "by": "gate.mjs --start"
+ },
+ "roundKey": "edec4195cbd50211:4e51b0d7",
+ "roundFree": false,
+ "idleFree": false,
+ "blockKey": null,
+ "fp": "edec4195cbd50211",
+ "page": "out/index.html",
+ "found": {
+  "fails": [
+   {
+    "check": "hero-fill",
+    "where": "section#map \"Map of 2026 races by state\"",
+    "msg": "the next section shows on the first screen: it starts at 521px on a 900px screen (the hero ends at 519px)",
+    "fix": "let the hero fill the first screen alone (min-height: 100svh, less above it): nothing of the next section on load",
+    "widths": [
+     1440,
+     390
+    ],
+    "from": "consistency",
+    "ids": [
+     "hero-fill"
+    ],
+    "wheres": [
+     "section#map \"Map of 2026 races by state\""
+    ]
+   },
+   {
+    "check": "no-visual",
+    "where": "main#main > section.mx-auto.px-4:nth-of-type(1) \"Who's on your ballot, and why it matters\"",
+    "msg": "no picture, effect or mock in this section; a feature section needs a visual",
+    "fix": "give the section a visual: a UI fragment on a ground, real icons, or a photograph that fits",
+    "widths": [
+     1440,
+     390
+    ],
+    "from": "consistency",
+    "ids": [
+     "no-visual"
+    ],
+    "wheres": [
+     "main#main > section.mx-auto.px-4:nth-of-type(1) \"Who's on your ballot, and why it matters\""
+    ]
+   },
+   {
+    "check": "text-only",
+    "where": "main#main > section.border-t.border-border \"New to this? Start here.\"",
+    "msg": "the closing section is only text: no picture, icon, mock or effect in it",
+    "fix": "give the section a visual: a photograph that fits, the real icons, or a UI fragment on a ground",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "text-only"
+    ],
+    "wheres": [
+     "main#main > section.border-t.border-border \"New to this? Start here.\""
+    ]
+   },
+   {
+    "check": "card-visual",
+    "where": "main#main > section.border-t.border-border > div.mx-auto.px-4 > ul.mt-8.grid \"What Is a Midterm Election? A midterm is\"",
+    "msg": "6 cards hold only text: no picture, icon, UI fragment or effect in any of them",
+    "fix": "give the cards a visual: an inset panel with a UI fragment, a photograph or real icons",
+    "widths": [
+     1440,
+     390
+    ],
+    "from": "consistency",
+    "ids": [
+     "card-visual"
+    ],
+    "wheres": [
+     "main#main > section.border-t.border-border > div.mx-auto.px-4 > ul.mt-8.grid \"What Is a Midterm Election? A midterm is\""
+    ]
+   },
+   {
+    "check": "button-styles",
+    "where": "(the page)",
+    "msg": "3 button styles on the page: pill, fill #5cc2bd x1 (\"Pick your state on the map\"); soft, fill #1c1f24, outline #2c3037 x8 (\"VT\"); pill, fill #1c1f24, outline #2c3037 x1 (\"See all lessons\")",
+    "fix": "one primary and one secondary button: one shape, one height per size, one label size",
+    "widths": [
+     1440,
+     390
+    ],
+    "from": "consistency",
+    "ids": [
+     "button-styles"
+    ],
+    "wheres": [
+     "(the page)"
+    ]
+   },
+   {
+    "check": "copy-headline",
+    "where": "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block \"Who's on your ballot, and why it matters\"",
+    "msg": "\"Who's on your ballot, and why it matters\" does not name what is sold (nonpartisan guide to 2026 senate and governor races, nonpartisan, guide, 2026, from flags); only the line under it does",
+    "fix": "put the category noun in the h1 (and who it is for, or where), in 2 to 8 words",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "copy-headline"
+    ],
+    "wheres": [
+     "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block \"Who's on your ballot, and why it matters\""
+    ]
+   },
+   {
+    "check": "effect-kind",
+    "where": "(the page)",
+    "msg": "a service page (--type) moves with the scroll: scroll libraries or timelines (Lenis, ScrollTrigger, ScrollSmoother): effects fit tech, gaming and software pages and a product with a technical subject, never a place, shop or service page (house rule)",
+    "fix": "take the scroll-driven motion off: on a place, shop or service page the page scrolls plainly and the parts sit still",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "effect-kind"
+    ],
+    "wheres": [
+     "(the page)"
+    ]
+   },
+   {
+    "check": "empty-area",
+    "where": "section#map \"Map of 2026 races by state\"",
+    "msg": "82% of the section is empty: 624px of empty rows between its content, 4% beside content that covers under half the container, in its 796px of rows (WARN over 35%, FAIL over 50%)",
+    "fix": "fill the section: a picture or a second column beside the words, or more of its own content; the section stays one or two screens tall (T-height)",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "empty-area"
+    ],
+    "wheres": [
+     "section#map \"Map of 2026 races by state\""
+    ]
+   },
+   {
+    "check": "focus-visible",
+    "where": "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(1) \"Alabama: Senate and governor\"",
+    "msg": "Tab stop 7, path \"Alabama: Senate and governor\": it shows no change when focused",
+    "fix": "keep the kit's ring (system.css :focus-visible, 2px in --action, there at once); a control that hides itself shows on focus",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "focus-visible"
+    ],
+    "wheres": [
+     "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(1) \"Alabama: Senate and governor\""
+    ]
+   },
+   {
+    "check": "focus-visible",
+    "where": "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(2) \"Alaska: Senate and governor\"",
+    "msg": "Tab stop 8, path \"Alaska: Senate and governor\": it shows no change when focused",
+    "fix": "keep the kit's ring (system.css :focus-visible, 2px in --action, there at once); a control that hides itself shows on focus",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "focus-visible"
+    ],
+    "wheres": [
+     "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(2) \"Alaska: Senate and governor\""
+    ]
+   },
+   {
+    "check": "focus-visible",
+    "where": "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(3) \"Arizona: Governor race\"",
+    "msg": "Tab stop 9, path \"Arizona: Governor race\": it shows no change when focused",
+    "fix": "keep the kit's ring (system.css :focus-visible, 2px in --action, there at once); a control that hides itself shows on focus",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "focus-visible"
+    ],
+    "wheres": [
+     "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(3) \"Arizona: Governor race\""
+    ]
+   },
+   {
+    "check": "focus-visible",
+    "where": "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(4) \"Colorado: Senate and governor\"",
+    "msg": "Tab stop 10, path \"Colorado: Senate and governor\": it shows no change when focused",
+    "fix": "keep the kit's ring (system.css :focus-visible, 2px in --action, there at once); a control that hides itself shows on focus",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "focus-visible"
+    ],
+    "wheres": [
+     "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(4) \"Colorado: Senate and governor\""
+    ]
+   },
+   {
+    "check": "moment-none",
+    "where": "(the page)",
+    "msg": "a service page (--type) deals no moment: every kind carries one, two on a long page (moments.md)",
+    "fix": "deal one (moments.mjs pick --page service --photo) and mount it in its own section",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "moment-none"
+    ],
+    "wheres": [
+     "(the page)"
+    ]
+   },
+   {
+    "check": "hero-screen",
+    "where": "main#main > section.mx-auto.px-4:nth-of-type(1) \"Who's on your ballot, and why it matters\"",
+    "msg": "the hero ends at 519px on a 900px screen, 381px above the fold: it ends at the fold, 1px either way (SR-1)",
+    "fix": "make the hero exactly one screen (height: 100svh, its content fitted inside), never taller or shorter",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "hero-screen"
+    ],
+    "wheres": [
+     "main#main > section.mx-auto.px-4:nth-of-type(1) \"Who's on your ballot, and why it matters\""
+    ]
+   },
+   {
+    "check": "hero-screen",
+    "where": "section#map \"Map of 2026 races by stateColors show wh\"",
+    "msg": "381px of the next section shows on the first screen (from 519px on a 900px screen): nothing below the hero shows at load (SR-1)",
+    "fix": "end the hero at the fold so nothing of the next section shows at load (hero height: 100svh)",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "hero-screen"
+    ],
+    "wheres": [
+     "section#map \"Map of 2026 races by stateColors show wh\""
+    ]
+   },
+   {
+    "check": "section-height",
+    "where": "footer.border-t.border-border \"Midterm Map is a nonpartisan student pro\"",
+    "msg": "the section is 85px tall (0.1 screens), 815px short of one screen (900px): every section after the hero is one screen or two, 2px either way (SR-2)",
+    "fix": "set the section to one screen or two (height: calc(var(--h,1) * 100vh), --h 1 or 2) and cut or split its content to fit",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "section-height"
+    ],
+    "wheres": [
+     "footer.border-t.border-border \"Midterm Map is a nonpartisan student pro\""
+    ]
+   },
+   {
+    "check": "section-height",
+    "where": "main#main > section.border-t.border-border \"New to this? Start here.Short lessons on\"",
+    "msg": "the section is 560px tall (0.6 screens), 340px short of one screen (900px): every section after the hero is one screen or two, 2px either way (SR-2)",
+    "fix": "set the section to one screen or two (height: calc(var(--h,1) * 100vh), --h 1 or 2) and cut or split its content to fit",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "section-height"
+    ],
+    "wheres": [
+     "main#main > section.border-t.border-border \"New to this? Start here.Short lessons on\""
+    ]
+   },
+   {
+    "check": "section-height",
+    "where": "section#map \"Map of 2026 races by stateColors show wh\"",
+    "msg": "the section is 860px tall (1 screens), 40px short of one screen (900px): every section after the hero is one screen or two, 2px either way (SR-2)",
+    "fix": "set the section to one screen or two (height: calc(var(--h,1) * 100vh), --h 1 or 2) and cut or split its content to fit",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "section-height"
+    ],
+    "wheres": [
+     "section#map \"Map of 2026 races by stateColors show wh\""
+    ]
+   },
+   {
+    "check": "one-section",
+    "where": "section#map \"Map of 2026 races by stateColors show wh\"",
+    "msg": "the screen at scroll 61px (the top of section 1) shows 442px of section 2 and the content of 2 sections, over 24px each beside section 1: a screen shows one section (another may peek 8px, 24px WARN) (SR-4)",
+    "fix": "make each section exactly one screen or two, so a screen shows one section and no neighbour peeks",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "one-section"
+    ],
+    "wheres": [
+     "section#map \"Map of 2026 races by stateColors show wh\""
+    ]
+   },
+   {
+    "check": "one-section",
+    "where": "h2#learn-heading \"New to this? Start here.\"",
+    "msg": "the screen at scroll 900px (stride 1) shows 421px of section 3 and the heading of section 3 whole and the content of 2 sections, over 24px each beside section 2: a screen shows one section (another may peek 8px, 24px WARN) (SR-4)",
+    "fix": "make each section exactly one screen or two, so a screen shows one section and no neighbour peeks",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "one-section"
+    ],
+    "wheres": [
+     "h2#learn-heading \"New to this? Start here.\""
+    ]
+   },
+   {
+    "check": "container-edges",
+    "where": "main#main > section.mx-auto.px-4:nth-of-type(1) \"Who's on your ballot, and why it matters\"",
+    "msg": "the content of section 1 runs 192px from the left and 631px from the right (read from its outermost blocks: no .wrap): the page's container starts at 160px; 192 and 631px are not one margin; the margin is 64-120px at 1440px (one container, equal margins, 2px either way) (SR-6)",
+    "fix": "use one container on every section and the nav (.wrap): one margin left and right, 64-120px on a desktop, 16-24px on a phone",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "container-edges"
+    ],
+    "wheres": [
+     "main#main > section.mx-auto.px-4:nth-of-type(1) \"Who's on your ballot, and why it matters\""
+    ]
+   },
+   {
+    "check": "container-edges",
+    "where": "header.border-b.border-border \"Midterm MapMapLearnAbout\"",
+    "msg": "the nav's content runs 192px from the left and 192px from the right (read from its outermost blocks: no .wrap): the page's container starts at 160px; the margin is 64-120px at 1440px (one container, equal margins, 2px either way) (and 3 more like it: \"Map of 2026 races by sta\", \"New to this? Start here.\", \"Midterm Map is a nonpart\") (SR-6)",
+    "fix": "use one container on every section and the nav (.wrap): one margin left and right, 64-120px on a desktop, 16-24px on a phone",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "container-edges"
+    ],
+    "wheres": [
+     "header.border-b.border-border \"Midterm MapMapLearnAbout\""
+    ]
+   },
+   {
+    "check": "container-edges",
+    "where": "a.sr-only \"Skip to content\"",
+    "msg": "a <a> at the top of the page, outside header.nav, main, footer.closing and nav.actionbar (SR-6)",
+    "fix": "build the page as header.nav, a main of sections (each one in-flow .wrap plus background layers) and footer.closing",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "container-edges"
+    ],
+    "wheres": [
+     "a.sr-only \"Skip to content\""
+    ]
+   },
+   {
+    "check": "container-edges",
+    "where": "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(4) \"ballot,\"",
+    "msg": "\"ballot,\" runs 684-896px, outside the container lines of section 1 at 192-809px: full width is for background layers and grounds only (SR-6)",
+    "fix": "keep it inside the container lines (.wrap): full width is for background layers and grounds only",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "container-edges"
+    ],
+    "wheres": [
+     "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(4) \"ballot,\""
+    ]
+   },
+   {
+    "check": "container-edges",
+    "where": "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(8) \"matters\"",
+    "msg": "\"matters\" runs 553-816px, outside the container lines of section 1 at 192-809px: full width is for background layers and grounds only (SR-6)",
+    "fix": "keep it inside the container lines (.wrap): full width is for background layers and grounds only",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "container-edges"
+    ],
+    "wheres": [
+     "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(8) \"matters\""
+    ]
+   },
+   {
+    "check": "container-edges",
+    "where": "div > div.relative > ul.mt-2.flex > li:nth-of-type(1) \"VT\"",
+    "msg": "1 text block starts on a left line at x 708, 548px from the container's left: text starts on the container's left, or on one split line (x 637, 732, 827) (SR-6)",
+    "fix": "start the text on the container's left, or on the one split line every split shares",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "container-edges"
+    ],
+    "wheres": [
+     "div > div.relative > ul.mt-2.flex > li:nth-of-type(1) \"VT\""
+    ]
+   },
+   {
+    "check": "container-edges",
+    "where": "h2#learn-heading \"New to this? Start here.\"",
+    "msg": "5 text blocks start on a left line at x 192, 32px from the container's left: text starts on the container's left, or on one split line (x 637, 732, 827) (also \"Short lessons on how elections w\", \"What Is a Midterm Election?A mid\", \"How to Register and VoteA simple\") (and 1 more like it: \"New to this? Start here.\") (SR-6)",
+    "fix": "start the text on the container's left, or on the one split line every split shares",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "container-edges"
+    ],
+    "wheres": [
+     "h2#learn-heading \"New to this? Start here.\""
+    ]
+   },
+   {
+    "check": "row-lines",
+    "where": "main#main > section.border-t.border-border > div.mx-auto.px-4 > ul.mt-8.grid \"What Is a Midterm Election?A midterm is \"",
+    "msg": "a row of 3 items: its first item starts at 192px, the container's left line at 160px; its last item ends at 1248px, the container's right line at 1280px (2px either way) (SR-7)",
+    "fix": "start the row's first item on the container's left line and end its last on the right line, every item one height",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "row-lines"
+    ],
+    "wheres": [
+     "main#main > section.border-t.border-border > div.mx-auto.px-4 > ul.mt-8.grid \"What Is a Midterm Election?A midterm is \""
+    ]
+   },
+   {
+    "check": "row-lines",
+    "where": "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(4) \"ballot,\"",
+    "msg": "\"ballot,\" ends at 896px, past the container's right line at 809px (SR-7)",
+    "fix": "end it at the container's right line",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "row-lines"
+    ],
+    "wheres": [
+     "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(4) \"ballot,\""
+    ]
+   },
+   {
+    "check": "row-lines",
+    "where": "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(8) \"matters\"",
+    "msg": "\"matters\" ends at 816px, past the container's right line at 809px (SR-7)",
+    "fix": "end it at the container's right line",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "row-lines"
+    ],
+    "wheres": [
+     "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(8) \"matters\""
+    ]
+   },
+   {
+    "check": "no-visual",
+    "where": "main#main > section.border-t.border-border \"New to this? Start here.\"",
+    "msg": "no picture, effect or mock in this section; a feature section needs a visual",
+    "fix": "give the section a visual: a UI fragment on a ground, real icons, or a photograph that fits",
+    "widths": [
+     390
+    ],
+    "from": "consistency",
+    "ids": [
+     "no-visual"
+    ],
+    "wheres": [
+     "main#main > section.border-t.border-border \"New to this? Start here.\""
+    ]
+   },
+   {
+    "check": "container",
+    "where": "page",
+    "msg": "no .wrap",
+    "fix": "put the content in one .wrap",
+    "widths": [
+     1440,
+     390
+    ],
+    "from": "layout",
+    "ids": [
+     "container"
+    ],
+    "wheres": [
+     "page"
+    ]
+   }
+  ],
+  "warns": [
+   {
+    "check": "copy-headline",
+    "where": "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block \"Who's on your ballot, and why it matters\"",
+    "msg": "the h1 has 9 words (2 to 8 read at a glance)",
+    "fix": "put the category noun in the h1 (and who it is for, or where), in 2 to 8 words",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "copy-headings",
+    "where": "h2#learn-heading \"New to this? Start here.\"",
+    "msg": "\"New to this? Start here.\" names no product, part, place or section (the one brand line a page may have)",
+    "fix": "name the thing in every heading: the product, a part, the place or a section noun",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "copy-headings",
+    "where": "ul.mt-8.grid > li:nth-of-type(1) > a.lift.block > h3.text-lg.font-semibold \"What Is a Midterm Election?\"",
+    "msg": "the card title \"What Is a Midterm Election?\" names no product, part, place or section (4 card titles like it) (and 3 more like it: \"What a U.S. Senator Does\", \"How to Register and Vote\", \"How to Research a Candid\")",
+    "fix": "name the thing in every heading: the product, a part, the place or a section noun",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "copy-buttons",
+    "where": "main#main > section.mx-auto.px-4:nth-of-type(1) > a.press.mt-7 \"Pick your state on the map\"",
+    "msg": "\"Pick your state on the map\" is 6 words (1 to 5)",
+    "fix": "label buttons with a verb and what the visitor gets (\"Book a room\", \"Start free trial\")",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "copy-buttons",
+    "where": "div.relative > ul.mt-2.flex > li:nth-of-type(1) > button.small-state.press \"VT\"",
+    "msg": "\"VT\" does not start with a verb (book, buy, try, start, get, see...) (and 7 more like it: \"NH\", \"MA\", \"RI\", \"CT\", ...)",
+    "fix": "label buttons with a verb and what the visitor gets (\"Book a room\", \"Start free trial\")",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "copy-actions",
+    "where": "(the page)",
+    "msg": "the main action \"Pick a state\" does not read word for word the same in the nav or hero and the closing section",
+    "fix": "few actions, one wording: at most 2 in the hero, the main action word for word in nav, hero and close",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "section-gaps",
+    "where": "main#main > section.mx-auto.px-4:nth-of-type(1) / section#map",
+    "msg": "42px between these sections, -58% against the median 99px",
+    "fix": "use one gap between sections (all within 25% of each other)",
+    "widths": [
+     1440,
+     390
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "section-gaps",
+    "where": "section#map / main#main > section.border-t.border-border",
+    "msg": "128px between these sections, +29% against the median 99px",
+    "fix": "use one gap between sections (all within 25% of each other)",
+    "widths": [
+     1440,
+     390
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "stranded-action",
+    "where": "section.border-t.border-border > div.mx-auto.px-4 > div.flex.flex-wrap > a.press.inline-flex \"See all lessons\"",
+    "msg": "stands 452px across from the nearest text of its block (\"New to this? Start here.\")",
+    "fix": "put the button under or beside the text it belongs to",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "share-meta",
+    "where": "head",
+    "msg": "the head lacks og:image, theme-color: a shared link shows no picture or title of its own",
+    "fix": "copy the head block of starter.html: og tags, twitter:card, the icon and theme-color (references/system.md, Head)",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "tap-size",
+    "where": "header.border-b.border-border > nav.mx-auto.flex > a.font-heading.text-lg \"Midterm Map\"",
+    "msg": "a 113x28px tap target: under the 44px a phone needs",
+    "fix": "make every link and control outside running text 44px tall on a phone: display: inline-flex; align-items: center; min-height: 44px (a footer list then needs no gap), a 44px small button, or a transparent ::before laid past the box",
+    "widths": [
+     390,
+     320
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "tap-size",
+    "where": "nav.mx-auto.flex > ul.flex.gap-5 > li:nth-of-type(1) > a \"Map\"",
+    "msg": "a 28x16px tap target (and 2 more like it on this screen): under the 44px a phone needs",
+    "fix": "make every link and control outside running text 44px tall on a phone: display: inline-flex; align-items: center; min-height: 44px (a footer list then needs no gap), a 44px small button, or a transparent ::before laid past the box",
+    "widths": [
+     390,
+     320
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "tap-size",
+    "where": "div > div.mt-4.flex > label.flex.items-center > select.press.rounded-md \"Choose… Alabama Alaska Arizona Arkansas \"",
+    "msg": "a 165x39px tap target: under the 44px a phone needs",
+    "fix": "make every link and control outside running text 44px tall on a phone: display: inline-flex; align-items: center; min-height: 44px (a footer list then needs no gap), a 44px small button, or a transparent ::before laid past the box",
+    "widths": [
+     390,
+     320
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "orphan",
+    "where": "section#map > p.mb-4.text-sm \"Colors show which offices were on the ba\"",
+    "msg": "its last line holds only \"won.\"",
+    "fix": "rebalance the text (text-wrap: pretty, or a shorter line) so the last line holds more than one short word",
+    "widths": [
+     390
+    ],
+    "from": "consistency"
+   }
+  ],
+  "crashed": [],
+  "seconds": {
+   "consistency": 93,
+   "layout": 15
+  }
+ },
+ "open": [
+  {
+   "check": "hero-fill",
+   "where": "section#map \"Map of 2026 races by state\"",
+   "msg": "the next section shows on the first screen: it starts at 521px on a 900px screen (the hero ends at 519px)",
+   "fix": "let the hero fill the first screen alone (min-height: 100svh, less above it): nothing of the next section on load",
+   "widths": [
+    1440,
+    390
+   ],
+   "from": "consistency",
+   "ids": [
+    "hero-fill"
+   ],
+   "wheres": [
+    "section#map \"Map of 2026 races by state\""
+   ]
+  },
+  {
+   "check": "no-visual",
+   "where": "main#main > section.mx-auto.px-4:nth-of-type(1) \"Who's on your ballot, and why it matters\"",
+   "msg": "no picture, effect or mock in this section; a feature section needs a visual",
+   "fix": "give the section a visual: a UI fragment on a ground, real icons, or a photograph that fits",
+   "widths": [
+    1440,
+    390
+   ],
+   "from": "consistency",
+   "ids": [
+    "no-visual"
+   ],
+   "wheres": [
+    "main#main > section.mx-auto.px-4:nth-of-type(1) \"Who's on your ballot, and why it matters\""
+   ]
+  },
+  {
+   "check": "text-only",
+   "where": "main#main > section.border-t.border-border \"New to this? Start here.\"",
+   "msg": "the closing section is only text: no picture, icon, mock or effect in it",
+   "fix": "give the section a visual: a photograph that fits, the real icons, or a UI fragment on a ground",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "text-only"
+   ],
+   "wheres": [
+    "main#main > section.border-t.border-border \"New to this? Start here.\""
+   ]
+  },
+  {
+   "check": "card-visual",
+   "where": "main#main > section.border-t.border-border > div.mx-auto.px-4 > ul.mt-8.grid \"What Is a Midterm Election? A midterm is\"",
+   "msg": "6 cards hold only text: no picture, icon, UI fragment or effect in any of them",
+   "fix": "give the cards a visual: an inset panel with a UI fragment, a photograph or real icons",
+   "widths": [
+    1440,
+    390
+   ],
+   "from": "consistency",
+   "ids": [
+    "card-visual"
+   ],
+   "wheres": [
+    "main#main > section.border-t.border-border > div.mx-auto.px-4 > ul.mt-8.grid \"What Is a Midterm Election? A midterm is\""
+   ]
+  },
+  {
+   "check": "button-styles",
+   "where": "(the page)",
+   "msg": "3 button styles on the page: pill, fill #5cc2bd x1 (\"Pick your state on the map\"); soft, fill #1c1f24, outline #2c3037 x8 (\"VT\"); pill, fill #1c1f24, outline #2c3037 x1 (\"See all lessons\")",
+   "fix": "one primary and one secondary button: one shape, one height per size, one label size",
+   "widths": [
+    1440,
+    390
+   ],
+   "from": "consistency",
+   "ids": [
+    "button-styles"
+   ],
+   "wheres": [
+    "(the page)"
+   ]
+  },
+  {
+   "check": "copy-headline",
+   "where": "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block \"Who's on your ballot, and why it matters\"",
+   "msg": "\"Who's on your ballot, and why it matters\" does not name what is sold (nonpartisan guide to 2026 senate and governor races, nonpartisan, guide, 2026, from flags); only the line under it does",
+   "fix": "put the category noun in the h1 (and who it is for, or where), in 2 to 8 words",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "copy-headline"
+   ],
+   "wheres": [
+    "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block \"Who's on your ballot, and why it matters\""
+   ]
+  },
+  {
+   "check": "empty-area",
+   "where": "section#map \"Map of 2026 races by state\"",
+   "msg": "82% of the section is empty: 624px of empty rows between its content, 4% beside content that covers under half the container, in its 796px of rows (WARN over 35%, FAIL over 50%)",
+   "fix": "fill the section: a picture or a second column beside the words, or more of its own content; the section stays one or two screens tall (T-height)",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "empty-area"
+   ],
+   "wheres": [
+    "section#map \"Map of 2026 races by state\""
+   ]
+  },
+  {
+   "check": "focus-visible",
+   "where": "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(1) \"Alabama: Senate and governor\"",
+   "msg": "Tab stop 7, path \"Alabama: Senate and governor\": it shows no change when focused",
+   "fix": "keep the kit's ring (system.css :focus-visible, 2px in --action, there at once); a control that hides itself shows on focus",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "focus-visible"
+   ],
+   "wheres": [
+    "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(1) \"Alabama: Senate and governor\""
+   ]
+  },
+  {
+   "check": "focus-visible",
+   "where": "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(2) \"Alaska: Senate and governor\"",
+   "msg": "Tab stop 8, path \"Alaska: Senate and governor\": it shows no change when focused",
+   "fix": "keep the kit's ring (system.css :focus-visible, 2px in --action, there at once); a control that hides itself shows on focus",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "focus-visible"
+   ],
+   "wheres": [
+    "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(2) \"Alaska: Senate and governor\""
+   ]
+  },
+  {
+   "check": "focus-visible",
+   "where": "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(3) \"Arizona: Governor race\"",
+   "msg": "Tab stop 9, path \"Arizona: Governor race\": it shows no change when focused",
+   "fix": "keep the kit's ring (system.css :focus-visible, 2px in --action, there at once); a control that hides itself shows on focus",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "focus-visible"
+   ],
+   "wheres": [
+    "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(3) \"Arizona: Governor race\""
+   ]
+  },
+  {
+   "check": "focus-visible",
+   "where": "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(4) \"Colorado: Senate and governor\"",
+   "msg": "Tab stop 10, path \"Colorado: Senate and governor\": it shows no change when focused",
+   "fix": "keep the kit's ring (system.css :focus-visible, 2px in --action, there at once); a control that hides itself shows on focus",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "focus-visible"
+   ],
+   "wheres": [
+    "div > div.relative:nth-of-type(1) > svg.us-map.h-auto > path.state-path:nth-of-type(4) \"Colorado: Senate and governor\""
+   ]
+  },
+  {
+   "check": "hero-screen",
+   "where": "main#main > section.mx-auto.px-4:nth-of-type(1) \"Who's on your ballot, and why it matters\"",
+   "msg": "the hero ends at 519px on a 900px screen, 381px above the fold: it ends at the fold, 1px either way (SR-1)",
+   "fix": "make the hero exactly one screen (height: 100svh, its content fitted inside), never taller or shorter",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "hero-screen"
+   ],
+   "wheres": [
+    "main#main > section.mx-auto.px-4:nth-of-type(1) \"Who's on your ballot, and why it matters\""
+   ]
+  },
+  {
+   "check": "section-height",
+   "where": "footer.border-t.border-border \"Midterm Map is a nonpartisan student pro\"",
+   "msg": "the section is 85px tall (0.1 screens), 815px short of one screen (900px): every section after the hero is one screen or two, 2px either way (SR-2)",
+   "fix": "set the section to one screen or two (height: calc(var(--h,1) * 100vh), --h 1 or 2) and cut or split its content to fit",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "section-height"
+   ],
+   "wheres": [
+    "footer.border-t.border-border \"Midterm Map is a nonpartisan student pro\""
+   ]
+  },
+  {
+   "check": "section-height",
+   "where": "main#main > section.border-t.border-border \"New to this? Start here.Short lessons on\"",
+   "msg": "the section is 560px tall (0.6 screens), 340px short of one screen (900px): every section after the hero is one screen or two, 2px either way (SR-2)",
+   "fix": "set the section to one screen or two (height: calc(var(--h,1) * 100vh), --h 1 or 2) and cut or split its content to fit",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "section-height"
+   ],
+   "wheres": [
+    "main#main > section.border-t.border-border \"New to this? Start here.Short lessons on\""
+   ]
+  },
+  {
+   "check": "section-height",
+   "where": "section#map \"Map of 2026 races by stateColors show wh\"",
+   "msg": "the section is 860px tall (1 screens), 40px short of one screen (900px): every section after the hero is one screen or two, 2px either way (SR-2)",
+   "fix": "set the section to one screen or two (height: calc(var(--h,1) * 100vh), --h 1 or 2) and cut or split its content to fit",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "section-height"
+   ],
+   "wheres": [
+    "section#map \"Map of 2026 races by stateColors show wh\""
+   ]
+  },
+  {
+   "check": "one-section",
+   "where": "section#map \"Map of 2026 races by stateColors show wh\"",
+   "msg": "the screen at scroll 61px (the top of section 1) shows 442px of section 2 and the content of 2 sections, over 24px each beside section 1: a screen shows one section (another may peek 8px, 24px WARN) (SR-4)",
+   "fix": "make each section exactly one screen or two, so a screen shows one section and no neighbour peeks",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "one-section"
+   ],
+   "wheres": [
+    "section#map \"Map of 2026 races by stateColors show wh\""
+   ]
+  },
+  {
+   "check": "one-section",
+   "where": "h2#learn-heading \"New to this? Start here.\"",
+   "msg": "the screen at scroll 900px (stride 1) shows 421px of section 3 and the heading of section 3 whole and the content of 2 sections, over 24px each beside section 2: a screen shows one section (another may peek 8px, 24px WARN) (SR-4)",
+   "fix": "make each section exactly one screen or two, so a screen shows one section and no neighbour peeks",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "one-section"
+   ],
+   "wheres": [
+    "h2#learn-heading \"New to this? Start here.\""
+   ]
+  },
+  {
+   "check": "container-edges",
+   "where": "main#main > section.mx-auto.px-4:nth-of-type(1) \"Who's on your ballot, and why it matters\"",
+   "msg": "the content of section 1 runs 192px from the left and 631px from the right (read from its outermost blocks: no .wrap): the page's container starts at 160px; 192 and 631px are not one margin; the margin is 64-120px at 1440px (one container, equal margins, 2px either way) (SR-6)",
+   "fix": "use one container on every section and the nav (.wrap): one margin left and right, 64-120px on a desktop, 16-24px on a phone",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "container-edges"
+   ],
+   "wheres": [
+    "main#main > section.mx-auto.px-4:nth-of-type(1) \"Who's on your ballot, and why it matters\""
+   ]
+  },
+  {
+   "check": "container-edges",
+   "where": "header.border-b.border-border \"Midterm MapMapLearnAbout\"",
+   "msg": "the nav's content runs 192px from the left and 192px from the right (read from its outermost blocks: no .wrap): the page's container starts at 160px; the margin is 64-120px at 1440px (one container, equal margins, 2px either way) (and 3 more like it: \"Map of 2026 races by sta\", \"New to this? Start here.\", \"Midterm Map is a nonpart\") (SR-6)",
+   "fix": "use one container on every section and the nav (.wrap): one margin left and right, 64-120px on a desktop, 16-24px on a phone",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "container-edges"
+   ],
+   "wheres": [
+    "header.border-b.border-border \"Midterm MapMapLearnAbout\""
+   ]
+  },
+  {
+   "check": "container-edges",
+   "where": "a.sr-only \"Skip to content\"",
+   "msg": "a <a> at the top of the page, outside header.nav, main, footer.closing and nav.actionbar (SR-6)",
+   "fix": "build the page as header.nav, a main of sections (each one in-flow .wrap plus background layers) and footer.closing",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "container-edges"
+   ],
+   "wheres": [
+    "a.sr-only \"Skip to content\""
+   ]
+  },
+  {
+   "check": "container-edges",
+   "where": "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(4) \"ballot,\"",
+   "msg": "\"ballot,\" runs 684-896px, outside the container lines of section 1 at 192-809px: full width is for background layers and grounds only (SR-6)",
+   "fix": "keep it inside the container lines (.wrap): full width is for background layers and grounds only",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "container-edges"
+   ],
+   "wheres": [
+    "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(4) \"ballot,\""
+   ]
+  },
+  {
+   "check": "container-edges",
+   "where": "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(8) \"matters\"",
+   "msg": "\"matters\" runs 553-816px, outside the container lines of section 1 at 192-809px: full width is for background layers and grounds only (SR-6)",
+   "fix": "keep it inside the container lines (.wrap): full width is for background layers and grounds only",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "container-edges"
+   ],
+   "wheres": [
+    "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(8) \"matters\""
+   ]
+  },
+  {
+   "check": "container-edges",
+   "where": "div > div.relative > ul.mt-2.flex > li:nth-of-type(1) \"VT\"",
+   "msg": "1 text block starts on a left line at x 708, 548px from the container's left: text starts on the container's left, or on one split line (x 637, 732, 827) (SR-6)",
+   "fix": "start the text on the container's left, or on the one split line every split shares",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "container-edges"
+   ],
+   "wheres": [
+    "div > div.relative > ul.mt-2.flex > li:nth-of-type(1) \"VT\""
+   ]
+  },
+  {
+   "check": "container-edges",
+   "where": "h2#learn-heading \"New to this? Start here.\"",
+   "msg": "5 text blocks start on a left line at x 192, 32px from the container's left: text starts on the container's left, or on one split line (x 637, 732, 827) (also \"Short lessons on how elections w\", \"What Is a Midterm Election?A mid\", \"How to Register and VoteA simple\") (and 1 more like it: \"New to this? Start here.\") (SR-6)",
+   "fix": "start the text on the container's left, or on the one split line every split shares",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "container-edges"
+   ],
+   "wheres": [
+    "h2#learn-heading \"New to this? Start here.\""
+   ]
+  },
+  {
+   "check": "row-lines",
+   "where": "main#main > section.border-t.border-border > div.mx-auto.px-4 > ul.mt-8.grid \"What Is a Midterm Election?A midterm is \"",
+   "msg": "a row of 3 items: its first item starts at 192px, the container's left line at 160px; its last item ends at 1248px, the container's right line at 1280px (2px either way) (SR-7)",
+   "fix": "start the row's first item on the container's left line and end its last on the right line, every item one height",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "row-lines"
+   ],
+   "wheres": [
+    "main#main > section.border-t.border-border > div.mx-auto.px-4 > ul.mt-8.grid \"What Is a Midterm Election?A midterm is \""
+   ]
+  },
+  {
+   "check": "row-lines",
+   "where": "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(4) \"ballot,\"",
+   "msg": "\"ballot,\" ends at 896px, past the container's right line at 809px (SR-7)",
+   "fix": "end it at the container's right line",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "row-lines"
+   ],
+   "wheres": [
+    "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(4) \"ballot,\""
+   ]
+  },
+  {
+   "check": "row-lines",
+   "where": "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(8) \"matters\"",
+   "msg": "\"matters\" ends at 816px, past the container's right line at 809px (SR-7)",
+   "fix": "end it at the container's right line",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "row-lines"
+   ],
+   "wheres": [
+    "main#main > section.mx-auto.px-4:nth-of-type(1) > h1.split-parent.inline-block > div.split-word:nth-of-type(8) \"matters\""
+   ]
+  },
+  {
+   "check": "no-visual",
+   "where": "main#main > section.border-t.border-border \"New to this? Start here.\"",
+   "msg": "no picture, effect or mock in this section; a feature section needs a visual",
+   "fix": "give the section a visual: a UI fragment on a ground, real icons, or a photograph that fits",
+   "widths": [
+    390
+   ],
+   "from": "consistency",
+   "ids": [
+    "no-visual"
+   ],
+   "wheres": [
+    "main#main > section.border-t.border-border \"New to this? Start here.\""
+   ]
+  }
+ ],
+ "waived": [
+  {
+   "check": "effect-kind",
+   "where": "(the page)",
+   "msg": "a service page (--type) moves with the scroll: scroll libraries or timelines (Lenis, ScrollTrigger, ScrollSmoother): effects fit tech, gaming and software pages and a product with a technical subject, never a place, shop or service page (house rule)",
+   "fix": "take the scroll-driven motion off: on a place, shop or service page the page scrolls plainly and the parts sit still",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "effect-kind"
+   ],
+   "wheres": [
+    "(the page)"
+   ],
+   "reason": "The user explicitly asked for Lenis smooth scroll site-wide on this site; it is off under prefers-reduced-motion. Scroll-triggered reveals were removed in the motion review."
+  },
+  {
+   "check": "moment-none",
+   "where": "(the page)",
+   "msg": "a service page (--type) deals no moment: every kind carries one, two on a long page (moments.md)",
+   "fix": "deal one (moments.mjs pick --page service --photo) and mount it in its own section",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "moment-none"
+   ],
+   "wheres": [
+    "(the page)"
+   ],
+   "reason": "Nonpartisan civic explainer for new voters: the brief says motion never delays reading, so no decorative award-site moment."
+  },
+  {
+   "check": "hero-screen",
+   "where": "section#map \"Map of 2026 races by stateColors show wh\"",
+   "msg": "381px of the next section shows on the first screen (from 519px on a 900px screen): nothing below the hero shows at load (SR-1)",
+   "fix": "end the hero at the fold so nothing of the next section shows at load (hero height: 100svh)",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "hero-screen"
+   ],
+   "wheres": [
+    "section#map \"Map of 2026 races by stateColors show wh\""
+   ],
+   "reason": "Same as hero-fill: the brief requires the map visible on first load, so the short hero is intentional."
+  },
+  {
+   "check": "container",
+   "where": "page",
+   "msg": "no .wrap",
+   "fix": "put the content in one .wrap",
+   "widths": [
+    1440,
+    390
+   ],
+   "from": "layout",
+   "ids": [
+    "container"
+   ],
+   "wheres": [
+    "page"
+   ],
+   "reason": "The site uses one consistent 1120px max-width container with 16/32px gutters on every section and the nav (design brief), just not the kit's .wrap class name."
+  }
+ ],
+ "warnCount": 14,
+ "at": "2026-11-15T04:46:11.688Z",
+ "session": "a820a5e6-1694-49d2-b264-8419a1ca31aa",
+ "manual": true,
+ "openTold": true
+}

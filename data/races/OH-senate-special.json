@@ -1,0 +1,138 @@
+{
+  "id": "OH-senate-special",
+  "state": "OH",
+  "stateName": "Ohio",
+  "office": "senate",
+  "special": true,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "sherrod-brown",
+  "summary": "This special election filled the rest of a term for a seat vacated when JD Vance became Vice President. Sherrod Brown (Democrat) defeated Jon Husted (Republican), who had been appointed to the seat.",
+  "candidates": [
+    {
+      "id": "sherrod-brown",
+      "name": "Sherrod Brown",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 50.01,
+      "bio": "Sherrod Brown served as a U.S. senator from Ohio from 2007 to 2025, and earlier as Ohio Secretary of State and in the U.S. House. He chaired the Senate Banking Committee from 2021 to 2025.",
+      "website": "https://sherrodbrown.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says affordability is his central theme and argues trade policy should protect domestic manufacturing and workers' bargaining power.",
+          "source": "https://www.cleveland19.com/2026/10/28/sherrod-brown-jon-husted-battle-us-senate-seat/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he supports reversing federal Medicaid cuts, lowering prescription drug prices and preventing insurers from denying medically necessary care.",
+          "source": "https://www.cleveland19.com/2026/10/28/sherrod-brown-jon-husted-battle-us-senate-seat/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he wants a stronger border with more resources for border agents, and voted to speed up asylum claims.",
+          "source": "https://guides.vote/guide/2026-ohio-senate-voters-guide/"
+        },
+        {
+          "issue": "education",
+          "summary": "Opposes public funding for private and for-profit schools, saying vouchers divert money from public education.",
+          "source": "https://guides.vote/guide/2026-ohio-senate-voters-guide/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Voted for $369 billion in clean energy tax credits.",
+          "source": "https://guides.vote/guide/2026-ohio-senate-voters-guide/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says abortion decisions are \"intensely personal\" and should be made by women and their doctors.",
+          "source": "https://abc6onyourside.com/news/election/sherrod-brown-seeks-backing-from-donald-trump-voters-who-support-abortion"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sherrod_Brown",
+        "https://www.cleveland19.com/2026/10/28/sherrod-brown-jon-husted-battle-us-senate-seat/"
+      ]
+    },
+    {
+      "id": "jon-husted",
+      "name": "Jon Husted",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 45.15,
+      "bio": "Jon Husted was appointed to the U.S. Senate in January 2025 to fill the seat vacated by JD Vance. He previously served as Ohio lieutenant governor (2019-2025), secretary of state (2011-2019) and speaker of the Ohio House.",
+      "website": "https://www.jonhustedforsenate.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "His campaign says he was proud to pass the Working Families Tax Cuts Act, which it says eliminated taxes on tips, overtime and Social Security.",
+          "source": "https://www.cleveland19.com/2026/10/28/sherrod-brown-jon-husted-battle-us-senate-seat/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Voted against extending the Affordable Care Act tax credits and has called the ACA dysfunctional.",
+          "source": "https://guides.vote/guide/2026-ohio-senate-voters-guide/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "His campaign says he is committed to keeping the border secure and is fighting for Ohioans, \"not people in our country illegally.\"",
+          "source": "https://www.cleveland19.com/2026/10/28/sherrod-brown-jon-husted-battle-us-senate-seat/"
+        },
+        {
+          "issue": "education",
+          "summary": "Supports school choice, including tax credits for faith-based education, and says he helped create Ohio's EdChoice scholarship.",
+          "source": "https://guides.vote/guide/2026-ohio-senate-voters-guide/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says Brown's \"radical climate change agenda\" shut 23 power plants in Ohio, and says he has legislation to require data centers to build their own power.",
+          "source": "https://www.foxnews.com/politics/gop-senator-unloads-creature-washington-challenger-critical-senate-showdown"
+        },
+        {
+          "issue": "abortion",
+          "summary": "His campaign biography calls him a \"champion for life.\"",
+          "source": "https://www.jonhustedforsenate.com/bio/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jon_Husted",
+        "https://www.jonhustedforsenate.com/bio/"
+      ]
+    },
+    {
+      "id": "william-redpath",
+      "name": "William Redpath",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 2.8,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "greg-levy",
+      "name": "Greg Levy",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 2.1,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://www.news5cleveland.com/politics/america-votes/democrat-sherrod-brown-defeats-gops-jon-husted-in-ohio-senate-race",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by news5cleveland.com report"
+}

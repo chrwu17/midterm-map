@@ -1,0 +1,112 @@
+{
+  "id": "GA-senate",
+  "state": "GA",
+  "stateName": "Georgia",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "jon-ossoff",
+  "summary": "Georgia's sitting senator, Jon Ossoff (Democrat), ran again and won, defeating U.S. Rep. Mike Collins (Republican).",
+  "candidates": [
+    {
+      "id": "jon-ossoff",
+      "name": "Jon Ossoff",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 59.03,
+      "bio": "Ossoff was born and raised in Atlanta, studied diplomacy at Georgetown University and earned a master's degree from the London School of Economics. Before the Senate he worked as a national security aide to U.S. Rep. Hank Johnson and led Insight TWI, a company that produced investigative documentaries. He was sworn into the Senate in January 2021 and ran for a second term in 2026.",
+      "website": "https://electjon.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says affordability is his priority, opposes Trump's tariffs as a cost to consumers, and backs the bipartisan infrastructure law and federal manufacturing incentives.",
+          "source": "https://www.ajc.com/politics/2026/09/mike-collins-vs-jon-ossoff-key-issues-dividing-georgias-senate-race/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Supports the Affordable Care Act, wants to restore enhanced premium tax credits, opposes the 2025 Medicaid changes, and cites his $35 monthly insulin cap for seniors.",
+          "source": "https://www.ajc.com/politics/2026/09/mike-collins-vs-jon-ossoff-key-issues-dividing-georgias-senate-race/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he supports secure borders and deporting people who commit crimes, while criticizing immigration raids and conditions in detention facilities.",
+          "source": "https://www.ajc.com/politics/2026/09/mike-collins-vs-jon-ossoff-key-issues-dividing-georgias-senate-race/"
+        },
+        {
+          "issue": "education",
+          "summary": "Wants Pell Grants available for shorter-term training programs and federal funds directed to technical colleges, universities and HBCUs.",
+          "source": "https://www.ajc.com/politics/2026/09/mike-collins-vs-jon-ossoff-key-issues-dividing-georgias-senate-race/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Has opened an investigation into whether rapid data center growth is raising electricity bills and has warned federal regulators that utility costs could be shifted onto households.",
+          "source": "https://www.ajc.com/politics/2026/09/mike-collins-vs-jon-ossoff-key-issues-dividing-georgias-senate-race/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Opposes Georgia's 2019 abortion ban and supports federal protections for abortion rights.",
+          "source": "https://www.ajc.com/politics/2026/09/mike-collins-vs-jon-ossoff-key-issues-dividing-georgias-senate-race/"
+        }
+      ],
+      "sources": [
+        "https://electjon.com/bio",
+        "https://www.fox5atlanta.com/news/sen-jon-ossoff-georgia-u-s-senate-candidate"
+      ]
+    },
+    {
+      "id": "mike-collins",
+      "name": "Mike Collins",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 40.97,
+      "bio": "Collins was born and raised in Jackson, Georgia, where he still lives, and has a business degree from Georgia State University. He co-founded a trucking company with his wife, Leigh Ann, in the early 1990s that grew to more than 100 employees. He represents Georgia's 10th Congressional District and sponsored the Laken Riley Act, which became law in 2025.",
+      "website": "https://mikecollinsga.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says Trump's tax cuts, deregulation and energy policies will lower prices, and blames Biden-era spending for inflation.",
+          "source": "https://www.ajc.com/politics/2026/09/mike-collins-vs-jon-ossoff-key-issues-dividing-georgias-senate-race/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Wants to repeal the Affordable Care Act and favors price transparency, expanded health savings accounts and a $50 billion rural health fund.",
+          "source": "https://www.ajc.com/politics/2026/09/mike-collins-vs-jon-ossoff-key-issues-dividing-georgias-senate-race/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Backs Trump's mass deportation campaign and points to his authorship of the Laken Riley Act.",
+          "source": "https://www.ajc.com/politics/2026/09/mike-collins-vs-jon-ossoff-key-issues-dividing-georgias-senate-race/"
+        },
+        {
+          "issue": "education",
+          "summary": "Emphasizes alternatives to four-year degrees such as skilled trades, and supports letting families use 529 accounts for technical training.",
+          "source": "https://www.ajc.com/politics/2026/09/mike-collins-vs-jon-ossoff-key-issues-dividing-georgias-senate-race/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says Trump's energy policies will expand domestic energy production, that the U.S. needs data centers to compete with China in AI, and that local communities should have the final say on projects.",
+          "source": "https://www.ajc.com/politics/2026/09/mike-collins-vs-jon-ossoff-key-issues-dividing-georgias-senate-race/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he is pro-life, supports Georgia's 2019 law banning most abortions as early as six weeks (which he says has exceptions for rape, incest and the mother's life), and opposes federal money for abortions.",
+          "source": "https://www.ajc.com/politics/2026/09/mike-collins-vs-jon-ossoff-key-issues-dividing-georgias-senate-race/"
+        }
+      ],
+      "sources": [
+        "https://www.fox5atlanta.com/news/rep-mike-collins-georgia-u-s-senate-candidate",
+        "https://mikecollinsga.com/press/congressman-mike-collins-launches-campaign-for-u-s-senate/"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

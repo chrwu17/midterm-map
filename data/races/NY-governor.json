@@ -1,0 +1,90 @@
+{
+  "id": "NY-governor",
+  "state": "NY",
+  "stateName": "New York",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "kathy-hochul",
+  "summary": "Gov. Kathy Hochul (Democrat) ran again and won re-election over Bruce Blakeman (Republican).",
+  "candidates": [
+    {
+      "id": "kathy-hochul",
+      "name": "Kathy Hochul",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 59.7,
+      "bio": "Kathy Hochul has been governor of New York since 2021. She ran with Adrienne Adams and was also on the Working Families line.",
+      "website": "https://kathyhochul.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she cut middle-class taxes, eliminated taxes on tips, and tripled the state child tax credit.",
+          "source": "https://kathyhochul.com/accomplishments/"
+        },
+        {
+          "issue": "education",
+          "summary": "Counts banning cell phones in schools, universal pre-K and free school meals for every student among her accomplishments.",
+          "source": "https://kathyhochul.com/accomplishments/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Defends a one-year statewide moratorium on new hyperscale AI data centers, saying it protects the power grid, water and communities.",
+          "source": "https://www.fox5ny.com/news/ny-gov-hochul-new-york-election-2026-midterms-vote"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says she protected abortion rights in New York.",
+          "source": "https://kathyhochul.com/accomplishments/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "bruce-blakeman",
+      "name": "Bruce Blakeman",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 40,
+      "bio": "Bruce Blakeman is the Nassau County Executive. He was also on the Conservative line and ran with Todd Hood.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "abortion",
+          "summary": "Describes himself as a pro-choice Republican and says that takes the abortion issue off the table.",
+          "source": "https://www.aol.com/news/bruce-blakeman-reveals-one-issue-195807053.html"
+        },
+        {
+          "issue": "economy",
+          "summary": "Says he wants to cut state income and corporate taxes, not raise them.",
+          "source": "https://www.aol.com/news/bruce-blakeman-reveals-one-issue-195807053.html"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he would rescind New York's sanctuary state policy on day one.",
+          "source": "https://www.aol.com/news/bruce-blakeman-reveals-one-issue-195807053.html"
+        },
+        {
+          "issue": "climate",
+          "summary": "Opposes the 2019 state climate law and offshore wind, and supports fracking in the Southern Tier to lower energy prices.",
+          "source": "https://www.aol.com/news/bruce-blakeman-reveals-one-issue-195807053.html"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that figures reflected about 95% of returns."
+}

@@ -1,0 +1,240 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-public-sans);
+  --font-mono: ui-monospace, monospace;
+  --font-heading: var(--font-fraunces);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+
+:root {
+  color-scheme: light dark;
+  --paper: #f7f5f0;
+  --surface: #ffffff;
+  --ink: #1b1d21;
+  --ink-muted: #5d6169;
+  --line: #e3dfd6;
+  --civic: #0f6e6e;
+  --map-senate: #9cc9c4;
+  --map-governor: #e3c08a;
+  --map-both: #2f7f7a;
+  --map-none: #e6e2d9;
+  --party-d: #e7ecf3;
+  --party-r: #f4eae6;
+  --party-o: #ecebe7;
+  --bar: #3b3f46;
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+
+  --background: var(--paper);
+  --foreground: var(--ink);
+  --card: var(--surface);
+  --card-foreground: var(--ink);
+  --popover: var(--surface);
+  --popover-foreground: var(--ink);
+  --primary: var(--civic);
+  --primary-foreground: #ffffff;
+  --secondary: #efece5;
+  --secondary-foreground: var(--ink);
+  --muted: #efece5;
+  --muted-foreground: var(--ink-muted);
+  --accent: #efece5;
+  --accent-foreground: var(--ink);
+  --destructive: #a23b2a;
+  --border: var(--line);
+  --input: var(--line);
+  --ring: var(--civic);
+  --radius: 0.75rem;
+}
+
+.dark {
+  color-scheme: dark;
+  --paper: #14161a;
+  --surface: #1c1f24;
+  --ink: #ecebe6;
+  --ink-muted: #a3a7ae;
+  --line: #2c3037;
+  --civic: #5cc2bd;
+  --map-senate: #2f6f6a;
+  --map-governor: #8a6a35;
+  --map-both: #5cc2bd;
+  --map-none: #2a2d33;
+  --party-d: #262c36;
+  --party-r: #352a27;
+  --party-o: #2b2c2e;
+  --bar: #c9cbd0;
+  --primary-foreground: #0d1b1b;
+  --secondary: #23262c;
+  --muted: #23262c;
+  --accent: #23262c;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --destructive: #e07a68;
+    --paper: #14161a; --surface: #1c1f24; --ink: #ecebe6; --ink-muted: #a3a7ae; --line: #2c3037;
+    --civic: #5cc2bd; --map-senate: #2f6f6a; --map-governor: #8a6a35; --map-both: #5cc2bd; --map-none: #2a2d33;
+    --party-d: #262c36; --party-r: #352a27; --party-o: #2b2c2e; --bar: #c9cbd0;
+    --primary-foreground: #0d1b1b; --secondary: #23262c; --muted: #23262c; --accent: #23262c;
+  }
+}
+
+h1, h2, h3 { font-family: var(--font-fraunces), Georgia, serif; letter-spacing: -0.02em; }
+
+a { text-underline-offset: 3px; text-decoration-thickness: 1px; }
+::selection { background: color-mix(in oklab, var(--civic) 22%, transparent); color: var(--ink); }
+h1, h2 { text-wrap: balance; }
+
+:focus-visible { outline: 2px solid var(--civic); outline-offset: 2px; }
+
+.state-path {
+  fill: var(--map-none);
+  stroke: var(--paper);
+  stroke-width: 1;
+  cursor: pointer;
+  transition: fill 150ms var(--ease-out), stroke 150ms var(--ease-out), opacity 150ms var(--ease-out);
+  outline: none;
+}
+.state-path[data-kind="senate"] { fill: var(--map-senate); }
+.state-path[data-kind="governor"] { fill: var(--map-governor); }
+.state-path[data-kind="both"] { fill: var(--map-both); }
+.state-path:hover, .state-path:focus-visible, .state-path[data-active="true"] { stroke: var(--ink); stroke-width: 2; }
+.state-path:focus-visible { stroke: var(--civic); stroke-width: 2; transition: none; }
+.map-tip { will-change: transform; }
+.js [data-split-pending="true"] { visibility: hidden; }
+
+.lift { transition: transform 200ms var(--ease-out), box-shadow 200ms var(--ease-out); }
+@media (hover: hover) {
+  .lift:hover { transform: translateY(-2px); box-shadow: 0 6px 20px -8px rgb(0 0 0 / 0.18); }
+}
+.press { transition: transform 120ms var(--ease-out); }
+.press:active { transform: scale(0.97); }
+
+.prose-lesson h2 { font-size: 1.5rem; margin: 2rem 0 0.75rem; font-weight: 600; }
+.prose-lesson h3 { font-size: 1.2rem; margin: 1.5rem 0 0.5rem; font-weight: 600; }
+.prose-lesson p, .prose-lesson ul, .prose-lesson ol { margin: 0 0 1rem; line-height: 1.7; }
+.prose-lesson ul { list-style: disc; padding-left: 1.25rem; }
+.prose-lesson ol { list-style: decimal; padding-left: 1.25rem; }
+.prose-lesson a { color: var(--civic); text-decoration: underline; }
+.prose-lesson strong { font-weight: 600; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: 0ms !important; animation-duration: 0ms !important; }
+  html { scroll-behavior: auto !important; }
+  .lift:hover, .press:active { transform: none !important; }
+  .term-pop { translate: none !important; }
+}
+
+/* Source links: small text, but a 44px-tall hit area on touch screens without shifting layout. */
+.source-link { position: relative; white-space: nowrap; }
+@media (pointer: coarse) {
+  .source-link::after {
+    content: "";
+    position: absolute;
+    left: -6px;
+    right: -6px;
+    top: 50%;
+    height: 44px;
+    transform: translateY(-50%);
+  }
+}
+
+/* Labelled buttons for small northeastern states, under the map. */
+.small-state {
+  display: inline-flex; align-items: center; gap: 6px;
+  min-height: 44px; min-width: 44px; padding: 0 12px;
+  border: 1px solid var(--line); border-radius: 9999px; background: var(--surface); color: var(--ink);
+  font-size: 0.875rem; font-weight: 500; cursor: pointer;
+  transition: border-color 150ms var(--ease-out), transform 120ms var(--ease-out);
+}
+.small-state-swatch { width: 12px; height: 12px; border-radius: 3px; background: var(--map-none); box-shadow: inset 0 0 0 1px var(--line); }
+.small-state[data-kind="senate"] .small-state-swatch { background: var(--map-senate); }
+.small-state[data-kind="governor"] .small-state-swatch { background: var(--map-governor); }
+.small-state[data-kind="both"] .small-state-swatch { background: var(--map-both); }
+.small-state:hover, .small-state[data-active="true"] { border-color: var(--ink); }
+.small-state:focus-visible { outline: 3px solid var(--civic); outline-offset: 1px; }
+@media (min-width: 640px) { .small-state { min-height: 36px; } }
+@media (pointer: coarse) { .small-state { min-height: 44px; } }
+
+/* Glossary terms: dotted underline trigger plus a small definition popover. */
+.term-trigger {
+  font: inherit; color: inherit; letter-spacing: inherit; text-transform: inherit;
+  background: none; border: 0; padding: 0; margin: 0; cursor: help;
+  text-decoration: underline dotted; text-decoration-thickness: 1.5px; text-underline-offset: 3px;
+  text-decoration-color: color-mix(in oklab, currentColor 60%, transparent);
+  border-radius: 2px;
+}
+.term-trigger[aria-expanded="true"] { text-decoration-color: var(--civic); }
+.term-pop {
+  position: absolute; left: 0; top: calc(100% + 6px); z-index: 50;
+  width: max-content; max-width: min(18rem, calc(100vw - 32px));
+  padding: 12px 14px; border: 1px solid var(--line); border-radius: 10px;
+  background: var(--popover); color: var(--ink-muted); box-shadow: 0 8px 24px -12px rgb(0 0 0 / 0.25);
+  font-size: 0.875rem; font-weight: 400; line-height: 1.5; text-align: left;
+  text-transform: none; letter-spacing: normal; white-space: normal;
+  transform-origin: top left;
+  transition: opacity 120ms var(--ease-out), translate 120ms var(--ease-out);
+  @starting-style { opacity: 0; translate: 0 4px; }
+}
+.term-pop[hidden] { display: none; }
+
+/* Map hover and focus: the active state gets a clear outline, the others dim a little. */
+.state-path { transform-box: fill-box; }
+.us-map:has(.state-path:hover, .state-path:focus-visible, .state-path[data-active="true"]) .state-path:not(:hover):not(:focus-visible):not([data-active="true"]) { opacity: 0.72; }
+.small-state { transition: border-color 150ms var(--ease-out), transform 120ms var(--ease-out), box-shadow 150ms var(--ease-out); }
+.small-state:hover, .small-state:focus-visible, .small-state[data-active="true"] { box-shadow: 0 2px 8px -4px rgb(0 0 0 / 0.25); }
+.small-state:active { transform: scale(0.97); }
+@media (prefers-reduced-motion: reduce) { .us-map .state-path { opacity: 1 !important; } }

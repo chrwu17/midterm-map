@@ -1,0 +1,120 @@
+{
+  "id": "OH-governor",
+  "state": "OH",
+  "stateName": "Ohio",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "amy-acton",
+  "summary": "Republican Gov. Mike DeWine was term-limited, so the seat was open. Amy Acton (Democrat) defeated Vivek Ramaswamy (Republican).",
+  "candidates": [
+    {
+      "id": "amy-acton",
+      "name": "Amy Acton",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 52.31,
+      "bio": "Amy Acton is a physician and public health professional who served as director of the Ohio Department of Health from 2019 to 2020 under Gov. Mike DeWine. She was the Democratic nominee for governor in 2026.",
+      "website": "https://actonforgovernor.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says a tax cut for working families, including an Earned Income Credit, is her top priority, and that she will fight for a $1,000 a year child tax credit for children ages 0-6.",
+          "source": "https://actonforgovernor.com/issue/reducing-costs-for-ohio-families/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she would protect Medicaid and Medicare, launch an Ohio Rx platform to lower prescription drug prices, and direct the state to work toward relieving medical debt.",
+          "source": "https://actonforgovernor.com/issue/affordable-healthcare-for-all-ohioans/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she would restore school funding by carrying out the Fair School Funding Plan, and that \"Public money should be for public schools.\"",
+          "source": "https://actonforgovernor.com/issue/education/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says she will protect reproductive freedom so that \"every woman can access safe, legal abortion care\" and will fight attempts to undermine Issue 1.",
+          "source": "https://actonforgovernor.com/issue/ensuring-reproductive-freedom/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says Ohio will \"always work with the federal law enforcement\" and would not stop local police from assisting immigration operations, while expecting ICE to follow the law.",
+          "source": "https://www.news5cleveland.com/news/politics/ohio-politics/party-flip-democrat-acton-supports-ice-collaboration-as-gop-ramaswamy-concerned-about-flock-cameras"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amy_Acton"
+      ]
+    },
+    {
+      "id": "vivek-ramaswamy",
+      "name": "Vivek Ramaswamy",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 44.39,
+      "bio": "Vivek Ramaswamy is a businessman who founded the biotechnology company Roivant Sciences and co-founded Strive Asset Management. He sought the 2024 Republican presidential nomination and was the Republican nominee for Ohio governor in 2026.",
+      "website": "https://vivekforohio.com",
+      "positions": [
+        {
+          "issue": "immigration",
+          "summary": "Says he would end sanctuary cities and bar Ohio localities from policies that impede cooperation with federal immigration authorities.",
+          "source": "https://www.webull.com/news/15837032675501056"
+        },
+        {
+          "issue": "economy",
+          "summary": "Says he would cut property taxes right away and phase out the state income tax, starting with capital gains taxes.",
+          "source": "https://vivekforohio.com/the-plan"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would raise academic standards, give parents more choice in where children learn, and pay top teachers more.",
+          "source": "https://vivekforohio.com/the-plan"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would expand natural gas and new energy technologies to lower electric bills, and speed up energy project permits.",
+          "source": "https://vivekforohio.com/the-plan"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Has proposed cracking down on Medicaid fraud and asking the federal government to let Ohio keep more of the money it recovers.",
+          "source": "https://signalcleveland.org/vivek-ramaswamy-unveils-medicaid-fraud-plan-wants-ohio-to-keep-more-of-what-it-saves/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he is \"unapologetically pro-life\" and will help fund the crisis pregnancy care network.",
+          "source": "https://www.news5cleveland.com/news/politics/ohio-politics/where-ohios-candidates-for-governor-stand-on-abortion"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vivek_Ramaswamy"
+      ]
+    },
+    {
+      "id": "don-kissick",
+      "name": "Don Kissick",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 3.31,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.opb.org/article/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/",
+    "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

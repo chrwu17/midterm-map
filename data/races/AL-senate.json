@@ -1,0 +1,97 @@
+{
+  "id": "AL-senate",
+  "state": "AL",
+  "stateName": "Alabama",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "barry-moore",
+  "summary": "This was an open seat because Republican Sen. Tommy Tuberville ran for governor instead. Barry Moore (Republican) defeated Everett Wess (Democrat).",
+  "candidates": [
+    {
+      "id": "barry-moore",
+      "name": "Barry Moore",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 54.71,
+      "bio": "Barry Moore is a Republican U.S. representative from Alabama since 2021, first for the 2nd district and since 2025 for the 1st, and a member of the House Agriculture and Judiciary committees. Before Congress he founded a waste hauling company in 1998 and served in the Alabama House from 2010 to 2018. He says he was the first elected official in America to back Donald Trump for president and that his voting record is his main qualification.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says taxes will be lower when Alabamians file on April 15 and that gas prices and grocery bills are coming down.",
+          "source": "https://1819news.com/news/item/check-the-record-barry-moore-touts-his-conservative-bonafides-in-qualifying-for-u-s-senate"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says immigrants in the country illegally who commit crimes must be deported and that the law must keep being enforced.",
+          "source": "https://1819news.com/news/item/check-the-record-barry-moore-touts-his-conservative-bonafides-in-qualifying-for-u-s-senate"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Was listed as strongly opposed to universal health coverage and strongly in favor of private insurance in a September 2020 issue survey.",
+          "source": "https://ontheissues.org/Senate/Barry_Moore.htm"
+        },
+        {
+          "issue": "education",
+          "summary": "Supported tax credits for parents who send their children to private schools, in a 2013 statement.",
+          "source": "https://ontheissues.org/Senate/Barry_Moore.htm"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Supported increasing restrictions on abortion clinics in 2013 and prohibiting use of fetal tissue from aborted babies in 2016.",
+          "source": "https://ontheissues.org/Senate/Barry_Moore.htm"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
+        "https://en.wikipedia.org/wiki/Barry_Moore_(American_politician)",
+        "https://1819news.com/news/item/check-the-record-barry-moore-touts-his-conservative-bonafides-in-qualifying-for-u-s-senate"
+      ]
+    },
+    {
+      "id": "everett-wess",
+      "name": "Everett Wess",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 45.29,
+      "bio": "Everett Wess is a Birmingham attorney and managing partner of The Wess Law Firm since 2001. He served as a Midfield municipal court judge for eight years and is state president of the Alabama New South Coalition.",
+      "website": "https://wessforsenate.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says economic opportunity is vital for Alabama's growth and prosperity.",
+          "source": "https://wessforsenate.com/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says affordable healthcare is essential, including funding for rural medical providers and support for hospitals in underserved areas.",
+          "source": "https://wessforsenate.com/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says Alabama must ensure quality public education to equip future leaders.",
+          "source": "https://wessforsenate.com/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Said in June 2026 that immigration courts must be properly funded.",
+          "source": "https://ontheissues.org/Senate/Everett_Wess.htm"
+        }
+      ],
+      "sources": [
+        "https://wessforsenate.com/"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

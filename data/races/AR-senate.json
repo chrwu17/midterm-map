@@ -1,0 +1,125 @@
+{
+  "id": "AR-senate",
+  "state": "AR",
+  "stateName": "Arkansas",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "tom-cotton",
+  "summary": "Republican Sen. Tom Cotton ran for re-election and won over Hallie Shoffner (Democrat) and Jeff Wadlin (Libertarian).",
+  "candidates": [
+    {
+      "id": "tom-cotton",
+      "name": "Tom Cotton",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 54.26,
+      "bio": "Tom Cotton is a Republican who has been a U.S. senator from Arkansas since January 2015. He is a sixth-generation Arkansan born in Yell County and an Army combat veteran. He serves on the Armed Services Committee and says he authored the RAISE Act on immigration. His current term ends January 3, 2027.",
+      "website": "https://tomcotton.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he helped pass the Working Families Tax Cut and fights to lower costs by ending Green New Deal regulations and supporting American energy.",
+          "source": "https://tomcotton.com/issues/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he fights to protect rural hospitals and lower prescription drug costs without turning healthcare over to bureaucrats.",
+          "source": "https://tomcotton.com/issues/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says the right amount of illegal immigration is zero, and cites his vote for the Laken Riley Act and his RAISE Act to end chain migration.",
+          "source": "https://tomcotton.com/issues/"
+        },
+        {
+          "issue": "education",
+          "summary": "Supports local control of education, parental rights and school choice, and higher pay for good teachers.",
+          "source": "https://tomcotton.com/issues/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he opposes Green New Deal regulations and supports American energy production to lower costs.",
+          "source": "https://tomcotton.com/issues/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he has stood up for life.",
+          "source": "https://tomcotton.com/issues/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
+        "https://tomcotton.com/",
+        "https://tomcotton.com/issues/"
+      ]
+    },
+    {
+      "id": "hallie-shoffner",
+      "name": "Hallie Shoffner",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 42.41,
+      "bio": "Hallie Shoffner is the Democratic nominee and a sixth-generation farmer who grew up on a soybean and rice farm outside Newport, Arkansas. She attended Vanderbilt University on a full scholarship and studied public service at the Clinton School of Public Service. She ran the family farm, which shut down after the 2024 season.",
+      "website": "https://www.hallieshoffner.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she will cut taxes for working families, raise the minimum wage, and expand workforce training.",
+          "source": "https://www.hallieshoffner.com/platform"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she will lower prescription drug prices, strengthen the Affordable Care Act, and protect Medicare and Medicaid.",
+          "source": "https://www.hallieshoffner.com/platform"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she will raise pay and benefits for teachers and school staff and invest in technical education and apprenticeships.",
+          "source": "https://www.hallieshoffner.com/platform"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Said in February 2026 that the country should have immigration reform but that the current approach is not it.",
+          "source": "https://ontheissues.org/Senate/Hallie_Shoffner.htm"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Said in July 2025 that states can decide abortion policy but should not restrict life-saving surgery.",
+          "source": "https://ontheissues.org/Senate/Hallie_Shoffner.htm"
+        },
+        {
+          "issue": "climate",
+          "summary": "Said in December 2022 that climate change is a threat and is 'threatening our groceries'.",
+          "source": "https://ontheissues.org/Senate/Hallie_Shoffner.htm"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
+        "https://www.hallieshoffner.com/"
+      ]
+    },
+    {
+      "id": "jeff-wadlin",
+      "name": "Jeff Wadlin",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 3.33,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "WY-governor",
+  "state": "WY",
+  "stateName": "Wyoming",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "eric-barlow",
+  "summary": "This was an open race because Gov. Mark Gordon was term-limited. Eric Barlow (Republican) defeated Rebecca Bextel (Constitution Party) and Ken Casner (Democrat).",
+  "candidates": [
+    {
+      "id": "eric-barlow",
+      "name": "Eric Barlow",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 68.12,
+      "bio": "Eric Barlow is a Wyoming state senator from Gillette. He won the 2026 Republican nomination for governor.",
+      "website": "https://www.barlowforwyo.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he delivered on property tax relief and lists energy expansion among his priorities.",
+          "source": "https://www.barlowforwyo.com/positions"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he supported expanding telehealth, stabilizing rural hospitals and reducing regulatory burdens on doctors and clinics.",
+          "source": "https://www.barlowforwyo.com/positions"
+        },
+        {
+          "issue": "education",
+          "summary": "Supports local control and parental involvement in schools, and backs vocational and trades training.",
+          "source": "https://www.barlowforwyo.com/positions"
+        },
+        {
+          "issue": "climate",
+          "summary": "Supports coal, oil, gas and uranium production and says Wyoming should decide its own energy future.",
+          "source": "https://www.barlowforwyo.com/positions"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Describes himself as \"firmly pro-life\" with a legislative record supporting protections for the unborn.",
+          "source": "https://www.barlowforwyo.com/positions"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eric_Barlow",
+        "https://ballotpedia.org/Eric_Barlow"
+      ]
+    },
+    {
+      "id": "rebecca-bextel",
+      "name": "Rebecca Bextel",
+      "party": "Other",
+      "partyLabel": "Constitution",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 16.67,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "ken-casner",
+      "name": "Ken Casner",
+      "party": "Democratic",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 14.56,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://www.newsfromthestates.com/article/republican-eric-barlow-wins-wyoming-governors-race",
+    "https://cowboystatedaily.com/2026/11/03/barlow-outlasts-bextel-casner-to-become-wyoming-governor/",
+    "https://en.wikipedia.org/wiki/2026_Wyoming_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

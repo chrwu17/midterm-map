@@ -1,0 +1,119 @@
+{
+  "id": "IL-senate",
+  "state": "IL",
+  "stateName": "Illinois",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "juliana-stratton",
+  "summary": "Sen. Dick Durbin (Democrat) retired, so the seat was open. Lt. Gov. Juliana Stratton (Democrat) won, defeating Don Tracy (Republican) and one independent.",
+  "candidates": [
+    {
+      "id": "juliana-stratton",
+      "name": "Juliana Stratton",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 61.9,
+      "bio": "Stratton was born and raised on Chicago's South Side, the daughter of a Navy veteran and a Chicago public school teacher. She served as an Illinois state representative before becoming lieutenant governor under Gov. JB Pritzker, and she says she spent seven years in that office. She won the March 2026 Democratic primary with 40.4% of the vote and Pritzker's backing.",
+      "website": "https://www.julianastratton.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she wants to raise the federal minimum wage to $25, end Trump's trade war, and cut middle-class taxes paid for by raising taxes on income over $1 million.",
+          "source": "https://www.julianastratton.com/issues"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Supports Medicare for All and says she helped relieve medical debt as lieutenant governor.",
+          "source": "https://www.julianastratton.com/issues"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Wants to abolish ICE, which she says cannot be reformed, and supports comprehensive reform with a path to citizenship and more immigration judges.",
+          "source": "https://capitolnewsillinois.com/news/stratton-tracy-clash-over-trump-affordability-in-lone-u-s-senate-forum/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she would restore the Department of Education and expand federal support for trades learning and technical schools.",
+          "source": "https://www.julianastratton.com/issues"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she would take urgent action on climate change, as she has alongside Gov. Pritzker in Illinois.",
+          "source": "https://www.julianastratton.com/issues"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says she would restore the abortion protections of Roe v. Wade and safeguard reproductive freedom.",
+          "source": "https://www.julianastratton.com/issues"
+        }
+      ],
+      "sources": [
+        "https://www.julianastratton.com/meet-juliana",
+        "https://www.julianastratton.com/"
+      ]
+    },
+    {
+      "id": "don-tracy",
+      "name": "Don Tracy",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 36.5,
+      "bio": "Tracy is a Springfield lawyer, a partner at Brown, Hay & Stephens and outside counsel to the family-owned food distributor Dot Foods. He chaired the Illinois Gaming Board from 2015 to 2019 and chaired the Illinois Republican Party from 2021 to 2024. He won the March 2026 Republican primary for the Senate seat held by retiring Democrat Dick Durbin.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would cut taxes and focus on root causes of high costs such as reducing government spending, and says raising the minimum wage would be 'a death sentence to small businesses.'",
+          "source": "https://capitolnewsillinois.com/news/stratton-tracy-clash-over-trump-affordability-in-lone-u-s-senate-forum/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he opposes overhauling the health care system, which he calls one of the best in the world, and says the country needs more market competition.",
+          "source": "https://capitolnewsillinois.com/news/stratton-tracy-clash-over-trump-affordability-in-lone-u-s-senate-forum/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Called the Midway Blitz immigration enforcement operation \"ugly and chaotic\" and said the administration should have found a better way. He also blamed Illinois Democratic leaders and protesters for not cooperating.",
+          "source": "https://capitolnewsillinois.com/news/stratton-tracy-clash-over-trump-affordability-in-lone-u-s-senate-forum/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would keep an open mind on dismantling the U.S. Department of Education and generally favors more education functions at the state and local level.",
+          "source": "https://capitolnewsillinois.com/news/stratton-tracy-clash-over-trump-affordability-in-lone-u-s-senate-forum/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says diverse energy sources are good but should not come at the expense of a reliable grid, and criticizes green energy subsidies as too costly.",
+          "source": "https://www.illinoistimes.com/news/don-tracy-to-run-for-u-s-senate/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Don_Tracy",
+        "https://insider.capitolnewsillinois.com/underdog-tracy-says-hes-answering-a-call-of-duty-by-running-for-durbins-seat/"
+      ]
+    },
+    {
+      "id": "whitfield-harrington-jr",
+      "name": "Whitfield Harrington Jr.",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Illinois",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

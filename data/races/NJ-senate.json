@@ -1,0 +1,136 @@
+{
+  "id": "NJ-senate",
+  "state": "NJ",
+  "stateName": "New Jersey",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "cory-booker",
+  "summary": "Sen. Cory Booker (Democrat) ran for reelection and won, defeating Republican Justin Murphy.",
+  "candidates": [
+    {
+      "id": "cory-booker",
+      "name": "Cory Booker",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 62.5,
+      "bio": "Cory Booker is the Democratic U.S. Senator from New Jersey and a former mayor of Newark. He ran unopposed in the 2026 Democratic primary.",
+      "website": "https://corybooker.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Backs the Keep Your Pay Act to make the first $75,000 of household income tax-free for most filers and expand the child tax credit.",
+          "source": "https://whyy.org/articles/election-2026-new-jersey-senate-voter-guide-booker/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says health care is a human right and has led efforts to protect the Affordable Care Act.",
+          "source": "https://www.booker.senate.gov/about/issues/health-care"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Led colleagues in urging HHS to remove barriers that keep DACA recipients from getting health insurance through the ACA and CHIP.",
+          "source": "https://www.booker.senate.gov/about/issues/civil-rights"
+        },
+        {
+          "issue": "education",
+          "summary": "Says a student's zip code should not determine their educational and economic future.",
+          "source": "https://www.booker.senate.gov/about/issues/education"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says all Americans should have access to clean water, clean air and a healthy environment.",
+          "source": "https://www.booker.senate.gov/about/issues/environment"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Introduced the Protecting National Access to Reproductive Care Act, which would affirm FDA authority over state law for FDA-approved reproductive health products including medication abortion drugs.",
+          "source": "https://www.booker.senate.gov/about/issues/health-care"
+        }
+      ],
+      "sources": [
+        "https://whyy.org/articles/election-2026-new-jersey-senate-voter-guide-booker/"
+      ]
+    },
+    {
+      "id": "justin-murphy",
+      "name": "Justin Murphy",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 34.9,
+      "bio": "Justin Murphy is a Republican attorney and former committee person in Tabernacle, Burlington County. He won the 2026 Republican Senate primary.",
+      "website": "https://jerseyjustin4senate.org/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would abolish the IRS and the Internal Revenue Code and adopt a flat income tax.",
+          "source": "https://jerseyjustin4senate.org/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he will oppose government-run healthcare and backs Health Savings Accounts and a national insurance market.",
+          "source": "https://jerseyjustin4senate.org/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Supports finishing the southern border wall, deploying the military to the border, and withholding federal aid from sanctuary jurisdictions.",
+          "source": "https://jerseyjustin4senate.org/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he wants to abolish the federal Department of Education and supports school choice.",
+          "source": "https://jerseyjustin4senate.org/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he supports expanding nuclear power and domestic energy production, with a focus on oil.",
+          "source": "https://jerseyjustin4senate.org/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Describes himself as pro-life with exceptions for the mother's life, rape and incest, and opposes taxpayer funding of abortion.",
+          "source": "https://jerseyjustin4senate.org/"
+        }
+      ],
+      "sources": [
+        "https://whyy.org/articles/new-jersey-election-2026-primary-senate-republican-nomination/",
+        "https://www.washingtonexaminer.com/news/campaigns/congressional/4592637/justin-murphy-face-cory-booker-negative-cash-on-hand/"
+      ]
+    },
+    {
+      "id": "veronica-fernandez",
+      "name": "Veronica Fernandez",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "joanne-kuniansky",
+      "name": "Joanne Kuniansky",
+      "party": "Other",
+      "partyLabel": "Socialist Workers",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

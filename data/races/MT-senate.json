@@ -1,0 +1,158 @@
+{
+  "id": "MT-senate",
+  "state": "MT",
+  "stateName": "Montana",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "kurt-alme",
+  "summary": "Republican Sen. Steve Daines did not run, so the seat was open. Kurt Alme (Republican) won, ahead of Seth Bodnar (independent) and Alani Bankhead (Democrat).",
+  "candidates": [
+    {
+      "id": "kurt-alme",
+      "name": "Kurt Alme",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 48.16,
+      "bio": "Kurt Alme is a Republican and former U.S. Attorney for Montana who also served as Gov. Gianforte's budget director. He entered the race in March 2026 after Sen. Steve Daines withdrew and endorsed him.",
+      "website": "https://www.almeforsenate.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he supports balanced budgets and tax relief, and that deficit spending raises prices.",
+          "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he wants to use Rural Health Transformation Program funds to recruit and retain providers, expand telehealth, and increase price transparency, and opposes subsidizing health insurance companies.",
+          "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says \"We need to keep the border secure\" and calls for investigating drug trafficking organizations \"all the way up to the cartels.\"",
+          "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he supports the Ratepayer Protection Act and wants data center and AI companies to disclose costs and community impacts and protect water quality.",
+          "source": "https://nbcmontana.com/newsletter-daily/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate"
+        }
+      ],
+      "sources": [
+        "https://dailymontanan.com/2026/03/04/kurt-alme-files-for-u-s-senate-immediately-endorsed-by-outgoing-sen-daines-president-trump/",
+        "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"
+      ]
+    },
+    {
+      "id": "seth-bodnar",
+      "name": "Seth Bodnar",
+      "party": "Independent",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 37.74,
+      "bio": "Seth Bodnar is an independent, a West Point graduate and former Army Green Beret, and the former president of the University of Montana. He announced his Senate run in March 2026.",
+      "website": "https://sethformontana.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he wants commonsense trade policy rather than frequently changing tariffs, and proposes cutting red tape to build more homes and barring large private equity firms from buying single-family homes.",
+          "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/seth-bodnar/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says the recent budget bill \"will kick more than 30,000 Montanans off their healthcare,\" and pledges to defend Medicaid expansion and oppose cuts to critical access hospitals.",
+          "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/seth-bodnar/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says \"we need strong borders and we need to enforce our immigration laws,\" and also supports comprehensive reform and opposes aggressive federal enforcement tactics in cities.",
+          "source": "https://nbcmontana.com/newsletter-daily/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says communities should have a say before large companies build data centers and that he supports the Ratepayer Protection Act.",
+          "source": "https://nbcmontana.com/newsletter-daily/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says \"The government has no place in a Montanan's doctor's office, whether that government sits in Helena or Washington, D.C.\"",
+          "source": "https://dailymontanan.com/2026/09/18/planned-parenthood-endorses-independent-in-mt-senate-race/"
+        }
+      ],
+      "sources": [
+        "https://www.mtpr.org/montana-news/2026-03-04/bodnar-enters-montana-senate-race-as-an-independent",
+        "https://www.axios.com/2026/01/22/seth-bodnar-montana-senate-independent"
+      ]
+    },
+    {
+      "id": "alani-bankhead",
+      "name": "Alani Bankhead",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 12.26,
+      "bio": "Alani Bankhead is a Democrat who describes herself as a moderate and an independent Democrat. She ran in the 2026 Democratic primary for Montana's Senate seat.",
+      "website": "https://www.alaniformt.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Proposes raising the capital gains limit from $250,000 to $500,000 and tax breaks for builders whose projects include at least 30% affordable housing.",
+          "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/alani-bankhead/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she would first restore expired ACA tax credits, add a public option and close the coverage gap, then move step by step through \"Medicaid for all, then Medicare for all, until everyone is covered.\"",
+          "source": "https://www.alaniformt.com/healthcare"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says she supports comprehensive immigration reform and wants to streamline the citizenship process.",
+          "source": "https://nbcmontana.com/newsletter-daily/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate"
+        },
+        {
+          "issue": "education",
+          "summary": "Says Montana teachers are some of the most poorly paid in the country and that she will fund education because it is the best avenue out of poverty.",
+          "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/alani-bankhead/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she opposes AI data center construction in Montana and supports a moratorium.",
+          "source": "https://nbcmontana.com/newsletter-daily/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Lists reproductive freedom among her priorities and says people, not the government, should be trusted.",
+          "source": "https://www.alaniformt.com"
+        }
+      ],
+      "sources": [
+        "https://ballotpedia.org/Alani_Bankhead",
+        "https://www.kpax.com/news/montana-politics/fourth-democratic-candidate-running-for-montana-u-s-senate-seat",
+        "https://www.alaniformt.com/healthcare"
+      ]
+    },
+    {
+      "id": "kyle-austin",
+      "name": "Kyle Austin",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.84,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

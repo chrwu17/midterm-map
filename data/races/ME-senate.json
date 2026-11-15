@@ -1,0 +1,94 @@
+{
+  "id": "ME-senate",
+  "state": "ME",
+  "stateName": "Maine",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "troy-jackson",
+  "summary": "Sen. Susan Collins (Republican) ran for re-election and lost to Troy Jackson (Democrat).",
+  "candidates": [
+    {
+      "id": "troy-jackson",
+      "name": "Troy Jackson",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 53.1,
+      "bio": "Troy Jackson is a Democrat who grew up in northern Maine and served as president of the Maine Senate. He became the party's Senate nominee in 2026 after the earlier primary winner, Graham Platner, suspended his campaign.",
+      "website": "https://jacksonformaine.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says billionaires and big corporations are not paying their fair share, and says he will lift the Social Security tax cap for the wealthiest, expand the Child Tax Credit and Earned Income Tax Credit, and ban members of Congress from trading individual stocks.",
+          "source": "https://jacksonformaine.com/priorities"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Supports Medicare for All and says he will let the federal government negotiate prescription drug prices.",
+          "source": "https://jacksonformaine.com/priorities"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says ICE must be abolished and immigration enforcement should focus on genuine public-safety threats.",
+          "source": "https://jacksonformaine.com/priorities"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he will pass a federal law establishing a right to abortion.",
+          "source": "https://jacksonformaine.com/priorities"
+        }
+      ],
+      "sources": [
+        "https://jacksonformaine.com/issues/",
+        "https://prospect.org/2026/08/28/troy-jackson-is-looking-forward-democrats-senate-maine/"
+      ]
+    },
+    {
+      "id": "susan-collins",
+      "name": "Susan Collins",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 46.8,
+      "bio": "Susan Collins is the Republican U.S. Senator from Maine, first elected in 1996 and reelected four times. A Caribou native and St. Lawrence University graduate, she worked on Capitol Hill and in Maine state government before the Senate. She chairs the Appropriations Committee.",
+      "website": "https://www.susancollins.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she opposes the trade war with Canada and has worked for exemptions such as road salt, and points to federal funds she has brought to Maine.",
+          "source": "https://cbsnews.com/news/maine-senate-debate-collins-jackson-trump"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she opposed the One Big Beautiful Bill Act because of its Medicaid cuts, and that her procedural vote to advance it secured a $50 billion rural hospital fund.",
+          "source": "https://cbsnews.com/news/maine-senate-debate-collins-jackson-trump"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says ICE needs reform but should not be abolished.",
+          "source": "https://cbsnews.com/news/maine-senate-debate-collins-jackson-trump"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says she disagreed with the Supreme Court's decision to overturn Roe v. Wade.",
+          "source": "https://cbsnews.com/news/maine-senate-debate-collins-jackson-trump"
+        }
+      ],
+      "sources": [
+        "https://rollcall.com/2026/02/10/susan-collins-reelection-maine-senate/",
+        "https://www.courthousenews.com/susan-collins-announces-reelection-bid-in-pivotal-maine-senate-race/",
+        "https://www.collins.senate.gov/about"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
+    "https://newschannel9.com/news/nation-world/troy-jackson-declares-victory-in-maine-senate-race-as-senator-susan-collins-concedes-maine-politics-election",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by newschannel9.com report. Collins conceded; Jackson replaced Platner as nominee in July."
+}

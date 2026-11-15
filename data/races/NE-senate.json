@@ -1,0 +1,136 @@
+{
+  "id": "NE-senate",
+  "state": "NE",
+  "stateName": "Nebraska",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "pete-ricketts",
+  "summary": "Republican incumbent Pete Ricketts ran for reelection and won, defeating independent Dan Osborn.",
+  "candidates": [
+    {
+      "id": "pete-ricketts",
+      "name": "Pete Ricketts",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 50,
+      "bio": "Pete Ricketts is the Republican U.S. Senator from Nebraska and a former governor of the state. He sponsored the National Right to Work Act.",
+      "website": "https://www.ricketts.senate.gov/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he opposes out-of-control federal spending and the national debt, and supports spending limits, less regulation and a more orderly appropriations process.",
+          "source": "https://www.ricketts.senate.gov/issues/reining-in-big-government/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Calls border security essential to national security and supports asylum reform, building the border wall, higher federal penalties for fentanyl distributors and stopping sanctuary cities.",
+          "source": "https://www.ricketts.senate.gov/issues/securing-our-border/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he wants the federal government out of the classroom, favors local education with parental control, and supports school choice.",
+          "source": "https://www.ricketts.senate.gov/issues/strengthening-families/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he backs domestic energy production, biofuels, faster permitting and nuclear power, and opposes federal rules and electric-vehicle mandates he sees as overreach.",
+          "source": "https://www.ricketts.senate.gov/issues/ensuring-energy-independence/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Describes himself as pro-life, signed a ban on dismemberment abortion as governor, and supports barring federal taxpayer funding of abortions.",
+          "source": "https://www.ricketts.senate.gov/issues/strengthening-families/"
+        }
+      ],
+      "sources": [
+        "https://ontheissues.org/senate/Peter_Ricketts.htm",
+        "https://www.kwit.org/podcast/spm-news/2026-09-02/osborn-ricketts-debate-issues-as-seek-u-s-senate-seat-in-nebraska"
+      ]
+    },
+    {
+      "id": "dan-osborn",
+      "name": "Dan Osborn",
+      "party": "Independent",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 44.1,
+      "bio": "Dan Osborn is a registered independent and former Omaha labor leader. He is running for Senate for a second time after his 2024 campaign.",
+      "website": "https://www.osbornforsenate.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he will cut waste, end corporate welfare, and refuse to vote for spending the country cannot afford.",
+          "source": "https://www.osbornforsenate.com/plans"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says no one should go bankrupt from medical debt, supports the Break Up Big Medicine Act, and pledges never to vote to cut Medicare or Social Security benefits.",
+          "source": "https://www.osbornforsenate.com/ngfp-protect-our-paychecks-social-security-and-healthcare"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Calls for meaningful immigration reform with vetting and more immigration judges and lawyers, and supports the 1,500 additional border agents in a border bill.",
+          "source": "https://www.semafor.com/article/09/06/2024/theres-no-one-like-me-in-the-senate-union-leader-dan-osborn-looks-for-a-nebraska-upset"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says the country should have a Roe standard, and his campaign said he supports codifying the Roe standard.",
+          "source": "https://www.ketv.com/article/dan-osborn-campaign-sends-cease-and-desist-letter-to-deb-fischer-campaign-super-pac/62457776"
+        }
+      ],
+      "sources": [
+        "https://kmph.com/news/connect-to-congress/nebraska-independent-takes-another-run-at-unseating-a-republican-senator-dan-osborn-pete-ricketts-2026-election-midterms"
+      ]
+    },
+    {
+      "id": "chuck-conboy",
+      "name": "Chuck Conboy",
+      "party": "Other",
+      "partyLabel": "America First",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "robin-richards",
+      "name": "Robin Richards",
+      "party": "Other",
+      "partyLabel": "Nebraska Working People",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "mike-marvin",
+      "name": "Mike Marvin",
+      "party": "Other",
+      "partyLabel": "Legal Marijuana Now",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
+    "https://www.wowt.com/2026/11/04/republican-pete-ricketts-wins-reelection-us-senate-over-independent-challenger-nebraska/",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by wowt.com report"
+}

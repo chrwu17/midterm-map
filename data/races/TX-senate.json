@@ -1,0 +1,119 @@
+{
+  "id": "TX-senate",
+  "state": "TX",
+  "stateName": "Texas",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "james-talarico",
+  "summary": "This was an open race because Republican Sen. John Cornyn was not the party's nominee. James Talarico (Democrat) defeated Ken Paxton (Republican).",
+  "candidates": [
+    {
+      "id": "james-talarico",
+      "name": "James Talarico",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 55.06,
+      "bio": "James Talarico has served in the Texas House of Representatives since 2018 and previously taught sixth-grade language arts in San Antonio. He is pursuing a Master of Divinity at Austin Presbyterian Theological Seminary.",
+      "website": "https://jamestalarico.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would raise taxes on billionaires and corporations and expand the Child Tax Credit and Earned Income Tax Credit.",
+          "source": "https://jamestalarico.com/issue/taxes-cost-of-living/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would let people of any age join Medicare as an alternative to private insurance, and would strengthen the Affordable Care Act.",
+          "source": "https://jamestalarico.com/issue/health-care/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he supports immigration reform that tightens border security, expands legal immigration and offers citizenship to long-term undocumented residents.",
+          "source": "https://jamestalarico.com/issue/immigration-border-security/"
+        },
+        {
+          "issue": "education",
+          "summary": "Opposes private school vouchers and says he led the fight against Gov. Abbott's voucher program in the Texas House.",
+          "source": "https://jamestalarico.com/issue/public-education/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he supports using all kinds of energy, protecting oil and gas jobs while expanding wind, solar and geothermal power.",
+          "source": "https://jamestalarico.com/issue/energy-environment/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he supports a federal law that writes Roe v. Wade into law, and to protect access to contraception and IVF.",
+          "source": "https://jamestalarico.com/issue/freedom-family-faith/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/James_Talarico",
+        "https://jamestalarico.com/issue/taxes-cost-of-living/",
+        "https://jamestalarico.com/issue/health-care/",
+        "https://jamestalarico.com/issue/immigration-border-security/",
+        "https://jamestalarico.com/issue/public-education/",
+        "https://jamestalarico.com/issue/energy-environment/",
+        "https://jamestalarico.com/issue/freedom-family-faith/"
+      ]
+    },
+    {
+      "id": "ken-paxton",
+      "name": "Ken Paxton",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 42.97,
+      "bio": "Ken Paxton has been Texas Attorney General since 2015 and previously served in the Texas House and Senate. He won the 2026 Republican Senate nomination in a May runoff after receiving President Trump's endorsement.",
+      "website": "https://kenpaxton.com",
+      "positions": [
+        {
+          "issue": "abortion",
+          "summary": "Says he will \"defend the unborn.\"",
+          "source": "https://kenpaxton.com/issues"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Sued to have the entire Affordable Care Act declared unconstitutional.",
+          "source": "https://en.wikipedia.org/wiki/Ken_Paxton"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he will help President Trump deport people in the country illegally, secure the border and finish the border wall.",
+          "source": "https://kenpaxton.com/issues"
+        },
+        {
+          "issue": "economy",
+          "summary": "Says he will fight to cut taxes, stop wasteful federal spending, revitalize American manufacturing and make America the crypto capital of the world.",
+          "source": "https://kenpaxton.com/issues"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he will protect parental rights and oppose what he calls \"woke indoctrination in our classrooms.\"",
+          "source": "https://kenpaxton.com/issues"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he will remove regulations that he says are designed to hurt energy companies.",
+          "source": "https://kenpaxton.com/issues"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ken_Paxton",
+        "https://kenpaxton.com/issues"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://www.fox4news.com/news/james-talarico-defeats-ken-paxton-become-next-us-senator-from-texas",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by fox4news.com report. Paxton beat Cornyn in May runoff; Talarico won in November (AP call)."
+}

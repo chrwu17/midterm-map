@@ -1,0 +1,119 @@
+{
+  "id": "MS-senate",
+  "state": "MS",
+  "stateName": "Mississippi",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "scott-colom",
+  "summary": "Sen. Cindy Hyde-Smith (Republican) ran for re-election but lost to Scott Colom (Democrat), who was declared the winner on Nov. 11 after more than a week of counting.",
+  "candidates": [
+    {
+      "id": "scott-colom",
+      "name": "Scott Colom",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 49.34,
+      "bio": "Scott Colom is a Democrat born and raised in Columbus, Mississippi, who has worked as a prosecutor and a judge. He was first elected district attorney of Mississippi's 16th Judicial District in 2015 at age 32, unseating a 27-year incumbent. He announced his Senate campaign in September 2025.",
+      "website": "https://www.scottcolom.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would restore Congress's authority over tariffs, raise the federal minimum wage, and end federal income tax for Mississippians earning under $75,000.",
+          "source": "https://scottcolom.com/priorities/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would vote to cancel the Medicaid cuts to help keep rural Mississippi's emergency rooms and delivery rooms open and restore the Affordable Care Act tax credits.",
+          "source": "https://scottcolom.com/priorities/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he would secure the border and enforce immigration laws.",
+          "source": "https://scottcolom.com/priorities/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would push for a pause on new data center construction until companies agree to pay for their own power and water.",
+          "source": "https://scottcolom.com/priorities/"
+        }
+      ],
+      "sources": [
+        "https://wtop.com/national/2026/08/will-mississippi-send-a-black-democrat-to-the-us-senate-scott-colom-says-dont-count-him-out/",
+        "https://www.supertalk.fm/columbus-based-da-scott-colom-announces-u-s-senate-run-for-2026/",
+        "https://www.scottcolom.com/"
+      ]
+    },
+    {
+      "id": "cindy-hyde-smith",
+      "name": "Cindy Hyde-Smith",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 48.56,
+      "bio": "Cindy Hyde-Smith is the Republican U.S. Senator from Mississippi and the first woman elected to represent the state in Congress. A graduate of Copiah-Lincoln Community College and the University of Southern Mississippi, she served 12 years in the state Senate and was elected state agriculture commissioner in 2011. She was appointed to the U.S. Senate in 2018 and won a full term in 2020.",
+      "website": "https://www.hydesmith.senate.gov/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Supports the Trump tax cuts and says she wants to cut federal regulations on small businesses, farmers and industry.",
+          "source": "https://www.hydesmith.senate.gov/jobs-and-economy"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Favors changes that make insurance more affordable for Mississippi families without increasing federal involvement in care.",
+          "source": "https://www.hydesmith.senate.gov/health-care"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Supports nationwide E-Verify and cosponsored the Mandatory E-Verify Act of 2026.",
+          "source": "https://www.hydesmith.senate.gov/border-security-immigration"
+        },
+        {
+          "issue": "education",
+          "summary": "Supports state and local control of public education, while recognizing a federal role in supporting educational achievement.",
+          "source": "https://www.hydesmith.senate.gov/education"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she supports responsible domestic energy exploration and production and new biofuel technologies.",
+          "source": "https://www.hydesmith.senate.gov/energy-and-environment"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says she believes in the sanctity of life, opposes taxpayer-funded abortion, and chairs the Senate Pro-Life Caucus.",
+          "source": "https://www.hydesmith.senate.gov/pro-life"
+        }
+      ],
+      "sources": [
+        "https://mississippitoday.org/2025/09/22/field-grows-in-mississippis-2026-us-senate-race-here-are-the-candidates-so-far/",
+        "https://ontheissues.org/senate/Cindy_Hyde-Smith.htm",
+        "https://www.hydesmith.senate.gov/biography"
+      ]
+    },
+    {
+      "id": "ty-pinkins",
+      "name": "Ty Pinkins",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 2.1,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
+    "https://www.wrdw.com/2026/11/11/mississippi-elects-democrat-scott-colom-states-first-black-us-senator-since-reconstruction/",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "AP called Colom the winner Nov 11 and Hyde-Smith conceded (CNN projected earlier); confirmed by AP-syndicated report and political.org tally."
+}

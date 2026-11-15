@@ -1,0 +1,136 @@
+{
+  "id": "OK-senate",
+  "state": "OK",
+  "stateName": "Oklahoma",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "kevin-hern",
+  "summary": "This seat had no elected senator going in. Sen. Markwayne Mullin left the Senate, and the appointed interim senator, Alan Armstrong, did not run. Kevin Hern (Republican) won.",
+  "candidates": [
+    {
+      "id": "kevin-hern",
+      "name": "Kevin Hern",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 57.19,
+      "bio": "Kevin Hern is a former McDonald's franchisee in the Tulsa area who also owns a hog farm and a community bank. He has represented Oklahoma's 1st congressional district in the U.S. House since 2018 and chaired the Republican Study Committee (2023-2025) and the House Republican Policy Committee (2025-2026).",
+      "website": "https://hernforsenate.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Cosponsored a balanced budget amendment, which his campaign site presents as a way to address the national debt and curb spending.",
+          "source": "https://hernforsenate.com/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Opposes extending the enhanced Affordable Care Act subsidies, saying the underlying cost of health care is the real problem.",
+          "source": "https://www.news9.com/national-politics-oklahoma/rep-hern-we-need-to-get-after-the-real-problem-in-healthcare"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Voted for a bill to fund a border wall (H.R. 695) and cosponsored a bill to defund sanctuary campuses (H.R. 768).",
+          "source": "https://hernforsenate.com/"
+        },
+        {
+          "issue": "education",
+          "summary": "Introduced the PROTECT Our Kids Act, which would bar Department of Education funding for any school that hosts a Confucius Classroom.",
+          "source": "https://hernforsenate.com/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Cosponsored four bills (HR 369, HR 20, HR 616 and HR 962) that his campaign site describes as protecting human life and limiting abortion funding.",
+          "source": "https://hernforsenate.com/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kevin_Hern",
+        "https://hernforsenate.com/",
+        "https://www.news9.com/national-politics-oklahoma/rep-hern-we-need-to-get-after-the-real-problem-in-healthcare"
+      ]
+    },
+    {
+      "id": "n-kiyla-jasmine-thomas",
+      "name": "N'Kiyla Jasmine Thomas",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 39.29,
+      "bio": "N'Kiyla Jasmine Thomas is a nurse, a Chickasaw citizen and an active-duty military spouse who grew up in Ardmore, Oklahoma. She won the Democratic nomination in the August 25 runoff.",
+      "website": "https://www.jasmineforok.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Supports debt forgiveness and says she agrees with most of the Democratic Socialists of America platform, including free childcare and rent caps.",
+          "source": "https://www.oudaily.com/news/democratic-socialism-nkiyla-jasmine-thomas-kevin-hern-senate-election/article_fcdfa6da-9f29-4359-8c3b-2abf9d6932ec.htm"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she wants to expand access to health care.",
+          "source": "https://www.oudaily.com/news/democratic-socialism-nkiyla-jasmine-thomas-kevin-hern-senate-election/article_fcdfa6da-9f29-4359-8c3b-2abf9d6932ec.htm"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Supports abolishing ICE.",
+          "source": "https://www.oudaily.com/news/democratic-socialism-nkiyla-jasmine-thomas-kevin-hern-senate-election/article_fcdfa6da-9f29-4359-8c3b-2abf9d6932ec.htm"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Supports restoring constitutional abortion rights.",
+          "source": "https://www.oudaily.com/news/democratic-socialism-nkiyla-jasmine-thomas-kevin-hern-senate-election/article_fcdfa6da-9f29-4359-8c3b-2abf9d6932ec.htm"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
+        "https://www.news9.com/oklahoma-elections/nkiyla-jasmine-thomas-and-jim-priest-to-battle-in-oklahoma-senate-runoff",
+        "https://www.oudaily.com/news/democratic-socialism-nkiyla-jasmine-thomas-kevin-hern-senate-election/article_fcdfa6da-9f29-4359-8c3b-2abf9d6932ec.htm"
+      ]
+    },
+    {
+      "id": "curtis-stinnett",
+      "name": "Curtis Stinnett",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.31,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "ron-meinhardt",
+      "name": "Ron Meinhardt",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.3,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "sevier-white",
+      "name": "Sevier White",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.91,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

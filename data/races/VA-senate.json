@@ -1,0 +1,103 @@
+{
+  "id": "VA-senate",
+  "state": "VA",
+  "stateName": "Virginia",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "mark-warner",
+  "summary": "The sitting senator ran again: Mark Warner (Democrat) won re-election over Bert Mizusawa (Republican).",
+  "candidates": [
+    {
+      "id": "mark-warner",
+      "name": "Mark Warner",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 61.47,
+      "bio": "Mark Warner has been a U.S. senator from Virginia since 2009 and was governor of Virginia from 2002 to 2006. Before politics he co-founded the venture capital firm Columbia Capital.",
+      "website": "https://markwarnerva.com",
+      "positions": [
+        {
+          "issue": "abortion",
+          "summary": "Supports abortion rights and Roe v. Wade.",
+          "source": "https://en.wikipedia.org/wiki/Mark_Warner"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Describes himself as an early champion of the Affordable Care Act and says he has worked to protect and strengthen it.",
+          "source": "https://www.warner.senate.gov/about/priorities/health-care/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Voted for the 2025 Laken Riley Act.",
+          "source": "https://en.wikipedia.org/wiki/Mark_Warner"
+        },
+        {
+          "issue": "economy",
+          "summary": "Says he is focused on lowering costs for families and growing wages, and supports policies that help Americans adapt to AI and new technologies and encourage employer training.",
+          "source": "https://www.warner.senate.gov/about/priorities/economy/"
+        },
+        {
+          "issue": "education",
+          "summary": "Supports making education more affordable, student debt relief, industry certifications and lifelong learning.",
+          "source": "https://www.warner.senate.gov/about/priorities/education/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he backs an \"all-of-the-above\" energy strategy that expands clean energy, boosts domestic production and modernizes the grid.",
+          "source": "https://www.warner.senate.gov/about/priorities/energy-environment/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mark_Warner",
+        "https://www.warner.senate.gov/about/priorities/health-care/"
+      ]
+    },
+    {
+      "id": "bert-mizusawa",
+      "name": "Bert Mizusawa",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 38.26,
+      "bio": "Bert Mizusawa is a retired U.S. Army major general who describes himself as a four-time combat commander and a Silver Star recipient. He served as Deputy Under Secretary of the Army and as a Senate Armed Services Committee staff member, and holds degrees from West Point and Harvard. He won the 2026 Republican nomination for U.S. Senate in Virginia.",
+      "website": "https://bertforsenate.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he will focus on balancing the budget, and promises to lower the tax on selling a home and reduce taxes on Virginia families.",
+          "source": "https://bertforsenate.com/issues"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he will lower costs by holding insurance companies accountable, fund rural hospitals and expand veterans' health care.",
+          "source": "https://bertforsenate.com/issues"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Has named border security as a priority.",
+          "source": "https://wset.com/news/local/sen-mark-warner-seeks-fourth-senate-term-against-republican-challenger-bert-mizusawa-election-november-2026"
+        },
+        {
+          "issue": "climate",
+          "summary": "Supports bringing new nuclear power online to reduce household energy costs, calling it \"clean, cheap, reliable and safe.\"",
+          "source": "https://bertforsenate.com/issues"
+        }
+      ],
+      "sources": [
+        "https://bertforsenate.com/about",
+        "https://cardinalnews.org/2026/09/22/virginias-senate-race-is-taking-place-outside-the-national-spotlight/"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

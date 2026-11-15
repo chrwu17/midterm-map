@@ -1,0 +1,175 @@
+{
+  "id": "CO-governor",
+  "state": "CO",
+  "stateName": "Colorado",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "phil-weiser",
+  "summary": "This was an open seat because Democratic Gov. Jared Polis was term-limited. Phil Weiser (Democrat), the state attorney general, defeated Victor Marx (Republican), Greg Lopez (independent) and others.",
+  "candidates": [
+    {
+      "id": "phil-weiser",
+      "name": "Phil Weiser",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 61.07,
+      "bio": "Phil Weiser is a Democrat who has served as Colorado attorney general since January 2019. He joined the University of Colorado Law School faculty in 1999 and was its dean from 2011 to 2016. He also held roles at the Justice Department's Antitrust Division and the White House National Economic Council.",
+      "website": "https://philforcolorado.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would offer incentives for key sectors, expand access to capital, review regulations on costs and benefits, and expand job training and apprenticeships.",
+          "source": "https://philforcolorado.com/issues/jobs-and-the-economy/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would build on the Colorado Option, lower drug costs, limit surprise billing and keep insulin caps.",
+          "source": "https://philforcolorado.com/issues/healthcare/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he would enforce state laws that keep the federal government from forcing local police into immigration enforcement, and bar sales of government facilities for ICE detention centers.",
+          "source": "https://philforcolorado.com/issues/our-rights-and-freedoms/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would stand against privatizing public schools, support teachers with livable wages and expand Universal Preschool.",
+          "source": "https://philforcolorado.com/issues/education/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would meet Colorado's emission reduction goals, support solar, wind and geothermal projects and protect EV purchase incentives.",
+          "source": "https://philforcolorado.com/issues/energy-and-climate/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he would defend reproductive rights, including Amendment 79.",
+          "source": "https://philforcolorado.com/issues/our-rights-and-freedoms/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Phil_Weiser",
+        "https://philforcolorado.com/issues/"
+      ]
+    },
+    {
+      "id": "victor-marx",
+      "name": "Victor Marx",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 33.28,
+      "bio": "Victor Marx is a Republican, a Marine Corps veteran, minister and author who founded All Things Possible Ministries in 2003. He had not previously held elected office.",
+      "website": "https://victor2026.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he will not balance the budget through new taxes or backdoor fees and pledges to protect TABOR.",
+          "source": "https://www.coloradopolitics.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would conduct a complete audit of Medicaid to find fraud and waste.",
+          "source": "https://www.denver7.com/news/politics/the-race-to-be-colorados-next-governor-denver7-sits-down-with-republican-nominee-victor-marx"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says poor management of the forestry system is more to blame for fires and floods than anything else, and says he will fight for Colorado's water rights.",
+          "source": "https://www.denver7.com/news/politics/the-race-to-be-colorados-next-governor-denver7-sits-down-with-republican-nominee-victor-marx"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he is pro-life. Asked about rescinding the state's constitutional abortion protections, he said \"it is what it is, right now.\"",
+          "source": "https://www.denver7.com/news/politics/the-race-to-be-colorados-next-governor-denver7-sits-down-with-republican-nominee-victor-marx"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Victor_Marx",
+        "https://www.denver7.com/news/politics/the-race-to-be-colorados-next-governor-denver7-sits-down-with-republican-nominee-victor-marx",
+        "https://gazette.com/2026/05/29/colorado-governor-candidates-confront-business-climate-housing-affordability-woes/"
+      ]
+    },
+    {
+      "id": "greg-lopez",
+      "name": "Greg Lopez",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 2.77,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "erik-mulder",
+      "name": "Erik Mulder",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.66,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "stephen-t-hamilton",
+      "name": "Stephen T. Hamilton",
+      "party": "Other",
+      "partyLabel": "American Constitution",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.65,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "erik-underwood",
+      "name": "Erik Underwood",
+      "party": "Other",
+      "partyLabel": "Approval Voting",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.35,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "jeff-peckman",
+      "name": "Jeff Peckman",
+      "party": "Other",
+      "partyLabel": "Unity",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.22,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.coloradopolitics.com/2026/11/03/phil-weiser-victor-marx-colorado-governor-election-results/",
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

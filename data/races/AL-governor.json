@@ -1,0 +1,93 @@
+{
+  "id": "AL-governor",
+  "state": "AL",
+  "stateName": "Alabama",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "tommy-tuberville",
+  "summary": "This was an open seat because Republican Gov. Kay Ivey was term-limited. Republican Tommy Tuberville, a U.S. senator, won, defeating Democrat Doug Jones, a former U.S. senator.",
+  "candidates": [
+    {
+      "id": "tommy-tuberville",
+      "name": "Tommy Tuberville",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 51.8,
+      "bio": "Tommy Tuberville is a Republican who has been a U.S. senator from Alabama since January 2021. Before entering politics he was a college football coach, including head coach at Auburn University from 1999 to 2008.",
+      "website": "https://www.coachforgovernor.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he will lower taxes, cut waste and work with President Trump to reduce red tape and bring manufacturing jobs to Alabama.",
+          "source": "https://www.coachforgovernor.com/issues"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he will back law enforcement and work with President Trump to deport illegal alien criminals.",
+          "source": "https://www.coachforgovernor.com/issues"
+        },
+        {
+          "issue": "education",
+          "summary": "Supports expanding school choice across charter, magnet, private, public and homeschool options, saying parents should be in charge of their child's education.",
+          "source": "https://www.coachforgovernor.com/issues"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says Alabama is a pro-life state and that no taxpayer dollars should go toward abortions.",
+          "source": "https://www.coachforgovernor.com/issues"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tommy_Tuberville",
+        "https://www.coachforgovernor.com"
+      ]
+    },
+    {
+      "id": "doug-jones",
+      "name": "Doug Jones",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 47.9,
+      "bio": "Doug Jones is a Democrat who served as a U.S. senator from Alabama from 2018 to 2021. He was U.S. Attorney for the Northern District of Alabama from 1997 to 2001 and later worked in private law practice.",
+      "website": "https://www.dougjones.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would fully eliminate the grocery tax and create a state Earned Income Tax Credit.",
+          "source": "https://www.dougjones.com/priorities"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would expand Medicaid to cover more than 154,000 working Alabamians and strengthen rural healthcare.",
+          "source": "https://www.dougjones.com/priorities"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would expand childcare options and provide free community college for adults without credentials.",
+          "source": "https://www.dougjones.com/priorities"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Said in 2017, during his Senate campaign, that abortion is a woman's intensely personal decision and that he stands with Planned Parenthood.",
+          "source": "https://ontheissues.org/Doug_Jones.htm"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Doug_Jones_(politician)",
+        "https://www.dougjones.com/priorities"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.alreporter.com/2026/11/04/tuberville-escapes-blue-wave-to-clutch-victory-in-governors-race",
+    "https://www.fox10tv.com/2026/11/04/doug-jones-concedes-alabama-governors-race-tommy-tuberville/",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Original summary noted the result was based on unofficial results."
+}

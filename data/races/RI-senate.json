@@ -1,0 +1,112 @@
+{
+  "id": "RI-senate",
+  "state": "RI",
+  "stateName": "Rhode Island",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "jack-reed",
+  "summary": "Rhode Island's sitting senator, Jack Reed (Democrat), ran again and won, defeating Raymond McKay (Republican) and one independent.",
+  "candidates": [
+    {
+      "id": "jack-reed",
+      "name": "Jack Reed",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 66.79,
+      "bio": "Jack Reed has been a U.S. senator from Rhode Island since 1997 and previously served in the U.S. House. He is an Army veteran.",
+      "website": "https://www.jackreed.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he backs restoring emergency unemployment benefits, raising the federal minimum wage to $10.10 an hour, and a tax code that is fairer to low- and middle-income Americans.",
+          "source": "https://www.reed.senate.gov/issues/jobs-and-economy"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says health care should be affordable for everyone, that he works to lower prescription drug costs and protect Medicare and Medicaid, and that he has opposed attempts to dismantle the Affordable Care Act.",
+          "source": "https://www.reed.senate.gov/issues/health-care"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says the country needs both strong border security and fair, workable immigration policies, and opposes the Trump administration's mass-deportation campaign.",
+          "source": "https://www.reed.senate.gov/issues/immigration"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he wants to ease student loan debt, supports the Pell Grant, and says every student with the drive to attend college should have the chance.",
+          "source": "https://www.reed.senate.gov/issues/education"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says the country needs a national energy policy that limits carbon pollution, promotes renewable energy and holds big polluters accountable.",
+          "source": "https://www.reed.senate.gov/issues/climate-and-environment"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
+        "https://www.reed.senate.gov/about/jacks-story"
+      ]
+    },
+    {
+      "id": "raymond-mckay",
+      "name": "Raymond McKay",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 29.26,
+      "bio": "Raymond \"Ray\" McKay is a Warwick resident and Army veteran (1981-1992) who worked as a network and telecommunications manager for the City of Warwick for 26 years. He was president of the Rhode Island Republican Assembly from 2005 to 2014 and was the 2024 Republican Senate candidate in Rhode Island, before winning the 2026 Republican nomination unopposed.",
+      "website": "https://www.mckayforussenate.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he wants to grow the economy, lower inflation, cut energy and food costs and attract business investment to Rhode Island.",
+          "source": "https://www.mckayforussenate.com/right-direction/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would balance the federal budget to protect Medicare and Social Security over the long term, cut wasteful spending, and seek prison time for those who steal from taxpayers.",
+          "source": "https://www.mckayforussenate.com/right-direction/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Calls for responsible immigration and enforcement policies that put the interests of Rhode Islanders and Americans first.",
+          "source": "https://www.mckayforussenate.com/right-direction/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Supports the nuclear and fossil fuel industries and energy independence, and says he would make efficient use of green energy solutions.",
+          "source": "https://www.mckayforussenate.com/right-direction/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
+        "https://ballotpedia.org/United_States_Senate_election_in_Rhode_Island,_2026",
+        "https://www.mckayforussenate.com/meet-ray-mckay/",
+        "https://www.mckayforussenate.com/right-direction/"
+      ]
+    },
+    {
+      "id": "michael-bahry",
+      "name": "Michael Bahry",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 3.76,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

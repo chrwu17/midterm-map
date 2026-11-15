@@ -1,0 +1,129 @@
+{
+  "id": "AK-senate",
+  "state": "AK",
+  "stateName": "Alaska",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "uncalled",
+  "winnerId": null,
+  "summary": "Republican Sen. Dan Sullivan ran again against Democrat Mary Peltola, a former U.S. representative. No winner has been declared yet because no candidate had a majority of first-choice votes, so a ranked-choice count is scheduled for Nov. 18.",
+  "candidates": [
+    {
+      "id": "mary-peltola",
+      "name": "Mary Peltola",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 49.94,
+      "bio": "Mary Peltola is a Democratic former U.S. representative who won Alaska's only House seat in a 2022 special election and a full term that November, becoming the first Alaska Native member of Congress. She lost re-election in 2024 to Nick Begich III in the final ranked-choice round. She grew up fishing on the Kuskokwim River, lives in Bethel, and served in the Alaska House from 1999 to 2009.",
+      "website": "https://marypeltola.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says Alaskans face scarcity and high prices and that systemic change is needed to bring down grocery costs.",
+          "source": "https://marypeltola.com/story/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Said in October 2026 that her immediate priority is reversing the damage to Medicaid.",
+          "source": "https://ontheissues.org/Senate/Mary_Peltola.htm"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Describes herself as pro-choice and said in 2024 she supports no restrictions on birth control and in vitro fertilization.",
+          "source": "https://ontheissues.org/Senate/Mary_Peltola.htm"
+        },
+        {
+          "issue": "climate",
+          "summary": "Said in 2022 that Alaskans are living with the devastating effects of climate change, and says she supports responsible resource development with local control.",
+          "source": "https://ontheissues.org/Senate/Mary_Peltola.htm"
+        },
+        {
+          "issue": "education",
+          "summary": "Said in 2022 that quality schools are vital to the future of communities.",
+          "source": "https://ontheissues.org/Senate/Mary_Peltola.htm"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
+        "https://en.wikipedia.org/wiki/Mary_Peltola",
+        "https://marypeltola.com/story/"
+      ]
+    },
+    {
+      "id": "dan-sullivan",
+      "name": "Dan Sullivan",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 45.96,
+      "bio": "Dan Sullivan is a Republican U.S. senator from Alaska, sworn in January 6, 2015. He sits on the Commerce, Armed Services, Environment and Public Works, and Veterans' Affairs committees. He is a retired Marine Corps Reserve colonel with 30 years of service and previously served as Alaska attorney general and natural resources commissioner. He earned an economics degree from Harvard and a law degree from Georgetown.",
+      "website": "https://dansullivanforalaska.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he helped pass the biggest tax cut in American history.",
+          "source": "https://dansullivanforalaska.com/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Said in October 2026 that 'Obamacare destroyed the health care system here,' and supported repealing the Affordable Care Act in 2020.",
+          "source": "https://ontheissues.org/Senate/Dan_Sullivan.htm"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says the best way to lower energy costs is to produce more Alaskan energy by and for Alaskans.",
+          "source": "https://www.ksat.com/news/politics/2026/10/15/sullivan-peltola-clash-over-iran-consumer-prices-in-televised-debate-in-alaska-us-senate-race/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Said in 2020 he supported shifting military funding to build a border wall, and said in 2014 that the border should be secured and that President Obama should not give 'executive amnesty'.",
+          "source": "https://ontheissues.org/Senate/Dan_Sullivan.htm"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Said in 2020 he supports banning abortion after 20 weeks, and in 2014 that he supports an exception to protect the life of the mother.",
+          "source": "https://ontheissues.org/Senate/Dan_Sullivan.htm"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
+        "https://www.sullivan.senate.gov/about/"
+      ]
+    },
+    {
+      "id": "gerald-heikes",
+      "name": "Gerald Heikes",
+      "party": "Republican",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "daniel-j-sullivan-jr",
+      "name": "Daniel J. Sullivan Jr.",
+      "party": "Other",
+      "partyLabel": "Undeclared / no party listed",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
+    "https://www.wsbtv.com/news/trending/election-day-2026-alaska-us-senate-race-too-close-call/SX432OUIXRED5CONXA55EGTKBA/",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Confirmed uncalled by AP-syndicated reports and a Nov 14 tally: Peltola leads by about 10,400 votes with just under 50% of first choices; ranked-choice tabulation scheduled Nov 18."
+}

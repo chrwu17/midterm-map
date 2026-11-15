@@ -1,0 +1,126 @@
+{
+  "id": "ID-senate",
+  "state": "ID",
+  "stateName": "Idaho",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "jim-risch",
+  "summary": "Incumbent Republican Sen. Jim Risch ran for reelection and won a fourth term, defeating independents Todd Achilles and Natalie Fleming and Libertarian Matt Loesby.",
+  "candidates": [
+    {
+      "id": "jim-risch",
+      "name": "Jim Risch",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 56.5,
+      "bio": "Risch has a forestry degree and a law degree from the University of Idaho and was elected Ada County prosecutor at age 27. He served as Idaho Senate majority leader, was elected lieutenant governor in 2003 and became governor in 2006. He was elected to the U.S. Senate in 2008, re-elected in 2014 and 2020, and chairs the Foreign Relations Committee.",
+      "website": "https://senatorrisch.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he wants to lower the cost of groceries and housing, cut regulations and taxes, and curb federal spending.",
+          "source": "https://senatorrisch.com/issues/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he supports securing the southern border and enforcing immigration laws and opposes a return to Biden-era open borders.",
+          "source": "https://senatorrisch.com/issues/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he is a leading voice on strengthening America's nuclear energy infrastructure, opposes efforts to breach dams, and has criticized the Biden administration's Green New Deal.",
+          "source": "https://senatorrisch.com/issues/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says parents and local school districts, not federal officials, should decide what is taught and how education dollars are spent.",
+          "source": "https://www.risch.senate.gov/about/issues/putting-families-first/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Describes himself as strongly pro-life and says he has consistently backed legislation that protects unborn life.",
+          "source": "https://www.risch.senate.gov/about/issues/putting-families-first/"
+        }
+      ],
+      "sources": [
+        "https://senatorrisch.com/about/"
+      ]
+    },
+    {
+      "id": "todd-achilles",
+      "name": "Todd Achilles",
+      "party": "Independent",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 33.56,
+      "bio": "Achilles is a Boise tech-industry veteran with more than 20 years at companies including Hewlett Packard and T-Mobile, and a former U.S. Army tank commander who grew up on a family farm in Idaho. He was appointed to the Idaho House as a Democrat in February 2024, won election that year, and left in 2025 to run for U.S. Senate as an independent. He says he will not caucus with either party and has published a letter pledging to resign after two terms.",
+      "website": "https://www.achillesforidaho.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he wants to pay down the national debt and stand up to the corporate monopolies he says have rigged the economy.",
+          "source": "https://www.idahoednews.org/news/achilles-launches-independent-run-for-u-s-senate/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would protect healthcare tax credits, require upfront itemized prices and block healthcare mergers that raise costs.",
+          "source": "https://www.achillesforidaho.com/policies"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he would fund Customs and Border Protection, modernize the visa system and revive the bipartisan Lankford immigration bill as a starting point.",
+          "source": "https://www.achillesforidaho.com/policies"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would protect federal education funding including Title I and rural schools and invest in career and technical education and apprenticeships.",
+          "source": "https://www.achillesforidaho.com/policies"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he supports Idaho's Reproductive Freedom and Privacy Act ballot initiative and would align his Senate service with its outcome.",
+          "source": "https://www.achillesforidaho.com/policies"
+        }
+      ],
+      "sources": [
+        "https://www.idahoednews.org/news/achilles-launches-independent-run-for-u-s-senate/",
+        "https://www.achillesforidaho.com/",
+        "https://www.achillesforidaho.com/policies"
+      ]
+    },
+    {
+      "id": "natalie-fleming",
+      "name": "Natalie Fleming",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 7.03,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "matt-loesby",
+      "name": "Matt Loesby",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 2.91,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

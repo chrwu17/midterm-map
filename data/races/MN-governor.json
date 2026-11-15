@@ -1,0 +1,106 @@
+{
+  "id": "MN-governor",
+  "state": "MN",
+  "stateName": "Minnesota",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "amy-klobuchar",
+  "summary": "Democratic-Farmer-Labor Gov. Tim Walz did not run again, so the seat was open. Amy Klobuchar (Democrat) defeated Lisa Demuth (Republican).",
+  "candidates": [
+    {
+      "id": "amy-klobuchar",
+      "name": "Amy Klobuchar",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 55.46,
+      "bio": "Amy Klobuchar is a Democrat who has served as a U.S. Senator from Minnesota since 2007 and was previously Hennepin County Attorney. She ran for governor after Gov. Tim Walz dropped his bid for re-election in January 2026.",
+      "website": "https://www.amyklobuchar.com/",
+      "positions": [
+        {
+          "issue": "healthcare",
+          "summary": "Says she would offset higher premiums at the state level if Congress does not renew the enhanced ACA subsidies, and would protect the federal 340B drug discount program for rural and safety-net hospitals.",
+          "source": "https://www.kttc.com/2026/09/21/klobuchar-touts-healthcare-key-campaign-platform-november-election-draws-closer/"
+        },
+        {
+          "issue": "economy",
+          "summary": "Says she would order an audit of state government on her first day and add a money-back guarantee on late permit decisions.",
+          "source": "https://www.mprnews.org/story/2026/08/19/amy-klobuchar-aims-to-distance-herself-from-walz-in-governor-bid"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Said on NBC's Meet the Press that \"ICE needs to leave our state,\" while declining to commit to abolishing the agency.",
+          "source": "https://www.kaxe.org/minnesota-news/2026-01-29/sen-klobuchar-launches-campaign-for-minnesota-governor"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she does not want to block Iron Range mining projects that \"don't endanger the Boundary Waters\" and supports letting them go through environmental review.",
+          "source": "https://www.mprnews.org/story/2026/08/19/amy-klobuchar-aims-to-distance-herself-from-walz-in-governor-bid"
+        }
+      ],
+      "sources": [
+        "https://www.mprnews.org/story/2026/01/29/amy-klobuchar-running-for-minnesota-governor-after-tim-walz-exit",
+        "https://www.amyklobuchar.com/"
+      ]
+    },
+    {
+      "id": "lisa-demuth",
+      "name": "Lisa Demuth",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 42.63,
+      "bio": "Lisa Demuth is a Republican and the Speaker of the Minnesota House of Representatives. She won the Republican primary for governor in 2026.",
+      "website": "https://lisaformn.com/",
+      "positions": [
+        {
+          "issue": "education",
+          "summary": "Says she will remove standards adopted under the Walz administration and replace them with evidence-based math and science of reading.",
+          "source": "https://www.kttc.com/2026/09/10/demuth-emphasizes-state-funding-private-schools-removal-woke-standards-education-plan/"
+        },
+        {
+          "issue": "economy",
+          "summary": "Says she would push to lower state income and corporate taxes.",
+          "source": "https://kstp.com/kstp-news/top-news/5-questions-on-5-issues-lisa-demuth-republican-candidate-for-governor/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says the state should help Minnesotans who truly need it but \"we have to stop paying for people to not show up for work.\"",
+          "source": "https://kstp.com/kstp-news/top-news/5-questions-on-5-issues-lisa-demuth-republican-candidate-for-governor/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says \"I will support federal immigration laws\" and that Minnesota \"should not be a magnet for illegal immigration.\"",
+          "source": "https://www.fox9.com/news/lisa-demuth-her-plan-stop-fraud-mn"
+        }
+      ],
+      "sources": [
+        "https://www.kaxe.org/minnesota-news/2025-11-03/gop-minnesota-house-speaker-lisa-demuth-launches-campaign-for-governor",
+        "https://www.fox9.com/news/minnesota-governor-primary-results-gop-2026"
+      ]
+    },
+    {
+      "id": "steven-young",
+      "name": "Steven Young",
+      "party": "Green",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.82,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

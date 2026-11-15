@@ -1,0 +1,114 @@
+{
+  "id": "IA-senate",
+  "state": "IA",
+  "stateName": "Iowa",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "josh-turek",
+  "summary": "Sen. Joni Ernst (Republican) retired, so the seat was open. Josh Turek (Democrat) won over U.S. Rep. Ashley Hinson (Republican), and the seat changed parties.",
+  "candidates": [
+    {
+      "id": "josh-turek",
+      "name": "Josh Turek",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 50.55,
+      "bio": "Turek is a two-time Paralympic gold medalist in wheelchair basketball who competed in four Paralympics and graduated from Southwest Minnesota State University in 2002. He represents Council Bluffs in the Iowa House, in a district Donald Trump carried twice, and was first elected by six votes. Before office he was volunteer director of the Ryan Martin Foundation, which offers disabled children free sports opportunities.",
+      "website": "https://turek4iowa.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would cut taxes for the middle class, raise the minimum wage, ban private equity firms from buying single-family homes and farmland, and pass the PRO Act.",
+          "source": "https://turek4iowa.com/platform"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would restore full Medicaid funding, protect and expand the Affordable Care Act, cap prescription drug costs and introduce a public option.",
+          "source": "https://turek4iowa.com/platform"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he would reform and simplify the path to legal citizenship.",
+          "source": "https://turek4iowa.com/platform"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would end school vouchers, restore Department of Education funding and increase funding for public schools.",
+          "source": "https://turek4iowa.com/platform"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Sponsored legislation to repeal Iowa's near-total abortion ban and says he wants Roe v. Wade made the law of the land again.",
+          "source": "https://turek4iowa.com/platform"
+        }
+      ],
+      "sources": [
+        "https://turek4iowa.com/about",
+        "https://turek4iowa.com/"
+      ]
+    },
+    {
+      "id": "ashley-hinson",
+      "name": "Ashley Hinson",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 46.36,
+      "bio": "Hinson was a broadcast journalist at KCRG-TV in Cedar Rapids for more than a decade before entering politics. She served in the Iowa House from 2017 to 2021 and has represented Iowa in the U.S. House since 2021, sitting on the Appropriations Committee. She was the Republican nominee for the open Senate seat.",
+      "website": "https://ashleyhinson.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says it is 'your money, not the government's money' and lists tax relief for working families, tax-free savings for first-time homebuyers, and cutting spending as priorities.",
+          "source": "https://ashleyhinson.com/issues"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she supports holding pharmacy benefit managers accountable to lower drug costs, supporting rural hospitals, and expanding over-the-counter birth control access.",
+          "source": "https://ashleyhinson.com/issues"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says she supports securing the southern border, enforcing immigration laws and deporting dangerous criminal illegal immigrants.",
+          "source": "https://ashleyhinson.com/issues"
+        },
+        {
+          "issue": "education",
+          "summary": "Emphasizes parents' rights and greater transparency in schools.",
+          "source": "https://ashleyhinson.com/issues"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she supports year-round E15, strengthening biofuels and investing in homegrown energy production.",
+          "source": "https://ashleyhinson.com/issues"
+        }
+      ],
+      "sources": [
+        "https://ashleyhinson.com/meet-ashley/",
+        "https://en.wikipedia.org/wiki/Ashley_Hinson"
+      ]
+    },
+    {
+      "id": "thomas-laehn",
+      "name": "Thomas Laehn",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 3.09,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

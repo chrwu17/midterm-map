@@ -1,0 +1,139 @@
+{
+  "id": "AK-governor",
+  "state": "AK",
+  "stateName": "Alaska",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "uncalled",
+  "winnerId": null,
+  "summary": "This was an open seat because Republican Gov. Mike Dunleavy was term-limited. No winner has been declared yet. Democrat Jonathan Kreiss-Tomkins led first-choice votes, and the ranked-choice count is scheduled for Nov. 18.",
+  "candidates": [
+    {
+      "id": "jonathan-kreiss-tomkins",
+      "name": "Jonathan Kreiss-Tomkins",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 49,
+      "bio": "Jonathan Kreiss-Tomkins is a Democrat from Sitka who served in the Alaska House of Representatives for District 35 from 2013 to 2023. He ran for governor in 2026 with Anchorage Assembly member Zac Johnson as his running mate.",
+      "website": "https://www.jktforak.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would balance the budget by protecting the Permanent Fund from overspending and requiring all oil and gas producers to pay corporate income tax.",
+          "source": "https://www.jktforak.com/platform"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would protect Medicaid expansion, promote telehealth and lower costs by cracking down on excessive drug markups and requiring price transparency.",
+          "source": "https://www.jktforak.com/platform"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would fully fund public schools, pass a constitutional amendment to forward fund education and pay teachers enough to keep them in Alaska.",
+          "source": "https://www.jktforak.com/platform"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would develop all energy sources, including renewables, hydro and natural gas, to lower utility bills.",
+          "source": "https://www.jktforak.com/platform"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he would defend Alaska women's right to choose.",
+          "source": "https://www.jktforak.com/platform"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jonathan_Kreiss-Tomkins",
+        "https://www.alaskasnewssource.com/2026/06/01/anchorage-assemblymember-named-jonathan-kreiss-tomkins-choice-lieutenant-governor/",
+        "https://www.jktforak.com/platform"
+      ]
+    },
+    {
+      "id": "bernadette-wilson",
+      "name": "Bernadette Wilson",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 29,
+      "bio": "Bernadette Wilson is a Republican and small business owner who founded an Anchorage waste-management company. Her site says she hosted statewide TV and radio shows and previously led the Alaska Policy Forum and worked in leadership at Americans for Prosperity. She has not held elected office.",
+      "website": "https://bernadetteforgovernor.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says energy is \"obviously huge for Alaska\" and would work with the Trump administration on its domestic energy plans if elected.",
+          "source": "https://www.foxnews.com/politics/former-talk-radio-host-dials-alaskas-race-governor-says-energy-key"
+        },
+        {
+          "issue": "education",
+          "summary": "Says Alaska's children will attend the best schools in the country, right here at home.",
+          "source": "https://bernadetteforgovernor.com"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Supported vetoing state budget money that funds abortions, including medication abortions, and said she would run an education effort on the dangers of medication abortion.",
+          "source": "https://mustreadalaska.com/governors-forum-part-1-fighting-the-court-protecting-life-at-all-stages/"
+        }
+      ],
+      "sources": [
+        "https://bernadetteforgovernor.com",
+        "https://alaskapublic.org/news/politics/2025-05-13/conservative-activist-bernadette-wilson-joins-2026-alaska-governors-race",
+        "https://www.foxnews.com/politics/former-talk-radio-host-dials-alaskas-race-governor-says-energy-key"
+      ]
+    },
+    {
+      "id": "dave-bronson",
+      "name": "Dave Bronson",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 14,
+      "bio": "Dave Bronson is a Republican who served as mayor of Anchorage from 2021 to 2024. He served in the Alaska Air National Guard, retiring as a lieutenant colonel, and has worked as a commercial pilot since 1990.",
+      "website": "https://www.davebronson.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would develop Alaska's oil, gas, mining, critical minerals and timber resources to create jobs and strengthen state finances without raising taxes.",
+          "source": "https://www.davebronson.com/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would cut bureaucracy and political agendas in schools, focus on reading, writing and math, reward great teachers and restore parents' rights.",
+          "source": "https://www.davebronson.com/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he would work with the Legislature to put a constitutional amendment on the ballot clarifying that the Alaska Constitution does not create a right to abortion, and would strengthen pregnancy resource centers.",
+          "source": "https://alaskawatchman.com/2026/04/12/governors-race-if-elected-how-will-you-protect-unborn-alaskans-from-abortion"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dave_Bronson",
+        "https://www.davebronson.com/"
+      ]
+    },
+    {
+      "id": "treg-taylor",
+      "name": "Treg Taylor",
+      "party": "Republican",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 7,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://alaskapublic.org/news/politics/elections/2026-11-03/democrat-jonathan-kreiss-tomkins-leads-in-alaska-governors-race",
+    "https://alaskabeacon.com/2026/11/03/jonathan-kreiss-tomkins-leading-in-alaskas-gubernatorial-race-in-early-results/",
+    "https://adn.com/politics/2026/11/09/kreiss-tomkins-grows-his-lead-in-alaska-governors-race/",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "ADN (Nov 9) and AP-syndicated reporting: Kreiss-Tomkins leads with about 49% but no AP call and Wilson has not conceded; ranked-choice tabulation Nov 18. MultiState lists him as winner, but that is not an AP call. Kept uncalled."
+}

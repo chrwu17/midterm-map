@@ -1,0 +1,133 @@
+{
+  "id": "MI-governor",
+  "state": "MI",
+  "stateName": "Michigan",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "jocelyn-benson",
+  "summary": "Democratic Gov. Gretchen Whitmer was term-limited, so the seat was open. Jocelyn Benson (Democrat) defeated John James (Republican).",
+  "candidates": [
+    {
+      "id": "jocelyn-benson",
+      "name": "Jocelyn Benson",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 54.57,
+      "bio": "Jocelyn Benson is Michigan's Secretary of State. She ran with Winnie Brinks.",
+      "website": "https://www.jocelynbenson.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says her central focus is making Michigan more affordable, including building more housing and making childcare free.",
+          "source": "https://www.jocelynbenson.com/MeetJocelyn"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she would expand healthcare options in rural areas.",
+          "source": "https://www.jocelynbenson.com/MeetJocelyn"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she will take Michigan's public schools to the top 10 in the nation.",
+          "source": "https://www.jocelynbenson.com/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she would take on the utility companies that raise rates.",
+          "source": "https://www.jocelynbenson.com/MeetJocelyn"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "john-james",
+      "name": "John James",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 43.72,
+      "bio": "John James is a U.S. Representative who was endorsed by President Trump. He ran with Jay DeBoyer.",
+      "website": "https://johnjamesmi.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would phase out the state income tax over time and start with a one-quarter cut in income tax burden by recovering about $3 billion in waste.",
+          "source": "https://johnjamesmi.com/pillar-affordability/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would use price transparency, direct primary care, telehealth, and rural provider recruitment to lower costs and expand access.",
+          "source": "https://johnjamesmi.com/pillar-health/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would opt Michigan into the federal K-12 Education Freedom Tax Credit, expand charter school options, and make parental control of children's education the default.",
+          "source": "https://johnjamesmi.com/pillar-education/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would repeal PA 235 and pursue an all-of-the-above energy strategy while holding utilities accountable on rates.",
+          "source": "https://johnjamesmi.com/pillar-affordability/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "anthony-hudson",
+      "name": "Anthony Hudson",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.93,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "donna-brandenburg",
+      "name": "Donna Brandenburg",
+      "party": "Other",
+      "partyLabel": "U.S. Taxpayers",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.42,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "douglas-campbell",
+      "name": "Douglas Campbell",
+      "party": "Green",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.36,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that figures reflected about 97% reporting."
+}

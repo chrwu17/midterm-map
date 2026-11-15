@@ -1,0 +1,111 @@
+{
+  "id": "WI-governor",
+  "state": "WI",
+  "stateName": "Wisconsin",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "david-crowley",
+  "summary": "This was an open race because Democratic Gov. Tony Evers did not seek re-election. David Crowley (Democrat) defeated Tom Tiffany (Republican), a U.S. representative.",
+  "candidates": [
+    {
+      "id": "david-crowley",
+      "name": "David Crowley",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 54,
+      "bio": "David Crowley is the Milwaukee County Executive, in office since 2020, and a former member of the Wisconsin State Assembly. He was the Democratic nominee for governor in 2026.",
+      "website": "https://www.crowleyforwi.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says any tax break for data centers must benefit Wisconsin, and does not rule out some incentives.",
+          "source": "https://www.fox6now.com/news/wisconsin-governor-race-candidates-agree-data-center-guardrails.amp"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would open BadgerCare enrollment to any household that wants it, using federal Medicaid matching funds to cover part of the cost.",
+          "source": "https://upnorthnewswi.com/news/politics/crowley-vs-tiffany-top-issues/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "As Milwaukee County Executive, signed an ordinance requiring written permission before law enforcement can use county parks as staging areas for unrelated operations.",
+          "source": "https://www.fox6now.com/news/wisconsin-governor-crowley-tiffany-102626.amp"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he wants major investments in public education, which he says would ease pressure on property taxes.",
+          "source": "https://fox11online.com/news/state/david-crowley-tom-tiffany-in-depth-interviews-wisconsin-governor-race-affordability-budget-surplus-school-education-funding-taxes-data-centers"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would require large AI data center operators to pay the full cost of the grid upgrades needed to power them.",
+          "source": "https://upnorthnewswi.com/news/politics/crowley-vs-tiffany-top-issues/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Supports amending the Wisconsin Constitution to make abortion a constitutional right.",
+          "source": "https://www.fox6now.com/news/wisconsin-governor-crowley-tiffany-102626.amp"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/David_Crowley_(politician)"
+      ]
+    },
+    {
+      "id": "tom-tiffany",
+      "name": "Tom Tiffany",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 46,
+      "bio": "Tom Tiffany is the U.S. representative for Wisconsin's 7th District, in office since 2020, and previously served in the Wisconsin Senate and Assembly. He was the Republican nominee for governor in 2026.",
+      "website": "https://tomtiffany.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would return the state's roughly $3 billion surplus to taxpayers and then freeze property taxes.",
+          "source": "https://fox11online.com/news/state/david-crowley-tom-tiffany-in-depth-interviews-wisconsin-governor-race-affordability-budget-surplus-school-education-funding-taxes-data-centers"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would let the Wisconsin Farm Bureau offer health plans to members and require upfront, clear pricing from providers and insurers.",
+          "source": "https://www.fox6now.com/news/wisconsin-governor-crowley-tiffany-102626.amp"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he would prohibit municipalities from passing \"sanctuary policies\" that limit cooperation with ICE.",
+          "source": "https://www.fox6now.com/news/wisconsin-governor-crowley-tiffany-102626.amp"
+        },
+        {
+          "issue": "education",
+          "summary": "Supports more school funding with accountability, saying he wants higher standards, honest report cards and more of the money to reach the classroom.",
+          "source": "https://fox11online.com/news/state/david-crowley-tom-tiffany-in-depth-interviews-wisconsin-governor-race-affordability-budget-surplus-school-education-funding-taxes-data-centers"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would allow data centers only if subsidies are eliminated and electricity rates do not go up for current residents.",
+          "source": "https://fox11online.com/news/state/david-crowley-tom-tiffany-in-depth-interviews-wisconsin-governor-race-affordability-budget-surplus-school-education-funding-taxes-data-centers"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Said in 2025 he would uphold Wisconsin's current 20-week abortion law.",
+          "source": "https://www.fox6now.com/news/wisconsin-governor-crowley-tiffany-102626.amp"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tom_Tiffany"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.news5cleveland.com/politics/america-votes/david-crowley-defeats-tom-tiffany-keeps-wisconsin-governors-office-democratic",
+    "https://en.wikipedia.org/wiki/2026_Wisconsin_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

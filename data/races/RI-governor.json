@@ -1,0 +1,134 @@
+{
+  "id": "RI-governor",
+  "state": "RI",
+  "stateName": "Rhode Island",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "helena-foulkes",
+  "summary": "Gov. Dan McKee lost the Democratic primary, so no incumbent was on the ballot. Helena Foulkes (Democrat) won, defeating Ken Block (independent) and Aaron Guckian (Republican).",
+  "candidates": [
+    {
+      "id": "helena-foulkes",
+      "name": "Helena Foulkes",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 57.71,
+      "bio": "Helena Foulkes is a former president of CVS Health's retail business and a former Hudson's Bay Company executive. She was the Democratic nominee for Rhode Island governor in 2026, after an unsuccessful 2022 primary run.",
+      "website": "https://helenafoulkes.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Proposes a childcare fund matched by employers, starting with a $20 million pilot, and describes childcare, housing and transportation costs as barriers to work.",
+          "source": "https://www.helenatransition.com/plans/files/Childcare-Transportation.pdf"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she would raise Medicaid reimbursement rates to narrow the gap with Massachusetts and Connecticut and take steps to keep eligible Rhode Islanders covered.",
+          "source": "https://www.helenatransition.com/plans/files/Reimagining-Rhode-Island-Healthcare.pdf"
+        },
+        {
+          "issue": "education",
+          "summary": "Proposes a $100 million bond to build and modernize career and technical education facilities.",
+          "source": "https://www.helenatransition.com/plans/files/Classroom-to-Career.pdf"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she would lower energy bills and increase renewable energy production, including a $40 million solar-and-battery program and an audit of Rhode Island Energy.",
+          "source": "https://www.helenatransition.com/plans/files/No-False-Choices.pdf"
+        }
+      ],
+      "sources": [
+        "https://www.bostonglobe.com/2026/11/03/metro/facts-about-helena-buonanno-foulkes-rhode-island/",
+        "https://www.golocalprov.com/politics/political-profile-helena-foulkes-candidate-for-governor"
+      ]
+    },
+    {
+      "id": "ken-block",
+      "name": "Ken Block",
+      "party": "Independent",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 27.75,
+      "bio": "Ken Block is a Barrington businessman who founded the government-accountability group Watchdog RI. He was the Moderate Party nominee for governor in 2010, sought the Republican nomination in 2014, and ran as an independent in 2026.",
+      "website": "https://www.blockforgovernor.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would reduce expenses rather than add taxes, veto a millionaires tax, suspend the truck toll program, and eliminate state income tax on Social Security.",
+          "source": "https://www.blockforgovernor.com/issues.php"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would require hospitals to send one bill after a stay, seek higher Medicare reimbursement rates for Rhode Island providers, and take no actions that undermine the Affordable Care Act.",
+          "source": "https://www.blockforgovernor.com/issues.php"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would push back the state's 100% renewable energy goal from 2033 to 2040 and direct Regional Greenhouse Gas Initiative auction funds to energy bill relief for low-income households.",
+          "source": "https://www.blockforgovernor.com/issues.php"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says on his campaign site that he does not intend to impose his own beliefs on others when it comes to abortion.",
+          "source": "https://www.blockforgovernor.com/issues.php"
+        }
+      ],
+      "sources": [
+        "https://www.oceanstatemedia.org/politics/elections/ken-blocks-third-run-for-rhode-island-governor-centers-on-one-word-competence",
+        "https://en.wikipedia.org/wiki/Ken_Block_(politician)"
+      ]
+    },
+    {
+      "id": "aaron-guckian",
+      "name": "Aaron Guckian",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 13.18,
+      "bio": "Aaron Guckian is a Rhode Island businessman who ran for lieutenant governor in 2022. He was the Republican nominee for governor in 2026.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he supports cutting state spending, with targeted tax relief and fewer hidden fees.",
+          "source": "https://ontheissues.org/Aaron_Guckian.htm"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would prioritize investment in public schools and support for teachers.",
+          "source": "https://ontheissues.org/Aaron_Guckian.htm"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Supports removing felons who are in the country illegally but opposes arrests at green card interviews.",
+          "source": "https://ontheissues.org/Aaron_Guckian.htm"
+        },
+        {
+          "issue": "climate",
+          "summary": "Opposed the Trump administration's decision to halt the Revolution Wind offshore wind project.",
+          "source": "https://ontheissues.org/Aaron_Guckian.htm"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he would not reverse abortion rights already protected by Rhode Island law.",
+          "source": "https://ontheissues.org/Aaron_Guckian.htm"
+        }
+      ],
+      "sources": [
+        "https://www.golocalprov.com/politics/republican-guckian-is-running-for-governor",
+        "https://ballotpedia.org/Aaron_Guckian"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.wbur.org/news/2026/11/04/rhode-island-governor-helena-foulkes-wins",
+    "https://en.wikipedia.org/wiki/2026_Rhode_Island_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "WY-senate",
+  "state": "WY",
+  "stateName": "Wyoming",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "harriet-hageman",
+  "summary": "This was an open race because Sen. Cynthia Lummis did not seek re-election. Harriet Hageman (Republican) won over James Byrd (Democrat).",
+  "candidates": [
+    {
+      "id": "harriet-hageman",
+      "name": "Harriet Hageman",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 64.88,
+      "bio": "Harriet Hageman has been Wyoming's at-large U.S. representative since 2023 and is a Wyoming attorney who argued for the state in Nebraska v. Wyoming. She finished third in the 2018 Republican gubernatorial primary and served as Republican National Committeewoman in 2020 and 2021.",
+      "website": "https://hagemanforwyoming.com",
+      "positions": [
+        {
+          "issue": "immigration",
+          "summary": "Says border security is national security and points to her role in House passage of the Secure the Border Act.",
+          "source": "https://hageman.house.gov/issues/border-security"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says coal, oil, gas and uranium can meet national demand, and wants policies to \"unleash American energy.\"",
+          "source": "https://hageman.house.gov/issues/energy"
+        },
+        {
+          "issue": "economy",
+          "summary": "Says \"We are not taxed too little; we spend too much\" and has rejected spending bills that allow deficits to grow.",
+          "source": "https://hageman.house.gov/issues/economy"
+        },
+        {
+          "issue": "education",
+          "summary": "Wants parents closely involved in their children's schooling, with lessons focused on core academics.",
+          "source": "https://hageman.house.gov/issues/family-values"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says she will advocate for \"the sanctity of human life from conception to natural death.\" In January 2026 she introduced a bill to end tax-exempt status for groups that carry out or finance abortions.",
+          "source": "https://hageman.house.gov/issues/family-values"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Cited Rural Health Transformation Program funding for Wyoming and attributed the shrinking number of Wyoming insurers to the Affordable Care Act.",
+          "source": "https://wyofile.com/casper-forum-separates-us-senate-candidates-on-healthcare-executive-power/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harriet_Hageman",
+        "https://hageman.house.gov/issues/border-security",
+        "https://hageman.house.gov/issues/energy"
+      ]
+    },
+    {
+      "id": "james-byrd",
+      "name": "James Byrd",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 34.57,
+      "bio": "James Byrd is a fifth-generation Wyomingite from Cheyenne who served in the Wyoming House of Representatives from 2009 to 2019. He was the Democratic nominee for Wyoming Secretary of State in 2018 and previously worked as an exploration geophysicist for energy companies. He was the 2026 Democratic nominee for U.S. Senate.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he wants to diversify the state economy beyond fossil fuels and opposes selling public land, saying it would hurt ranchers and tourism businesses.",
+          "source": "https://projects.wyofile.com/election-guide-2026/candidates/byrd-james/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would protect rural hospitals, push for transparent medical pricing and cap prescription drug costs.",
+          "source": "https://projects.wyofile.com/election-guide-2026/candidates/byrd-james/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says the immigration system is broken and favors modernizing legal visa pathways, funding immigration courts and securing the border.",
+          "source": "https://projects.wyofile.com/election-guide-2026/candidates/byrd-james/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Backs nuclear (including the TerraPower Natrium project), mineral and tech projects, and says energy workers should be protected.",
+          "source": "https://projects.wyofile.com/election-guide-2026/candidates/byrd-james/"
+        }
+      ],
+      "sources": [
+        "https://projects.wyofile.com/election-guide-2026/candidates/byrd-james/",
+        "https://cowboystatedaily.com/2026/02/17/former-wyoming-rep-james-byrd-announces-run-for-u-s-senate/"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Wyoming",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

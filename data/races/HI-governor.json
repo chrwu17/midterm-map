@@ -1,0 +1,74 @@
+{
+  "id": "HI-governor",
+  "state": "HI",
+  "stateName": "Hawaii",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "josh-green",
+  "summary": "Incumbent Democratic Gov. Josh Green ran for reelection and won a second term, defeating Republican Gary Cordery.",
+  "candidates": [
+    {
+      "id": "josh-green",
+      "name": "Josh Green",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 72.64,
+      "bio": "Josh Green is a Democrat and a physician who has served as governor of Hawaii since 2022. He worked as an emergency room doctor, served as a state legislator, and was lieutenant governor from 2018 to 2022.",
+      "website": "https://joshgreenforhawaii.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he delivered the biggest middle-class tax cut in Hawaii history, including a doubled earned income tax credit and food tax credit.",
+          "source": "https://joshgreenforhawaii.com/issues/cost-of-living/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he is lowering healthcare costs, will cover Obamacare subsidies for families who depend on them, and is bringing nearly $1 billion in federal money to rural health.",
+          "source": "https://joshgreenforhawaii.com/issues/healthcare/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Points to the Green Fee, an 11% tax on tourist accommodations, as the state's largest dedicated funding source for climate action.",
+          "source": "https://www.hawaiinewsnow.com/2026/01/26/watch-live-gov-josh-greens-fourth-state-state-address/?outputType=amp"
+        },
+        {
+          "issue": "education",
+          "summary": "Signed bills in July 2026 creating annual salary step increases for teachers and covering 95 percent of community college students' unmet direct costs through Hawaii Promise.",
+          "source": "https://mauinow.com/?p=531258"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Signed Senate Bill 1 in 2023, which writes abortion protections into state law and protects providers and patients who travel to Hawaii from states with stricter laws.",
+          "source": "https://www.civilbeat.org/beat/abortion-protections-will-be-expanded-in-hawaii-under-new-law/"
+        }
+      ],
+      "sources": [
+        "https://joshgreenforhawaii.com/about/"
+      ]
+    },
+    {
+      "id": "gary-cordery",
+      "name": "Gary Cordery",
+      "party": "Republican",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 27.36,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://www.civilbeat.org/2026/11/green-and-kawakami-swamp-opponents-to-win-governor-lt-gov/",
+    "https://www.hawaiinewsnow.com/2026/11/04/gov-josh-green-wins-re-election-alongside-lt-gov-elect-derek-kawakami/",
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://en.wikipedia.org/wiki/2026_Hawaii_gubernatorial_election"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Original summary noted the Republican ticket (with running mate Daniel Anthony) had 26.1% in the latest tally. Vote shares are from the Wikipedia article 2026 Hawaii gubernatorial election (384,703 votes in total); the page did not state what share of the vote was counted."
+}

@@ -1,0 +1,142 @@
+{
+  "id": "ID-governor",
+  "state": "ID",
+  "stateName": "Idaho",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "brad-little",
+  "summary": "Idaho's sitting governor, Brad Little (Republican), ran again and won a third term, defeating Terri Pickens (Democrat).",
+  "candidates": [
+    {
+      "id": "brad-little",
+      "name": "Brad Little",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 57.03,
+      "bio": "Brad Little is a Republican who has served as governor of Idaho since January 2019. A third-generation rancher from Emmett, he was appointed to the Idaho Senate in 2001, then served as lieutenant governor from 2009 to 2019.",
+      "website": "https://www.bradlittleforidaho.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he has delivered historic tax relief while keeping the budget balanced and without raising taxes.",
+          "source": "https://www.bradlittleforidaho.com/accomplishments/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Points to Operation No Return, which his campaign describes as removing dangerous criminals who are in the country illegally from Idaho communities.",
+          "source": "https://www.bradlittleforidaho.com/accomplishments/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he has delivered historic teacher pay raises, a fivefold boost in literacy funding and expanded school choice.",
+          "source": "https://www.bradlittleforidaho.com/accomplishments/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "His campaign lists promoting pro-life policies among the values he defends.",
+          "source": "https://www.bradlittleforidaho.com/accomplishments/"
+        }
+      ],
+      "sources": [
+        "https://gov.idaho.gov/our-governor/",
+        "https://www.bradlittleforidaho.com/meet-brad/"
+      ]
+    },
+    {
+      "id": "terri-pickens",
+      "name": "Terri Pickens",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 32.32,
+      "bio": "Terri Pickens is a Democrat who won her party's primary for governor in May 2026 with about 61% of the vote. She was the Democratic nominee for lieutenant governor in 2022 and has been described in local news as a Boise attorney. Her campaign says she is not a career politician.",
+      "website": "https://www.terriforidaho.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she would support small businesses, maintain a stable tax structure, ensure a living wage and strengthen unions and worker protections.",
+          "source": "https://terriforidaho.com/issues/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says health care must be affordable and accessible to all Idahoans.",
+          "source": "https://terriforidaho.com/issues/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says people who enter illegally should be treated humanely, violent criminals deported, and simple pathways created for immigrant workers.",
+          "source": "https://terriforidaho.com/issues/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she would repeal the school voucher program and increase funding for teacher salaries, pre-K and rural schools.",
+          "source": "https://terriforidaho.com/issues/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says women have a fundamental right to bodily autonomy and that family planning decisions belong to women, not the government.",
+          "source": "https://terriforidaho.com/issues/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election",
+        "https://www.terriforidaho.com/about-1"
+      ]
+    },
+    {
+      "id": "john-stegner",
+      "name": "John Stegner",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 7.66,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "paul-sand",
+      "name": "Paul Sand",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.62,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "marvin-richardson",
+      "name": "Marvin Richardson",
+      "party": "Other",
+      "partyLabel": "Constitution",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.33,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election"
+      ]
+    }
+  ],
+  "sources": [
+    "https://cdapress.com/news/2026/nov/03/gov-little-wins-third-term/",
+    "https://idahocapitalsun.com/?p=32993",
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Summary note moved: AP projected the win; final vote shares were not confirmed."
+}

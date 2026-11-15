@@ -1,0 +1,143 @@
+{
+  "id": "MN-senate",
+  "state": "MN",
+  "stateName": "Minnesota",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "peggy-flanagan",
+  "summary": "Democratic-Farmer-Labor Sen. Tina Smith did not seek re-election, so the seat was open. Peggy Flanagan (Democrat) defeated Michele Tafoya (Republican) and other candidates.",
+  "candidates": [
+    {
+      "id": "peggy-flanagan",
+      "name": "Peggy Flanagan",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 53.7,
+      "bio": "Peggy Flanagan is the Democratic Lieutenant Governor of Minnesota and a former Minneapolis School Board member. She won the DFL endorsement and the August 2026 Democratic primary for the open Senate seat.",
+      "website": "https://peggyflanagan.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she will raise the federal minimum wage to $17 an hour, pass national paid family and medical leave, and expand the Child Tax Credit.",
+          "source": "https://peggyflanagan.com/priorities/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she will fight for Medicare for All, ban insurers' prior authorization, and restore the cuts to Minnesotans' health care.",
+          "source": "https://peggyflanagan.com/priorities/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says she would dismantle ICE, end mass deportation policies, and create a path to legal status for long-term undocumented residents.",
+          "source": "https://peggyflanagan.com/priorities/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she would fully fund IDEA, expand Head Start and universal pre-K, and increase K-12 funding without vouchers.",
+          "source": "https://peggyflanagan.com/priorities/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she opposes rollbacks of clean energy investments and would expand wind and solar while supporting biofuels.",
+          "source": "https://peggyflanagan.com/priorities/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says she would pass the Women's Health Protection Act to restore Roe v. Wade protections nationwide and repeal the Hyde Amendment.",
+          "source": "https://peggyflanagan.com/priorities/"
+        }
+      ],
+      "sources": [
+        "https://www.kunc.org/npr-news/2026-08-11/progressive-peggy-flanagan-wins-democratic-senate-primary-in-minnesota",
+        "https://www.kttc.com/2026/11/01/flanagan-tafoya-name-different-top-voter-issues-minnesota-us-senate-race/",
+        "https://peggyflanagan.com"
+      ]
+    },
+    {
+      "id": "michele-tafoya",
+      "name": "Michele Tafoya",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 43.56,
+      "bio": "Michele Tafoya is a Republican and former NFL sideline reporter, known for her work on NBC's Sunday Night Football. She launched her Senate campaign in January 2026.",
+      "website": "https://micheletafoya.com",
+      "positions": [
+        {
+          "issue": "education",
+          "summary": "Says she supports education reform that gives parents more say and increases transparency and accountability.",
+          "source": "https://micheletafoya.com/issues/"
+        },
+        {
+          "issue": "economy",
+          "summary": "Says she opposes raising taxes on the middle class, wants to protect recent tax cuts for working families, and favors reducing federal spending and borrowing.",
+          "source": "https://micheletafoya.com/issues/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Has called herself a \"pro-choice Republican.\"",
+          "source": "https://www.notus.org/2026-election/republican-top-senate-recruit-minnesota-michele-tafoya-interview"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she wants to cut prescription drug prices and curb insurers and middlemen who raise costs.",
+          "source": "https://micheletafoya.com/issues/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says she supports a secure border and deporting undocumented immigrants who have committed crimes, and opposes abolishing ICE.",
+          "source": "https://micheletafoya.com/issues/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she supports all U.S. energy sources to lower utility bills and gas prices while protecting the environment.",
+          "source": "https://micheletafoya.com/issues/"
+        }
+      ],
+      "sources": [
+        "https://www.fox9.com/news/michele-tafoya-launches-u-s-senate-campaign-minnesota",
+        "https://www.axios.com/local/twin-cities/2026/01/21/michele-tafoya-us-senate-race-minnesota-republican",
+        "https://micheletafoya.com/issues/",
+        "https://www.notus.org/2026-election/republican-top-senate-recruit-minnesota-michele-tafoya-interview"
+      ]
+    },
+    {
+      "id": "marisa-simonetti",
+      "name": "Marisa Simonetti",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.47,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota"
+      ]
+    },
+    {
+      "id": "rebecca-whiting",
+      "name": "Rebecca Whiting",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.15,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

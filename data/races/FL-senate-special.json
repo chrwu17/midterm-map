@@ -1,0 +1,122 @@
+{
+  "id": "FL-senate-special",
+  "state": "FL",
+  "stateName": "Florida",
+  "office": "senate",
+  "special": true,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "ashley-moody",
+  "summary": "This special election filled the Senate seat left open when Marco Rubio resigned. Ashley Moody (Republican), who was appointed to the seat, won over Angie Nixon (Democrat) and Neil Gillespie (independent).",
+  "candidates": [
+    {
+      "id": "ashley-moody",
+      "name": "Ashley Moody",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 50.86,
+      "bio": "Republican U.S. senator from Florida, appointed by Gov. Ron DeSantis and sworn in January 21, 2025 after Marco Rubio became secretary of state. She served as Florida attorney general from 2019 to 2025 and as a circuit judge in Hillsborough County from 2006. She is a University of Florida graduate and sits on the Judiciary, HELP and Aging committees, among others.",
+      "website": "https://ashleymoody.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Supported the tax cuts in the One Big Beautiful Bill (July 2025).",
+          "source": "https://ontheissues.org/Senate/Ashley_Moody.htm"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Said in January 2025 that she supports President Trump's immigration policies from day one.",
+          "source": "https://ontheissues.org/Senate/Ashley_Moody.htm"
+        },
+        {
+          "issue": "education",
+          "summary": "Described herself in August 2025 as a long-time advocate for school choice.",
+          "source": "https://ontheissues.org/Senate/Ashley_Moody.htm"
+        },
+        {
+          "issue": "climate",
+          "summary": "As attorney general, joined a 2023 lawsuit against the federal government over CO2 reductions.",
+          "source": "https://ontheissues.org/Senate/Ashley_Moody.htm"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Cosponsored the Born-Alive Abortion Survivors Protection Act in October 2025.",
+          "source": "https://ontheissues.org/Senate/Ashley_Moody.htm"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
+        "https://www.moody.senate.gov/about",
+        "https://ashleymoody.com/"
+      ]
+    },
+    {
+      "id": "angie-nixon",
+      "name": "Angie Nixon",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 48,
+      "bio": "Democratic member of the Florida House of Representatives since November 2020, representing Jacksonville, where she was born and raised. She is a union organizer and former executive director of Florida for All, a statewide voter registration coalition, and runs a bookstore and community hub in Jacksonville. She won the Democratic primary with 56.1%, defeating Alex Vindman.",
+      "website": "https://angienixon.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she wants lower costs and higher wages and a government that stands up to corporate greed.",
+          "source": "https://angienixon.com/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Supports Medicare for All and describes health care as a right, not a privilege tied to a paycheck.",
+          "source": "https://angienixon.com/"
+        },
+        {
+          "issue": "education",
+          "summary": "Said in 2023 that school choice programs defund public schools.",
+          "source": "https://ontheissues.org/Senate/Angie_Nixon.htm"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Supports border security and clear, compassionate pathways to citizenship, and her 2026 platform calls for abolishing ICE.",
+          "source": "https://en.wikipedia.org/wiki/Angie_Nixon"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Opposed Florida's ban on most abortions after six weeks in April 2023.",
+          "source": "https://ontheissues.org/Senate/Angie_Nixon.htm"
+        },
+        {
+          "issue": "climate",
+          "summary": "Supports a federal moratorium on new data center construction until regulations protect communities and the environment.",
+          "source": "https://en.wikipedia.org/wiki/Angie_Nixon"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
+        "https://angienixon.com/meet-angie/",
+        "https://en.wikipedia.org/wiki/Angie_Nixon",
+        "https://angienixon.com/"
+      ]
+    },
+    {
+      "id": "neil-gillespie",
+      "name": "Neil Gillespie",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.14,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

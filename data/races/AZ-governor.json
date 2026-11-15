@@ -1,0 +1,130 @@
+{
+  "id": "AZ-governor",
+  "state": "AZ",
+  "stateName": "Arizona",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "katie-hobbs",
+  "summary": "The sitting governor ran again: Katie Hobbs (Democrat) won a second term over Andy Biggs (Republican), a U.S. representative.",
+  "candidates": [
+    {
+      "id": "katie-hobbs",
+      "name": "Katie Hobbs",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 55.6,
+      "bio": "Katie Hobbs is a Democrat who has been governor of Arizona since January 2023. She was Arizona Secretary of State from 2019 to 2023 and served in the state House and Senate, including as Senate minority leader, after working as a social worker.",
+      "website": "https://katiehobbs.org",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Named lowering costs as one of the priorities she and Lt. Gov.-elect John Giles outlined for the next four years.",
+          "source": "https://www.kold.com/2026/11/07/gov-hobbs-touts-bipartisan-priorities-tucson-victory-rally/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Said in May 2025 that federal Medicaid cuts 'will kill people' and that Arizona could not absorb them.",
+          "source": "https://ktar.com/arizona-politics-news/election/katie-hobbs-outspoken"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Named securing the border as one of the priorities she and Lt. Gov.-elect John Giles outlined, and has described Operation Desert Guardian, a statewide cartel-focused initiative, as producing drug busts, weapon seizures and arrests with federal cooperation.",
+          "source": "https://www.kold.com/2026/11/07/gov-hobbs-touts-bipartisan-priorities-tucson-victory-rally/"
+        },
+        {
+          "issue": "education",
+          "summary": "Named reining in the Empowerment Scholarship Account voucher program as one of the priorities she and Lt. Gov.-elect John Giles outlined for the next four years.",
+          "source": "https://www.kold.com/2026/11/07/gov-hobbs-touts-bipartisan-priorities-tucson-victory-rally/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Named protecting Arizona's water as one of the priorities she and Lt. Gov.-elect John Giles outlined for the next four years.",
+          "source": "https://www.kold.com/2026/11/07/gov-hobbs-touts-bipartisan-priorities-tucson-victory-rally/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Katie_Hobbs",
+        "https://www.kold.com/2026/11/07/gov-hobbs-touts-bipartisan-priorities-tucson-victory-rally/",
+        "https://ktar.com/arizona-politics-news/election/katie-hobbs-outspoken"
+      ]
+    },
+    {
+      "id": "andy-biggs",
+      "name": "Andy Biggs",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 42.4,
+      "bio": "Andy Biggs is a Republican who has represented Arizona's 5th congressional district in the U.S. House since January 2017. He previously served in the Arizona House from 2003 to 2011 and the Arizona Senate from 2011 to 2017, including as Senate president from 2013 to 2017.",
+      "website": "https://www.biggsforarizona.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would eliminate the state income tax, work with local entities to reduce property taxes and cut permitting barriers and regulations.",
+          "source": "https://www.biggsforarizona.com/issues"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would end medical mandates, protect vaccine choice and medical freedom and make ivermectin available over the counter.",
+          "source": "https://www.biggsforarizona.com/issues"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he would reintroduce a Border Strike Force focused on trafficking and encourage state and local participation in the federal 287(g) program.",
+          "source": "https://www.biggsforarizona.com/issues"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would opt into the federal education tax credit, protect Empowerment Scholarship Accounts and prioritize reading, writing and math.",
+          "source": "https://www.biggsforarizona.com/issues"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would pursue reliable, affordable energy including nuclear and repeal Gov. Hobbs's executive order prioritizing wind and solar on state land.",
+          "source": "https://www.biggsforarizona.com/issues"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Andy_Biggs",
+        "https://www.biggsforarizona.com/issues"
+      ]
+    },
+    {
+      "id": "risa-lombardo",
+      "name": "Risa Lombardo",
+      "party": "Green",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.0,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "teri-hourihan",
+      "name": "Teri Hourihan",
+      "party": "Other",
+      "partyLabel": "No Labels",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.9,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://www.azfamily.com/2026/11/04/katie-hobbs-defeats-andy-biggs-win-second-term-arizona-governor/",
+    "https://www.pollcheck.com/midterms-2026/governor/arizona",
+    "https://ballotpedia.org/Arizona_gubernatorial_election,_2026",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that counting was still in progress (about 81% reported), so vote shares were partial."
+}

@@ -1,0 +1,119 @@
+{
+  "id": "KY-senate",
+  "state": "KY",
+  "stateName": "Kentucky",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "andy-barr",
+  "summary": "Sen. Mitch McConnell (Republican) retired, so the seat was open. U.S. Rep. Andy Barr (Republican) won, defeating Charles Booker (Democrat) and one independent.",
+  "candidates": [
+    {
+      "id": "andy-barr",
+      "name": "Andy Barr",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 54.99,
+      "bio": "Barr graduated from the University of Virginia and the University of Kentucky College of Law, worked as a legislative assistant to Rep. Jim Talent and practiced law in Lexington. He has represented Kentucky's 6th Congressional District in the U.S. House since 2013. He won the 2026 Republican Senate nomination with Donald Trump's endorsement, ahead of former state Attorney General Daniel Cameron.",
+      "website": "https://barrforsenate.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Supports tax cuts, citing the 2025 law that he says ended taxes on Social Security benefits, overtime and tips, and a repeal of the estate tax for farmers.",
+          "source": "https://barrforsenate.com/issues"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Supports repealing the Affordable Care Act and says he passed legislation giving veterans more access to non-VA health care.",
+          "source": "https://en.wikipedia.org/wiki/Andy_Barr"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Supports deporting criminal illegal immigrants, restarting border wall construction, funding more border agents and ending catch and release.",
+          "source": "https://barrforsenate.com/issues"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he wants to bring back coal and lower energy costs, and opposes Green New Deal efforts and ESG mandates.",
+          "source": "https://barrforsenate.com/issues"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Opposes abortion except when the mother's life is threatened and opposes federal funding for organizations that provide abortions.",
+          "source": "https://en.wikipedia.org/wiki/Andy_Barr"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Andy_Barr",
+        "https://barrforsenate.com/"
+      ]
+    },
+    {
+      "id": "charles-booker",
+      "name": "Charles Booker",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 42.9,
+      "bio": "Booker grew up in West Louisville, holds a B.S. and law degree from the University of Louisville, and says he rationed insulin as a child. He served in the Kentucky House from 2019 to 2021, lost the 2020 Democratic Senate primary, and was the 2022 Democratic Senate nominee. Gov. Andy Beshear appointed him in 2023 to lead the Office of Faith-Based Initiatives and Community Involvement; he won the 2026 Democratic primary over Amy McGrath.",
+      "website": "https://charlesbookerky.org/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would cut taxes for working and middle-class families, protect Social Security and Medicare, and revoke the national emergency used to justify tariffs.",
+          "source": "https://charlesbookerky.org/policies/affordable"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would restore ACA subsidies, create a state-run public option and extend Medicare drug price negotiation to all Kentuckians.",
+          "source": "https://charlesbookerky.org/policies/healthcare"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Has called for abolishing ICE.",
+          "source": "https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he opposes private school vouchers and Trump administration cuts to Title I and special education funding, and supports raising teacher pay.",
+          "source": "https://charlesbookerky.org/policies/education"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would co-sponsor the Ratepayer Protection Act requiring large data centers to cover their utility costs, pursue an all-of-the-above energy strategy, and protect coal miners' pensions and benefits.",
+          "source": "https://charlesbookerky.org/policies/energy"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he respects Kentuckians' 2022 rejection of a constitutional amendment on abortion, would protect access to contraception and IVF, and would ensure emergency care for pregnancy complications.",
+          "source": "https://charlesbookerky.org/policies/healthcare"
+        }
+      ],
+      "sources": [
+        "https://charlesbookerky.org/",
+        "https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)"
+      ]
+    },
+    {
+      "id": "christopher-campbell",
+      "name": "Christopher Campbell",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 2.09,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

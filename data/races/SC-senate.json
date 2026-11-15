@@ -1,0 +1,110 @@
+{
+  "id": "SC-senate",
+  "state": "SC",
+  "stateName": "South Carolina",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "annie-andrews",
+  "summary": "Republican Sen. Darline Graham was appointed to this seat after Sen. Lindsey Graham died in July 2026, and she ran to keep it. Democrat Annie Andrews won, defeating her.",
+  "candidates": [
+    {
+      "id": "annie-andrews",
+      "name": "Annie Andrews",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 51.14,
+      "bio": "Annie Andrews is a pediatrician and was a 2024 candidate for South Carolina's 1st congressional district. She won the 2026 Democratic nomination for U.S. Senate with 61.5% of the primary vote.",
+      "website": "https://drannieandrews.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Supports suspending the federal fuel tax for drivers and businesses, and opposes the on-and-off tariffs, which she calls unconstitutional.",
+          "source": "https://www.wistv.com/2026/10/28/full-interview-annie-andrews-shares-priorities-senate-ahead-election-day/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she would stop the Medicaid cuts, restore the enhanced Affordable Care Act tax credits and back a public option rather than Medicare for All.",
+          "source": "https://prospect.org/2026/10/08/south-carolina-senate-hopeful-runs-on-health-care-populism-annie-andrews/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says her party has been weak on border security and that she supports deporting people who break immigration law.",
+          "source": "https://www.wistv.com/2026/10/28/full-interview-annie-andrews-shares-priorities-senate-ahead-election-day/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she would fully fund public schools and special education, raise teacher and staff pay, and expand affordable child care and free or discounted school meals.",
+          "source": "https://drannieandrews.com/issue/strong-schools-affordable-child-care/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she favors an all-of-the-above approach to energy, including nuclear, and supports a two-year pause on new data center construction in South Carolina.",
+          "source": "https://www.wistv.com/2026/10/28/full-interview-annie-andrews-shares-priorities-senate-ahead-election-day/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Pledges to restore Roe v. Wade protections and expand access to contraception, infertility care and rural maternal health.",
+          "source": "https://drannieandrews.com/issue/reproductive-freedom-trust-women/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+        "https://www.foxcarolina.com/2026/06/05/us-senate-race-sc-candidate-profile-annie-andrews/",
+        "https://www.wistv.com/2026/10/28/full-interview-annie-andrews-shares-priorities-senate-ahead-election-day/",
+        "https://en.wikipedia.org/wiki/Annie_Andrews"
+      ]
+    },
+    {
+      "id": "darline-graham",
+      "name": "Darline Graham",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 46.64,
+      "bio": "Darline Graham was a commissioner of the South Carolina Commission for the Blind from 2019 to 2026. Gov. Henry McMaster appointed her to the U.S. Senate in July 2026 after the death of her brother, Sen. Lindsey Graham, and she won the Republican nomination in an August runoff.",
+      "website": "http://darlinegraham.com",
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+        "https://en.wikipedia.org/wiki/Darline_Graham"
+      ]
+    },
+    {
+      "id": "kasie-whitener",
+      "name": "Kasie Whitener",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.2,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "mark-hackett",
+      "name": "Mark Hackett",
+      "party": "Other",
+      "partyLabel": "Constitution",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.8,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://www.wbtv.com/2026/11/04/democrat-annie-andrews-wins-us-senate-seat-south-carolina-ap-projects/",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by wbtv.com report. Lindsey Graham's death (July 11) and sister Darline Graham's appointment confirmed by multiple outlets. Original summary's account of the July 2026 death and appointment was sourced to Wikipedia."
+}

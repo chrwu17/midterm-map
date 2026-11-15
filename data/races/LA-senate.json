@@ -1,0 +1,105 @@
+{
+  "id": "LA-senate",
+  "state": "LA",
+  "stateName": "Louisiana",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "julia-letlow",
+  "summary": "Republican Sen. Bill Cassidy lost the May primary, so no incumbent was on the November ballot. Julia Letlow (Republican) defeated Jamie Davis (Democrat).",
+  "candidates": [
+    {
+      "id": "julia-letlow",
+      "name": "Julia Letlow",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 50.88,
+      "bio": "Julia Letlow is the Republican U.S. Representative for Louisiana's 5th District, first elected in a 2021 special election after the death of her husband, Luke Letlow. She has degrees from the University of Louisiana Monroe and a doctorate in communication from the University of South Florida, and previously worked as a university educator. She serves on the House Appropriations and Education and Workforce committees.",
+      "website": "https://www.julialetlow.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she will make the Trump tax cuts permanent, along with no tax on tips and overtime, reduce government spending that fuels inflation, and cut federal regulations that increase energy costs.",
+          "source": "https://www.julialetlow.com/policyplan"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she will lower healthcare and prescription drug costs and shift federal health policy toward prevention and wellness.",
+          "source": "https://www.julialetlow.com/policyplan"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says she will finish the border wall, deport criminals who are in the country illegally, defund sanctuary cities, and require E-Verify nationwide.",
+          "source": "https://www.julialetlow.com/policyplan"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she will pass a national Parents' Bill of Rights and expand school choice.",
+          "source": "https://www.julialetlow.com/policyplan"
+        }
+      ],
+      "sources": [
+        "https://wrno.iheart.com/content/2026-01-20-congresswoman-letlow-launches-us-senate-primary-challenge/",
+        "https://lailluminator.com/2026/06/27/letlow-senate-4/",
+        "https://www.julialetlow.com/letlow-about"
+      ]
+    },
+    {
+      "id": "jamie-davis",
+      "name": "Jamie Davis",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 49.12,
+      "bio": "Jamie Davis is a Democrat and crop farmer from northeast Louisiana who previously served on the Tensas Parish Police Jury. He won the Democratic nomination in a June 27, 2026 runoff.",
+      "website": "https://jamieforlouisiana.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he wants to lower living costs by addressing tariffs, the 2025 budget law and the war in Iran.",
+          "source": "https://www.wwno.org/2026-10-19/nov-3-election-guide-meet-the-u-s-senate-candidates"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would defend Medicaid, strengthen rural hospitals, and lower prescription drug costs.",
+          "source": "https://www.wwno.org/2026-10-19/nov-3-election-guide-meet-the-u-s-senate-candidates"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says Dreamers should be protected and supports a meaningful pathway to citizenship.",
+          "source": "https://www.wwno.org/2026-10-19/nov-3-election-guide-meet-the-u-s-senate-candidates"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he wants to invest in education and workforce development, and wants higher federal minimum wages.",
+          "source": "https://www.wwno.org/2026-10-19/nov-3-election-guide-meet-the-u-s-senate-candidates"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he opposes carbon capture pipelines that use eminent domain and wants Congress to fully fund Louisiana's Coastal Master Plan.",
+          "source": "https://www.wwno.org/2026-10-19/nov-3-election-guide-meet-the-u-s-senate-candidates"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says a woman should have the right to make decisions about her body with her doctor.",
+          "source": "https://www.wwno.org/2026-10-19/nov-3-election-guide-meet-the-u-s-senate-candidates"
+        }
+      ],
+      "sources": [
+        "https://www.wafb.com/2026/06/28/jamie-davis-wins-democratic-nomination-us-senate/",
+        "https://ballotpedia.org/Jamie_Davis_(Louisiana)",
+        "https://www.wafb.com/2026/06/24/farmers-longshot-jamie-daviss-bid-us-senate/"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Louisiana",
+    "https://www.wafb.com/2026/11/04/julia-letlow-projected-win-louisiana-senate-race/",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by wafb.com report. Cassidy lost the May primary; Letlow beat Davis by a narrow margin."
+}

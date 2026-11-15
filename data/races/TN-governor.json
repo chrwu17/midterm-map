@@ -1,0 +1,281 @@
+{
+  "id": "TN-governor",
+  "state": "TN",
+  "stateName": "Tennessee",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "marsha-blackburn",
+  "summary": "Gov. Bill Lee was term-limited, so the seat was open. Marsha Blackburn (Republican) defeated Jerri Green (Democrat) and David Hatley (independent).",
+  "candidates": [
+    {
+      "id": "marsha-blackburn",
+      "name": "Marsha Blackburn",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 45.52,
+      "bio": "Marsha Blackburn is a U.S. senator from Tennessee, in office since 2019, and previously represented Tennessee's 7th District in the U.S. House from 2003 to 2019. She was the Republican nominee for governor in 2026.",
+      "website": "https://marshablackburn.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she will continue low-tax, pro-growth policies as governor and points to her record of leading the fight against a state income tax.",
+          "source": "https://marshablackburn.com/issue/cutting-taxes-to-bolster-our-economy/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says she backs President Trump's immigration policy, would prevent sanctuary cities in Tennessee, and would have state government work with federal authorities on mass deportations.",
+          "source": "https://marshablackburn.com/issue/stopping-the-scourge-of-illegal-immigration/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says Tennessee colleges and universities must follow President Trump's executive orders barring federal funding for DEI programs, and that she will fight to increase vocational education.",
+          "source": "https://marshablackburn.com/issue/improving-higher-education-and-vocational-training/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Describes herself as \"100 percent pro-life\" and says she has supported legislation to end federal funding of abortion.",
+          "source": "https://marshablackburn.com/issue/defending-the-innocent-right-to-life/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Marsha_Blackburn"
+      ]
+    },
+    {
+      "id": "jerri-green",
+      "name": "Jerri Green",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 42.95,
+      "bio": "Jerri Green is a member of the Memphis City Council. She was the Democratic nominee for Tennessee governor in 2026.",
+      "website": "https://greenforgovernor.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she would eliminate the state grocery tax, shift more of the tax burden onto corporations, and expand paid family and medical leave.",
+          "source": "https://greenforgovernor.com/policy/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she would expand Medicaid to cover more working families, protect TennCare, and lower prescription drug costs.",
+          "source": "https://greenforgovernor.com/policy/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says she would bar ICE from state buildings, end state and local law enforcement cooperation with immigration agents, and fund legal representation for immigrants facing deportation.",
+          "source": "https://greenforgovernor.com/policy/"
+        },
+        {
+          "issue": "education",
+          "summary": "Opposes Tennessee's school voucher program and says she would fully fund K-12 public schools and raise teacher pay.",
+          "source": "https://greenforgovernor.com/policy/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she would enforce clean air and water standards and invest in renewable energy and green jobs.",
+          "source": "https://greenforgovernor.com/policy/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says she would repeal Tennessee's near-total abortion ban and restore access to reproductive health care.",
+          "source": "https://greenforgovernor.com/policy/"
+        }
+      ],
+      "sources": [
+        "https://www.wknofm.org/behind-the-headlines-0/2026-08-13/bth-democrat-jerri-green-on-her-campaign-for-governor"
+      ]
+    },
+    {
+      "id": "david-hatley",
+      "name": "David Hatley",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 9.3,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "lauren-pinkston",
+      "name": "Lauren Pinkston",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.25,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "dean-brewer",
+      "name": "Dean Brewer",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.19,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "ray-brown",
+      "name": "Ray Brown",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.14,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "wendell-jackson",
+      "name": "Wendell Jackson",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.11,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "eddie-lee-murphy",
+      "name": "Eddie Lee Murphy",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.11,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "robert-c-vick",
+      "name": "Robert C. Vick",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.11,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "misam-abidi",
+      "name": "Misam Abidi",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.1,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "charles-van-morgan",
+      "name": "Charles Van Morgan",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.06,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "l-webb-taylor",
+      "name": "L. Webb Taylor",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.05,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "dave-seeman",
+      "name": "Dave Seeman",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.04,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "victor-l-scoggin",
+      "name": "Victor L. Scoggin",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.04,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "karl-knox-smithson",
+      "name": "Karl Knox Smithson",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.02,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.wkrn.com/news/tennessee-politics/tn-governors-race-election-results-nov-3-2026/amp/",
+    "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that results were unofficial."
+}

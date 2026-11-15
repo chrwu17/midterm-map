@@ -1,0 +1,113 @@
+{
+  "id": "AR-governor",
+  "state": "AR",
+  "stateName": "Arkansas",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "sarah-huckabee-sanders",
+  "summary": "The sitting governor ran again: Sarah Huckabee Sanders (Republican) won a second term over Fred Love (Democrat) and Colt Shelby (Libertarian).",
+  "candidates": [
+    {
+      "id": "sarah-huckabee-sanders",
+      "name": "Sarah Huckabee Sanders",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 53.8,
+      "bio": "Sarah Huckabee Sanders is a Republican who has been governor of Arkansas since January 2023, the first woman to hold the office. She was White House press secretary in the first Trump administration from 2017 to 2019. Her first term included the LEARNS Act education law and state income tax cuts.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Said in April 2026 that Arkansas has cut its state income tax by 20% over the last three years.",
+          "source": "https://ontheissues.org/Sarah_Huckabee_Sanders.htm"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Said in January 2025 she would 'slap enhanced penalties on violent illegal immigrants' and in 2021 pledged to defund sanctuary cities.",
+          "source": "https://ontheissues.org/Sarah_Huckabee_Sanders.htm"
+        },
+        {
+          "issue": "education",
+          "summary": "Her 2023 LEARNS Act created education freedom accounts that give families $7,208 this year for private school and homeschool expenses.",
+          "source": "https://arkadelphian.com/2026/07/23/governor-has-money-opponents-had-debate/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Said in 2020 she would fight what she calls 'radical environmental policies like Green New Deal' and in 2023 sued the EPA over what she called 'out-of-control federal overreach'.",
+          "source": "https://ontheissues.org/Sarah_Huckabee_Sanders.htm"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Said in 2021 that she would not support exceptions for rape or incest.",
+          "source": "https://ontheissues.org/Sarah_Huckabee_Sanders.htm"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sarah_Huckabee_Sanders",
+        "https://governor.arkansas.gov/",
+        "https://www.ky3.com/2026/11/04/arkansas-gov-sarah-huckabee-sanders-wins-second-term-defeating-democrat-fred-love/",
+        "https://ontheissues.org/Sarah_Huckabee_Sanders.htm"
+      ]
+    },
+    {
+      "id": "fred-love",
+      "name": "Fred Love",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 38.6,
+      "bio": "Fred Love is a Democrat who has represented Arkansas's 15th district in the state Senate since 2023. He served in the Arkansas House of Representatives from 2011 to 2023, including as minority leader from 2019 to 2021.",
+      "website": "https://www.fredlove.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would invest in infrastructure, workforce training and small businesses and create regional economic hubs.",
+          "source": "https://www.fredlove.com/issues"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would protect Medicaid, expand maternal and mental health services and use telehealth in rural areas.",
+          "source": "https://www.fredlove.com/issues"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Said in January 2026 that 'due process applies even to illegal immigrants'.",
+          "source": "https://ontheissues.org/Fredrick_Love.htm"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he will ensure every student reads on grade level and support teachers with fair pay and resources.",
+          "source": "https://www.fredlove.com/issues"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fredrick_Love",
+        "https://www.fredlove.com",
+        "https://www.fredlove.com/issues"
+      ]
+    },
+    {
+      "id": "colt-shelby",
+      "name": "Colt Shelby",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 7.5,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://www.ky3.com/2026/11/04/arkansas-gov-sarah-huckabee-sanders-wins-second-term-defeating-democrat-fred-love/",
+    "https://www.pollcheck.com/midterms-2026/governor/arkansas",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that vote shares were from a partial count (about 90%)."
+}

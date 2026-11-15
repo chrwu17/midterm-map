@@ -1,0 +1,133 @@
+{
+  "id": "OK-governor",
+  "state": "OK",
+  "stateName": "Oklahoma",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "mike-mazzei",
+  "summary": "Gov. Kevin Stitt (Republican) was term-limited, so the seat was open. Mike Mazzei (Republican) won, defeating Cyndi Munson (Democrat) and three independents.",
+  "candidates": [
+    {
+      "id": "mike-mazzei",
+      "name": "Mike Mazzei",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 51.92,
+      "bio": "Mike Mazzei is a financial planner who served in the Oklahoma Senate from 2004 to 2016 and as Gov. Kevin Stitt's secretary of budget. He won the 2026 Republican nomination for governor in a runoff.",
+      "website": "https://mikeforok.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would make Oklahoma a no-income-tax state and eliminate property tax for seniors and veterans.",
+          "source": "https://mikeforok.com/the-plan/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would prioritize third-grade reading proficiency, more parental transparency, and teacher pay that is \"tops in the region.\"",
+          "source": "https://mikeforok.com/the-plan/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would end special tax breaks for green energy and stop the Land Office from selling state land for green energy projects.",
+          "source": "https://mikeforok.com/the-plan/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "His campaign says he \"opposes abortion in all circumstances.\"",
+          "source": "https://www.news9.com/oklahoma-elections/oklahoma-governor-candidates-abortion-munson-mazzei"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mike_Mazzei",
+        "https://ballotpedia.org/Mike_Mazzei"
+      ]
+    },
+    {
+      "id": "cyndi-munson",
+      "name": "Cyndi Munson",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 45.92,
+      "bio": "Cyndi Munson is a member of the Oklahoma House of Representatives and its Democratic minority leader. She won the 2026 Democratic nomination for governor.",
+      "website": "https://www.cyndimunson.com/",
+      "positions": [
+        {
+          "issue": "education",
+          "summary": "Says funding public education is her top priority.",
+          "source": "https://www.news9.com/oklahoma-elections/cyndi-munson-priorities-governor-oklahoma"
+        },
+        {
+          "issue": "economy",
+          "summary": "Opposes across-the-board income tax cuts, says she would offer tax relief, and plans to work with the legislature to raise the state minimum wage.",
+          "source": "https://www.news9.com/oklahoma-elections/cyndi-munson-priorities-governor-oklahoma"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she would protect Medicaid expansion and help small rural hospitals receive federal rural health funding.",
+          "source": "https://www.news9.com/oklahoma-elections/cyndi-munson-priorities-governor-oklahoma"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says she will support a state question to overturn Oklahoma's abortion ban.",
+          "source": "https://www.news9.com/oklahoma-elections/oklahoma-governor-candidates-abortion-munson-mazzei"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she would pause new data center projects by executive order and opposes the proposed Inola smelter over environmental concerns.",
+          "source": "https://www.news9.com/oklahoma-elections/cyndi-munson-priorities-governor-oklahoma"
+        }
+      ],
+      "sources": [
+        "https://www.news9.com/oklahoma-city-news/q-a-democratic-gubernatorial-nominee-cyndi-munson-says-oklahomans-are-ready-for-change"
+      ]
+    },
+    {
+      "id": "robert-e-brooks-sr",
+      "name": "Robert E. Brooks Sr.",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.04,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "jerry-griffin",
+      "name": "Jerry Griffin",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.66,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "orlando-lynn-bush",
+      "name": "Orlando Lynn Bush",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.45,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://www.news9.com/oklahoma-politics/oklahoma-election-mazzei-narrow-victory-voter-turnout",
+    "https://en.wikipedia.org/wiki/2026_Oklahoma_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Summary note moved: results were unofficial."
+}

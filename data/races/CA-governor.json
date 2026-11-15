@@ -1,0 +1,99 @@
+{
+  "id": "CA-governor",
+  "state": "CA",
+  "stateName": "California",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "xavier-becerra",
+  "summary": "This was an open seat because Democratic Gov. Gavin Newsom was term-limited. Xavier Becerra (Democrat) defeated Steve Hilton (Republican) in the top-two general election.",
+  "candidates": [
+    {
+      "id": "xavier-becerra",
+      "name": "Xavier Becerra",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 65.6,
+      "bio": "Xavier Becerra is a Democrat who served as U.S. Secretary of Health and Human Services from 2021 to 2025 and as California attorney general from 2017 to 2021. Before that he represented Los Angeles-area California districts in the U.S. House of Representatives from 1993 to 2017.",
+      "website": "https://www.xavierbecerra2026.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would declare a state emergency to freeze utility and insurance rates and crack down on price gouging.",
+          "source": "https://calmatters.org/california-voter-guide-2026/governor/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would expand state coverage to as many residents as possible and cut insurers' administrative spending.",
+          "source": "https://calmatters.org/california-voter-guide-2026/governor/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Supports California's sanctuary law.",
+          "source": "https://calmatters.org/california-voter-guide-2026/governor/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he supports the state's clean energy goals but would revise them if they make energy unaffordable, including the 2035 ban on new gas car sales.",
+          "source": "https://calmatters.org/california-voter-guide-2026/governor/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Xavier_Becerra",
+        "https://calmatters.org/california-voter-guide-2026/governor/"
+      ]
+    },
+    {
+      "id": "steve-hilton",
+      "name": "Steve Hilton",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 34.4,
+      "bio": "Steve Hilton is a Republican who hosted the Fox News show The Next Revolution from 2017 to 2023 and remains a Fox contributor. He was director of strategy for British Prime Minister David Cameron from 2010 to 2012.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would deregulate businesses, eliminate the state income tax on the first $150,000 of earnings and halve the gas tax.",
+          "source": "https://calmatters.org/california-voter-guide-2026/governor/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would end state-provided Medi-Cal coverage for undocumented immigrants and redirect the money.",
+          "source": "https://calmatters.org/california-voter-guide-2026/governor/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he wants to overturn the sanctuary law that limits police cooperation with ICE.",
+          "source": "https://calmatters.org/california-voter-guide-2026/governor/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would require third graders not reading at grade level to be held back, make it easier to fire teachers and use public funds for private school options in underperforming districts.",
+          "source": "https://calmatters.org/california-voter-guide-2026/governor/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would roll back clean energy mandates, end solar and wind purchase requirements and expand natural gas production.",
+          "source": "https://calmatters.org/california-voter-guide-2026/governor/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Steve_Hilton",
+        "https://calmatters.org/california-voter-guide-2026/governor/"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.ktvu.com/news/xavier-becerra-will-be-californias-next-governor",
+    "https://ballotpedia.org/California_gubernatorial_election,_2026",
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted Becerra's share was 59.3% in the AP election-night count, and Hilton's final share was not confirmed. Vote shares: both figures now come from the same count (Wikipedia results table at about 96% counted on Nov 14: Becerra 65.6, Hilton 34.4; pollcheck.com showed the same Becerra figure). The earlier 59.3 was AP's election-night partial count and did not pair with Hilton's later figure."
+}

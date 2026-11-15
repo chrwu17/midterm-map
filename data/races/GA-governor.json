@@ -1,0 +1,103 @@
+{
+  "id": "GA-governor",
+  "state": "GA",
+  "stateName": "Georgia",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "keisha-lance-bottoms",
+  "summary": "This was an open seat because Republican Gov. Brian Kemp was term-limited. Democrat Keisha Lance Bottoms won, defeating Republican Rick Jackson.",
+  "candidates": [
+    {
+      "id": "keisha-lance-bottoms",
+      "name": "Keisha Lance Bottoms",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 54.3,
+      "bio": "Keisha Lance Bottoms is a Democrat who became mayor of Atlanta in January 2018 and previously served as a judge and city councilmember. She later served as a senior adviser to President Joe Biden, leading the White House Office of Public Engagement.",
+      "website": "https://www.keishaforgovernor.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she would let local governments eliminate or suspend local sales taxes on groceries and essentials when prices spike, and create an Office of Small Business.",
+          "source": "https://www.keishaforgovernor.com/issues"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she would expand Medicaid and replace the Georgia Pathways program.",
+          "source": "https://www.keishaforgovernor.com/issues"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she would fully fund schools, pursue universal pre-K, and end the state income tax for teachers.",
+          "source": "https://www.keishaforgovernor.com/issues"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she would invest in flood mitigation and water infrastructure and slow down and reassess the expansion of data centers.",
+          "source": "https://www.keishaforgovernor.com/issues"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says she would restore a woman's right to choose.",
+          "source": "https://www.keishaforgovernor.com/issues"
+        }
+      ],
+      "sources": [
+        "https://www.keishaforgovernor.com/bio"
+      ]
+    },
+    {
+      "id": "rick-jackson",
+      "name": "Rick Jackson",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 45.7,
+      "bio": "Rick Jackson is a Republican businessman who founded the healthcare staffing company Jackson Healthcare in 2000. He grew up in foster care and has not held elected office.",
+      "website": "https://rickjackson.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would freeze property taxes and cut the state income tax.",
+          "source": "https://rickjackson.com/about"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he wants Georgia to lead the nation in deporting people who are in the country illegally and have committed crimes, and would have state police work with federal immigration authorities.",
+          "source": "https://www.ajc.com/politics/2026/04/rick-jackson-a-look-at-the-ajcs-coverage/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says third-grade reading proficiency is a central priority, and supports raising teacher pay and expanding vocational training for high schoolers and adults.",
+          "source": "https://www.fox5atlanta.com/news/rick-jackson-georgia-governor-candidate-profile"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he supports Georgia's existing abortion law, including its exceptions for rape, incest and the mother's life.",
+          "source": "https://www.fox5atlanta.com/news/rick-jackson-georgia-governor-candidate-profile"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would lower private insurance costs by reducing administrative expenses, improving price transparency and negotiating prescription drug prices at the state level.",
+          "source": "https://www.fox5atlanta.com/news/rick-jackson-georgia-governor-candidate-profile"
+        }
+      ],
+      "sources": [
+        "https://rickjackson.com/about",
+        "https://en.wikipedia.org/wiki/Rick_Jackson_(businessman)",
+        "https://www.fox5atlanta.com/news/rick-jackson-georgia-governor-candidate-profile"
+      ]
+    }
+  ],
+  "sources": [
+    "https://atlantanewsfirst.com/2026/11/04/keisha-lance-bottoms-makes-history-nations-first-black-female-governor",
+    "https://www.pollcheck.com/midterms-2026/governor/georgia",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

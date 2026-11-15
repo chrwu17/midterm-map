@@ -1,0 +1,110 @@
+{
+  "id": "NH-governor",
+  "state": "NH",
+  "stateName": "New Hampshire",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "kelly-ayotte",
+  "summary": "Gov. Kelly Ayotte (Republican) ran for re-election and won over Cinde Warmington (Democrat).",
+  "candidates": [
+    {
+      "id": "kelly-ayotte",
+      "name": "Kelly Ayotte",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 51.38,
+      "bio": "Kelly Ayotte is a Republican who has been New Hampshire's governor since 2025. She is a former prosecutor and served six years as a U.S. senator.",
+      "website": "https://kellyfornh.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she is holding the line against new taxes: \"no income tax, no sales tax, EVER!\"",
+          "source": "https://kellyfornh.com/accomplishments/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she delivered historic education funding, got cell phones out of classrooms, and expanded childcare scholarships.",
+          "source": "https://kellyfornh.com/accomplishments/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she fought to fund mental health and substance use treatment and protected Medicaid.",
+          "source": "https://kellyfornh.com/accomplishments/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Signed bills barring New Hampshire cities and towns from adopting sanctuary policies.",
+          "source": "https://www.wbur.org/news/2026/11/04/kelly-ayotte-wins-reelection-new-hampshire-gop"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says \"We need more energy in the state\" and supports small modular nuclear reactors.",
+          "source": "https://www.nhpr.org/politics/2026-10-19/kelly-ayotte-energy-housing-data-centers-ice-governor-candidate-nh-election-2026"
+        }
+      ],
+      "sources": [
+        "https://www.nhpr.org/politics/2026-06-11/nh-newhampshire-politics-kelly-ayotte-reelection-governor-2026-election-campaign-legislature",
+        "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "cinde-warmington",
+      "name": "Cinde Warmington",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 47.1,
+      "bio": "Cinde Warmington is a former New Hampshire Executive Councilor (2021-2025) and was a 2024 gubernatorial candidate.",
+      "website": "https://www.cindewarmington.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she would suspend the gas tax.",
+          "source": "https://www.cindewarmington.com/priorities"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she would end the private school voucher program, which she says raises property taxes.",
+          "source": "https://www.cindewarmington.com/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Lists making health care more affordable as a priority and says she will stand up to Trump when he raises health care costs and tariffs.",
+          "source": "https://www.cindewarmington.com/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Opposes the proposed ICE detention facility in Merrimack.",
+          "source": "https://www.cindewarmington.com/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "stephen-villee",
+      "name": "Stephen Villee",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.52,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

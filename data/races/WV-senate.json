@@ -1,0 +1,104 @@
+{
+  "id": "WV-senate",
+  "state": "WV",
+  "stateName": "West Virginia",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "shelley-moore-capito",
+  "summary": "The sitting senator ran again: Shelley Moore Capito (Republican) won re-election over Rachel Fetty Anderson (Democrat) and another candidate.",
+  "candidates": [
+    {
+      "id": "shelley-moore-capito",
+      "name": "Shelley Moore Capito",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 58.33,
+      "bio": "Shelley Moore Capito has been a U.S. senator from West Virginia since 2015 and served in the U.S. House from 2001 to 2015. She chairs the Senate Environment and Public Works Committee and was a member of the West Virginia House of Delegates from 1996 to 2000.",
+      "website": "https://shelleymoorecapito.com",
+      "positions": [
+        {
+          "issue": "abortion",
+          "summary": "Says states should be free to ban abortion, and supports exceptions when the patient's health is at risk and bans after 20 weeks.",
+          "source": "https://en.wikipedia.org/wiki/Shelley_Moore_Capito"
+        },
+        {
+          "issue": "climate",
+          "summary": "Opposes legislation that would cap greenhouse gas emissions, and sponsored the ADVANCE Act to promote nuclear energy.",
+          "source": "https://en.wikipedia.org/wiki/Shelley_Moore_Capito"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Voted to repeal the Affordable Care Act, and in 2017 supported keeping its Medicaid expansion.",
+          "source": "https://en.wikipedia.org/wiki/Shelley_Moore_Capito"
+        },
+        {
+          "issue": "economy",
+          "summary": "Voted for the 2001 Bush tax cuts, Trump's tax cut bill and the 2021 Infrastructure Investment and Jobs Act.",
+          "source": "https://en.wikipedia.org/wiki/Shelley_Moore_Capito"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shelley_Moore_Capito"
+      ]
+    },
+    {
+      "id": "rachel-fetty-anderson",
+      "name": "Rachel Fetty Anderson",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 37.91,
+      "bio": "Rachel Fetty Anderson is a public interest attorney who has practiced since 1999, representing children, families and people on Medicare, Medicaid or Social Security. She served on the Morgantown City Council from 2017 to 2021 and is a licensed foster parent. She was the 2026 Democratic nominee for U.S. Senate in West Virginia.",
+      "website": "https://fettyandersonforsenate.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Supports a higher top tax rate for people earning more than $500,000 a year and workers' right to unionize, and opposes privatizing utilities.",
+          "source": "https://fettyandersonforsenate.com/issues"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says the country must invest in Medicare, Medicaid and Tricare, and wants care based on medical necessity.",
+          "source": "https://fettyandersonforsenate.com/issues"
+        },
+        {
+          "issue": "education",
+          "summary": "Says investing in young people's education is a top priority and wants public schools to focus on fundamental skills and civic and scientific knowledge.",
+          "source": "https://fettyandersonforsenate.com/issues"
+        },
+        {
+          "issue": "climate",
+          "summary": "Supports investing in solar, wind and water power, wants coal plants run as cleanly as possible, and wants polluters held accountable.",
+          "source": "https://fettyandersonforsenate.com/issues"
+        }
+      ],
+      "sources": [
+        "https://fettyandersonforsenate.com/about"
+      ]
+    },
+    {
+      "id": "s-marshall-wilson",
+      "name": "S. Marshall Wilson",
+      "party": "Other",
+      "partyLabel": "Constitution",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 3.76,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

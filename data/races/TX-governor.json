@@ -1,0 +1,92 @@
+{
+  "id": "TX-governor",
+  "state": "TX",
+  "stateName": "Texas",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "gina-hinojosa",
+  "summary": "Gov. Greg Abbott (Republican) ran again but lost to Gina Hinojosa (Democrat), and he conceded.",
+  "candidates": [
+    {
+      "id": "gina-hinojosa",
+      "name": "Gina Hinojosa",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 52.82,
+      "bio": "Gina Hinojosa is a member of the Texas House of Representatives from Austin, serving since 2017. She was the Democratic nominee for governor in 2026.",
+      "website": "https://ginafortexas.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Proposes a one-time $1,500 refund for every Texas household, paid from the Rainy Day Fund, and a freeze on home electricity rates until data centers and other large users pay their own costs.",
+          "source": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she would expand Medicaid.",
+          "source": "https://www.ksat.com/news/local/2026/11/05/gina-hinojosas-plans-for-texas-dollar1500-checks-data-centers-and-medicaid/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Criticizes Abbott's border spending, saying billions went to prosecuting immigrants for trespassing and paying for their legal defense.",
+          "source": "https://www.ksat.com/news/local/2026/11/05/gina-hinojosas-plans-for-texas-dollar1500-checks-data-centers-and-medicaid/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she would end the voucher program and the STAAR test and fire Education Commissioner Mike Morath on her first day.",
+          "source": "https://ginafortexas.com/priority/save-texas-public-schools/"
+        }
+      ],
+      "sources": [
+        "https://www.texastribune.org/people/gina-hinojosa"
+      ]
+    },
+    {
+      "id": "greg-abbott",
+      "name": "Greg Abbott",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 45.68,
+      "bio": "Greg Abbott is the governor of Texas, in office since 2015. He previously served as state attorney general from 2002 to 2015 and as a Texas Supreme Court justice.",
+      "website": "https://www.gregabbott.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Proposes a constitutional amendment letting voters eliminate school district property taxes on homesteads and lowering the homestead appraisal cap from 10% to 3%.",
+          "source": "https://www.gregabbott.com/policy/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Proposes capping monthly co-pays for inhalers and epinephrine at $25 and creating a lower-cost Essential Benefits Health Insurance Plan.",
+          "source": "https://www.gregabbott.com/policy/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says illegal immigrants arrested for violent felonies must be denied bail and proposes expanding the DPS repeat offender task force.",
+          "source": "https://www.gregabbott.com/policy/"
+        },
+        {
+          "issue": "education",
+          "summary": "Proposes Student Success Academies for struggling readers and math students, limits on classroom devices, and a requirement that 70% of funding go to classrooms.",
+          "source": "https://www.gregabbott.com/policy/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Greg_Abbott"
+      ]
+    }
+  ],
+  "sources": [
+    "https://fox13news.com/news/texas-governors-race-2026-hinojosa-defeats-abbott-become-states-first-democratic-governor-decades",
+    "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
+    "https://www.wcax.com/2026/11/04/democrats-press-win-majority-governors-offices-midterms-after-power-struggles-with-trump/",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called); also confirmed by wcax.com report Summary originally noted that percentages came from Wikipedia and might update, and that election-night partial counts differed."
+}

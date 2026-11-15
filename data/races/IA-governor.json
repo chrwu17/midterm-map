@@ -1,0 +1,86 @@
+{
+  "id": "IA-governor",
+  "state": "IA",
+  "stateName": "Iowa",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "rob-sand",
+  "summary": "Gov. Kim Reynolds (Republican) did not run again, so the seat was open. Rob Sand (Democrat) won, defeating Zach Lahn (Republican).",
+  "candidates": [
+    {
+      "id": "rob-sand",
+      "name": "Rob Sand",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 55.53,
+      "bio": "Rob Sand is Iowa's state auditor and was first elected in 2022. His running mate was Dave Muhlbauer.",
+      "website": "https://robsand.com/",
+      "positions": [
+        {
+          "issue": "climate",
+          "summary": "Says his cancer plan includes radon testing and water quality monitors, and has described a water quality crisis in Iowa.",
+          "source": "https://www.dakotanewsnow.com/2026/10/24/candidates-iowa-governor-discuss-their-top-priorities-cancer-cost-living/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would reverse Iowa's Medicaid privatization through an executive order.",
+          "source": "https://robsand.com/priorities"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would create universal all-day pre-K, paid for by ending state funding for private school vouchers.",
+          "source": "https://robsand.com/priorities"
+        }
+      ],
+      "sources": [
+        "https://ballotpedia.org/Iowa_gubernatorial_election,_2026"
+      ]
+    },
+    {
+      "id": "zach-lahn",
+      "name": "Zach Lahn",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 44.47,
+      "bio": "Zach Lahn is a businessman who won the Republican nomination in a June 2026 primary, beating U.S. Rep. Randy Feenstra. His running mate was Derek Wulf.",
+      "website": "https://zachlahn.com/",
+      "positions": [
+        {
+          "issue": "immigration",
+          "summary": "Says he would end state benefits for illegal immigrants.",
+          "source": "https://zachlahn.com/issues/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he supports school choice, homeschooling and education savings accounts.",
+          "source": "https://zachlahn.com/issues/"
+        },
+        {
+          "issue": "economy",
+          "summary": "Says he would lower the property tax burden, expand paths to homeownership, and ban hedge funds from buying single-family homes.",
+          "source": "https://zachlahn.com/issues/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Lists protecting life before birth among his Iowa First policies.",
+          "source": "https://zachlahn.com/issues/"
+        }
+      ],
+      "sources": [
+        "https://ballotpedia.org/Iowa_gubernatorial_election,_2026",
+        "https://zachlahn.com/issues/"
+      ]
+    }
+  ],
+  "sources": [
+    "https://ballotpedia.org/Iowa_gubernatorial_election,_2026",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "MD-governor",
+  "state": "MD",
+  "stateName": "Maryland",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "wes-moore",
+  "summary": "Gov. Wes Moore (Democrat) ran for re-election and won over Dan Cox (Republican).",
+  "candidates": [
+    {
+      "id": "wes-moore",
+      "name": "Wes Moore",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 64.9,
+      "bio": "Wes Moore has been governor of Maryland since 2023. He ran with Lt. Gov. Aruna Miller.",
+      "website": "https://wesmoore.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says his administration cut taxes for the middle class and turned a projected $1.5 billion cash shortfall into a $250 million surplus with no new taxes or fees.",
+          "source": "https://wesmoore.com/accomplishments/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says his administration expanded coverage, pursued lower prescription drug costs, and required insurers to cover recommended vaccines.",
+          "source": "https://wesmoore.com/accomplishments/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says his administration has provided record public school funding four years in a row, including $10.2 billion for K-12 this year.",
+          "source": "https://wesmoore.com/accomplishments/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Backs the Utility RELIEF Act to lower energy bills through grid modernization and local clean energy, with data centers paying their share of energy costs.",
+          "source": "https://governor.maryland.gov/priorities/session-results"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "dan-cox",
+      "name": "Dan Cox",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 30.9,
+      "bio": "Dan Cox is a Republican attorney and small-business owner who is a former Maryland state delegate and former town council member. He was the Republican nominee for governor in 2022 and lost to Wes Moore. He won the Republican primary again on June 23, 2026.",
+      "website": "https://dancoxforgovernor.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would cut the corporate and income tax rate to 4.9% and reverse recent fees.",
+          "source": "https://dancoxforgovernor.com/issues/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would prioritize full funding for schools and resources for teachers.",
+          "source": "https://dancoxforgovernor.com/issues/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would immediately bring power plants back online, pursue clean energy methods such as small modular reactors (SMRs) and liquefied natural gas (LNG), and preserve farmland and a clean Bay.",
+          "source": "https://dancoxforgovernor.com/issues/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he wants to secure the border to combat fentanyl trafficking.",
+          "source": "https://dancoxforgovernor.com/"
+        }
+      ],
+      "sources": [
+        "https://marylandmatters.org/2026/02/01/cox-files-to-make-second-bid-for-governor-adding-to-already-crowded-gop-field/",
+        "https://www.fox5dc.com/election/dan-cox-wins-maryland-republican-governor-primary-ap-projects",
+        "https://dancoxforgovernor.com/about-dan-cox/",
+        "https://dancoxforgovernor.com/issues/"
+      ]
+    },
+    {
+      "id": "andy-ellis",
+      "name": "Andy Ellis",
+      "party": "Green",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 2.15,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "cathy-white",
+      "name": "Cathy White",
+      "party": "Other",
+      "partyLabel": "Working Class",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.94,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that figures were from a partial count (94%) and might change."
+}

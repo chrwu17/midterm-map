@@ -1,0 +1,109 @@
+{
+  "id": "NM-senate",
+  "state": "NM",
+  "stateName": "New Mexico",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "ben-ray-lujan",
+  "summary": "Incumbent Democratic Sen. Ben Ray Luján ran for reelection and won, defeating Republican Larry Marker.",
+  "candidates": [
+    {
+      "id": "ben-ray-lujan",
+      "name": "Ben Ray Luján",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 63.26,
+      "bio": "Ben Ray Luján is the Democratic U.S. Senator from New Mexico and the top Democrat on the Senate Subcommittee on Telecommunications and Media. He won the 2026 Democratic primary over Matt Dodson.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Opposes Trump's tariffs, saying he has not met a New Mexico small business owner who has seen an upside and that the tariffs make it harder for local growers to sell.",
+          "source": "https://www.pbs.org/video/new-mexico-us-senate-forum-ivfesx/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says Republicans eliminated federal Medicaid dollars, warns of rural clinic closures, and wants those dollars restored and prescription drug prices lowered.",
+          "source": "https://www.pbs.org/video/new-mexico-us-senate-forum-ivfesx/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says the immigration system is broken and has advocated for protections for DACA recipients, TPS holders and farm workers.",
+          "source": "https://www.lujan.senate.gov/about/issues/immigration/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says expanding early childhood education is a top priority and that Congress should invest in public schools.",
+          "source": "https://www.lujan.senate.gov/about/issues/education/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Had bipartisan legislation signed into law to plug documented abandoned and orphaned oil and gas wells, and his Senate site calls him a longtime champion of climate action.",
+          "source": "https://www.lujan.senate.gov/about/issues/environment/"
+        }
+      ],
+      "sources": [
+        "https://sourcenm.com/2026/09/11/new-mexico-election-2026-us-senator/",
+        "https://www.abqjournal.com/news/lujan-wins-second-term-in-us-senate/3154396",
+        "https://www.pbs.org/video/new-mexico-us-senate-forum-ivfesx/",
+        "https://www.lujan.senate.gov/about/issues/immigration/",
+        "https://www.lujan.senate.gov/about/issues/education/",
+        "https://www.lujan.senate.gov/about/issues/environment/"
+      ]
+    },
+    {
+      "id": "larry-marker",
+      "name": "Larry Marker",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 36.74,
+      "bio": "Larry Marker is a Republican and self-employed oil and gas businessperson. He previously ran unsuccessfully for state land commissioner and state senate.",
+      "website": "https://larrymarker.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he supports using tariffs strategically as leverage against countries like China, and says he wants to cut taxes and red tape for small businesses.",
+          "source": "https://www.abqjournal.com/election/us-senate-larry-marker-r/3128990"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Calls the health care situation a mess, views Medicaid as largely a state responsibility, and wants an economy where health care costs are not out of reach.",
+          "source": "https://www.pbs.org/video/new-mexico-us-senate-forum-ivfesx/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he would tie Department of Homeland Security funding to performance metrics for verifiable, 100% border surveillance and interdiction, using the federal spending process.",
+          "source": "https://www.ballotready.org/people/larry-e-marker"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would limit federal involvement in education to distributing funds and largely dissolve the state Public Education Department in favor of local school boards.",
+          "source": "https://www.pbs.org/video/new-mexico-us-senate-forum-ivfesx/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Describes an all-of-the-above energy strategy that defends oil and gas, wants New Mexico to lead in hydrogen and nuclear innovation, and says he would stop federal overreach and permitting delays.",
+          "source": "https://larrymarker.com"
+        }
+      ],
+      "sources": [
+        "https://sourcenm.com/2026/09/11/new-mexico-election-2026-us-senator/",
+        "https://www.abqjournal.com/election/us-senate-larry-marker-r/3128990",
+        "https://www.pbs.org/video/new-mexico-us-senate-forum-ivfesx/",
+        "https://www.ballotready.org/people/larry-e-marker",
+        "https://larrymarker.com"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

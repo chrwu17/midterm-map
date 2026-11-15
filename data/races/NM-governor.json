@@ -1,0 +1,90 @@
+{
+  "id": "NM-governor",
+  "state": "NM",
+  "stateName": "New Mexico",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "deb-haaland",
+  "summary": "Democratic Gov. Michelle Lujan Grisham was term-limited, so the seat was open. Deb Haaland (Democrat) defeated Gregg Hull (Republican).",
+  "candidates": [
+    {
+      "id": "deb-haaland",
+      "name": "Deb Haaland",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 57.2,
+      "bio": "Deb Haaland was U.S. Secretary of the Interior from 2021 to 2025 and earlier represented New Mexico's 1st district in the U.S. House.",
+      "website": "https://debhaaland.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she would raise the minimum wage and child tax credit, ban landlords from using AI algorithms to set rents, and speed up permits to build more housing.",
+          "source": "https://debhaaland.com/debsplans/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she would address the doctor shortage, protect rural hospitals, ban medical debt from credit reports, and expand the Health Care Affordability Fund.",
+          "source": "https://debhaaland.com/debsplans/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she would expand the Opportunity Scholarship to provide free tuition, including for graduate education, and expand community schools.",
+          "source": "https://debhaaland.com/debsplans/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she would invest in more renewable energy to create jobs, lower energy costs, and make New Mexico the energy capital of the country.",
+          "source": "https://debhaaland.com/debsplans/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "gregg-hull",
+      "name": "Gregg Hull",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 42.8,
+      "bio": "Gregg Hull was mayor of Rio Rancho from 2014 to 2026.",
+      "website": "https://gregghull.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would use targeted incentives to diversify the economy in areas like aerospace and advanced manufacturing, and reform occupational licensing.",
+          "source": "https://gregghull.com/priorities/putting-new-mexico-to-work-plan/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would tie part of school funding to gains in literacy, math and graduation rates and expand school choice and charter schools.",
+          "source": "https://gregghull.com/priorities/education/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would protect rural health systems, reform medical malpractice laws, and lower prescription drug costs.",
+          "source": "https://gregghull.com/priorities/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would expand the state's energy portfolio \"to include all sources\" while \"unleashing our oil and gas operations.\"",
+          "source": "https://gregghull.com/priorities/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that figures reflected about 95% counted."
+}

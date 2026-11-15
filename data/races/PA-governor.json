@@ -1,0 +1,96 @@
+{
+  "id": "PA-governor",
+  "state": "PA",
+  "stateName": "Pennsylvania",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "josh-shapiro",
+  "summary": "Pennsylvania's sitting governor, Josh Shapiro (Democrat), ran again and won a second term, defeating Stacy Garrity (Republican). The AP called the race on election night.",
+  "candidates": [
+    {
+      "id": "josh-shapiro",
+      "name": "Josh Shapiro",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 60.53,
+      "bio": "Josh Shapiro is the governor of Pennsylvania, in office since January 2023. He previously served as state attorney general from 2017 to 2023 and as a Montgomery County commissioner.",
+      "website": "https://joshshapiro.org",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Lists raising the minimum wage as one of his second-term priorities and has proposed a 52% tax on skill game machines.",
+          "source": "https://www.fox29.com/news/josh-shapiros-second-term-push-pa-governor-key-issues-background-polling"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says the 2025 federal tax and spending bill would hurt rural hospitals and Medicaid recipients.",
+          "source": "https://ontheissues.org/Archive/2026_PA_Gov_Health_Care.htm"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he has increased public education funding and his 2026-27 budget proposes $565 million in adequacy funding for schools.",
+          "source": "https://www.pa.gov/governor/pennsylvania-s-budget"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says data center developers must pay the full cost of the power they need, meet strict environmental standards, and get local approval before the state reviews their permits.",
+          "source": "https://www.pa.gov/governor/topics/data-centers"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says reproductive health care decisions should be made \"between patients and doctors, not politicians.\"",
+          "source": "https://www.pa.gov/freedom-to-choose"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Josh_Shapiro"
+      ]
+    },
+    {
+      "id": "stacy-garrity",
+      "name": "Stacy Garrity",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 38.17,
+      "bio": "Stacy Garrity is the Pennsylvania state treasurer, in office since 2022, and a retired U.S. Army Reserve colonel. She was the Republican nominee for governor in 2026.",
+      "website": "https://garrityforpa.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she would cut utility bills by 15% to 25% and cut the property tax burden by one-third within two years.",
+          "source": "https://garrityforpa.com/turnaroundpa/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she would lift the ban on new drilling sites on day one and reform or pause renewable energy and efficiency mandates.",
+          "source": "https://garrityforpa.com/turnaroundpa/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she would pass Lifeline Scholarships, opt in to the federal scholarship tax credit program, and put parents in control of their children's education.",
+          "source": "https://garrityforpa.com/turnaroundpa/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Defended the 2025 federal tax and spending bill, saying it requires able-bodied recipients to work for benefits and ends benefits for people in the country illegally.",
+          "source": "https://ontheissues.org/Archive/2026_PA_Gov_Health_Care.htm"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Stacy_Garrity"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.spotlightpa.org/news/2026/11/election-results-pennsylvania-governor-josh-shapiro-stacy-garrity-elections/",
+    "https://en.wikipedia.org/wiki/2026_Pennsylvania_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

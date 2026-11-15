@@ -1,0 +1,81 @@
+{
+  "id": "DE-senate",
+  "state": "DE",
+  "stateName": "Delaware",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "chris-coons",
+  "summary": "Incumbent Democratic Sen. Chris Coons ran for reelection and won, defeating Republican Michael Katz.",
+  "candidates": [
+    {
+      "id": "chris-coons",
+      "name": "Chris Coons",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 63.35,
+      "bio": "Democratic U.S. senator from Delaware since 2010, seeking a third full term. He won the September 15, 2026 Democratic primary with 78% of the vote and serves on the Senate Small Business Committee. His campaign slogan is \"Make Washington More Like Delaware.\"",
+      "website": "https://www.chriscoons.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Sits on the Senate Small Business Committee, has introduced legislation to expand apprenticeships, and says a college degree should not be required for a well-paying job.",
+          "source": "https://www.coons.senate.gov/issues/economic-opportunity/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says every American deserves access to quality, affordable health care.",
+          "source": "https://www.coons.senate.gov/issues/health-care/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Co-led the bipartisan Afghan Adjustment Act and championed the NO BAN Act.",
+          "source": "https://www.coons.senate.gov/issues/judiciary/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he wants Delaware to be a hub of clean energy technology and has secured federal funding for the Mid-Atlantic Clean Hydrogen Hub and coastal resilience projects.",
+          "source": "https://www.coons.senate.gov/issues/energy-and-environment/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Supports the Reproductive Freedom for Women Act, which would put Roe v. Wade's protections into federal law, and the Right to Contraception Act.",
+          "source": "https://www.coons.senate.gov/issues/womens-rights/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
+        "https://www.chriscoons.com/",
+        "https://www.coons.senate.gov/issues",
+        "https://www.coons.senate.gov/issues/economic-opportunity/",
+        "https://www.coons.senate.gov/issues/judiciary/",
+        "https://www.coons.senate.gov/issues/energy-and-environment/",
+        "https://www.coons.senate.gov/issues/womens-rights/"
+      ]
+    },
+    {
+      "id": "michael-katz",
+      "name": "Michael Katz",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 36.3,
+      "bio": "Anesthesiologist and real estate company owner who served one term in the Delaware State Senate, from 2009 to 2013. He was a Democrat until 2023, then led the Delaware Independent Party and was its 2024 U.S. Senate nominee, and joined the Republican Party in 2026. He won the Republican primary with 77.3% of the vote.",
+      "website": "https://www.drmikekatz.com/",
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
+        "https://en.wikipedia.org/wiki/Michael_Katz_(politician)"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

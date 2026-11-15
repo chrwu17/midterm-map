@@ -1,0 +1,150 @@
+{
+  "id": "CO-senate",
+  "state": "CO",
+  "stateName": "Colorado",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "john-hickenlooper",
+  "summary": "The sitting senator ran again. John Hickenlooper (Democrat) won a second term over Mark Baisley (Republican), a state senator, and several minor-party candidates.",
+  "candidates": [
+    {
+      "id": "john-hickenlooper",
+      "name": "John Hickenlooper",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 60.43,
+      "bio": "Democratic U.S. senator from Colorado who trained as a geologist and, after being laid off, opened Colorado's first brewpub in Denver. He was elected mayor of Denver and later served as governor of Colorado, and is running for a second Senate term. He said in 2024 that this would be his last Senate campaign.",
+      "website": "https://hickenlooper.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says that as governor he moved Colorado from 40th in job creation to the number one economy.",
+          "source": "https://hickenlooper.com/about"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he will work to lower health care and prescription drug costs, and cites expanding Medicaid to nearly 400,000 Coloradans as governor.",
+          "source": "https://hickenlooper.com/about"
+        },
+        {
+          "issue": "education",
+          "summary": "Says that as Denver mayor he worked to improve educational opportunities for Denver students.",
+          "source": "https://hickenlooper.com/about"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he will protect public lands while fighting climate change, and cites what he calls pioneering anti-pollution climate measures as governor.",
+          "source": "https://hickenlooper.com/about"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Said in 2019 that he supports access to abortion and would fight restrictive abortion laws passed by Republican-controlled legislatures.",
+          "source": "https://ontheissues.org/Senate/John_Hickenlooper.htm"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
+        "https://hickenlooper.com/about",
+        "https://hickenlooper.com/"
+      ]
+    },
+    {
+      "id": "mark-baisley",
+      "name": "Mark Baisley",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 35.05,
+      "bio": "Republican state senator for Colorado's 4th district since 2023 and a state representative from 2019 to 2023. He is an aerospace engineer by background and president of a software company, and entered the U.S. Senate race in January 2026 after suspending his campaign for governor. He was born in 1955 in Hastings, Minnesota, and earned a degree from Columbia College in Missouri.",
+      "website": "https://baisleyforsenate.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he will fight to cut federal taxes, roll back job-killing regulations and restore American energy dominance.",
+          "source": "https://baisleyforsenate.com/issues/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Writes that about 1.2 million people are legally invited to live in the United States each year and that applicants are vetted to make sure they will assimilate into American culture.",
+          "source": "https://baisleyforsenate.com/issues/"
+        },
+        {
+          "issue": "education",
+          "summary": "Said in March 2026 that schools should \"train kids for real jobs, not woke lectures.\"",
+          "source": "https://ontheissues.org/Senate/Mark_Baisley.htm"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Said in August 2025 he would narrow eligibility for health insurance subsidies.",
+          "source": "https://ontheissues.org/Senate/Mark_Baisley.htm"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
+        "https://baisleyforsenate.com/",
+        "https://en.wikipedia.org/wiki/Mark_Baisley"
+      ]
+    },
+    {
+      "id": "bob-chew",
+      "name": "Bob Chew",
+      "party": "Other",
+      "partyLabel": "Forward",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 2.63,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "blake-huber",
+      "name": "Blake Huber",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.23,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "adam-withrow",
+      "name": "Adam Withrow",
+      "party": "Other",
+      "partyLabel": "Unity",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.5,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "christopher-baum",
+      "name": "Christopher Baum",
+      "party": "Other",
+      "partyLabel": "Approval Voting",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.16,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

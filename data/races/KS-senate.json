@@ -1,0 +1,113 @@
+{
+  "id": "KS-senate",
+  "state": "KS",
+  "stateName": "Kansas",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "adam-hamilton",
+  "summary": "Sen. Roger Marshall (Republican) ran for reelection and lost to Adam Hamilton (Democrat), a pastor. The seat changed parties.",
+  "candidates": [
+    {
+      "id": "adam-hamilton",
+      "name": "Adam Hamilton",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 51.02,
+      "bio": "Hamilton is a fifth-generation Kansan who grew up in Prairie Village and, with his wife LaVon, started the United Methodist Church of the Resurrection in the Kansas City area in 1990. He has served as its senior pastor for 36 years, and the congregation runs food donations, blood drives and a mobile dental clinic for schoolchildren. He won the Democratic primary with 34.6% of the vote.",
+      "website": "https://hamiltonforkansas.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would require congressional approval for new tariffs, ban members of Congress from trading individual stocks, and ban large investors from buying single-family homes.",
+          "source": "https://hamiltonforkansas.com/issues"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would expand Medicare drug price negotiation, reverse Medicaid cuts, restore enhanced ACA subsidies and protect rural hospitals.",
+          "source": "https://hamiltonforkansas.com/issues"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he would reform the H-2A guest-worker program to allow year-round visas and give existing workers a path to legal status.",
+          "source": "https://hamiltonforkansas.com/issues"
+        },
+        {
+          "issue": "climate",
+          "summary": "Lays out an all-of-the-above energy strategy including year-round E15, restored energy production tax credits, and requiring data centers to cover their own electricity costs.",
+          "source": "https://hamiltonforkansas.com/issues"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he would protect a woman's right to choose and codify access to contraception into law.",
+          "source": "https://hamiltonforkansas.com/issues"
+        }
+      ],
+      "sources": [
+        "https://hamiltonforkansas.com/"
+      ]
+    },
+    {
+      "id": "roger-marshall",
+      "name": "Roger Marshall",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 45.96,
+      "bio": "Marshall is a Republican from Great Bend who practiced as an OB/GYN for more than 25 years, delivering over 5,000 babies, and grew his medical practice to more than 300 staff. He holds degrees from Kansas State University and the University of Kansas School of Medicine and served seven years in the Army Reserves. He was elected to the U.S. House in 2016 and the Senate in 2020, and sits on the Agriculture, Finance, HELP and Budget committees.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Supports the second Trump administration's tariff policy, voted for the 2017 Tax Cuts and Jobs Act, and supports farm subsidies including federal crop insurance.",
+          "source": "https://en.wikipedia.org/wiki/Roger_Marshall"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Supports repealing the Affordable Care Act and opposes Medicaid expansion in Kansas.",
+          "source": "https://en.wikipedia.org/wiki/Roger_Marshall"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Wrote in a 2023 Fox News op-ed that he had spoken to Americans paying the price for the Biden administration's border chaos.",
+          "source": "https://www.marshall.senate.gov/newsroom/op-eds/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Praised Trump administration relief for Kansas oil producers and a project to expand refining capacity in El Dorado, in October 2026 press releases.",
+          "source": "https://www.marshall.senate.gov/newsroom/press-releases/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Opposes abortion, including in cases of rape and incest, and has said he supports exceptions to preserve the life of the mother.",
+          "source": "https://en.wikipedia.org/wiki/Roger_Marshall"
+        }
+      ],
+      "sources": [
+        "https://www.marshall.senate.gov/about/",
+        "https://en.wikipedia.org/wiki/Roger_Marshall"
+      ]
+    },
+    {
+      "id": "david-graham",
+      "name": "David Graham",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 3.02,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

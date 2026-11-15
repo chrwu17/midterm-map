@@ -1,0 +1,109 @@
+{
+  "id": "KS-governor",
+  "state": "KS",
+  "stateName": "Kansas",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "cindy-holscher",
+  "summary": "Democrat Laura Kelly could not run again, so Kansas elected a new governor. Democrat Cindy Holscher won, beating Republican Ty Masterson by less than 1 percentage point.",
+  "candidates": [
+    {
+      "id": "cindy-holscher",
+      "name": "Cindy Holscher",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 50.33,
+      "bio": "Cindy Holscher is an Overland Park Democrat who has served in the Kansas Senate since 2021 and was a state representative for four years before that. She worked for many years at Sprint.",
+      "website": "https://www.cindyforkansas.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Supports lowering the residential property assessment rate by 2.5% without a hard cap, which would require a constitutional amendment.",
+          "source": "https://www.hppr.org/2026-10-14/kansas-governor-race-2026-election-candidates-masterson-holscher"
+        },
+        {
+          "issue": "education",
+          "summary": "Says she will push to fully fund special education as specified in Kansas law, which she says would ease the property tax burden on school districts.",
+          "source": "https://www.hppr.org/2026-10-14/kansas-governor-race-2026-election-candidates-masterson-holscher"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she will expand Medicaid and protect rural hospitals.",
+          "source": "https://www.cindyforkansas.com/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says Kansas should stop approving new data centers until guardrails are in place.",
+          "source": "https://www.cindyforkansas.com/issues/putting-a-pause-on-data-centers"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says voters settled the abortion question in 2022 and that she would oppose efforts to restrict reproductive care.",
+          "source": "https://salinapost.com/posts/9f9b260b-5c26-4cd6-a81c-212904371850"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says she supports enforcing immigration laws but wants federal agents held accountable and ICE reformed.",
+          "source": "https://salinapost.com/posts/9f9b260b-5c26-4cd6-a81c-212904371850"
+        }
+      ],
+      "sources": [
+        "https://www.hppr.org/2026-10-14/kansas-governor-race-2026-election-candidates-masterson-holscher"
+      ]
+    },
+    {
+      "id": "ty-masterson",
+      "name": "Ty Masterson",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 49.67,
+      "bio": "Ty Masterson is an Andover Republican who served in the Kansas House from 2005 to 2009 and has been a state senator since, serving as Senate president since 2021. He won the Republican primary with President Trump's endorsement.",
+      "website": "https://www.mastersonforgovernor.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says additional property tax relief is his top issue and supports capping annual growth in assessed property valuation at 3% or less through a constitutional amendment.",
+          "source": "https://www.hppr.org/2026-10-14/kansas-governor-race-2026-election-candidates-masterson-holscher"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says abortion is not a settled issue and that people want fewer abortions.",
+          "source": "https://ontheissues.org/2026_KS_Gov.htm"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he backs stronger border security and deportations.",
+          "source": "https://ontheissues.org/2026_KS_Gov.htm"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he opposes Medicaid expansion for able-bodied adults.",
+          "source": "https://ontheissues.org/2026_KS_Gov.htm"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he wants parents to have a say in their children's education and supports open enrollment.",
+          "source": "https://ontheissues.org/2026_KS_Gov.htm"
+        }
+      ],
+      "sources": [
+        "https://www.hppr.org/2026-10-14/kansas-governor-race-2026-election-candidates-masterson-holscher"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
+    "https://www.kctv5.com/2026/11/10/holscher-says-transition-work-with-gov-kelly-has-begun-kansas-election-audit-continues/",
+    "https://www.kctv5.com/2026/11/06/mail-in-ballots-set-arrive-kansas-governors-race-remains-uncalled/",
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.hppr.org/2026-11-12/kansas-governor-cindy-holschder-election-results-blue-wave-legislature",
+    "https://www.kcur.org/2026-11-12/cindy-holscher-continues-democrats-winning-streak-by-cinching-race-for-governor"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Called as of 2026-11-14. HPPR (KCUR story, page shows published Nov 14, URL dated Nov 12) says Holscher is governor 'according to the Associated Press' after the close-race audit: https://www.hppr.org/2026-11-12/kansas-governor-cindy-holschder-election-results-blue-wave-legislature . KCUR (Nov 12) says Masterson conceded on Thursday: https://www.kcur.org/2026-11-12/cindy-holscher-continues-democrats-winning-streak-by-cinching-race-for-governor . AP page itself not opened."
+}

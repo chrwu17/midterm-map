@@ -1,0 +1,102 @@
+{
+  "id": "SD-senate",
+  "state": "SD",
+  "stateName": "South Dakota",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "mike-rounds",
+  "summary": "South Dakota's sitting senator, Mike Rounds (Republican), ran again and won a third term, defeating independent Brian Bengs. The Democratic nominee withdrew in August.",
+  "candidates": [
+    {
+      "id": "mike-rounds",
+      "name": "Mike Rounds",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 60.5,
+      "bio": "Mike Rounds has been a U.S. senator from South Dakota since 2015 and was seeking a third term. He previously served as governor of South Dakota.",
+      "website": "https://www.rounds.senate.gov",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Describes himself as strongly pro-business and backs lower taxes, a simpler tax code, fewer federal regulations on small businesses and expanded trade.",
+          "source": "https://www.rounds.senate.gov/issues/list/pro-business"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he will advocate for rural health care, VA access for veterans and better Indian Health Services care on reservations.",
+          "source": "https://www.rounds.senate.gov/issues/list/health-care"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Supports legal immigration, stronger border security, enforcement of current law and a merit-based system that limits chain migration.",
+          "source": "https://www.rounds.senate.gov/issues/list/immigration"
+        },
+        {
+          "issue": "education",
+          "summary": "Says education decisions are best made locally and has led legislation to eliminate the U.S. Department of Education.",
+          "source": "https://www.rounds.senate.gov/issues/list/education"
+        },
+        {
+          "issue": "climate",
+          "summary": "Supports an \"all of the above\" energy approach that combines wind, solar and hydropower with other established sources.",
+          "source": "https://www.rounds.senate.gov/issues/list/energy"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Describes himself as pro-life and says he will keep defending the unborn.",
+          "source": "https://www.rounds.senate.gov/issues/list/family-values"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota"
+      ]
+    },
+    {
+      "id": "brian-bengs",
+      "name": "Brian Bengs",
+      "party": "Independent",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 39.5,
+      "bio": "Brian Bengs is a U.S. Navy and Air Force veteran and a former Northern State University political science professor. He was the Democratic nominee for U.S. Senate in 2022 and ran as an independent in 2026.",
+      "website": "https://bengsforsouthdakota.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says the ultra-rich should pay their fair share, taxes should be lower for small businesses and workers, and the budget should be balanced without cutting programs that help regular people.",
+          "source": "https://bengsforsouthdakota.com/policy-positions"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he wants to overhaul a health care system he calls effectively a monopoly, with a five-stage plan to lower costs and improve access.",
+          "source": "https://bengsforsouthdakota.com/policy-positions"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Supports immigration reform with strong border security and increased legal immigration.",
+          "source": "https://bengsforsouthdakota.com/policy-positions"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he supports restrictions on abortion after fetal viability, with exceptions to protect the life or health of the mother.",
+          "source": "https://bengsforsouthdakota.com/policy-positions"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
+        "https://bengsforsouthdakota.com/policy-positions"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

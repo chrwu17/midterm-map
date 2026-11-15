@@ -1,0 +1,94 @@
+{
+  "id": "FL-governor",
+  "state": "FL",
+  "stateName": "Florida",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "byron-donalds",
+  "summary": "This was an open seat because Republican Gov. Ron DeSantis was term-limited. Republican Byron Donalds, a U.S. representative, won, defeating Democrat David Jolly.",
+  "candidates": [
+    {
+      "id": "byron-donalds",
+      "name": "Byron Donalds",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 50.1,
+      "bio": "Byron Donalds is a Republican who has represented Florida's 19th congressional district in the U.S. House since 2021. He served in the Florida House of Representatives from 2016 to 2020 and previously worked in banking and finance in Southwest Florida. He grew up in Brooklyn, New York.",
+      "website": "https://byrondonalds.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would keep property taxes in check, cut permitting red tape, and lower homeowners insurance costs by curbing lawsuit abuse and keeping Citizens Insurance small.",
+          "source": "https://byrondonalds.com/issues/affordability/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says his plan would require posted cash prices for the 50 most common procedures and require insurers to approve common treatments within three days.",
+          "source": "https://byrondonalds.com/issues/healthcare/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he would require E-Verify for all Florida businesses and have state and local police work with federal authorities to deport noncitizens who commit crimes.",
+          "source": "https://byrondonalds.com/issues/law-and-order/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would let education funding follow the student so parents can choose schools, and would provide free tutoring for struggling third graders.",
+          "source": "https://byrondonalds.com/issues/education/"
+        }
+      ],
+      "sources": [
+        "https://donalds.house.gov/about",
+        "https://byrondonalds.com",
+        "https://en.wikipedia.org/wiki/Byron_Donalds"
+      ]
+    },
+    {
+      "id": "david-jolly",
+      "name": "David Jolly",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 48.7,
+      "bio": "David Jolly is a Democrat who represented Florida's 13th congressional district in the U.S. House as a Republican from 2014 to 2017. He left the Republican Party in 2018, registered as a Democrat in 2025, and worked as a lawyer, lobbyist and TV political commentator in between.",
+      "website": "https://davidjolly.com",
+      "positions": [
+        {
+          "issue": "education",
+          "summary": "Has proposed a 10-year education plan that includes a 30% teacher pay increase and changes to the universal school voucher program.",
+          "source": "https://en.wikipedia.org/wiki/David_Jolly"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Describes himself as pro-choice and supports codifying the Roe and Casey framework.",
+          "source": "https://en.wikipedia.org/wiki/David_Jolly"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says Florida should value its immigrant community, rejects linking immigration to crime, and supports a more streamlined path to documented status.",
+          "source": "https://wusf.org/text/the-florida-roundup/2025-06-09/florida-governor-candidate-david-jolly-on-housing-property-taxes-immigration"
+        },
+        {
+          "issue": "economy",
+          "summary": "Proposes a state catastrophe fund to move hurricane risk out of the private insurance market, which he says could cut residential property insurance costs by 60%, and supports major property tax reform that does not repeal Save Our Homes.",
+          "source": "https://wusf.org/text/the-florida-roundup/2025-06-09/florida-governor-candidate-david-jolly-on-housing-property-taxes-immigration"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/David_Jolly",
+        "https://wusf.org/text/the-florida-roundup/2025-06-09/florida-governor-candidate-david-jolly-on-housing-property-taxes-immigration"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.floridatrend.com/articles/2026/11/04/donalds-fends-off-jolly-moody-hangs-us-senate-seat/",
+    "https://floridaphoenix.com/2026/11/03/donalds-defeats-jolly-becoming-floridas-first-black-governor/",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

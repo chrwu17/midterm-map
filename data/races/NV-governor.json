@@ -1,0 +1,116 @@
+{
+  "id": "NV-governor",
+  "state": "NV",
+  "stateName": "Nevada",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "aaron-ford",
+  "summary": "Gov. Joe Lombardo (Republican) ran for re-election and lost to Aaron Ford (Democrat), the state attorney general.",
+  "candidates": [
+    {
+      "id": "aaron-ford",
+      "name": "Aaron Ford",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 51.59,
+      "bio": "Aaron Ford has been Nevada Attorney General since 2019. He is a former state Senate majority leader and former math teacher.",
+      "website": "https://www.fordfornevada.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he would repeal Nevada's right-to-work law, cap how many homes corporate investors can buy each year, and cap security deposits at one month's rent.",
+          "source": "https://www.fordfornevada.com/issues/economic-development"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would cap many prescription drug prices at the Medicare-negotiated rate, protect Medicaid, and relieve medical debt for eligible Nevadans.",
+          "source": "https://www.fordfornevada.com/issues/healthcare"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would raise per-pupil funding to meet or exceed the national average and guarantee school breakfast and lunch to all Nevada children.",
+          "source": "https://www.fordfornevada.com/issues/education"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would stop NV Energy's residential demand charge, prioritize clean energy development, and require data centers to pay for their own energy and grid upgrades.",
+          "source": "https://www.fordfornevada.com/issues/energy"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Supports enshrining abortion rights through 24 weeks in the state constitution.",
+          "source": "https://thenevadaindependent.com/article/from-abortion-to-taxes-where-nevadas-2026-governor-candidates-stand-on-the-issues/"
+        }
+      ],
+      "sources": [
+        "https://thenevadaindependent.com/article/in-bid-for-governor-ford-focuses-on-affordability-slams-lombardo-trump-economy",
+        "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "joe-lombardo",
+      "name": "Joe Lombardo",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 44.03,
+      "bio": "Joe Lombardo is a Republican and a former Clark County sheriff who has been Nevada's governor since 2023. He ran for re-election in 2026.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "education",
+          "summary": "Touts raises for teachers, including charter school teachers, and has pushed to expand school choice.",
+          "source": "https://thenevadaindependent.com/article/joe-lombardo-launches-re-election-bid-for-nevada-governor"
+        },
+        {
+          "issue": "economy",
+          "summary": "Has pledged no new taxes.",
+          "source": "https://thenevadaindependent.com/article/from-abortion-to-taxes-where-nevadas-2026-governor-candidates-stand-on-the-issues/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Asked the White House not to cut Medicaid funding to Nevada.",
+          "source": "https://thenevadaindependent.com/article/joe-lombardo-launches-re-election-bid-for-nevada-governor"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Allowed the Nevada National Guard to help with federal immigration enforcement for a time, in a logistics role.",
+          "source": "https://thenevadaindependent.com/article/joe-lombardo-launches-re-election-bid-for-nevada-governor"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Personally supports a 15-week cutoff but says abortion rights are codified in state law and should be left to voters.",
+          "source": "https://thenevadaindependent.com/article/from-abortion-to-taxes-where-nevadas-2026-governor-candidates-stand-on-the-issues/"
+        }
+      ],
+      "sources": [
+        "https://thenevadaindependent.com/article/joe-lombardo-launches-re-election-bid-for-nevada-governor",
+        "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "danielle-ford",
+      "name": "Danielle Ford",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 2.91,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "MI-senate",
+  "state": "MI",
+  "stateName": "Michigan",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "abdul-el-sayed",
+  "summary": "Democratic Sen. Gary Peters did not seek a third term, so the seat was open. Abdul El-Sayed (Democrat) defeated Mike Rogers (Republican) and other candidates.",
+  "candidates": [
+    {
+      "id": "abdul-el-sayed",
+      "name": "Abdul El-Sayed",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 52.5,
+      "bio": "Abdul El-Sayed is a Democrat and epidemiologist who formerly served as a Wayne County health official and ran for Michigan governor in 2018. He won the 2026 Democratic Senate primary over U.S. Rep. Haley Stevens. His campaign centers on Medicare for All.",
+      "website": "https://abdulforsenate.com",
+      "positions": [
+        {
+          "issue": "healthcare",
+          "summary": "Says he wrote the book on Medicare for All and that it does not have to ban additional private insurance through unions or employers.",
+          "source": "https://abdulforsenate.com/priority/medicare-for-all-the-path-to-a-healthier-america/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says ICE should be abolished, with immigration enforcement under a new structure, a safe and secure border, and a clear pathway to citizenship for people stuck in limbo.",
+          "source": "https://abdulforsenate.com/priority/money-out-of-politics/"
+        },
+        {
+          "issue": "economy",
+          "summary": "Says he will tax capital gains over $1 million as ordinary income, tax billionaire wealth, and close the Social Security payroll tax cap.",
+          "source": "https://abdulforsenate.com/priority/money-in-your-pocket/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he will raise the minimum teacher salary to at least $60,000, fully fund IDEA, and oppose vouchers.",
+          "source": "https://abdulforsenate.com/priority/money-in-your-pocket/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he will create a pathway to 100% renewable energy and codify the EPA's Endangerment Finding into law.",
+          "source": "https://abdulforsenate.com/priority/money-out-of-politics/"
+        }
+      ],
+      "sources": [
+        "https://bridgemi.com/michigan-politics/abdul-el-sayed-under-the-microscope-from-public-health-to-politics/",
+        "https://www.michiganpublic.org/politics-government/2026-08-27/el-sayed-running-for-us-senate-promotes-medicare-for-all-at-ann-arbor-rally",
+        "https://abdulforsenate.com/priority/medicare-for-all-the-path-to-a-healthier-america/"
+      ]
+    },
+    {
+      "id": "mike-rogers",
+      "name": "Mike Rogers",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 45.5,
+      "bio": "Mike Rogers is a Republican who was born and raised in Livingston County, Michigan, served as an Army lieutenant, and worked as an FBI special agent. He represented Michigan in the U.S. House from 2001 to 2015 and chaired the House Intelligence Committee. He lost the 2024 Senate race to Elissa Slotkin by about 19,000 votes.",
+      "website": "https://www.rogersforsenate.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he will focus on bringing manufacturing jobs back home.",
+          "source": "https://www.rogersforsenate.com/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he will require hospitals and insurers to post real prices, expand Trump Rx bulk purchasing for drugs, and require insurers to report denial rates.",
+          "source": "https://www.rogersforsenate.com/healthplan"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he will prioritize education, not indoctrination.",
+          "source": "https://www.rogersforsenate.com/"
+        }
+      ],
+      "sources": [
+        "https://www.michiganpublic.org/politics-government/2026-09-21/republican-mike-rogers-courts-michigan-democrats-and-trump-voters-as-gop-hopes-to-hold-the-senate",
+        "https://www.bridgemi.com/michigan-government/mike-rogers-wants-a-job-in-the-us-senate-whatd-he-do-in-the-house/",
+        "https://www.rogersforsenate.com/meet-mike",
+        "https://www.rogersforsenate.com/"
+      ]
+    },
+    {
+      "id": "lydia-christensen",
+      "name": "Lydia Christensen",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "douglas-p-marsh",
+      "name": "Douglas P. Marsh",
+      "party": "Green",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "tim-long",
+      "name": "Tim Long",
+      "party": "Other",
+      "partyLabel": "U.S. Taxpayers",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "walter-p-kristy",
+      "name": "Walter P. Kristy",
+      "party": "Other",
+      "partyLabel": "Natural Law",
+      "major": false,
+      "incumbent": false,
+      "voteShare": null,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

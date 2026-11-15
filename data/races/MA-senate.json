@@ -1,0 +1,124 @@
+{
+  "id": "MA-senate",
+  "state": "MA",
+  "stateName": "Massachusetts",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "ed-markey",
+  "summary": "Sen. Ed Markey (Democrat) ran for re-election and won over John Deaton (Republican) and other candidates.",
+  "candidates": [
+    {
+      "id": "ed-markey",
+      "name": "Ed Markey",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 63.39,
+      "bio": "Ed Markey is the Democratic U.S. Senator from Massachusetts and previously served in the U.S. House. He won the Democratic primary against Rep. Seth Moulton in 2026.",
+      "website": "https://www.edmarkey.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says his focus is lowering costs, protecting workers and expanding opportunity, and contrasts it with Trump's agenda.",
+          "source": "https://www.edmarkey.com/issues-priorities/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Supports Medicare for All and has criticized the cuts to Medicaid and the Affordable Care Act in the One Big Beautiful Bill Act.",
+          "source": "https://www.wbur.org/news/2026/10/14/senate-markey-deaton-debate-trump-healthcare-energy-massachusetts"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Introduced the ICE Out of Our Faces Act and a bill to end legal immunity for federal law enforcement employees.",
+          "source": "https://www.edmarkey.com/"
+        },
+        {
+          "issue": "education",
+          "summary": "Introduced a Green New Deal bill to rebuild America's school buildings.",
+          "source": "https://www.edmarkey.com/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Is a sponsor of the Green New Deal and says the Trump administration should reverse its cancellations of clean-energy policies, including offshore wind halts.",
+          "source": "https://www.wbur.org/news/2026/10/14/senate-markey-deaton-debate-trump-healthcare-energy-massachusetts"
+        }
+      ],
+      "sources": [
+        "https://ballotpedia.org/Ed_Markey",
+        "https://turnto10.com/politics/markey-moulton-clash-over-leadership-healthcare-ethics-massachusetts-us-senate-debate-stage-democrat-party-office-term-august-3-2026",
+        "https://www.markey.senate.gov/about"
+      ]
+    },
+    {
+      "id": "john-deaton",
+      "name": "John Deaton",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 32.14,
+      "bio": "John Deaton is a Republican attorney and Marine veteran from Massachusetts. He won the 2024 Republican Senate primary and lost that general election to Elizabeth Warren, and launched a 2026 Senate campaign.",
+      "website": "https://www.johndeatonforsenate.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Has called for a temporary suspension of the federal gas tax and for a Clean Hands Act that would ban stock and crypto trading by members of Congress.",
+          "source": "https://www.johndeatonforsenate.com"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would break up vertically integrated insurers and pharmacy benefit managers and require upfront disclosure of drug prices.",
+          "source": "https://www.johndeatonforsenate.com"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says the U.S. should expand legal immigration while keeping zero tolerance for illegal immigration, and rejects abolishing ICE.",
+          "source": "https://www.foxnews.com/politics/massachusetts-senate-candidates-trade-sharp-attacks-fiery-debate-incumbent-markey-skips-event"
+        },
+        {
+          "issue": "climate",
+          "summary": "Favors using more nuclear energy and natural gas, and says Markey's plan has too many costly mandates that raise energy prices.",
+          "source": "https://www.wbur.org/news/2026/10/14/senate-markey-deaton-debate-trump-healthcare-energy-massachusetts"
+        }
+      ],
+      "sources": [
+        "https://www.nbcboston.com/news/politics/john-deaton-discusses-his-new-campaign-for-senate-in-mass/3849438/?amp=1",
+        "https://www.johndeatonforsenate.com/massachusetts-republican-john-deaton-launches-senate-campaign-ed-markey-is-mia",
+        "https://www.johndeatonforsenate.com"
+      ]
+    },
+    {
+      "id": "shiva-ayyadurai",
+      "name": "Shiva Ayyadurai",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 2.3,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "joe-tache",
+      "name": "Joe Tache",
+      "party": "Other",
+      "partyLabel": "Party for Socialism and Liberation",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 2.17,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

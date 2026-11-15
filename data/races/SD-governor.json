@@ -1,0 +1,86 @@
+{
+  "id": "SD-governor",
+  "state": "SD",
+  "stateName": "South Dakota",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "larry-rhoden",
+  "summary": "South Dakota's sitting governor, Larry Rhoden (Republican), who took office in 2025, ran for a full term and won, defeating Dan Ahlers (Democrat).",
+  "candidates": [
+    {
+      "id": "larry-rhoden",
+      "name": "Larry Rhoden",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 63.49,
+      "bio": "Larry Rhoden became governor of South Dakota in January 2025 after Kristi Noem resigned. He previously served as lieutenant governor and in the state legislature, and is a rancher.",
+      "website": "https://governorlarryrhoden.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Signed property tax cuts that his office calls the largest in South Dakota history, paid for partly with reserve funds and a scheduled return of the state sales tax from 4.2% to 4.5%.",
+          "source": "https://www.sdnewswatch.org/larry-rhoden-profile-legislature-sd-governor-primary/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says supporting rural health care is a top priority.",
+          "source": "https://www.dakotanewsnow.com/2026/09/16/inside-race-dan-ahlers-larry-rhoden-talk-key-issues-with-dakota-news-now/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Points to the \"Data Center Bill of Rights\" as putting guardrails on data centers.",
+          "source": "https://www.dakotanewsnow.com/2026/09/16/inside-race-dan-ahlers-larry-rhoden-talk-key-issues-with-dakota-news-now/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Pointed to recent legislation making it a felony to advertise, distribute or sell abortion pills.",
+          "source": "https://www.sdnewswatch.org/sd-gop-sdpb-news-watch-governor-debate-primary-election/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Larry_Rhoden"
+      ]
+    },
+    {
+      "id": "dan-ahlers",
+      "name": "Dan Ahlers",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 36.51,
+      "bio": "Dan Ahlers is a former South Dakota state senator who served as Senate Democratic leader. He was the Democratic nominee for governor in 2026.",
+      "website": "https://www.danahlers.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Opposes a state income tax, saying South Dakota's budget surpluses make one unnecessary, and says cost of living is a top concern.",
+          "source": "https://www.dakotanewsnow.com/2026/09/16/inside-race-dan-ahlers-larry-rhoden-talk-key-issues-with-dakota-news-now/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would keep rural hospitals and long-term care facilities open, address health care workforce shortages and expand mental health services.",
+          "source": "https://www.danahlers.com/about-3"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would recruit and retain teachers, strengthen rural schools, expand early childhood education and childcare access, and create afterschool programs.",
+          "source": "https://www.danahlers.com/about-3"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dan_Ahlers"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.dakotanewsnow.com/2026/11/04/larry-rhoden-elected-south-dakotas-governor/",
+    "https://en.wikipedia.org/wiki/2026_South_Dakota_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

@@ -1,0 +1,215 @@
+{
+  "id": "TN-senate",
+  "state": "TN",
+  "stateName": "Tennessee",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "bill-hagerty",
+  "summary": "The sitting senator ran again: Bill Hagerty (Republican) won a second term over Marquita Bradshaw (Democrat).",
+  "candidates": [
+    {
+      "id": "bill-hagerty",
+      "name": "Bill Hagerty",
+      "party": "Republican",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 55.08,
+      "bio": "Bill Hagerty has been a U.S. senator from Tennessee since 2021. He previously served as U.S. ambassador to Japan.",
+      "website": "https://www.hagerty.senate.gov",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Supported the 2025 reconciliation bill, saying it prevents a tax increase of more than $4 trillion and delivers tax relief.",
+          "source": "https://www.hagerty.senate.gov/press-releases/2025/06/30/icymi-hagerty-joins-balance-of-power-on-bloombergtv-to-discuss-senate-passage-of-one-big-beautiful-bill/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says the Affordable Care Act raised premiums and opposes extending its enhanced subsidies.",
+          "source": "https://www.hagerty.senate.gov/press-releases/2025/12/11/hagerty-slams-democrats-for-continuing-failed-healthcare-policies-making-insurance-unaffordable/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Introduced legislation to end Washington, D.C.'s sanctuary laws and require compliance with ICE detainer requests.",
+          "source": "https://www.hagerty.senate.gov/press-releases/2025/04/30/hagerty-introduces-legislation-to-end-d-c-as-a-sanctuary-city/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he supports expanding school choice.",
+          "source": "https://www.hagerty.senate.gov/press-releases/2026/02/05/hagerty-praises-governor-lees-state-of-the-state-address-on-senate-floor/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Backs nuclear power and says he hopes Tennessee can lead the country in nuclear energy.",
+          "source": "https://www.hagerty.senate.gov/press-releases/2025/05/22/secretary-wright-and-hagerty-agree-nuclear-energy-will-power-the-american-energy-golden-age/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he has a moral duty to protect unborn children and welcomed the 2022 Dobbs ruling for returning abortion decisions to the people and their elected representatives.",
+          "source": "https://www.hagerty.senate.gov/press-releases/2022/06/24/hagerty-statement-on-u-s-supreme-courts-decision-properly-returning-abortion-authority-to-the-american-people/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee",
+        "https://www.hagerty.senate.gov/about/"
+      ]
+    },
+    {
+      "id": "marquita-bradshaw",
+      "name": "Marquita Bradshaw",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 42.91,
+      "bio": "Marquita Bradshaw is a staffing consultant and was the Democratic nominee for this Senate seat in 2020. She does not currently hold office.",
+      "website": "https://marquitabradshaw.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she wants more good-paying jobs, support for small businesses and fair wages.",
+          "source": "https://marquitabradshaw.com/priorities"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she wants affordable care regardless of income or preexisting conditions, including lower prescription drug costs and protecting rural hospitals.",
+          "source": "https://marquitabradshaw.com/priorities"
+        },
+        {
+          "issue": "education",
+          "summary": "Says every teacher deserves competitive pay, strong resources and respect.",
+          "source": "https://marquitabradshaw.com/priorities"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she wants to advance clean energy, reduce pollution and create sustainable jobs.",
+          "source": "https://marquitabradshaw.com/priorities"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee",
+        "https://marquitabradshaw.com/priorities"
+      ]
+    },
+    {
+      "id": "robert-jones",
+      "name": "Robert Jones",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.46,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+      ]
+    },
+    {
+      "id": "tharon-chandler",
+      "name": "Tharon Chandler",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.37,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+      ]
+    },
+    {
+      "id": "andrew-gerena",
+      "name": "Andrew Gerena",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.27,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+      ]
+    },
+    {
+      "id": "catherine-whitson",
+      "name": "Catherine Whitson",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.25,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+      ]
+    },
+    {
+      "id": "jeremy-hearn",
+      "name": "Jeremy Hearn",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.24,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+      ]
+    },
+    {
+      "id": "david-sutman-jr",
+      "name": "David Sutman Jr.",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.15,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+      ]
+    },
+    {
+      "id": "yoshi-matthews",
+      "name": "Yoshi Matthews",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.15,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+      ]
+    },
+    {
+      "id": "james-macon-iii",
+      "name": "James Macon III",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.12,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "SC-governor",
+  "state": "SC",
+  "stateName": "South Carolina",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "alan-wilson",
+  "summary": "Gov. Henry McMaster (Republican) was term-limited, so the seat was open. Alan Wilson (Republican) won, defeating Jermaine Johnson (Democrat), who conceded.",
+  "candidates": [
+    {
+      "id": "alan-wilson",
+      "name": "Alan Wilson",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 51.58,
+      "bio": "Alan Wilson is South Carolina's attorney general, in office since 2011. He won the 2026 Republican nomination for governor in a runoff.",
+      "website": "https://wilsonforsc.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he will fight to eliminate the state income tax and supports exploring cuts to personal property taxes for seniors and veterans.",
+          "source": "https://wilsonforsc.com/priorities/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would support rural clinics, expand telemedicine, and offer incentives for medical professionals to serve underserved areas.",
+          "source": "https://wilsonforsc.com/priorities/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he would deny state benefits to illegal residents and back state and local efforts to help federal immigration enforcement.",
+          "source": "https://wilsonforsc.com/priorities/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he would fully fund public schools and expand school choice.",
+          "source": "https://wilsonforsc.com/priorities/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he is \"firmly pro-life and will always support laws that defend the unborn.\"",
+          "source": "https://wilsonforsc.com/priorities/"
+        }
+      ],
+      "sources": [
+        "https://ballotpedia.org/Alan_Wilson_(South_Carolina)"
+      ]
+    },
+    {
+      "id": "jermaine-johnson",
+      "name": "Jermaine Johnson",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 47.13,
+      "bio": "Jermaine Johnson is a member of the South Carolina House of Representatives and its Democratic minority leader. He was the Democratic nominee for governor in 2026.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "education",
+          "summary": "Says that as governor he would increase the focus and funding for trade schools and tech academies.",
+          "source": "https://ontheissues.org/Jermaine_Johnson.htm"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says data centers must \"Bring Your Own Energy.\"",
+          "source": "https://ontheissues.org/Jermaine_Johnson.htm"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says medical decisions are best left to families and their doctors, and voted against the 2023 Fetal Heartbeat and Protection from Abortion Act.",
+          "source": "https://ontheissues.org/Jermaine_Johnson.htm"
+        }
+      ],
+      "sources": [
+        "https://scdailygazette.com/2026/06/24/sc-democrat-for-governor-makes-first-post-primary-pitch-to-voters/"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.wbtv.com/2026/11/04/republican-alan-wilson-wins-south-carolinas-2026-governor-race-ap-projects/",
+    "https://en.wikipedia.org/wiki/2026_South_Carolina_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

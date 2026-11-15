@@ -1,0 +1,113 @@
+{
+  "id": "IL-governor",
+  "state": "IL",
+  "stateName": "Illinois",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "jb-pritzker",
+  "summary": "Incumbent Democratic Gov. JB Pritzker ran for reelection and won a third term, defeating Republican Darren Bailey in a rematch.",
+  "candidates": [
+    {
+      "id": "jb-pritzker",
+      "name": "JB Pritzker",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 60.7,
+      "bio": "JB Pritzker is a Democrat who has served as governor of Illinois since January 2019. Before that he was a businessman who co-founded the venture capital firm Pritzker Group Private Capital and the startup incubator 1871.",
+      "website": "https://jbpritzker.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he removed the state sales tax on groceries, created and doubled a state Child Tax Credit, and raised the minimum wage to $15.",
+          "source": "https://jbpritzker.com/latest/accomplishment/lowering-costs-for-working-families/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he lowered prescription drug prices, erased more than $1 billion in medical debt, and broadened insurance coverage for mental health care.",
+          "source": "https://jbpritzker.com/latest/accomplishment/expanding-quality-affordable-health-care/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Said at a June 2025 congressional hearing that undocumented immigrants who are violent offenders should be removed from Illinois and the country, and that removals must follow due process.",
+          "source": "https://capitolnewsillinois.com/news/pritzker-defends-illinois-immigration-laws-in-theatrical-congressional-hearing/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he made the largest investment ever in early childhood education and quadrupled the minimum teacher salary.",
+          "source": "https://jbpritzker.com/latest/accomplishment/improving-education-from-cradle-to-career/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he enacted a climate law putting Illinois on the path to 100% clean energy by 2050.",
+          "source": "https://jbpritzker.com/latest/accomplishment/creating-the-economy-of-the-future/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he put abortion-rights protections into Illinois law before the Dobbs decision and expanded access to birth control.",
+          "source": "https://jbpritzker.com/latest/accomplishment/protecting-womens-rights/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/JB_Pritzker",
+        "https://jbpritzker.com/meet-jb-pritzker/",
+        "https://capitolnewsillinois.com/news/pritzker-defends-illinois-immigration-laws-in-theatrical-congressional-hearing/"
+      ]
+    },
+    {
+      "id": "darren-bailey",
+      "name": "Darren Bailey",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 36,
+      "bio": "Darren Bailey is a Republican farmer from Louisville, Illinois. He served in the Illinois House from 2019 to 2021 and the Illinois Senate from 2021 to 2023, and was the Republican nominee for governor in 2022 and again in 2026.",
+      "website": "https://baileyforillinois.com",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says he will fight to lower taxes, deliver property tax relief and cut wasteful spending.",
+          "source": "https://baileyforillinois.com/issues"
+        },
+        {
+          "issue": "education",
+          "summary": "Says he will ensure schools are fully funded and let parents choose the best options for their children.",
+          "source": "https://baileyforillinois.com/issues"
+        },
+        {
+          "issue": "abortion",
+          "summary": "His campaign site says he will defend the sanctity of life. CBS Chicago reported in 2022 that he opposes abortion but would support it if the mother's life is in danger.",
+          "source": "https://www.cbsnews.com/chicago/news/after-roe-v-wade-was-overturned-where-do-the-candidates-for-illinois-governor-stand-on-abortion/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Darren_Bailey",
+        "https://baileyforillinois.com",
+        "https://www.cbsnews.com/chicago/news/after-roe-v-wade-was-overturned-where-do-the-candidates-for-illinois-governor-stand-on-abortion/",
+        "https://www.fox32chicago.com/news/election-2026-illinois-gov-pritzker-wins.amp"
+      ]
+    },
+    {
+      "id": "collin-corbett",
+      "name": "Collin Corbett",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 3.4,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://www.fox32chicago.com/news/election-2026-illinois-gov-pritzker-wins.amp",
+    "https://www.pollcheck.com/midterms-2026/governor/illinois",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Original summary noted vote shares were from a partial count (about 90%)."
+}

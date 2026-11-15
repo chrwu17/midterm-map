@@ -1,0 +1,116 @@
+{
+  "id": "MA-governor",
+  "state": "MA",
+  "stateName": "Massachusetts",
+  "office": "governor",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "maura-healey",
+  "summary": "Gov. Maura Healey (Democrat) ran for re-election and won over Mike Minogue (Republican).",
+  "candidates": [
+    {
+      "id": "maura-healey",
+      "name": "Maura Healey",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": true,
+      "voteShare": 61.97,
+      "bio": "Maura Healey has been governor of Massachusetts since 2023. She ran with Lt. Gov. Kim Driscoll.",
+      "website": "https://maurahealey.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says her administration cut taxes for the first time in more than 20 years and is building 100,000 new homes.",
+          "source": "https://maurahealey.com/accomplishments/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says she was the first governor to cap health care deductibles and co-pays.",
+          "source": "https://maurahealey.com/accomplishments/"
+        },
+        {
+          "issue": "education",
+          "summary": "Says her administration doubled school funding, made school meals free, and made community college free for everyone.",
+          "source": "https://maurahealey.com/accomplishments/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says she opposed utility rate increases and launched an Energy Affordability Agenda to take $13 billion off energy bills.",
+          "source": "https://maurahealey.com/accomplishments/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says protecting reproductive freedom is among her accomplishments.",
+          "source": "https://maurahealey.com/accomplishments/"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election"
+      ]
+    },
+    {
+      "id": "mike-minogue",
+      "name": "Mike Minogue",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 34.74,
+      "bio": "Mike Minogue is a Republican, an Army veteran and a political newcomer who led the medical device company Abiomed for close to two decades. He won the Republican primary for governor on September 1, 2026, defeating Brian Shortsleeve.",
+      "website": "https://minogueforma.com/",
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says his plan centers on accountability, affordability including lower taxes, and public safety.",
+          "source": "https://www.wbur.org/news/2026/09/11/mike-minogue-gop-governor-policy-blueprint"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says he would use third-party healthcare auditors to find waste, fraud and abuse.",
+          "source": "https://www.wbur.org/news/2026/09/11/mike-minogue-gop-governor-policy-blueprint"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Says he would end sanctuary state policies and prioritize removing violent criminals and drug dealers.",
+          "source": "https://www.wbur.org/news/2026/09/11/mike-minogue-gop-governor-policy-blueprint"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he would cancel the state's 2050 net-zero emissions mandate and focus on energy innovation to lower costs.",
+          "source": "https://www.wbur.org/news/2026/09/11/mike-minogue-gop-governor-policy-blueprint"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he is not personally pro-abortion but would support Massachusetts' abortion law and FDA approval of abortion medications.",
+          "source": "https://www.wgbh.org/news/politics/2026-07-16/gop-frontrunner-minogue-governors-should-put-people-above-party-politics"
+        }
+      ],
+      "sources": [
+        "https://www.boston.com/news/local-news/2026/09/01/minogue-defeats-gop-rival-shortsleeve-setting-up-clash-with-healey/",
+        "https://www.wgbh.org/news/politics/2026-07-16/gop-frontrunner-minogue-governors-should-put-people-above-party-politics",
+        "https://www.wbur.org/news/2026/09/11/mike-minogue-gop-governor-policy-blueprint"
+      ]
+    },
+    {
+      "id": "andrea-c-james",
+      "name": "Andrea C. James",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 3.29,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election"
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
+    "https://www.multistate.us/resources/governors-2026-state-election-results"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+}

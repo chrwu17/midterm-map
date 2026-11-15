@@ -1,0 +1,99 @@
+{
+  "id": "NH-senate",
+  "state": "NH",
+  "stateName": "New Hampshire",
+  "office": "senate",
+  "special": false,
+  "electionDate": "2026-11-03",
+  "status": "called",
+  "winnerId": "chris-pappas",
+  "summary": "Democratic Sen. Jeanne Shaheen did not run again, so the seat was open. Democrat Chris Pappas won, defeating Republican John E. Sununu.",
+  "candidates": [
+    {
+      "id": "chris-pappas",
+      "name": "Chris Pappas",
+      "party": "Democratic",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 55.91,
+      "bio": "Chris Pappas is a Democrat who represents New Hampshire in the U.S. House. He won the Democratic nomination for the open Senate seat in 2026.",
+      "website": "https://chrispappas.org",
+      "positions": [
+        {
+          "issue": "healthcare",
+          "summary": "Says he fought to expand Medicaid and has stood up to Big Pharma to lower drug costs.",
+          "source": "https://chrispappas.org/about/"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says he wants to invest in renewable energy and is cracking down on predatory companies that target veterans and pollute water.",
+          "source": "https://chrispappas.org/about/"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says he has worked to protect funding for Planned Parenthood.",
+          "source": "https://chrispappas.org/about/"
+        }
+      ],
+      "sources": [
+        "https://keyt.com/politics/cnn-us-politics/2026/09/08/rep-chris-pappas-will-face-former-sen-john-e-sununu-in-new-hampshire-senate-race-cnn-projects"
+      ]
+    },
+    {
+      "id": "john-e-sununu",
+      "name": "John E. Sununu",
+      "party": "Republican",
+      "major": true,
+      "incumbent": false,
+      "voteShare": 42.19,
+      "bio": "John E. Sununu is a Republican who previously served as a U.S. Senator and U.S. Representative from New Hampshire. He won the Republican nomination for the open seat in 2026.",
+      "website": null,
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Lists keeping taxes low among his priorities.",
+          "source": "https://www.wmur.com/article/john-e-sununu-campaign-senate-102225/69112692"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Says health care affordability comes from competition, expanded health savings accounts and more price transparency.",
+          "source": "https://www.thedartmouth.com/article/2026/05/menna-im-new-hampshire-john-sununu-pitches-experience-independence-in-bid-to-return-to-senate"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says the country needs more energy production, more transmission infrastructure and more pipeline capacity.",
+          "source": "https://www.thedartmouth.com/article/2026/05/menna-im-new-hampshire-john-sununu-pitches-experience-independence-in-bid-to-return-to-senate"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Lists keeping the borders secure among his priorities.",
+          "source": "https://www.wmur.com/article/john-e-sununu-campaign-senate-102225/69112692"
+        }
+      ],
+      "sources": [
+        "https://keyt.com/politics/cnn-us-politics/2026/09/08/rep-chris-pappas-will-face-former-sen-john-e-sununu-in-new-hampshire-senate-race-cnn-projects",
+        "https://www.thedartmouth.com/article/2026/05/menna-im-new-hampshire-john-sununu-pitches-experience-independence-in-bid-to-return-to-senate"
+      ]
+    },
+    {
+      "id": "edmond-laplante",
+      "name": "Edmond LaPlante",
+      "party": "Other",
+      "partyLabel": "Constitution",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.9,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+  ],
+  "lastVerified": "2026-11-14",
+  "crossChecked": true,
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+}
