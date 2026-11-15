@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 53.3,
+      "voteShare": 53.26,
       "bio": "Tina Kotek is the governor of Oregon, in office since January 2023. She previously served in the Oregon House, including as Speaker from 2013 to 2022.",
       "website": "https://www.tinafororegon.com",
       "positions": [
@@ -87,7 +87,7 @@
       "partyLabel": "Pacific Green",
       "major": false,
       "incumbent": false,
-      "voteShare": null,
+      "voteShare": 2.91,
       "bio": null,
       "website": null,
       "positions": [],
@@ -97,9 +97,10 @@
   "sources": [
     "https://katu.com/news/politics/christine-drazan-concedes-oregon-governors-race-to-tina-kotek-says-remaining-ballots-wont-change-outcome",
     "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.thegreenpapers.com/G26/OR"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-15",
   "crossChecked": true,
   "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Summary note moved: results are unofficial until certification on Dec. 10."
 }

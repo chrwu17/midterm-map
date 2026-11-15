@@ -15,7 +15,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 50.41,
+      "voteShare": 50.27,
       "bio": "Jim Pillen has been governor of Nebraska since 2023. President Trump endorsed him, and he ran with Lt. Gov. Joe Kelly.",
       "website": "https://www.jimpillen.com/",
       "positions": [
@@ -50,7 +50,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 42.53,
+      "voteShare": 42.65,
       "bio": "Lynne Walz is a former Nebraska state senator (2017-2025) and was the 2018 Democratic nominee for lieutenant governor.",
       "website": "https://lynnewalz.com/",
       "positions": [
@@ -85,7 +85,7 @@
       "party": "Other",
       "major": false,
       "incumbent": false,
-      "voteShare": null,
+      "voteShare": 4.4,
       "bio": null,
       "website": null,
       "positions": [],
@@ -98,7 +98,7 @@
       "party": "Other",
       "major": false,
       "incumbent": false,
-      "voteShare": null,
+      "voteShare": 2.68,
       "bio": null,
       "website": null,
       "positions": [],
@@ -108,9 +108,10 @@
   ],
   "sources": [
     "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://electionresults.nebraska.gov/resultsSW.aspx"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-15",
   "crossChecked": true,
   "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
 }

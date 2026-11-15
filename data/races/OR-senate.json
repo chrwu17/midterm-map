@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 58.1,
+      "voteShare": 58.06,
       "bio": "Jeff Merkley has been a U.S. senator from Oregon since 2009 and previously served as Speaker of the Oregon House. He worked at a Habitat for Humanity affiliate before entering politics and sits on the Senate Appropriations and Foreign Relations committees.",
       "website": "https://www.jeffmerkley.com",
       "positions": [
@@ -61,7 +61,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 38.6,
+      "voteShare": 38.59,
       "bio": "David Brock Smith is an Oregon state senator representing the 1st district since 2023. He won the Republican nomination for U.S. Senate in the May 2026 primary.",
       "website": "https://davidbrocksmithfororegon.com",
       "positions": [
@@ -94,25 +94,25 @@
       ]
     },
     {
-      "id": "gary-dye",
-      "name": "Gary Dye",
-      "party": "Libertarian",
-      "major": false,
-      "incumbent": false,
-      "voteShare": null,
-      "bio": null,
-      "website": null,
-      "positions": [],
-      "sources": []
-    },
-    {
       "id": "chris-henry",
       "name": "Chris Henry",
       "party": "Other",
       "partyLabel": "Progressive",
       "major": false,
       "incumbent": false,
-      "voteShare": null,
+      "voteShare": 2.25,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "gary-dye",
+      "name": "Gary Dye",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.02,
       "bio": null,
       "website": null,
       "positions": [],
@@ -122,9 +122,10 @@
   "sources": [
     "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
     "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/OR"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-15",
   "crossChecked": true,
   "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
 }

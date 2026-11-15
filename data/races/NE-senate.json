@@ -15,7 +15,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 50,
+      "voteShare": 49.94,
       "bio": "Pete Ricketts is the Republican U.S. Senator from Nebraska and a former governor of the state. He sponsored the National Right to Work Act.",
       "website": "https://www.ricketts.senate.gov/",
       "positions": [
@@ -56,7 +56,7 @@
       "party": "Independent",
       "major": true,
       "incumbent": false,
-      "voteShare": 44.1,
+      "voteShare": 44.08,
       "bio": "Dan Osborn is a registered independent and former Omaha labor leader. He is running for Senate for a second time after his 2024 campaign.",
       "website": "https://www.osbornforsenate.com/",
       "positions": [
@@ -86,26 +86,13 @@
       ]
     },
     {
-      "id": "chuck-conboy",
-      "name": "Chuck Conboy",
-      "party": "Other",
-      "partyLabel": "America First",
-      "major": false,
-      "incumbent": false,
-      "voteShare": null,
-      "bio": null,
-      "website": null,
-      "positions": [],
-      "sources": []
-    },
-    {
       "id": "robin-richards",
       "name": "Robin Richards",
       "party": "Other",
       "partyLabel": "Nebraska Working People",
       "major": false,
       "incumbent": false,
-      "voteShare": null,
+      "voteShare": 2.61,
       "bio": null,
       "website": null,
       "positions": [],
@@ -118,7 +105,20 @@
       "partyLabel": "Legal Marijuana Now",
       "major": false,
       "incumbent": false,
-      "voteShare": null,
+      "voteShare": 2.17,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": []
+    },
+    {
+      "id": "chuck-conboy",
+      "name": "Chuck Conboy",
+      "party": "Other",
+      "partyLabel": "America First",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.21,
       "bio": null,
       "website": null,
       "positions": [],
@@ -128,9 +128,10 @@
   "sources": [
     "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
     "https://www.wowt.com/2026/11/04/republican-pete-ricketts-wins-reelection-us-senate-over-independent-challenger-nebraska/",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://electionresults.nebraska.gov/resultsSW.aspx"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-15",
   "crossChecked": true,
   "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by wowt.com report"
 }

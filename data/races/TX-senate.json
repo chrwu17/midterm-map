@@ -105,6 +105,20 @@
         "https://en.wikipedia.org/wiki/Ken_Paxton",
         "https://kenpaxton.com/issues"
       ]
+    },
+    {
+      "id": "ted-brown",
+      "name": "Ted Brown",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.92,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas"
+      ]
     }
   ],
   "sources": [
@@ -113,7 +127,7 @@
     "https://www.fox4news.com/news/james-talarico-defeats-ken-paxton-become-next-us-senator-from-texas",
     "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-15",
   "crossChecked": true,
   "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by fox4news.com report. Paxton beat Cornyn in May runoff; Talarico won in November (AP call)."
 }
