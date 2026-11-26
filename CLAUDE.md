@@ -29,7 +29,7 @@ node scripts/validate-data.mjs          # all checks; --quiet shows errors only
 - **All vote shares in one race come from one count.** Results are unofficial until states certify.
 - **Never guess a winner or a website.** Use `status: "uncalled"` and `website: null`.
 - **Run the humanizer skill over prose** written for the user (their standing preference). For position sentences, pair any rewrite with a re-check against the source.
-- Don't commit or deploy unless asked. Nothing has been committed yet.
+- Don't commit or deploy unless asked. Pushing to `main` redeploys the live site.
 
 ## Bulk data passes
 

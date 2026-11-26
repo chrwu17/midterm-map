@@ -1,6 +1,6 @@
 # Status: Midterm Map
 
-Last updated 2026-11-25. The site was last committed and deployed with the mid-November data; the 2026-11-25 changes in the working tree are neither committed nor deployed.
+Last updated 2026-11-25. The 2026-11-25 changes were committed (4c01574) and deployed to GitHub Pages the same day.
 
 ## What exists
 
@@ -8,7 +8,7 @@ Last updated 2026-11-25. The site was last committed and deployed with the mid-N
 - House results in `data/house/`: 435 districts, one file per state, results only (no bios or positions). Shown on each state page in a "U.S. House" section. Validate with `node scripts/validate-house.mjs` (the build runs it). 432 called, 1 uncalled (MN-01), 2 runoff (LA-05, LA-06; Dec 12). Most winners now rest on The Green Papers alone; `data/house/README.md` says which have a second source. State pages also have a district map (`web/src/components/house-map.tsx`, drawn from `data/house-geometry/`; see `data/house/GEOMETRY.md`).
 - Data in `data/races/`: 71 race files (35 U.S. Senate, 36 governor), one per Race, following `data/SCHEMA.md`.
 - Lessons in `content/lessons/`: eight Markdown files, including "What a U.S. Representative Does" (added 2026-11-15; facts checked against the Constitution text at archives.gov and house.gov pages).
-- Validator: `node scripts/validate-data.mjs` (0 errors, about 110 warnings at last run; the warnings are the gaps below).
+- Validator: `node scripts/validate-data.mjs` (0 errors, 17 warnings on 2026-11-25; the warnings are the gaps below).
 - Planning record in `issues/`: the map is `0000-map-midterm-map-site.md`.
 
 ## Site state at the end of the session
