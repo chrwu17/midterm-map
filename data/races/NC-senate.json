@@ -45,7 +45,8 @@
         "https://roycooper.com/costless/health-care/",
         "https://roycooper.com/about/",
         "https://portcitydaily.com/latest-news/2024/07/31/a-nc-that-works-for-everybody-cooper-touts-epa-funds-to-help-underserved-communities-benefit-green-swamp/",
-        "https://roycooper.com/costless/"
+        "https://roycooper.com/costless/",
+        "https://roycooper.com/roy-cooper-kicks-off-statewide-make-stuff-cost-less-campaign-announces-new-plan-to-lower-food-and-grocery-costs/"
       ]
     },
     {
@@ -54,8 +55,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 39,
-      "bio": "Michael Whatley is a Republican and former chair of the Republican National Committee and the North Carolina Republican Party. He is running on a \"North Carolina first agenda\" built on the economy, crime and the military.",
+      "voteShare": 39.1,
+      "bio": "Michael Whatley is a Republican and former chair of the Republican National Committee and the North Carolina Republican Party. At his 2025 campaign launch he said, \"We will fight for a strong economy, safe communities, an America that is respected around the world.\"",
       "website": "https://michaelwhatley.com",
       "positions": [
         {
@@ -85,7 +86,8 @@
         "https://michaelwhatley.com/",
         "https://www.wral.com/story/cooper-seeking-nc-s-open-u-s-senate-seat-tackles-health-care-cuts-in-raleigh-speech/22166135/",
         "https://www.wxii12.com/article/whatley-mcmahon-education-tax-credit-high-point/70685516",
-        "https://michaelwhatley.com/issues"
+        "https://michaelwhatley.com/issues",
+        "https://www.wral.com/story/22104093/"
       ]
     },
     {
@@ -99,7 +101,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina"
+        "https://www.thegreenpapers.com/G26/NC"
       ]
     },
     {
@@ -113,15 +115,18 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina"
+        "https://www.thegreenpapers.com/G26/NC"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://www.thegreenpapers.com/G26/NC"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Certified: the North Carolina State Board of Elections certified the results on Nov. 24, 2026 (board release). Shares are computed from the totals in the board canvass abstract dated Nov. 24.",
+  "resultsCertified": true
 }

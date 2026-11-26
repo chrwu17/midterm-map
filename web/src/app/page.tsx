@@ -6,7 +6,7 @@ import { getStateShapes } from "@/lib/geo";
 import { getMapStates } from "@/lib/map-data";
 import { getLessons } from "@/lib/lessons";
 import { LessonIcon } from "@/components/lesson-icon";
-import { getAllHouse } from "@/lib/house";
+import { getAllHouse, getHouseMap } from "@/lib/house";
 import { Reveal } from "@/components/motion-provider";
 
 function takeaways(body: string): string[] {
@@ -24,6 +24,7 @@ export default function Home() {
   const lessons = getLessons();
   const preview = lessons[0];
   const districts = getAllHouse().flatMap((h) => h.districts);
+  const sample = getHouseMap("IN")?.[0]; // one whole-state drawing that needs no close-ups
   const points = preview ? takeaways(preview.body) : [];
   return (
     <>
@@ -44,8 +45,8 @@ export default function Home() {
             to={{ opacity: 1, y: 0 }}
           />
           <p className="mt-3 max-w-[44ch] text-[15px] leading-snug sm:mt-5 sm:text-lg sm:leading-relaxed text-muted-foreground">
-            Pick a state to see who ran on November 3, 2026, who won, and what each major candidate says about six big issues. Each
-            state page also shows its U.S. House results. It is nonpartisan and written for people new to voting.
+            Pick a state to see who ran on November 3, 2026, who won, and what each major candidate says about six issues. State
+            pages also show U.S. House results. The site is nonpartisan and written for new voters.
           </p>
           <a href="#map" className={btn("primary", "md", "mt-4 sm:mt-7")}>
             Pick your state on the map
@@ -53,7 +54,7 @@ export default function Home() {
         </div>
 
         <div id="map" aria-labelledby="map-heading" role="region" className="scroll-mt-4">
-          <h2 id="map-heading" className="sr-only">Map of 2026 races by state</h2>
+          <h2 id="map-heading" className="sr-only">Map of 2026 Senate and governor races by state</h2>
           <p className="mb-2 text-xs text-muted-foreground sm:mb-3 sm:text-sm">
             Colors show which offices were on the ballot, not who won.
           </p>
@@ -62,26 +63,39 @@ export default function Home() {
         </div>
       </section>
 
-      <section aria-labelledby="house-heading" className="border-t border-border">
-        <div className="wrap flex flex-col gap-4 py-10 sm:flex-row sm:items-center sm:justify-between sm:gap-8 lg:py-14">
+      <section aria-labelledby="house-heading" className="flex min-h-svh items-center border-t border-border">
+        <div className="wrap grid gap-8 py-10 lg:grid-cols-2 lg:items-center lg:gap-6 lg:py-16">
           <div>
-            <h2 id="house-heading" className="text-3xl font-semibold">The U.S. House was on the ballot too</h2>
-            <p className="mt-2 max-w-[56ch] text-muted-foreground">
-              All {districts.length} House seats were up for election. Open any state to see the results in each of its districts: the
-              candidates, their vote shares and the projected winner. House pages show results only, without bios or positions.
+            <h2 id="house-heading" className="text-3xl font-semibold">U.S. House results by district</h2>
+            <p className="mt-2 max-w-[48ch] text-muted-foreground">
+              All {districts.length} House seats were up for election. Open a state to see the candidates, vote shares and any
+              projected winner in each district. We don&apos;t have bios or positions for House candidates.
             </p>
+            <div className="mt-6 flex flex-wrap gap-3">
+              <a href="#map" className={btn("primary", "md")}>Pick a state</a>
+              <Link href="/learn/what-a-representative-does/" className={btn("secondary", "md")}>What a Representative does</Link>
+            </div>
           </div>
-          <div className="flex shrink-0 flex-wrap gap-3">
-            <a href="#map" className={btn("primary", "md")}>Pick a state</a>
-            <Link href="/learn/what-a-representative-does/" className={btn("secondary", "md")}>What a Representative does</Link>
-          </div>
+          {sample && (
+            <Link href="/state/in/" aria-label="Indiana's U.S. House districts" className="lift block rounded-2xl border border-border bg-card p-6 sm:p-8">
+              <svg viewBox={`-3 -3 ${sample.width + 6} ${sample.height + 6}`} className="mx-auto block h-[min(52svh,480px)] w-full" aria-hidden="true">
+                {sample.districts.map((d) => (
+                  <path key={d.district} d={d.d} fillRule="evenodd" vectorEffect="non-scaling-stroke" style={{ fill: "var(--map-none)", stroke: "var(--ink-muted)", strokeWidth: 1.25, strokeLinejoin: "round" }} />
+                ))}
+                {sample.districts.filter((d) => d.label).map((d) => (
+                  <text key={d.district} x={d.x} y={d.y} dy="0.35em" textAnchor="middle" className="text-[11px] font-semibold tabular-nums" style={{ fill: "var(--ink)" }}>{d.district}</text>
+                ))}
+              </svg>
+              <p className="mt-3 text-center text-sm">Example: Indiana&apos;s {sample.districts.length} districts</p>
+            </Link>
+          )}
         </div>
       </section>
 
       <section aria-labelledby="learn-heading" className="flex min-h-[200svh] items-center border-t border-border bg-card/60 lg:min-h-svh">
-        <Reveal className="wrap grid gap-8 py-10 lg:grid-cols-2 lg:items-start lg:gap-6 lg:py-16">
+        <Reveal className="wrap grid gap-6 py-6 sm:gap-8 sm:py-10 lg:grid-cols-2 lg:items-start lg:gap-6 lg:py-16">
           <div>
-            <h2 id="learn-heading" className="text-3xl font-semibold">New to this? Start here.</h2>
+            <h2 id="learn-heading" className="text-3xl font-semibold">Lessons for new voters</h2>
             <p className="mt-2 max-w-[48ch] text-muted-foreground">Short lessons on how elections work. You don&apos;t need any background.</p>
             {lessons.length ? (
               <ul className="mt-6 space-y-3">

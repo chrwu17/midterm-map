@@ -25,10 +25,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4_1.html",
+    "https://www.thegreenpapers.com/G26/MD"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MD-02",
@@ -41,21 +41,21 @@
      "name": "Johnny Olszewski",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 64.95
+     "voteShare": 65.04
     },
     {
      "id": "dave-wallace",
      "name": "Dave Wallace",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 34.83
+     "voteShare": 34.76
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4_2.html",
+    "https://www.thegreenpapers.com/G26/MD"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MD-03",
@@ -68,21 +68,21 @@
      "name": "Sarah Elfreth",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 67.75
+     "voteShare": 67.74
     },
     {
      "id": "berney-flowers",
      "name": "Berney Flowers",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 31.98
+     "voteShare": 31.97
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4_3.html",
+    "https://www.thegreenpapers.com/G26/MD"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MD-04",
@@ -95,28 +95,28 @@
      "name": "Glenn Ivey",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 89.1
+     "voteShare": 89.26
     },
     {
      "id": "george-mcdermott",
      "name": "George McDermott",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 6.01
+     "voteShare": 5.96
     },
     {
      "id": "sam-husseini",
      "name": "Sam Husseini",
      "party": "Green",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 4.62
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4_4.html",
+    "https://www.thegreenpapers.com/G26/MD"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MD-05",
@@ -129,21 +129,21 @@
      "name": "Adrian Boafo",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 70.28
+     "voteShare": 70.67
     },
     {
      "id": "chris-chaffee",
      "name": "Chris Chaffee",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 28.91
+     "voteShare": 28.61
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4_5.html",
+    "https://www.thegreenpapers.com/G26/MD"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MD-06",
@@ -156,28 +156,28 @@
      "name": "April McClain Delaney",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 58.94
+     "voteShare": 59.32
     },
     {
      "id": "robin-ficker",
      "name": "Robin Ficker",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 38.07
+     "voteShare": 37.63
     },
     {
      "id": "moshe-landman",
      "name": "Moshe Landman",
      "party": "Green",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.8
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4_6.html",
+    "https://www.thegreenpapers.com/G26/MD"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MD-07",
@@ -190,21 +190,21 @@
      "name": "Kweisi Mfume",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 84.54
+     "voteShare": 85.12
     },
     {
      "id": "scott-collier",
      "name": "Scott Collier",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 14.93
+     "voteShare": 14.48
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4_7.html",
+    "https://www.thegreenpapers.com/G26/MD"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MD-08",
@@ -217,28 +217,28 @@
      "name": "Jamie Raskin",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 83.27
+     "voteShare": 83.49
     },
     {
      "id": "cheryl-riley",
      "name": "Cheryl Riley",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 14.81
+     "voteShare": 14.58
     },
     {
      "id": "nancy-wallace",
      "name": "Nancy Wallace",
      "party": "Green",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.74
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4_8.html",
+    "https://www.thegreenpapers.com/G26/MD"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

@@ -14,21 +14,21 @@
      "name": "Mike McGuire",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 58.6
+     "voteShare": 58.98
     },
     {
      "id": "james-gallagher",
      "name": "James Gallagher",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 41.4
+     "voteShare": 41.02
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-02",
@@ -41,21 +41,21 @@
      "name": "Jared Huffman",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 66.93
+     "voteShare": 66.72
     },
     {
      "id": "robin-littau",
      "name": "Robin Littau",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 33.07
+     "voteShare": 33.28
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-03",
@@ -68,21 +68,21 @@
      "name": "Ami Bera",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 58.77
+     "voteShare": 58.76
     },
     {
      "id": "robb-tucker",
      "name": "Robb Tucker",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 41.23
+     "voteShare": 41.24
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-04",
@@ -95,21 +95,21 @@
      "name": "Eric Jones",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 52.53
+     "voteShare": 52.49
     },
     {
      "id": "mike-thompson",
      "name": "Mike Thompson",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 47.47
+     "voteShare": 47.51
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-05",
@@ -122,21 +122,21 @@
      "name": "Tom McClintock",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 55.79
+     "voteShare": 55.58
     },
     {
      "id": "michael-masuda",
      "name": "Michael Masuda",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 44.21
+     "voteShare": 44.42
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-06",
@@ -149,21 +149,21 @@
      "name": "Richard Pan",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 58.88
+     "voteShare": 58.9
     },
     {
      "id": "kevin-kiley",
      "name": "Kevin Kiley",
      "party": "Independent",
      "incumbent": true,
-     "voteShare": 41.12
+     "voteShare": 41.1
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-07",
@@ -176,21 +176,21 @@
      "name": "Doris Matsui",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 52.42
+     "voteShare": 52.27
     },
     {
      "id": "mai-vang",
      "name": "Mai Vang",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 47.58
+     "voteShare": 47.73
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-08",
@@ -203,21 +203,21 @@
      "name": "John Garamendi",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 73.42
+     "voteShare": 73.64
     },
     {
      "id": "rudy-recile",
      "name": "Rudy Recile",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 26.58
+     "voteShare": 26.36
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-09",
@@ -230,21 +230,21 @@
      "name": "Josh Harder",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 67.09
+     "voteShare": 67.28
     },
     {
      "id": "john-mcbride",
      "name": "John McBride",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 32.91
+     "voteShare": 32.72
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-10",
@@ -257,21 +257,21 @@
      "name": "Mark DeSaulnier",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 69.7
+     "voteShare": 69.82
     },
     {
      "id": "jeff-frese",
      "name": "Jeff Frese",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 30.3
+     "voteShare": 30.18
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-11",
@@ -284,21 +284,21 @@
      "name": "Scott Wiener",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 53.33
+     "voteShare": 53.3
     },
     {
      "id": "connie-chan",
      "name": "Connie Chan",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 46.67
+     "voteShare": 46.7
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-12",
@@ -322,10 +322,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-13",
@@ -338,21 +338,21 @@
      "name": "Adam Gray",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 62.38
+     "voteShare": 62.84
     },
     {
      "id": "kevin-lincoln",
      "name": "Kevin Lincoln",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 37.62
+     "voteShare": 37.16
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-14",
@@ -365,21 +365,21 @@
      "name": "Aisha Wahab",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 57.56
+     "voteShare": 57.57
     },
     {
      "id": "melissa-hernandez",
      "name": "Melissa Hernandez",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 42.44
+     "voteShare": 42.43
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-15",
@@ -403,10 +403,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-16",
@@ -419,21 +419,21 @@
      "name": "Sam Liccardo",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 77.96
+     "voteShare": 77.99
     },
     {
      "id": "peter-soule",
      "name": "Peter Soulé",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 22.04
+     "voteShare": 22.01
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-17",
@@ -446,21 +446,21 @@
      "name": "Ro Khanna",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 72.71
+     "voteShare": 72.77
     },
     {
      "id": "ritesh-tandon",
      "name": "Ritesh Tandon",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 27.29
+     "voteShare": 27.23
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-18",
@@ -473,21 +473,21 @@
      "name": "Zoe Lofgren",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 73.0
+     "voteShare": 73.1
     },
     {
      "id": "shane-lewis",
      "name": "Shane Lewis",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 27.0
+     "voteShare": 26.9
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-19",
@@ -500,21 +500,21 @@
      "name": "Jimmy Panetta",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 72.09
+     "voteShare": 72.06
     },
     {
      "id": "peter-coe-verbica",
      "name": "Peter Coe Verbica",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 27.91
+     "voteShare": 27.94
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-20",
@@ -527,21 +527,21 @@
      "name": "Vince Fong",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 61.3
+     "voteShare": 61.04
     },
     {
      "id": "sandra-van-scotter",
      "name": "Sandra Van Scotter",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 38.7
+     "voteShare": 38.96
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-21",
@@ -554,21 +554,21 @@
      "name": "Jim Costa",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 64.45
+     "voteShare": 65.02
     },
     {
      "id": "kyle-kirkland",
      "name": "Kyle Kirkland",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 35.55
+     "voteShare": 34.98
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-22",
@@ -581,48 +581,48 @@
      "name": "Randy Villegas",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 67.8
+     "voteShare": 68.17
     },
     {
      "id": "david-valadao",
      "name": "David Valadao",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 32.2
+     "voteShare": 31.83
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-23",
    "district": "23",
-   "status": "uncalled",
-   "winnerId": null,
+   "status": "called",
+   "winnerId": "jay-obernolte",
    "candidates": [
     {
      "id": "jay-obernolte",
      "name": "Jay Obernolte",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 50.81
+     "voteShare": 50.68
     },
     {
      "id": "tessa-lynn-hodge",
      "name": "Tessa Lynn Hodge",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 49.19
+     "voteShare": 49.32
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://www.thegreenpapers.com/G26/CA"
+    "https://www.thegreenpapers.com/G26/CA",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-24",
@@ -635,21 +635,21 @@
      "name": "Salud Carbajal",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 66.2
+     "voteShare": 66.41
     },
     {
      "id": "bob-smith",
      "name": "Bob Smith",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 33.8
+     "voteShare": 33.59
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-25",
@@ -662,21 +662,21 @@
      "name": "Raul Ruiz",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 65.92
+     "voteShare": 66.12
     },
     {
      "id": "joe-males",
      "name": "Joe Males",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 34.08
+     "voteShare": 33.88
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-26",
@@ -689,21 +689,21 @@
      "name": "Jacqui Irwin",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 62.91
+     "voteShare": 63.48
     },
     {
      "id": "sam-gallucci",
      "name": "Sam Gallucci",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 37.09
+     "voteShare": 36.52
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-27",
@@ -716,21 +716,21 @@
      "name": "George T. Whitesides",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 64.21
+     "voteShare": 64.22
     },
     {
      "id": "jason-gibbs",
      "name": "Jason Gibbs",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 35.79
+     "voteShare": 35.78
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-28",
@@ -754,10 +754,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-29",
@@ -770,21 +770,21 @@
      "name": "Luz Rivas",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 57.28
+     "voteShare": 57.27
     },
     {
      "id": "angelica-duenas",
      "name": "Angelica Dueñas",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 42.72
+     "voteShare": 42.73
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-30",
@@ -797,21 +797,21 @@
      "name": "Laura Friedman",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 77.62
+     "voteShare": 77.63
     },
     {
      "id": "scott-meyers",
      "name": "Scott Meyers",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 22.38
+     "voteShare": 22.37
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-31",
@@ -824,21 +824,21 @@
      "name": "Gil Cisneros",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 66.39
+     "voteShare": 66.42
     },
     {
      "id": "eric-ching",
      "name": "Eric Ching",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 33.61
+     "voteShare": 33.58
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-32",
@@ -851,21 +851,21 @@
      "name": "Brad Sherman",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 67.3
+     "voteShare": 67.13
     },
     {
      "id": "larry-thompson",
      "name": "Larry Thompson",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 32.7
+     "voteShare": 32.87
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-33",
@@ -878,21 +878,21 @@
      "name": "Pete Aguilar",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 68.94
+     "voteShare": 69.05
     },
     {
      "id": "stephanie-vargas",
      "name": "Stephanie Vargas",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 31.06
+     "voteShare": 30.95
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-34",
@@ -905,21 +905,21 @@
      "name": "Angela Gonzales-Torres",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 62.19
+     "voteShare": 62.2
     },
     {
      "id": "jimmy-gomez",
      "name": "Jimmy Gomez",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 37.81
+     "voteShare": 37.8
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-35",
@@ -932,21 +932,21 @@
      "name": "Norma Torres",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 66.84
+     "voteShare": 66.9
     },
     {
      "id": "mike-cargile",
      "name": "Mike Cargile",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 33.16
+     "voteShare": 33.1
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-36",
@@ -959,21 +959,21 @@
      "name": "Ted Lieu",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 73.02
+     "voteShare": 73.03
     },
     {
      "id": "houston-brignano",
      "name": "Houston Brignano",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 26.98
+     "voteShare": 26.97
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-37",
@@ -986,21 +986,21 @@
      "name": "Sydney Kamlager-Dove",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 60.81
+     "voteShare": 60.79
     },
     {
      "id": "samantha-mota",
      "name": "Samantha Mota",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 39.19
+     "voteShare": 39.21
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-38",
@@ -1013,21 +1013,21 @@
      "name": "Hilda Solis",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 67.45
+     "voteShare": 67.46
     },
     {
      "id": "pedro-casas",
      "name": "Pedro Casas",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 32.55
+     "voteShare": 32.54
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-39",
@@ -1040,21 +1040,21 @@
      "name": "Mark Takano",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 68.98
+     "voteShare": 69.44
     },
     {
      "id": "steve-manos",
      "name": "Steve Manos",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 31.02
+     "voteShare": 30.56
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-40",
@@ -1066,22 +1066,22 @@
      "id": "ken-calvert",
      "name": "Ken Calvert",
      "party": "Republican",
-     "incumbent": false,
-     "voteShare": 52.58
+     "incumbent": true,
+     "voteShare": 52.47
     },
     {
      "id": "young-kim",
      "name": "Young Kim",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 47.42
+     "voteShare": 47.53
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-41",
@@ -1094,21 +1094,21 @@
      "name": "Linda Sánchez",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 67.58
+     "voteShare": 67.59
     },
     {
      "id": "mitch-clemmons",
      "name": "Mitch Clemmons",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 32.42
+     "voteShare": 32.41
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-42",
@@ -1121,21 +1121,21 @@
      "name": "Robert Garcia",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 61.94
+     "voteShare": 61.96
     },
     {
      "id": "brian-burley",
      "name": "Brian Burley",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 38.06
+     "voteShare": 38.04
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-43",
@@ -1148,21 +1148,21 @@
      "name": "Maxine Waters",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 82.96
+     "voteShare": 82.97
     },
     {
      "id": "cristian-morales",
      "name": "Cristian Morales",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 17.04
+     "voteShare": 17.03
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-44",
@@ -1186,10 +1186,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-45",
@@ -1202,21 +1202,21 @@
      "name": "Derek Tran",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 61.0
+     "voteShare": 61.02
     },
     {
      "id": "chuong-vo",
      "name": "Chuong Vo",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 39.0
+     "voteShare": 38.98
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-46",
@@ -1229,21 +1229,21 @@
      "name": "Lou Correa",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 71.54
+     "voteShare": 71.55
     },
     {
      "id": "david-pan",
      "name": "David Pan",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 28.46
+     "voteShare": 28.45
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-47",
@@ -1256,21 +1256,21 @@
      "name": "Dave Min",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 58.56
+     "voteShare": 58.59
     },
     {
      "id": "jenny-le-roux",
      "name": "Jenny Le Roux",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 41.44
+     "voteShare": 41.41
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-48",
@@ -1283,21 +1283,21 @@
      "name": "Marni von Wilpert",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 59.48
+     "voteShare": 59.88
     },
     {
      "id": "jim-desmond",
      "name": "Jim Desmond",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 40.52
+     "voteShare": 40.12
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-49",
@@ -1310,21 +1310,21 @@
      "name": "Mike Levin",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 59.16
+     "voteShare": 59.59
     },
     {
      "id": "armen-kurdian",
      "name": "Armen Kurdian",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 40.84
+     "voteShare": 40.41
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-50",
@@ -1337,21 +1337,21 @@
      "name": "Scott Peters",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 63.4
+     "voteShare": 63.79
     },
     {
      "id": "steve-cohen",
      "name": "Steve Cohen",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 36.6
+     "voteShare": 36.21
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-51",
@@ -1364,21 +1364,21 @@
      "name": "Sara Jacobs",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 65.92
+     "voteShare": 66.27
     },
     {
      "id": "ricardo-cabrera",
      "name": "Ricardo Cabrera",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 34.08
+     "voteShare": 33.73
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CA-52",
@@ -1391,21 +1391,21 @@
      "name": "Juan Vargas",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 71.55
+     "voteShare": 71.86
     },
     {
      "id": "jeff-belle",
      "name": "Jeff Belle",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 28.45
+     "voteShare": 28.14
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbclosangeles.com/elections/2026-california-election-results-congress-house/3963610/",
     "https://www.thegreenpapers.com/G26/CA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

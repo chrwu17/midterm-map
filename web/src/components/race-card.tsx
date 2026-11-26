@@ -14,13 +14,21 @@ const STATUS: Record<Race["status"], { label: string; note: string }> = {
   runoff: { label: "Runoff", note: "No one won a majority, so the top candidates face a second election." },
 };
 
+// For a certified count with no winner: the usual "Uncalled" note would say votes are still being counted.
+const CERTIFIED_UNCALLED_NOTE = "This site does not name a winner for this race.";
+
 export function RaceCard({ race, explainer, seen = new Set() }: { race: Race; explainer?: string; seen?: Set<string> }) {
   const status = STATUS[race.status];
   // Glossary popovers on first use, in reading order. Candidate position sentences are never glossed.
   const title = gloss(raceLabel(race.office, race.special), seen);
-  const statusLabel = gloss(status.label, seen);
+  // "Called" is a news projection, so a certified winner gets its own badge and no "Called" popover.
+  const certifiedWin = race.resultsCertified && race.status === "called";
+  const statusLabel = certifiedWin ? ["Certified"] : gloss(status.label, seen);
   const summary = race.summary ? gloss(race.summary, seen) : null;
-  const note = gloss(status.note, seen);
+  const note = certifiedWin
+    ? null
+    : gloss(race.resultsCertified && race.status === "uncalled" ? CERTIFIED_UNCALLED_NOTE : status.note, seen);
+  const winnerLabel = race.resultsCertified ? "Winner" : "Projected winner";
   const incumbentLabel = gloss("Incumbent", seen);
   const majors = race.candidates.filter((c) => c.major);
   const officeName = race.office === "senate" ? "senator" : "governor";
@@ -45,7 +53,7 @@ export function RaceCard({ race, explainer, seen = new Set() }: { race: Race; ex
         </span>
       </header>
       {summary && <p className="mt-4 max-w-[65ch] leading-relaxed text-pretty"><Glossed segments={summary} /></p>}
-      <p className="mt-2 max-w-[65ch] text-sm text-muted-foreground"><Glossed segments={note} /></p>
+      {note && <p className="mt-2 max-w-[65ch] text-sm text-muted-foreground"><Glossed segments={note} /></p>}
 
       <ul className="mt-6 space-y-4" aria-label="Candidates and results">
         {race.candidates.map((c) => {
@@ -58,11 +66,11 @@ export function RaceCard({ race, explainer, seen = new Set() }: { race: Race; ex
                   <span className={won ? "inline-flex items-center gap-1 font-semibold" : ""}>
                     {won && <Check className="size-4 shrink-0 text-primary" strokeWidth={2.5} aria-hidden="true" />}
                     {c.name}
-                    {won && <span className="sr-only"> (projected winner)</span>}
+                    {won && <span className="sr-only"> ({winnerLabel.toLowerCase()})</span>}
                   </span>
                   <PartyTag party={c.party} label={c.partyLabel} />
                   {c.incumbent && <span className="text-xs text-muted-foreground"><Glossed segments={incumbentLabel} /></span>}
-                  {won && <span className="text-xs font-semibold text-primary">Projected winner</span>}
+                  {won && <span className="text-xs font-semibold text-primary">{winnerLabel}</span>}
                 </div>
                 <span className={`shrink-0 text-sm tabular-nums ${hasShare ? "" : "text-muted-foreground"}`}>
                   {hasShare ? `${c.voteShare!.toFixed(1)}%` : "Not reported"}
@@ -83,11 +91,17 @@ export function RaceCard({ race, explainer, seen = new Set() }: { race: Race; ex
       </ul>
       <div className="mt-5 space-y-1 border-t border-border pt-4 text-xs leading-relaxed text-muted-foreground">
         <p>
-          These results are unofficial until {race.stateName} certifies them.
-          {race.status !== "called" && " Shares can change as counting continues."}
+          {race.resultsCertified ? (
+            <>{race.stateName} has certified these results. The vote shares come from its certified count.</>
+          ) : (
+            <>
+              These results are unofficial until {race.stateName} certifies them.
+              {race.status !== "called" && " Shares can change as counting continues."}
+            </>
+          )}
         </p>
         <p>
-          {race.lastVerified ? <>Last verified {formatDate(race.lastVerified)}</> : "Verification date not recorded"}
+          {race.lastVerified ? <>Last verified {formatDate(race.lastVerified)}</> : "No verification date recorded"}
           {race.crossChecked && <> · Cross-checked against a second source</>}
           {race.sources.length > 0 && (
             <>
@@ -116,7 +130,7 @@ export function RaceCard({ race, explainer, seen = new Set() }: { race: Race; ex
                         {c.sources.slice(0, 3).map((s) => <SourceLink key={s} href={s} website={c.website} />)}
                       </p>
                     ) : (
-                      <p className="mt-2 text-sm text-muted-foreground">We haven&apos;t finished a sourced bio for this candidate yet.</p>
+                      <p className="mt-2 text-sm text-muted-foreground">We don&apos;t have a sourced bio for this candidate yet.</p>
                     )}
                     {c.website && (
                       <a href={c.website} target="_blank" rel="noopener noreferrer" className="mt-2 inline-block text-sm text-primary underline">
@@ -130,7 +144,7 @@ export function RaceCard({ race, explainer, seen = new Set() }: { race: Race; ex
               <h3 className="mt-8 text-lg font-semibold">Where they stand</h3>
               {withPositions.length > 0 && (
                 <p className="mt-1 max-w-[65ch] text-sm text-muted-foreground">
-                  The same six issues for every candidate, with a source for each answer.
+                  We looked for the same six issues for every candidate. Each position links to its source.
                   {shownIssues.some((issue) => withPositions.some((c) => !c.positions.some((p) => p.issue === issue.key))) &&
                     " A dash means we found no clear public statement yet."}
                 </p>
@@ -192,7 +206,7 @@ export function RaceCard({ race, explainer, seen = new Set() }: { race: Race; ex
                   ))}
                   {withPositions.length > 0 && missingIssues.length > 0 && (
                     <li>
-                      No clear statement found from {withPositions.length > 1 ? "any candidate" : withPositions[0].name} on{" "}
+                      We found no clear statement from {withPositions.length > 1 ? "any candidate" : withPositions[0].name} on{" "}
                       {missingIssues.map((i) => i.label.toLowerCase()).join(", ")}.
                     </li>
                   )}

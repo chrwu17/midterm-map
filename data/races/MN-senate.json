@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 53.7,
+      "voteShare": 53.72,
       "bio": "Peggy Flanagan is the Democratic Lieutenant Governor of Minnesota and a former Minneapolis School Board member. She won the DFL endorsement and the August 2026 Democratic primary for the open Senate seat.",
       "website": "https://peggyflanagan.com",
       "positions": [
@@ -62,7 +62,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 43.56,
+      "voteShare": 43.55,
       "bio": "Michele Tafoya is a Republican and former NFL sideline reporter, known for her work on NBC's Sunday Night Football. She launched her Senate campaign in January 2026.",
       "website": "https://micheletafoya.com",
       "positions": [
@@ -115,7 +115,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota"
+        "https://www.thegreenpapers.com/G26/MN"
       ]
     },
     {
@@ -129,15 +129,16 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota"
+        "https://www.thegreenpapers.com/G26/MN"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.house.mn.gov/sessiondaily/Story/19215",
+    "https://www.thegreenpapers.com/G26/MN"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). The Minnesota State Canvassing Board certified the election on Nov. 19, 2026. Shares come from The Green Papers, including write-ins in the total, and are not confirmed as the certified count."
 }

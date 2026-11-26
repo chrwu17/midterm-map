@@ -15,9 +15,9 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 54.71,
-      "bio": "Barry Moore is a Republican U.S. representative from Alabama since 2021, first for the 2nd district and since 2025 for the 1st, and a member of the House Agriculture and Judiciary committees. Before Congress he founded a waste hauling company in 1998 and served in the Alabama House from 2010 to 2018. He says he was the first elected official in America to back Donald Trump for president and that his voting record is his main qualification.",
-      "website": null,
+      "voteShare": 54.68,
+      "bio": "Barry Moore is a Republican U.S. representative from Alabama's 1st district and a member of the House Agriculture and Judiciary committees. Before Congress he started an industrial waste hauling company and served eight years in the Alabama House. He says he was the first elected official in America to back Donald Trump for president.",
+      "website": "https://www.barrymooreforalabama.com",
       "positions": [
         {
           "issue": "economy",
@@ -46,9 +46,10 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
-        "https://en.wikipedia.org/wiki/Barry_Moore_(American_politician)",
-        "https://1819news.com/news/item/check-the-record-barry-moore-touts-his-conservative-bonafides-in-qualifying-for-u-s-senate"
+        "https://1819news.com/news/item/check-the-record-barry-moore-touts-his-conservative-bonafides-in-qualifying-for-u-s-senate",
+        "https://barrymoore.house.gov/about",
+        "https://barrymoore.house.gov/about/committees-and-caucuses",
+        "https://www.thegreenpapers.com/G26/AL"
       ]
     },
     {
@@ -57,7 +58,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 45.29,
+      "voteShare": 45.2,
       "bio": "Everett Wess is a Birmingham attorney and managing partner of The Wess Law Firm since 2001. He served as a Midfield municipal court judge for eight years and is state president of the Alabama New South Coalition.",
       "website": "https://wessforsenate.com/",
       "positions": [
@@ -88,10 +89,12 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.sos.alabama.gov/sites/default/files/election-2026/2026StateCertificationofGeneralElectionResults-Canvassing.pdf",
+    "https://www.thegreenpapers.com/G26/AL"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Certified count: pages of the Alabama Secretary of State canvassing PDF are marked \"Certified by the State Canvassing Board November 23, 2026\". Shares include write-ins in the total.",
+  "resultsCertified": true
 }

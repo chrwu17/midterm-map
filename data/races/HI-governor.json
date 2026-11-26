@@ -66,9 +66,11 @@
     "https://www.civilbeat.org/2026/11/green-and-kawakami-swamp-opponents-to-win-governor-lt-gov/",
     "https://www.hawaiinewsnow.com/2026/11/04/gov-josh-green-wins-re-election-alongside-lt-gov-elect-derek-kawakami/",
     "https://www.multistate.us/resources/governors-2026-state-election-results",
-    "https://en.wikipedia.org/wiki/2026_Hawaii_gubernatorial_election"
+    "https://elections.hawaii.gov/wp-content/results/2026%20General/histatewide.pdf",
+    "https://elections.hawaii.gov/election-results/"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Original summary noted the Republican ticket (with running mate Daniel Anthony) had 26.1% in the latest tally. Vote shares are from the Wikipedia article 2026 Hawaii gubernatorial election (384,703 votes in total); the page did not state what share of the vote was counted."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Original summary noted the Republican ticket (with running mate Daniel Anthony) had 26.1% in the latest tally. Certified count: the Office of Elections results page lists the 2026 general election summary under \"Certified Reports\" (updated November 24, 2026), with Green at 279,445 and Cordery at 105,258. Shares leave out blank and over votes.",
+  "resultsCertified": true
 }

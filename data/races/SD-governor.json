@@ -41,7 +41,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Larry_Rhoden"
+        "https://www.sdnewswatch.org/larry-rhoden-profile-legislature-sd-governor-primary/",
+        "https://www.nga.org/governor/larry-rhoden/"
       ]
     },
     {
@@ -51,7 +52,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 36.51,
-      "bio": "Dan Ahlers is a former South Dakota state senator who served as Senate Democratic leader. He was the Democratic nominee for governor in 2026.",
+      "bio": "Dan Ahlers is a former South Dakota legislator who represented District 25 for six years. He was the Democratic nominee for governor in 2026.",
       "website": "https://www.danahlers.com",
       "positions": [
         {
@@ -68,19 +69,28 @@
           "issue": "education",
           "summary": "Says he would recruit and retain teachers, strengthen rural schools, expand early childhood education and childcare access, and create afterschool programs.",
           "source": "https://www.danahlers.com/about-3"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Asked about state cooperation agreements with ICE, said \"there's space for cooperation\" but that he doesn't like \"heavy handedness\" or officers wearing masks.",
+          "source": "https://rapidcitypost.com/democratic-candidate-for-governor-plans-to-lean-on-south-dakotas-core-values/"
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Dan_Ahlers"
+        "https://rapidcitypost.com/democratic-candidate-for-governor-plans-to-lean-on-south-dakotas-core-values/",
+        "https://www.danahlers.com/about",
+        "https://www.dakotanewsnow.com/2026/11/04/larry-rhoden-elected-south-dakotas-governor/"
       ]
     }
   ],
   "sources": [
     "https://www.dakotanewsnow.com/2026/11/04/larry-rhoden-elected-south-dakotas-governor/",
-    "https://en.wikipedia.org/wiki/2026_South_Dakota_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://sdsos.gov/elections-voting/upcoming-elections/general-information/2026%20Election%20Assets/General/2026GeneralElectionStateCanvassandCertificate.pdf",
+    "https://www.thegreenpapers.com/G26/SD"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Certified: the South Dakota Board of Canvassers signed the state canvass certificate on Nov. 10, 2026 (sdsos.gov PDF).",
+  "resultsCertified": true
 }

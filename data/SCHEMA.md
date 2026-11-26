@@ -46,3 +46,6 @@ interface Position {
 - Same six issues for everyone. Skip an issue rather than guess.
 - Every bio fact and position needs a source URL.
 - If a result is not certain, set `status: "uncalled"` and `winnerId: null`. Never guess a winner.
+
+## Certified results
+Optional race field `resultsCertified: true`: every `voteShare` in the race comes from the state's certified count, and a page confirming certification was opened. Omit it otherwise.

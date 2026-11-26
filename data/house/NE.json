@@ -14,21 +14,21 @@
      "name": "Mike Flood",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 49.98
+     "voteShare": 49.67
     },
     {
      "id": "chris-backemeyer",
      "name": "Chris Backemeyer",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 46.48
+     "voteShare": 46.76
     },
     {
      "id": "nik-sandman",
      "name": "Nik Sandman",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.83
     },
     {
      "id": "daniel-hartong",
@@ -36,14 +36,14 @@
      "party": "Other",
      "partyLabel": "America First",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.74
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+    "https://electionresults.nebraska.gov/resultsSW.aspx?type=CG&map=DIST",
+    "https://www.thegreenpapers.com/G26/NE"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NE-02",
@@ -56,28 +56,28 @@
      "name": "Denise Powell",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 56.68
+     "voteShare": 56.82
     },
     {
      "id": "brinker-harding",
      "name": "Brinker Harding",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 40.74
+     "voteShare": 40.56
     },
     {
      "id": "eric-foreman",
      "name": "Eric Foreman",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.62
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+    "https://electionresults.nebraska.gov/resultsSW.aspx?type=CG&map=DIST",
+    "https://www.thegreenpapers.com/G26/NE"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NE-03",
@@ -90,21 +90,21 @@
      "name": "Adrian Smith",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 71.03
+     "voteShare": 71.0
     },
     {
      "id": "becky-stille",
      "name": "Becky Stille",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 19.97
+     "voteShare": 19.98
     },
     {
      "id": "mark-cohen",
      "name": "Mark Cohen",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 3.3
     },
     {
      "id": "david-else",
@@ -112,22 +112,22 @@
      "party": "Other",
      "partyLabel": "Legal Marijuana Now",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.91
     },
     {
      "id": "macey-budke",
      "name": "Macey Budke",
      "party": "Other",
-     "partyLabel": "Working People",
+     "partyLabel": "Nebraska Working People",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.8
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+    "https://electionresults.nebraska.gov/resultsSW.aspx?type=CG&map=DIST",
+    "https://www.thegreenpapers.com/G26/NE"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

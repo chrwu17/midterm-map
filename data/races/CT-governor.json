@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": true,
       "voteShare": 59.6,
-      "bio": "Ned Lamont is a Democrat and the governor of Connecticut, seeking a third term in 2026. He is a Harvard graduate with a Yale MBA who started a Connecticut business serving college campuses, and he ran for U.S. Senate in 2006 against Joe Lieberman. He lives in Greenwich.",
+      "bio": "Ned Lamont is a Democrat and the governor of Connecticut, who ran for a third term in 2026. He is a Harvard graduate with a Yale MBA who started a Connecticut business serving college campuses, and he ran for U.S. Senate in 2006 against Joe Lieberman.",
       "website": "https://nedlamont.com",
       "positions": [
         {
@@ -63,7 +63,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 40.4,
-      "bio": "Ryan Fazio is a Republican state senator from Greenwich who first won his seat in a special election in August 2021 and represents Greenwich and New Canaan. Before running for office he worked as a commodities trader and then an investment adviser, and he has an economics degree from Northwestern University.",
+      "bio": "Ryan Fazio is a Republican state senator from Greenwich who first won his seat in a special election in August 2021 and whose district includes New Canaan. He is a former commodities trader and has an economics degree from Northwestern University.",
       "website": "https://ryanfazio.com",
       "positions": [
         {
@@ -102,9 +102,10 @@
   "sources": [
     "https://www.wfsb.com/2026/11/04/lamont-wins-historic-third-term-connecticut-governor/",
     "https://www.pollcheck.com/midterms-2026/governor/connecticut",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.thegreenpapers.com/G26/CT"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Summary note moved: vote shares were from a partial count (about 90%)."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Summary note moved: vote shares were from a partial count (about 90%). Shares checked on November 25, 2026 against The Green Papers (1,296,561 votes in total), which does not say the count is certified."
 }

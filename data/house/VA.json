@@ -14,21 +14,20 @@
      "name": "Shannon Taylor",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 51.32
+     "voteShare": 51.34
     },
     {
      "id": "rob-wittman",
      "name": "Rob Wittman",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 48.43
+     "voteShare": 48.41
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+    "https://www.thegreenpapers.com/G26/VA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "VA-02",
@@ -41,35 +40,34 @@
      "name": "Elaine Luria",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 53.22
+     "voteShare": 53.25
     },
     {
      "id": "jen-kiggans",
      "name": "Jen Kiggans",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 44.31
+     "voteShare": 44.28
     },
     {
      "id": "j-matt-baker",
      "name": "J. Matt Baker",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.43
     },
     {
      "id": "geral-staten",
      "name": "Geral Staten",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 0.91
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+    "https://www.thegreenpapers.com/G26/VA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "VA-03",
@@ -82,35 +80,34 @@
      "name": "Bobby Scott",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 72.57
+     "voteShare": 72.91
     },
     {
      "id": "edwin-rivera",
      "name": "Edwin Rivera",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 24.03
+     "voteShare": 23.64
     },
     {
      "id": "makiba-gaines",
      "name": "Makiba Gaines",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.65
     },
     {
      "id": "stephen-woll",
      "name": "Stephen Woll",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.59
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+    "https://www.thegreenpapers.com/G26/VA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "VA-04",
@@ -123,28 +120,27 @@
      "name": "Jennifer McClellan",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 72.23
+     "voteShare": 72.64
     },
     {
      "id": "robert-murray",
      "name": "Robert Murray",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 26.19
+     "voteShare": 25.77
     },
     {
      "id": "joan-bell",
      "name": "Joan Bell",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.35
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+    "https://www.thegreenpapers.com/G26/VA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "VA-05",
@@ -157,7 +153,7 @@
      "name": "John McGuire",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 49.87
+     "voteShare": 49.86
     },
     {
      "id": "tom-perriello",
@@ -171,14 +167,13 @@
      "name": "Cooke Harvey",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.62
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+    "https://www.thegreenpapers.com/G26/VA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "VA-06",
@@ -191,21 +186,20 @@
      "name": "Ben Cline",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 55.43
+     "voteShare": 55.02
     },
     {
      "id": "beth-macy",
      "name": "Beth Macy",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 44.37
+     "voteShare": 44.78
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+    "https://www.thegreenpapers.com/G26/VA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "VA-07",
@@ -232,35 +226,34 @@
      "name": "Alaha Ahrar",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 0.98
     },
     {
      "id": "taner-demirci-lopez",
      "name": "Taner Demirci Lopez",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 0.84
     },
     {
      "id": "randall-terry",
      "name": "Randall Terry",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 0.38
     },
     {
      "id": "joshua-ertle",
      "name": "Joshua Ertle",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 0.25
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+    "https://www.thegreenpapers.com/G26/VA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "VA-08",
@@ -273,35 +266,34 @@
      "name": "Don Beyer",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 79.45
+     "voteShare": 79.49
     },
     {
      "id": "tony-sabio",
      "name": "Tony Sabio",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 17.83
+     "voteShare": 17.78
     },
     {
      "id": "tim-sharman",
      "name": "Tim Sharman",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.27
     },
     {
      "id": "shelly-arnoldi",
      "name": "Shelly Arnoldi",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.19
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+    "https://www.thegreenpapers.com/G26/VA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "VA-09",
@@ -314,21 +306,20 @@
      "name": "Morgan Griffith",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 65.88
+     "voteShare": 65.33
     },
     {
      "id": "joy-powers",
      "name": "Joy Powers",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 33.91
+     "voteShare": 34.47
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+    "https://www.thegreenpapers.com/G26/VA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "VA-10",
@@ -341,28 +332,27 @@
      "name": "Suhas Subramanyam",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 61.52
+     "voteShare": 61.65
     },
     {
      "id": "dave-beckwith",
      "name": "Dave Beckwith",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 36.47
+     "voteShare": 36.32
     },
     {
      "id": "ahsen-malik",
      "name": "Ahsen Malik",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.83
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+    "https://www.thegreenpapers.com/G26/VA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "VA-11",
@@ -375,28 +365,27 @@
      "name": "James Walkinshaw",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 74.26
+     "voteShare": 74.34
     },
     {
      "id": "arthur-purves",
      "name": "Arthur Purves",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 24.19
+     "voteShare": 24.07
     },
     {
      "id": "dianne-blais",
      "name": "Dianne Blais",
      "party": "Green",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.27
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+    "https://www.thegreenpapers.com/G26/VA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

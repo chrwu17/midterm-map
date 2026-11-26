@@ -35,7 +35,7 @@ The full brief is `docs/design-brief.md`.
 - **The map is visible on first load.** It is the site's main action. The design checker wants the hero alone on the first screen; that finding is waived on purpose.
 - **Type:** Fraunces for headings, Public Sans for text, for a newspaper-explainer feel. A design hook flags Fraunces as overused; it was kept on the merits and could be revisited.
 - **Motion supports reading and never delays it.** Kept: the headline entrance (SplitText and GSAP), a one-time map entrance, hover and focus dimming on the map, Lenis smooth scroll (the user asked for it), lift and press on cards and buttons. Removed after a motion review: scroll-triggered card fades and growing vote bars, because they hid text and animated real data. Everything switches off under reduced motion.
-- **Every source link says where it goes** ("Campaign site", "Wikipedia", "kold.com"), so a voter can tell a candidate's own page from a news report.
+- **Every source link says where it goes** ("Campaign site", "The Green Papers", "kold.com"), so a voter can tell a candidate's own page from a news report.
 - **Jargon gets a definition on tap, hover or focus**, pulled from `content/lessons/political-terms.md`. Terms are never linked inside position sentences.
 - **Honest empty states.** A candidate with no sourced positions gets one line saying so. An issue nobody addressed is one sentence. Each race card says results are unofficial until the state certifies them.
 
@@ -79,8 +79,8 @@ The site is live on GitHub Pages at https://chrwu17.github.io/midterm-map/. Push
 
 ## Open tickets, in suggested order
 
-1. `0014-certified-results.md`: swap in certified results; resolve the two Alaska races after Nov 18.
-2. `0013-secondary-sources.md`: replace the Wikipedia and OnTheIssues citations; fill the ten thin profiles.
+1. `0014-certified-results.md`: swap in certified results as states publish them.
+2. `0013-secondary-sources.md`: replace the last eight OnTheIssues citations.
 3. `0015-design-gate-open.md`: close the design checker's findings on the home and state pages.
 4. `0016-humanize-site-copy.md`: finish the humanizer pass and revisit the stiff position sentences.
 5. `0010-data-freshness.md`: decide who updates the data and how often.

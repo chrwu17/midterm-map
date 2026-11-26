@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 52.82,
+      "voteShare": 52.8,
       "bio": "Gina Hinojosa is a member of the Texas House of Representatives from Austin, serving since 2017. She was the Democratic nominee for governor in 2026.",
       "website": "https://ginafortexas.com",
       "positions": [
@@ -41,7 +41,8 @@
         }
       ],
       "sources": [
-        "https://www.texastribune.org/people/gina-hinojosa"
+        "https://www.texastribune.org/people/gina-hinojosa",
+        "https://ginafortexas.com/about/"
       ]
     },
     {
@@ -50,8 +51,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 45.68,
-      "bio": "Greg Abbott is the governor of Texas, in office since 2015. He previously served as state attorney general from 2002 to 2015 and as a Texas Supreme Court justice.",
+      "voteShare": 45.67,
+      "bio": "Greg Abbott is the governor of Texas, in office since 2015. He previously served as state attorney general and as a Texas Supreme Court justice.",
       "website": "https://www.gregabbott.com",
       "positions": [
         {
@@ -76,17 +77,32 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Greg_Abbott"
+        "https://www.nga.org/governor/greg-abbott/"
+      ]
+    },
+    {
+      "id": "pat-dixon",
+      "name": "Pat Dixon",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.49,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://www.thegreenpapers.com/G26/TX"
       ]
     }
   ],
   "sources": [
     "https://fox13news.com/news/texas-governors-race-2026-hinojosa-defeats-abbott-become-states-first-democratic-governor-decades",
-    "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
     "https://www.wcax.com/2026/11/04/democrats-press-win-majority-governors-offices-midterms-after-power-struggles-with-trump/",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://goelect.txelections.civixapps.com/ivis-enr-ui/races",
+    "https://www.thegreenpapers.com/G26/TX"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called); also confirmed by wcax.com report Summary originally noted that percentages came from Wikipedia and might update, and that election-night partial counts differed."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called); also confirmed by wcax.com report. Shares computed from the Texas Secretary of State results feed, opened Nov. 25 but last updated Nov. 4, with all 254 counties reporting. It is not marked official, and later ballots may not be in it."
 }

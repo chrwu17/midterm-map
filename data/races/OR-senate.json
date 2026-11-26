@@ -15,8 +15,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 58.06,
-      "bio": "Jeff Merkley has been a U.S. senator from Oregon since 2009 and previously served as Speaker of the Oregon House. He worked at a Habitat for Humanity affiliate before entering politics and sits on the Senate Appropriations and Foreign Relations committees.",
+      "voteShare": 58.09,
+      "bio": "Jeff Merkley was first elected to the U.S. Senate from Oregon in 2008 and previously served as Speaker in the Oregon legislature. He was executive director of a Habitat for Humanity affiliate in Portland before entering politics and sits on the Senate Appropriations and Foreign Relations committees.",
       "website": "https://www.jeffmerkley.com",
       "positions": [
         {
@@ -51,8 +51,7 @@
         }
       ],
       "sources": [
-        "https://www.merkley.senate.gov/about/",
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon"
+        "https://www.merkley.senate.gov/about/"
       ]
     },
     {
@@ -61,7 +60,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 38.59,
+      "voteShare": 38.55,
       "bio": "David Brock Smith is an Oregon state senator representing the 1st district since 2023. He won the Republican nomination for U.S. Senate in the May 2026 primary.",
       "website": "https://davidbrocksmithfororegon.com",
       "positions": [
@@ -77,20 +76,19 @@
         },
         {
           "issue": "climate",
-          "summary": "Sponsored House Bill 3375 in 2021, which set a goal of planning for offshore wind energy development.",
-          "source": "https://en.wikipedia.org/wiki/David_Brock_Smith"
+          "summary": "Was a chief sponsor of House Bill 3375 in 2021, which set a goal of planning for offshore wind energy development.",
+          "source": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureSponsors?$filter=SessionKey%20eq%20'2021R1'%20and%20MeasurePrefix%20eq%20'HB'%20and%20MeasureNumber%20eq%203375"
         },
         {
           "issue": "abortion",
-          "summary": "Voted yes in 2017 on House Bill 3391, which requires health plans to cover reproductive health services.",
-          "source": "https://ontheissues.org/social/David_Brock_Smith_Abortion.htm"
+          "summary": "Voted no in 2017 on House Bill 3391, which requires health plans to cover reproductive health services.",
+          "source": "https://api.oregonlegislature.gov/odata/odataservice.svc/MeasureVotes?$filter=SessionKey%20eq%20'2017R1'%20and%20MeasurePrefix%20eq%20'HB'%20and%20MeasureNumber%20eq%203391%20and%20VoteName%20eq%20'Rep%20Smith%20DB'"
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
         "https://www.opb.org/article/2026/03/04/oregon-senator-david-brock-smith-runs-for-us-senate/",
         "https://www.davidbrocksmithfororegon.com/issues",
-        "https://en.wikipedia.org/wiki/David_Brock_Smith"
+        "https://wtop.com/national/2026/05/david-brock-smith-wins-gop-primary-for-us-senate-in-oregon-will-face-democratic-incumbent-merkley/"
       ]
     },
     {
@@ -100,7 +98,7 @@
       "partyLabel": "Progressive",
       "major": false,
       "incumbent": false,
-      "voteShare": 2.25,
+      "voteShare": 2.26,
       "bio": null,
       "website": null,
       "positions": [],
@@ -120,12 +118,12 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
     "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
-    "https://www.thegreenpapers.com/G26/OR"
+    "https://www.thegreenpapers.com/G26/OR",
+    "https://results.oregonvotes.gov/resultsSW.aspx?type=FED&map=CTY",
+    "https://katu.com/news/politics/jeff-merkley-wins-fourth-term-in-us-senate-defeating-challenger-david-brock-smith-in-oregon"
   ],
-  "lastVerified": "2026-11-15",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Shares refreshed Nov. 25 from the Oregon Secretary of State count (updated Nov. 25, marked unofficial, 2,000,521 ballots). Write-ins are in the total."
 }

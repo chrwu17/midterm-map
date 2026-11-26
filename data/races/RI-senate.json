@@ -15,8 +15,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 66.79,
-      "bio": "Jack Reed has been a U.S. senator from Rhode Island since 1997 and previously served in the U.S. House. He is an Army veteran.",
+      "voteShare": 66.78,
+      "bio": "Jack Reed is a U.S. senator from Rhode Island, first elected to the Senate in 1996. He previously served in the U.S. House and is an Army veteran.",
       "website": "https://www.jackreed.com",
       "positions": [
         {
@@ -46,7 +46,6 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
         "https://www.reed.senate.gov/about/jacks-story"
       ]
     },
@@ -57,7 +56,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 29.26,
-      "bio": "Raymond \"Ray\" McKay is a Warwick resident and Army veteran (1981-1992) who worked as a network and telecommunications manager for the City of Warwick for 26 years. He was president of the Rhode Island Republican Assembly from 2005 to 2014 and was the 2024 Republican Senate candidate in Rhode Island, before winning the 2026 Republican nomination unopposed.",
+      "bio": "Raymond \"Ray\" McKay is a Warwick resident and Army veteran (1981-1992) who worked as a network and telecommunications manager for the City of Warwick for 26 years. He was president of the Rhode Island Republican Assembly from 2005 to 2014 and won the 2026 Republican nomination unopposed.",
       "website": "https://www.mckayforussenate.com/",
       "positions": [
         {
@@ -82,10 +81,9 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
-        "https://ballotpedia.org/United_States_Senate_election_in_Rhode_Island,_2026",
         "https://www.mckayforussenate.com/meet-ray-mckay/",
-        "https://www.mckayforussenate.com/right-direction/"
+        "https://www.mckayforussenate.com/right-direction/",
+        "https://www.foxnews.com/politics/veteran-dem-senator-cruises-past-progressive-primary-challengers-bid-sixth-term"
       ]
     },
     {
@@ -98,15 +96,16 @@
       "bio": null,
       "website": null,
       "positions": [],
-      "sources": []
+      "sources": [
+        "https://www.thegreenpapers.com/G26/RI"
+      ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/RI"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Vote totals read Nov. 25 from thegreenpapers.com. Write-ins are in the total. Certification not confirmed."
 }

@@ -7,7 +7,7 @@
   "electionDate": "2026-11-03",
   "status": "called",
   "winnerId": "cindy-holscher",
-  "summary": "Democrat Laura Kelly could not run again, so Kansas elected a new governor. Democrat Cindy Holscher won, beating Republican Ty Masterson by less than 1 percentage point.",
+  "summary": "Democrat Laura Kelly could not run again, so Kansas elected a new governor. Democrat Cindy Holscher won, beating Republican Ty Masterson by about 1 percentage point.",
   "candidates": [
     {
       "id": "cindy-holscher",
@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 50.33,
+      "voteShare": 50.51,
       "bio": "Cindy Holscher is an Overland Park Democrat who has served in the Kansas Senate since 2021 and was a state representative for four years before that. She worked for many years at Sprint.",
       "website": "https://www.cindyforkansas.com/",
       "positions": [
@@ -36,17 +36,17 @@
         },
         {
           "issue": "climate",
-          "summary": "Says Kansas should stop approving new data centers until guardrails are in place.",
+          "summary": "Says Kansas should pause new data centers until guardrails are set up to protect the environment, jobs and budgets.",
           "source": "https://www.cindyforkansas.com/issues/putting-a-pause-on-data-centers"
         },
         {
           "issue": "abortion",
-          "summary": "Says voters settled the abortion question in 2022 and that she would oppose efforts to restrict reproductive care.",
+          "summary": "Says voters settled the abortion question in 2022 and that she would oppose efforts she sees as taking the state backwards on women's rights or healthcare.",
           "source": "https://salinapost.com/posts/9f9b260b-5c26-4cd6-a81c-212904371850"
         },
         {
           "issue": "immigration",
-          "summary": "Says she supports enforcing immigration laws but wants federal agents held accountable and ICE reformed.",
+          "summary": "Says immigration laws need to be enforced, that ICE agents who commit abuses should be held accountable, and that the agency should be reformed from top to bottom.",
           "source": "https://salinapost.com/posts/9f9b260b-5c26-4cd6-a81c-212904371850"
         }
       ],
@@ -60,7 +60,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 49.67,
+      "voteShare": 49.49,
       "bio": "Ty Masterson is an Andover Republican who served in the Kansas House from 2005 to 2009 and has been a state senator since, serving as Senate president since 2021. He won the Republican primary with President Trump's endorsement.",
       "website": "https://www.mastersonforgovernor.com/",
       "positions": [
@@ -71,13 +71,13 @@
         },
         {
           "issue": "abortion",
-          "summary": "Says abortion is not a settled issue and that people want fewer abortions.",
-          "source": "https://ontheissues.org/2026_KS_Gov.htm"
+          "summary": "Called abortion \"an 80-20 issue in many areas\" and said surveys show 80 percent of people want fewer abortions and do not want taxpayer-funded abortions.",
+          "source": "https://www.kctv5.com/2026/07/17/how-candidates-kansas-governor-will-address-issue-access-abortion/"
         },
         {
           "issue": "immigration",
-          "summary": "Says he backs stronger border security and deportations.",
-          "source": "https://ontheissues.org/2026_KS_Gov.htm"
+          "summary": "Campaigned on border security.",
+          "source": "https://www.foxnews.com/politics/conservative-heavyweights-duked-red-state-primary-reclaim-governors-mansion-democrats"
         },
         {
           "issue": "healthcare",
@@ -86,24 +86,29 @@
         },
         {
           "issue": "education",
-          "summary": "Says he wants parents to have a say in their children's education and supports open enrollment.",
-          "source": "https://ontheissues.org/2026_KS_Gov.htm"
+          "summary": "Says parents need choices and that he would bring school choice to Kansas as governor.",
+          "source": "https://heartlandernews.com/exclusive-irreconcilable-differences-kansas-governors-race-offers-two-incompatible-paths-forward-says-candidate-ty-masterson/"
         }
       ],
       "sources": [
-        "https://www.hppr.org/2026-10-14/kansas-governor-race-2026-election-candidates-masterson-holscher"
+        "https://www.hppr.org/2026-10-14/kansas-governor-race-2026-election-candidates-masterson-holscher",
+        "https://www.kctv5.com/2026/07/17/how-candidates-kansas-governor-will-address-issue-access-abortion/",
+        "https://heartlandernews.com/exclusive-irreconcilable-differences-kansas-governors-race-offers-two-incompatible-paths-forward-says-candidate-ty-masterson/",
+        "https://www.foxnews.com/politics/conservative-heavyweights-duked-red-state-primary-reclaim-governors-mansion-democrats"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
     "https://www.kctv5.com/2026/11/10/holscher-says-transition-work-with-gov-kelly-has-begun-kansas-election-audit-continues/",
     "https://www.kctv5.com/2026/11/06/mail-in-ballots-set-arrive-kansas-governors-race-remains-uncalled/",
     "https://www.multistate.us/resources/governors-2026-state-election-results",
     "https://www.hppr.org/2026-11-12/kansas-governor-cindy-holschder-election-results-blue-wave-legislature",
-    "https://www.kcur.org/2026-11-12/cindy-holscher-continues-democrats-winning-streak-by-cinching-race-for-governor"
+    "https://www.kcur.org/2026-11-12/cindy-holscher-continues-democrats-winning-streak-by-cinching-race-for-governor",
+    "https://kssos.org/media/press-releases.html",
+    "https://www.thegreenpapers.com/G26/KS",
+    "https://www.nbcnews.com/politics/2026-elections/kansas-governor-results"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Called as of 2026-11-14. HPPR (KCUR story, page shows published Nov 14, URL dated Nov 12) says Holscher is governor 'according to the Associated Press' after the close-race audit: https://www.hppr.org/2026-11-12/kansas-governor-cindy-holschder-election-results-blue-wave-legislature . KCUR (Nov 12) says Masterson conceded on Thursday: https://www.kcur.org/2026-11-12/cindy-holscher-continues-democrats-winning-streak-by-cinching-race-for-governor . AP page itself not opened."
+  "factCheckNote": "Called as of 2026-11-14. HPPR (KCUR story, page shows published Nov 14, URL dated Nov 12) says Holscher is governor 'according to the Associated Press' after the close-race audit: https://www.hppr.org/2026-11-12/kansas-governor-cindy-holschder-election-results-blue-wave-legislature . KCUR (Nov 12) says Masterson conceded on Thursday: https://www.kcur.org/2026-11-12/cindy-holscher-continues-democrats-winning-streak-by-cinching-race-for-governor . AP page itself not opened. 2026-11-25: all shares are computed from the vote counts on the NBC News results page, last updated Nov. 19, 2026. The State Board of Canvassers meets Dec 1 to certify (https://kssos.org/media/press-releases.html)."
 }

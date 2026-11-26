@@ -14,21 +14,20 @@
      "name": "Suzan DelBene",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 67.45
+     "voteShare": 67.5
     },
     {
      "id": "mary-silva",
      "name": "Mary Silva",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 32.24
+     "voteShare": 32.17
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/WA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "WA-02",
@@ -41,7 +40,7 @@
      "name": "Rick Larsen",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 66.53
+     "voteShare": 66.52
     },
     {
      "id": "edwin-feller",
@@ -52,10 +51,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/WA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "WA-03",
@@ -68,21 +66,20 @@
      "name": "Marie Gluesenkamp Perez",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 53.6
+     "voteShare": 53.68
     },
     {
      "id": "john-braun",
      "name": "John Braun",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 45.4
+     "voteShare": 45.39
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington"
+    "https://www.thegreenpapers.com/G26/WA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "WA-04",
@@ -95,21 +92,20 @@
      "name": "Amanda McKinney",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 53.93
+     "voteShare": 53.51
     },
     {
      "id": "john-duresky",
      "name": "John Duresky",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 45.87
+     "voteShare": 46.26
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington"
+    "https://www.thegreenpapers.com/G26/WA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "WA-05",
@@ -122,21 +118,20 @@
      "name": "Michael Baumgartner",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 52.01
+     "voteShare": 52.12
     },
     {
      "id": "carmela-conroy",
      "name": "Carmela Conroy",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 47.59
+     "voteShare": 47.51
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington"
+    "https://www.thegreenpapers.com/G26/WA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "WA-06",
@@ -149,21 +144,20 @@
      "name": "Emily Randall",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 62.41
+     "voteShare": 62.47
     },
     {
      "id": "teresa-fox",
      "name": "Teresa Fox",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 37.37
+     "voteShare": 37.33
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/WA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "WA-07",
@@ -176,21 +170,20 @@
      "name": "Pramila Jayapal",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 87.58
+     "voteShare": 87.63
     },
     {
      "id": "nirav-sheth",
      "name": "Nirav Sheth",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 12.06
+     "voteShare": 12.01
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/WA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "WA-08",
@@ -203,21 +196,20 @@
      "name": "Kim Schrier",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 57.04
+     "voteShare": 57.16
     },
     {
      "id": "spencer-meline",
      "name": "Spencer Meline",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 42.69
+     "voteShare": 42.6
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/WA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "WA-09",
@@ -230,21 +222,20 @@
      "name": "Adam Smith",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 75.65
+     "voteShare": 75.74
     },
     {
      "id": "doug-basler",
      "name": "Doug Basler",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 23.62
+     "voteShare": 23.54
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/WA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "WA-10",
@@ -257,21 +248,20 @@
      "name": "Marilyn Strickland",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 63.84
+     "voteShare": 64.02
     },
     {
      "id": "chris-chung",
      "name": "Chris Chung",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 35.52
+     "voteShare": 35.37
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/WA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 54.99,
-      "bio": "Barr graduated from the University of Virginia and the University of Kentucky College of Law, worked as a legislative assistant to Rep. Jim Talent and practiced law in Lexington. He has represented Kentucky's 6th Congressional District in the U.S. House since 2013. He won the 2026 Republican Senate nomination with Donald Trump's endorsement, ahead of former state Attorney General Daniel Cameron.",
+      "bio": "Barr graduated from the University of Virginia and received his law degree from the University of Kentucky. He has represented Kentucky's 6th Congressional District in the U.S. House since 2013. He won the May 2026 Republican Senate primary.",
       "website": "https://barrforsenate.com/",
       "positions": [
         {
@@ -46,8 +46,9 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Andy_Barr",
-        "https://barrforsenate.com/"
+        "https://barrforsenate.com/",
+        "https://barr.house.gov/full-biography",
+        "https://www.thegreenpapers.com/G26/KY"
       ]
     },
     {
@@ -57,7 +58,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 42.9,
-      "bio": "Booker grew up in West Louisville, holds a B.S. and law degree from the University of Louisville, and says he rationed insulin as a child. He served in the Kentucky House from 2019 to 2021, lost the 2020 Democratic Senate primary, and was the 2022 Democratic Senate nominee. Gov. Andy Beshear appointed him in 2023 to lead the Office of Faith-Based Initiatives and Community Involvement; he won the 2026 Democratic primary over Amy McGrath.",
+      "bio": "Booker comes from a West Louisville family and says he grew up rationing insulin. He is a former state representative who lost the 2020 Democratic Senate primary and was the Democratic nominee in 2022 and 2026. Between those races he worked in the office of Gov. Andy Beshear.",
       "website": "https://charlesbookerky.org/",
       "positions": [
         {
@@ -93,7 +94,9 @@
       ],
       "sources": [
         "https://charlesbookerky.org/",
-        "https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)"
+        "https://www.foxnews.com/politics/pro-reparations-progressive-democrat-who-wants-ice-abolished-mounts-longshot-senate-bid-succeed-mcconnell",
+        "https://www.thegreenpapers.com/G22/KY",
+        "https://www.thegreenpapers.com/G26/KY"
       ]
     },
     {
@@ -110,10 +113,10 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/KY"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). 2026-11-25: shares match The Green Papers. No page confirming certification was found."
 }

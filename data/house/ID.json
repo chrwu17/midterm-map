@@ -14,14 +14,14 @@
      "name": "Russ Fulcher",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 64.23
+     "voteShare": 64.17
     },
     {
      "id": "kaylee-peterson",
      "name": "Kaylee Peterson",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 28.9
+     "voteShare": 28.87
     },
     {
      "id": "sarah-zabel",
@@ -36,14 +36,13 @@
      "party": "Other",
      "partyLabel": "Constitution",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 0.9
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+    "https://www.thegreenpapers.com/G26/ID"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "ID-02",
@@ -56,42 +55,41 @@
      "name": "Mike Simpson",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 51.71
+     "voteShare": 51.67
     },
     {
      "id": "ellie-gilbreath",
      "name": "Ellie Gilbreath",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 40.29
+     "voteShare": 40.27
     },
     {
      "id": "tripp-hutchinson",
      "name": "Tripp Hutchinson",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 3.52
     },
     {
      "id": "emre-houser",
      "name": "Emre Houser",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.38
     },
     {
      "id": "will-johanson",
      "name": "Will Johanson",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.16
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+    "https://www.thegreenpapers.com/G26/ID"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

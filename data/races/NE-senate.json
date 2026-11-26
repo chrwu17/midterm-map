@@ -15,8 +15,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 49.94,
-      "bio": "Pete Ricketts is the Republican U.S. Senator from Nebraska and a former governor of the state. He sponsored the National Right to Work Act.",
+      "voteShare": 49.84,
+      "bio": "Pete Ricketts is the Republican U.S. Senator from Nebraska and a former governor of the state. He cosponsored the National Right-to-Work Act.",
       "website": "https://www.ricketts.senate.gov/",
       "positions": [
         {
@@ -46,8 +46,10 @@
         }
       ],
       "sources": [
-        "https://ontheissues.org/senate/Peter_Ricketts.htm",
-        "https://www.kwit.org/podcast/spm-news/2026-09-02/osborn-ricketts-debate-issues-as-seek-u-s-senate-seat-in-nebraska"
+        "https://www.ricketts.senate.gov/about/",
+        "https://www.kwit.org/podcast/spm-news/2026-09-02/osborn-ricketts-debate-issues-as-seek-u-s-senate-seat-in-nebraska",
+        "https://fastdemocracy.com/bill-search/us/119/bills/USB00091480",
+        "https://kmph.com/news/connect-to-congress/nebraska-independent-takes-another-run-at-unseating-a-republican-senator-dan-osborn-pete-ricketts-2026-election-midterms"
       ]
     },
     {
@@ -56,8 +58,8 @@
       "party": "Independent",
       "major": true,
       "incumbent": false,
-      "voteShare": 44.08,
-      "bio": "Dan Osborn is a registered independent and former Omaha labor leader. He is running for Senate for a second time after his 2024 campaign.",
+      "voteShare": 44.15,
+      "bio": "Dan Osborn is an independent and former Omaha labor leader. He ran for Senate for a second time after his 2024 campaign.",
       "website": "https://www.osbornforsenate.com/",
       "positions": [
         {
@@ -82,7 +84,8 @@
         }
       ],
       "sources": [
-        "https://kmph.com/news/connect-to-congress/nebraska-independent-takes-another-run-at-unseating-a-republican-senator-dan-osborn-pete-ricketts-2026-election-midterms"
+        "https://kmph.com/news/connect-to-congress/nebraska-independent-takes-another-run-at-unseating-a-republican-senator-dan-osborn-pete-ricketts-2026-election-midterms",
+        "https://www.osbornforsenate.com/meet-dan"
       ]
     },
     {
@@ -105,7 +108,7 @@
       "partyLabel": "Legal Marijuana Now",
       "major": false,
       "incumbent": false,
-      "voteShare": 2.17,
+      "voteShare": 2.18,
       "bio": null,
       "website": null,
       "positions": [],
@@ -126,12 +129,12 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
     "https://www.wowt.com/2026/11/04/republican-pete-ricketts-wins-reelection-us-senate-over-independent-challenger-nebraska/",
     "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
-    "https://electionresults.nebraska.gov/resultsSW.aspx"
+    "https://electionresults.nebraska.gov/resultsSW.aspx",
+    "https://sos.nebraska.gov/board-state-canvassers-certify-general-election-results"
   ],
-  "lastVerified": "2026-11-15",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by wowt.com report"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by wowt.com report. Shares refreshed Nov. 25, 2026 from the Nebraska Secretary of State page, still labeled Unofficial Results. State canvass is set for Nov. 30."
 }

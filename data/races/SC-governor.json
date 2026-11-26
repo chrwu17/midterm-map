@@ -7,7 +7,7 @@
   "electionDate": "2026-11-03",
   "status": "called",
   "winnerId": "alan-wilson",
-  "summary": "Gov. Henry McMaster (Republican) was term-limited, so the seat was open. Alan Wilson (Republican) won, defeating Jermaine Johnson (Democrat), who conceded.",
+  "summary": "Gov. Henry McMaster (Republican) was term-limited, so the seat was open. Alan Wilson (Republican) won, defeating Jermaine Johnson (Democrat).",
   "candidates": [
     {
       "id": "alan-wilson",
@@ -46,7 +46,7 @@
         }
       ],
       "sources": [
-        "https://ballotpedia.org/Alan_Wilson_(South_Carolina)"
+        "https://www.wbtv.com/2026/11/04/republican-alan-wilson-wins-south-carolinas-2026-governor-race-ap-projects/"
       ]
     },
     {
@@ -56,13 +56,13 @@
       "major": true,
       "incumbent": false,
       "voteShare": 47.13,
-      "bio": "Jermaine Johnson is a member of the South Carolina House of Representatives and its Democratic minority leader. He was the Democratic nominee for governor in 2026.",
-      "website": null,
+      "bio": "Jermaine Johnson has served in the South Carolina House of Representatives since 2020. He was the Democratic nominee for governor in 2026.",
+      "website": "https://www.johnsonforsc.com",
       "positions": [
         {
           "issue": "education",
           "summary": "Says that as governor he would increase the focus and funding for trade schools and tech academies.",
-          "source": "https://ontheissues.org/Jermaine_Johnson.htm"
+          "source": "https://www.johnsonforsc.com/policies"
         },
         {
           "issue": "climate",
@@ -91,16 +91,47 @@
         }
       ],
       "sources": [
-        "https://scdailygazette.com/2026/06/24/sc-democrat-for-governor-makes-first-post-primary-pitch-to-voters/"
+        "https://www.johnsonforsc.com/about",
+        "https://www.wbtv.com/2026/11/04/republican-alan-wilson-wins-south-carolinas-2026-governor-race-ap-projects/"
+      ]
+    },
+    {
+      "id": "michael-addison",
+      "name": "Michael Addison",
+      "party": "Other",
+      "partyLabel": "United Citizens",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.79,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://www.thegreenpapers.com/G26/SC"
+      ]
+    },
+    {
+      "id": "walid-hakim",
+      "name": "Walid Hakim",
+      "party": "Green",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.45,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://www.thegreenpapers.com/G26/SC"
       ]
     }
   ],
   "sources": [
     "https://www.wbtv.com/2026/11/04/republican-alan-wilson-wins-south-carolinas-2026-governor-race-ap-projects/",
-    "https://en.wikipedia.org/wiki/2026_South_Carolina_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://abcnews4.com/news/local/2026-11-16-south-carolina-certifies-2026-election-results-with-more-than-2-million-votes-cast-early-voting",
+    "https://www.thegreenpapers.com/G26/SC"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Vote totals read Nov. 25 from thegreenpapers.com. Write-ins are in the total. abcnews4.com reported that the State Election Commission certified the results, but the certified count itself was not opened, so the race is not marked certified."
 }

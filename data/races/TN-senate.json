@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": true,
       "voteShare": 55.08,
-      "bio": "Bill Hagerty has been a U.S. senator from Tennessee since 2021. He previously served as U.S. ambassador to Japan.",
+      "bio": "Bill Hagerty is a U.S. senator from Tennessee, first elected in 2020. He previously served as U.S. ambassador to Japan.",
       "website": "https://www.hagerty.senate.gov",
       "positions": [
         {
@@ -51,7 +51,6 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee",
         "https://www.hagerty.senate.gov/about/"
       ]
     },
@@ -62,7 +61,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 42.91,
-      "bio": "Marquita Bradshaw is a staffing consultant and was the Democratic nominee for this Senate seat in 2020. She does not currently hold office.",
+      "bio": "Marquita Bradshaw is an environmental activist from Memphis. She was the Democratic nominee for this Senate seat in 2020 and 2026.",
       "website": "https://marquitabradshaw.com",
       "positions": [
         {
@@ -87,8 +86,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee",
-        "https://marquitabradshaw.com/priorities"
+        "https://marquitabradshaw.com/priorities",
+        "https://www.wkms.org/government-politics/2026-08-06/u-s-sen-bill-hagerty-will-face-democratic-challenger-marquita-bradshaw-for-a-second-time"
       ]
     },
     {
@@ -97,12 +96,12 @@
       "party": "Independent",
       "major": false,
       "incumbent": false,
-      "voteShare": 0.46,
+      "voteShare": 0.45,
       "bio": null,
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -116,7 +115,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -130,7 +129,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -144,7 +143,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -158,7 +157,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -172,7 +171,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -186,7 +185,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -200,16 +199,15 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee",
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/TN"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Vote totals read Nov. 25 from thegreenpapers.com. Certification not confirmed."
 }

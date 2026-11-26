@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 45.52,
-      "bio": "Marsha Blackburn is a U.S. senator from Tennessee, in office since 2019, and previously represented Tennessee's 7th District in the U.S. House from 2003 to 2019. She was the Republican nominee for governor in 2026.",
+      "bio": "Marsha Blackburn is a U.S. senator from Tennessee, first elected to the Senate in 2018, and served in the U.S. House from 2003 to 2019. She was the Republican nominee for governor in 2026.",
       "website": "https://marshablackburn.com",
       "positions": [
         {
@@ -41,7 +41,7 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Marsha_Blackburn"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -99,7 +99,9 @@
       "bio": null,
       "website": null,
       "positions": [],
-      "sources": []
+      "sources": [
+        "https://www.thegreenpapers.com/G26/TN"
+      ]
     },
     {
       "id": "lauren-pinkston",
@@ -112,7 +114,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -126,7 +128,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -140,7 +142,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -154,7 +156,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -168,7 +170,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -182,7 +184,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -196,7 +198,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -210,7 +212,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -224,7 +226,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -238,7 +240,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -252,7 +254,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     },
     {
@@ -266,16 +268,16 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/TN"
       ]
     }
   ],
   "sources": [
     "https://www.wkrn.com/news/tennessee-politics/tn-governors-race-election-results-nov-3-2026/amp/",
-    "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.thegreenpapers.com/G26/TN"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that results were unofficial."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Vote totals read Nov. 25 from thegreenpapers.com. Certification not confirmed."
 }

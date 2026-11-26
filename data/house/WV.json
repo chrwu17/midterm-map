@@ -29,14 +29,13 @@
      "party": "Other",
      "partyLabel": "Constitution",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 3.32
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_West_Virginia"
+    "https://www.thegreenpapers.com/G26/WV"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "WV-02",
@@ -49,21 +48,20 @@
      "name": "Riley Moore",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 59.36
+     "voteShare": 59.37
     },
     {
      "id": "ace-parsi",
      "name": "Ace Parsi",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 40.62
+     "voteShare": 40.63
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_West_Virginia"
+    "https://www.thegreenpapers.com/G26/WV"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

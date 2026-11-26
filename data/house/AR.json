@@ -14,28 +14,27 @@
      "name": "Rick Crawford",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 65.5
+     "voteShare": 65.41
     },
     {
      "id": "terri-green",
      "name": "Terri Green",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 31.0
+     "voteShare": 31.01
     },
     {
      "id": "steve-parsons",
      "name": "Steve Parsons",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 3.57
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas"
+    "https://www.thegreenpapers.com/G26/AR"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AR-02",
@@ -48,21 +47,20 @@
      "name": "French Hill",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 50.87
+     "voteShare": 50.81
     },
     {
      "id": "chris-jones",
      "name": "Chris Jones",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 49.13
+     "voteShare": 49.19
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas"
+    "https://www.thegreenpapers.com/G26/AR"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AR-03",
@@ -75,28 +73,27 @@
      "name": "Steve Womack",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 54.91
+     "voteShare": 54.83
     },
     {
      "id": "robb-ryerse",
      "name": "Robb Ryerse",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 41.5
+     "voteShare": 41.54
     },
     {
      "id": "bobby-wilson",
      "name": "Bobby Wilson",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 3.62
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas"
+    "https://www.thegreenpapers.com/G26/AR"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AR-04",
@@ -109,21 +106,20 @@
      "name": "Bruce Westerman",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 65.49
+     "voteShare": 65.47
     },
     {
      "id": "james-russell",
      "name": "James Russell",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 34.51
+     "voteShare": 34.53
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas"
+    "https://www.thegreenpapers.com/G26/AR"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

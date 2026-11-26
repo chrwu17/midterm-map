@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 51.92,
-      "bio": "Mike Mazzei is a financial planner who served in the Oklahoma Senate from 2004 to 2016 and as Gov. Kevin Stitt's secretary of budget. He won the 2026 Republican nomination for governor in a runoff.",
+      "bio": "Mike Mazzei is a financial adviser and former Oklahoma state senator who was Gov. Kevin Stitt's secretary of budget from 2019 to 2020. He won the 2026 Republican nomination for governor in a runoff.",
       "website": "https://mikeforok.com",
       "positions": [
         {
@@ -41,8 +41,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Mike_Mazzei",
-        "https://ballotpedia.org/Mike_Mazzei"
+        "https://www.newsweek.com/trump-backed-mike-mazzeis-chances-of-beating-cyndi-munson-in-oklahoma-12368327",
+        "https://tulsaflyer.org/?p=23747"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 45.92,
-      "bio": "Cyndi Munson is a member of the Oklahoma House of Representatives and its Democratic minority leader. She won the 2026 Democratic nomination for governor.",
+      "bio": "Cyndi Munson has represented District 85 in the Oklahoma House of Representatives, where she was the Democratic minority leader. She won the 2026 Democratic nomination for governor.",
       "website": "https://www.cyndimunson.com/",
       "positions": [
         {
@@ -82,7 +82,8 @@
         }
       ],
       "sources": [
-        "https://www.news9.com/oklahoma-city-news/q-a-democratic-gubernatorial-nominee-cyndi-munson-says-oklahomans-are-ready-for-change"
+        "https://www.news9.com/oklahoma-city-news/q-a-democratic-gubernatorial-nominee-cyndi-munson-says-oklahomans-are-ready-for-change",
+        "https://www.okhouse.gov/representatives/cyndi-munson"
       ]
     },
     {
@@ -124,10 +125,11 @@
   ],
   "sources": [
     "https://www.news9.com/oklahoma-politics/oklahoma-election-mazzei-narrow-victory-voter-turnout",
-    "https://en.wikipedia.org/wiki/2026_Oklahoma_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://oklahoma.gov/elections/elections-results/election-results/2026-election-results/november-general-election.html",
+    "https://www.thegreenpapers.com/G26/OK"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Summary note moved: results were unofficial."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Vote totals read Nov. 25 from thegreenpapers.com. The State Election Board page at oklahoma.gov is headed OFFICIAL RESULTS, but it does not show the totals and the official count was not opened, so the race is not marked certified."
 }

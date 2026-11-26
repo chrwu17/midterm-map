@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 61.95,
+      "voteShare": 62.07,
       "bio": "Stratton was born and raised on Chicago's South Side, the daughter of a Navy veteran and a Chicago public school teacher. She served as an Illinois state representative before becoming lieutenant governor under Gov. JB Pritzker, and she says she spent seven years in that office. She won the March 2026 Democratic primary with 40.4% of the vote and Pritzker's backing.",
       "website": "https://www.julianastratton.com/",
       "positions": [
@@ -61,8 +61,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 36.46,
-      "bio": "Tracy is a Springfield lawyer, a partner at Brown, Hay & Stephens and outside counsel to the family-owned food distributor Dot Foods. He chaired the Illinois Gaming Board from 2015 to 2019 and chaired the Illinois Republican Party from 2021 to 2024. He won the March 2026 Republican primary for the Senate seat held by retiring Democrat Dick Durbin.",
+      "voteShare": 36.34,
+      "bio": "Tracy is a Springfield lawyer, senior counsel at Brown, Hay & Stephens, whose family runs the food distributor Dot Foods. He chaired the Illinois Republican Party from 2021 to 2024. He was the 2026 Republican nominee for the Senate seat held by Democrat Dick Durbin.",
       "website": null,
       "positions": [
         {
@@ -92,7 +92,6 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Don_Tracy",
         "https://insider.capitolnewsillinois.com/underdog-tracy-says-hes-answering-a-call-of-duty-by-running-for-durbins-seat/"
       ]
     },
@@ -110,11 +109,10 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Illinois",
     "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
     "https://www.thegreenpapers.com/G26/IL"
   ],
-  "lastVerified": "2026-11-15",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). 2026-11-25: all shares refreshed from one count (The Green Papers). No page confirming certification was opened."
 }

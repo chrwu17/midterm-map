@@ -25,10 +25,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-02",
@@ -52,10 +51,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-03",
@@ -79,10 +77,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-04",
@@ -95,7 +92,7 @@
      "name": "Pat Fallon",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 56.05
+     "voteShare": 56.06
     },
     {
      "id": "jason-pearce",
@@ -106,10 +103,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-05",
@@ -133,10 +129,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-06",
@@ -156,14 +151,13 @@
      "name": "Danny Minton",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 47.83
+     "voteShare": 47.84
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-07",
@@ -194,10 +188,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-08",
@@ -221,10 +214,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-09",
@@ -248,10 +240,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-10",
@@ -275,10 +266,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-11",
@@ -302,10 +292,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-12",
@@ -329,10 +318,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-13",
@@ -345,21 +333,20 @@
      "name": "Ronny Jackson",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 65.24
+     "voteShare": 65.26
     },
     {
      "id": "mark-nair",
      "name": "Mark Nair",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 34.73
+     "voteShare": 34.74
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-14",
@@ -372,7 +359,7 @@
      "name": "Randy Weber",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 54.02
+     "voteShare": 54.01
     },
     {
      "id": "thurman-bartie",
@@ -383,10 +370,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-15",
@@ -399,7 +385,7 @@
      "name": "Bobby Pulido",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 62.33
+     "voteShare": 62.32
     },
     {
      "id": "monica-de-la-cruz",
@@ -410,10 +396,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-16",
@@ -426,21 +411,20 @@
      "name": "Veronica Escobar",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 70.8
+     "voteShare": 70.76
     },
     {
      "id": "adam-bauman",
      "name": "Adam Bauman",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 29.2
+     "voteShare": 29.24
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-17",
@@ -453,7 +437,7 @@
      "name": "Pete Sessions",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 53.55
+     "voteShare": 53.56
     },
     {
      "id": "casey-shepard",
@@ -464,10 +448,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-18",
@@ -480,21 +463,20 @@
      "name": "Christian Menefee",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 86.15
+     "voteShare": 86.04
     },
     {
      "id": "ronald-whitfield",
      "name": "Ronald Whitfield",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 13.98
+     "voteShare": 13.96
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-19",
@@ -507,21 +489,20 @@
      "name": "Tom Sell",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 69.42
+     "voteShare": 69.48
     },
     {
      "id": "kyle-rable",
      "name": "Kyle Rable",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 30.49
+     "voteShare": 30.52
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-20",
@@ -534,7 +515,7 @@
      "name": "Joaquin Castro",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 77.63
+     "voteShare": 77.61
     },
     {
      "id": "edgardo-rafael-baez",
@@ -545,10 +526,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-21",
@@ -561,7 +541,7 @@
      "name": "Mark Teixeira",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 54.53
+     "voteShare": 54.52
     },
     {
      "id": "kristin-hook",
@@ -572,10 +552,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-22",
@@ -587,7 +566,7 @@
      "id": "trever-nehls",
      "name": "Trever Nehls",
      "party": "Republican",
-     "incumbent": true,
+     "incumbent": false,
      "voteShare": 51.82
     },
     {
@@ -599,10 +578,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-23",
@@ -633,10 +611,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-24",
@@ -660,10 +637,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-25",
@@ -687,10 +663,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+    "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-26",
@@ -721,10 +696,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-27",
@@ -748,10 +722,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-28",
@@ -782,10 +755,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-29",
@@ -809,10 +781,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-30",
@@ -836,10 +807,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-31",
@@ -870,10 +840,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-32",
@@ -897,10 +866,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-33",
@@ -924,10 +892,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-34",
@@ -965,10 +932,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-35",
@@ -992,10 +958,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-36",
@@ -1019,10 +984,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-37",
@@ -1034,7 +998,7 @@
      "id": "greg-casar",
      "name": "Greg Casar",
      "party": "Democratic",
-     "incumbent": false,
+     "incumbent": true,
      "voteShare": 83.75
     },
     {
@@ -1046,10 +1010,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TX-38",
@@ -1080,10 +1043,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TX"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

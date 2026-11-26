@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 55.46,
+      "voteShare": 55.48,
       "bio": "Amy Klobuchar is a Democrat who has served as a U.S. Senator from Minnesota since 2007 and was previously Hennepin County Attorney. She ran for governor after Gov. Tim Walz dropped his bid for re-election in January 2026.",
       "website": "https://www.amyklobuchar.com/",
       "positions": [
@@ -51,7 +51,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 42.63,
+      "voteShare": 42.62,
       "bio": "Lisa Demuth is a Republican and the Speaker of the Minnesota House of Representatives. She won the Republican primary for governor in 2026.",
       "website": "https://lisaformn.com/",
       "positions": [
@@ -92,15 +92,16 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/MN"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.house.mn.gov/sessiondaily/Story/19215",
+    "https://www.thegreenpapers.com/G26/MN"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). The Minnesota State Canvassing Board certified the election on Nov. 19, 2026. Shares come from The Green Papers, including write-ins in the total, and are not confirmed as the certified count."
 }

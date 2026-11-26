@@ -15,7 +15,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 51.38,
+      "voteShare": 51.39,
       "bio": "Kelly Ayotte is a Republican who has been New Hampshire's governor since 2025. She is a former prosecutor and served six years as a U.S. senator.",
       "website": "https://kellyfornh.com/",
       "positions": [
@@ -47,7 +47,7 @@
       ],
       "sources": [
         "https://www.nhpr.org/politics/2026-06-11/nh-newhampshire-politics-kelly-ayotte-reelection-governor-2026-election-campaign-legislature",
-        "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election"
+        "https://www.nga.org/governor/kelly-ayotte/"
       ]
     },
     {
@@ -56,8 +56,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 47.1,
-      "bio": "Cinde Warmington is a former New Hampshire Executive Councilor (2021-2025) and was a 2024 gubernatorial candidate.",
+      "voteShare": 46.97,
+      "bio": "Cinde Warmington is a former New Hampshire executive councilor. She also ran for governor in 2024 and lost the Democratic primary.",
       "website": "https://www.cindewarmington.com/",
       "positions": [
         {
@@ -82,7 +82,7 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election"
+        "https://www.nhpr.org/nh-news/2026-02-18/cinde-warmington-running-new-hampshire-governor-2026"
       ]
     },
     {
@@ -96,15 +96,15 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/NH"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.thegreenpapers.com/G26/NH"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Shares refreshed Nov. 25, 2026 from The Green Papers, including write-ins in the total. State certification was not confirmed."
 }

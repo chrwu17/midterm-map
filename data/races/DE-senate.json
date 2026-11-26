@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": true,
       "voteShare": 63.35,
-      "bio": "Democratic U.S. senator from Delaware since 2010, seeking a third full term. He won the September 15, 2026 Democratic primary with 78% of the vote and serves on the Senate Small Business Committee. His campaign slogan is \"Make Washington More Like Delaware.\"",
+      "bio": "Democratic U.S. senator from Delaware, first elected in 2010. He won the 2026 Democratic primary with nearly 80% of the vote and serves on the Senate Small Business Committee. His campaign slogan is \"Make Washington More Like Delaware.\"",
       "website": "https://www.chriscoons.com/",
       "positions": [
         {
@@ -46,13 +46,14 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
         "https://www.chriscoons.com/",
         "https://www.coons.senate.gov/issues",
         "https://www.coons.senate.gov/issues/economic-opportunity/",
         "https://www.coons.senate.gov/issues/judiciary/",
         "https://www.coons.senate.gov/issues/energy-and-environment/",
-        "https://www.coons.senate.gov/issues/womens-rights/"
+        "https://www.coons.senate.gov/issues/womens-rights/",
+        "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/",
+        "https://www.coons.senate.gov/about"
       ]
     },
     {
@@ -62,20 +63,41 @@
       "major": true,
       "incumbent": false,
       "voteShare": 36.3,
-      "bio": "Anesthesiologist and real estate company owner who served one term in the Delaware State Senate, from 2009 to 2013. He was a Democrat until 2023, then led the Delaware Independent Party and was its 2024 U.S. Senate nominee, and joined the Republican Party in 2026. He won the Republican primary with 77.3% of the vote.",
+      "bio": "Anesthesiologist and commercial real estate company owner who served in the Delaware State Senate as a Democrat from 2009 to 2013. He ran for U.S. Senate with the Independent Party in 2024 and as a Republican in 2026. He won the Republican primary with about 77% of the vote.",
       "website": "https://www.drmikekatz.com/",
-      "positions": [],
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Would cut federal programs he sees as \"job killing\" and make pro-growth tax cuts permanent, according to a WHYY voter guide.",
+          "source": "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Calls the Affordable Care Act \"a failed policy\" overall and has called for repealing it, while saying it has \"a lot of really good things in it,\" including protections for pre-existing conditions.",
+          "source": "https://spotlightdelaware.org/2026/10/23/as-early-voting-opens-coons-katz-debate-affordability-israel-aid/"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Favors border security, withholding funding from sanctuary jurisdictions and enforcing stricter immigration laws, according to a WHYY voter guide.",
+          "source": "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/"
+        }
+      ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
-        "https://en.wikipedia.org/wiki/Michael_Katz_(politician)"
+        "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/",
+        "https://spotlightdelaware.org/2026/10/23/as-early-voting-opens-coons-katz-debate-affordability-israel-aid/",
+        "https://data.delaware.gov/resource/4hbv-7brf.json"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://elections.delaware.gov/results/",
+    "https://data.delaware.gov/resource/4hbv-7brf.json",
+    "https://elections.delaware.gov/elections/resultsarchive/elect2026/GE2026_Official_WriteInVotes_Statewide.pdf",
+    "https://elections.delaware.gov/results/enr/Election_StatewideResults_ID_GE2026.json"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Official count: the state results index lists \"General Election Official Results\", and the state data table \"Official Election Results by Office\" gives Coons 240,587 and Katz 137,837. Shares include the 1,330 write-ins in the state's official write-in report. The state results file for the 2026 General Election is marked \"OFFICIAL RESULTS\".",
+  "resultsCertified": true
 }

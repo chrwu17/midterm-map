@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 60.53,
+      "voteShare": 60.57,
       "bio": "Josh Shapiro is the governor of Pennsylvania, in office since January 2023. He previously served as state attorney general from 2017 to 2023 and as a Montgomery County commissioner.",
       "website": "https://joshshapiro.org",
       "positions": [
@@ -46,7 +46,7 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Josh_Shapiro"
+        "https://nga.org/governor/josh-shapiro"
       ]
     },
     {
@@ -55,8 +55,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 38.17,
-      "bio": "Stacy Garrity is the Pennsylvania state treasurer, in office since 2022, and a retired U.S. Army Reserve colonel. She was the Republican nominee for governor in 2026.",
+      "voteShare": 38.14,
+      "bio": "Stacy Garrity is the Pennsylvania state treasurer, in office since 2021, and a retired U.S. Army Reserve colonel. She was the Republican nominee for governor in 2026.",
       "website": "https://garrityforpa.com/",
       "positions": [
         {
@@ -81,16 +81,31 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Stacy_Garrity"
+        "https://www.patreasury.gov/treasurer/",
+        "https://www.spotlightpa.org/news/2026/11/election-results-pennsylvania-governor-josh-shapiro-stacy-garrity-elections/"
+      ]
+    },
+    {
+      "id": "ken-krawchuk",
+      "name": "Ken Krawchuk",
+      "party": "Libertarian",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 1.3,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://www.thegreenpapers.com/G26/PA"
       ]
     }
   ],
   "sources": [
     "https://www.spotlightpa.org/news/2026/11/election-results-pennsylvania-governor-josh-shapiro-stacy-garrity-elections/",
-    "https://en.wikipedia.org/wiki/2026_Pennsylvania_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.thegreenpapers.com/G26/PA"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Shares refreshed Nov. 25 from thegreenpapers.com, unofficial."
 }

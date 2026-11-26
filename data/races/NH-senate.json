@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 55.91,
+      "voteShare": 55.87,
       "bio": "Chris Pappas is a Democrat who represents New Hampshire in the U.S. House. He won the Democratic nomination for the open Senate seat in 2026.",
       "website": "https://chrispappas.org",
       "positions": [
@@ -55,7 +55,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 42.19,
+      "voteShare": 42.11,
       "bio": "John E. Sununu is a Republican who previously served as a U.S. Senator and U.S. Representative from New Hampshire. He won the Republican nomination for the open seat in 2026.",
       "website": null,
       "positions": [
@@ -92,7 +92,7 @@
       "partyLabel": "Constitution",
       "major": false,
       "incumbent": false,
-      "voteShare": 1.9,
+      "voteShare": 1.89,
       "bio": null,
       "website": null,
       "positions": [],
@@ -100,10 +100,10 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/NH"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Shares refreshed Nov. 25, 2026 from The Green Papers, including write-ins in the total. State certification was not confirmed."
 }

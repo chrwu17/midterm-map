@@ -14,35 +14,34 @@
      "name": "Ben McAdams",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 70.33
+     "voteShare": 70.45
     },
     {
      "id": "riley-owen",
      "name": "Riley Owen",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 26.03
+     "voteShare": 25.74
     },
     {
      "id": "jesse-west",
      "name": "Jesse West",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": 2.22
+     "voteShare": 2.33
     },
     {
      "id": "elias-montgomery",
      "name": "Elias Montgomery",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": 1.42
+     "voteShare": 1.45
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah"
+    "https://www.thegreenpapers.com/G26/UT"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "UT-02",
@@ -55,42 +54,42 @@
      "name": "Blake Moore",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 50.12
+     "voteShare": 49.72
     },
     {
      "id": "peter-crosby",
      "name": "Peter Crosby",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 42.21
+     "voteShare": 42.6
     },
     {
      "id": "carlton-bowen",
      "name": "Carlton Bowen",
-     "party": "Independent",
+     "party": "Other",
+     "partyLabel": "Independent American",
      "incumbent": false,
-     "voteShare": 3.32
+     "voteShare": 3.31
     },
     {
      "id": "robert-moesinger",
      "name": "Robert Moesinger",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": 2.57
+     "voteShare": 2.56
     },
     {
      "id": "daniel-cottam",
      "name": "Daniel Cottam",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": 1.79
+     "voteShare": 1.8
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah"
+    "https://www.thegreenpapers.com/G26/UT"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "UT-03",
@@ -103,14 +102,14 @@
      "name": "Celeste Maloy",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 57.2
+     "voteShare": 56.37
     },
     {
      "id": "kent-udell",
      "name": "Kent Udell",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 35.1
+     "voteShare": 35.9
     },
     {
      "id": "cassie-easley",
@@ -118,35 +117,34 @@
      "party": "Other",
      "partyLabel": "Constitution",
      "incumbent": false,
-     "voteShare": 3.2
+     "voteShare": 3.12
     },
     {
      "id": "michael-stoddard",
      "name": "Michael Stoddard",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": 2.27
+     "voteShare": 2.23
     },
     {
      "id": "ayden-scott",
      "name": "Ayden Scott",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": 1.6
+     "voteShare": 1.65
     },
     {
      "id": "adonis-hooslyn",
      "name": "Adonis Hooslyn",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": 0.7
+     "voteShare": 0.73
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah"
+    "https://www.thegreenpapers.com/G26/UT"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "UT-04",
@@ -158,36 +156,35 @@
      "id": "mike-kennedy",
      "name": "Mike Kennedy",
      "party": "Republican",
-     "incumbent": false,
-     "voteShare": 53.73
+     "incumbent": true,
+     "voteShare": 53.12
     },
     {
      "id": "jonny-larsen",
      "name": "Jonny Larsen",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 38.78
+     "voteShare": 39.3
     },
     {
      "id": "steven-burt",
      "name": "Steven Burt",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": 4.3
+     "voteShare": 4.33
     },
     {
      "id": "taylor-wright",
      "name": "Taylor Wright",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": 3.2
+     "voteShare": 3.25
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah"
+    "https://www.thegreenpapers.com/G26/UT"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

@@ -39,4 +39,4 @@ npm run lint
 
 - Results are unofficial until each state certifies them.
 - As of 2026-11-14, two races were uncalled, both in Alaska (Senate and governor); the ranked-choice count is on November 18. The site reads each race's status from its data file, so it updates when the files do.
-- Some candidates have few or no sourced positions yet. Wikipedia and OnTheIssues entries are secondary summaries, not the candidate's own words.
+- Some candidates have few or no sourced positions yet. A few positions cite OnTheIssues, which is a secondary summary, not the candidate's own words.

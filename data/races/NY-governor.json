@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 59.7,
+      "voteShare": 59.9,
       "bio": "Kathy Hochul has been governor of New York since 2021. She ran with Adrienne Adams and was also on the Working Families line.",
       "website": "https://kathyhochul.com/",
       "positions": [
@@ -41,7 +41,7 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/NY"
       ]
     },
     {
@@ -50,7 +50,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 40,
+      "voteShare": 39.9,
       "bio": "Bruce Blakeman is the Nassau County Executive. He was also on the Conservative line and ran with Todd Hood.",
       "website": null,
       "positions": [
@@ -76,15 +76,15 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/NY"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.thegreenpapers.com/G26/NY"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that figures reflected about 95% of returns."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Shares computed Nov. 25, 2026 from The Green Papers vote totals. Write-ins are in the total; blank and void ballots are not. State certification was not confirmed."
 }

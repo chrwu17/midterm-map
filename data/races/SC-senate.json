@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 51.14,
-      "bio": "Annie Andrews is a pediatrician and was a 2024 candidate for South Carolina's 1st congressional district. She won the 2026 Democratic nomination for U.S. Senate with 61.5% of the primary vote.",
+      "bio": "Annie Andrews is a pediatrician and was the 2022 Democratic nominee for South Carolina's 1st congressional district. She won the Democratic nomination for U.S. Senate in the June 2026 primary.",
       "website": "https://drannieandrews.com/",
       "positions": [
         {
@@ -51,10 +51,9 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
         "https://www.foxcarolina.com/2026/06/05/us-senate-race-sc-candidate-profile-annie-andrews/",
         "https://www.wistv.com/2026/10/28/full-interview-annie-andrews-shares-priorities-senate-ahead-election-day/",
-        "https://en.wikipedia.org/wiki/Annie_Andrews"
+        "https://www.wbtv.com/2026/11/04/democrat-annie-andrews-wins-us-senate-seat-south-carolina-ap-projects/"
       ]
     },
     {
@@ -64,12 +63,44 @@
       "major": true,
       "incumbent": true,
       "voteShare": 46.64,
-      "bio": "Darline Graham was a commissioner of the South Carolina Commission for the Blind from 2019 to 2026. Gov. Henry McMaster appointed her to the U.S. Senate in July 2026 after the death of her brother, Sen. Lindsey Graham, and she won the Republican nomination in an August runoff.",
+      "bio": "Darline Graham was appointed to the U.S. Senate in July 2026 to serve the rest of the term of her brother, Sen. Lindsey Graham, after his death. She won the Republican nomination in an August runoff.",
       "website": "http://darlinegraham.com",
-      "positions": [],
+      "positions": [
+        {
+          "issue": "economy",
+          "summary": "Says she would focus on cutting taxes and reducing federal spending, and her platform calls for making the Trump tax cuts permanent.",
+          "source": "https://abcnews4.com/news/local/news-4-sits-down-with-republican-party-candidate-sen-darline-graham"
+        },
+        {
+          "issue": "healthcare",
+          "summary": "Lists rural hospitals and protecting Medicare among her priorities.",
+          "source": "https://abcnews4.com/news/local/news-4-sits-down-with-republican-party-candidate-sen-darline-graham"
+        },
+        {
+          "issue": "immigration",
+          "summary": "Supports completing the border wall, increasing enforcement and denying taxpayer-funded benefits to people in the country illegally.",
+          "source": "https://abcnews4.com/news/local/news-4-sits-down-with-republican-party-candidate-sen-darline-graham"
+        },
+        {
+          "issue": "education",
+          "summary": "Introduced a resolution for a Religious Education Week, and said faith-based schools are \"a testament to the right of parents to choose an education that reflects their family's faith and values.\"",
+          "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-leads-resolution-to-celebrate-religious-education-week"
+        },
+        {
+          "issue": "climate",
+          "summary": "Says data centers \"should have to pay for any new energy infrastructure they need,\" and cosponsored the Ratepayer Protection Act.",
+          "source": "https://www.dgraham.senate.gov/press-releases/senator-graham-democrats-failed-to-protect-south-carolinians-and-americans-from-rising-energy-costs-borne-by-data-centers"
+        },
+        {
+          "issue": "abortion",
+          "summary": "Says she is \"proud to be pro-life\" and cosponsored bills that would prohibit approval of new abortion drugs and permanently bar tax dollars from funding abortion.",
+          "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-proudly-stands-for-life/"
+        }
+      ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-        "https://en.wikipedia.org/wiki/Darline_Graham"
+        "https://abcnews4.com/news/local/news-4-sits-down-with-republican-party-candidate-sen-darline-graham",
+        "https://www.wbtv.com/2026/11/04/democrat-annie-andrews-wins-us-senate-seat-south-carolina-ap-projects/",
+        "https://www.thegreenpapers.com/G26/SC"
       ]
     },
     {
@@ -78,11 +109,13 @@
       "party": "Libertarian",
       "major": false,
       "incumbent": false,
-      "voteShare": 1.2,
+      "voteShare": 1.16,
       "bio": null,
       "website": null,
       "positions": [],
-      "sources": []
+      "sources": [
+        "https://www.thegreenpapers.com/G26/SC"
+      ]
     },
     {
       "id": "mark-hackett",
@@ -91,20 +124,22 @@
       "partyLabel": "Constitution",
       "major": false,
       "incumbent": false,
-      "voteShare": 0.8,
+      "voteShare": 0.82,
       "bio": null,
       "website": null,
       "positions": [],
-      "sources": []
+      "sources": [
+        "https://www.thegreenpapers.com/G26/SC"
+      ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
     "https://www.wbtv.com/2026/11/04/democrat-annie-andrews-wins-us-senate-seat-south-carolina-ap-projects/",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://abcnews4.com/news/local/2026-11-16-south-carolina-certifies-2026-election-results-with-more-than-2-million-votes-cast-early-voting",
+    "https://www.thegreenpapers.com/G26/SC"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by wbtv.com report. Lindsey Graham's death (July 11) and sister Darline Graham's appointment confirmed by multiple outlets. Original summary's account of the July 2026 death and appointment was sourced to Wikipedia."
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by wbtv.com report. Lindsey Graham's death (July 11) and Darline Graham's July appointment are reported by wbtv.com and thegreenpapers.com. Vote totals read Nov. 25 from thegreenpapers.com. Write-ins are in the total. abcnews4.com reported that the State Election Commission certified the results, but the certified count itself was not opened, so the race is not marked certified."
 }

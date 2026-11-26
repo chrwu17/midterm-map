@@ -16,8 +16,8 @@
       "major": true,
       "incumbent": true,
       "voteShare": 52.43,
-      "bio": "Phil Scott is the governor of Vermont, in office since 2017. He previously served as lieutenant governor and as a state senator, and is a construction company owner.",
-      "website": null,
+      "bio": "Phil Scott is the governor of Vermont, in office since 2017. He previously served as lieutenant governor and as a state senator, and co-owned a construction company before selling his share.",
+      "website": "https://philscott.org",
       "positions": [
         {
           "issue": "economy",
@@ -41,7 +41,9 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Phil_Scott"
+        "https://www.philscott.org/meet-phil/",
+        "https://www.mynbc5.com/article/gov-scott-sells-his-share-of-the-family-business/8597125",
+        "https://www.nga.org/governor/phil-scott/"
       ]
     },
     {
@@ -85,12 +87,12 @@
       "party": "Independent",
       "major": false,
       "incumbent": false,
-      "voteShare": 0.84,
+      "voteShare": 0.85,
       "bio": null,
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/VT"
       ]
     },
     {
@@ -105,7 +107,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/VT"
       ]
     },
     {
@@ -120,16 +122,19 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/VT"
       ]
     }
   ],
   "sources": [
     "https://www.wcax.com/2026/11/04/scott-defeats-janoo-reelected-record-sixth-term/",
-    "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/elections_results_data/2026_general_election_official_report_canvassing_committee_vermont_statewide_public_questions.pdf",
+    "https://wcax.com/2026/11/10/vermont-sets-midterm-turnout-record-election-results-certified/",
+    "https://www.thegreenpapers.com/G26/VT"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Certified: Vermont canvassing committee official report (its PDF also lists the statewide offices) and WCAX, Nov. 10, 2026. Shares exclude blank ballots and overvotes, so they differ from the percentages printed in the report.",
+  "resultsCertified": true
 }

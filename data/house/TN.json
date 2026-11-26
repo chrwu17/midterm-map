@@ -60,10 +60,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TN-02",
@@ -101,10 +100,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TN-03",
@@ -163,16 +161,15 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TN-04",
    "district": "4",
-   "status": "uncalled",
-   "winnerId": null,
+   "status": "called",
+   "winnerId": "victoria-broderick",
    "candidates": [
     {
      "id": "victoria-broderick",
@@ -204,10 +201,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://www.thegreenpapers.com/G26/TN"
+    "https://www.thegreenpapers.com/G26/TN",
+    "https://newschannel9.com/news/local/scott-desjarlais-concedes-tennessee-congressional-race-after-16-years-in-office"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TN-05",
@@ -245,10 +242,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TN-06",
@@ -286,10 +282,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TN-07",
@@ -327,10 +322,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TN-08",
@@ -396,10 +390,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "TN-09",
@@ -437,10 +430,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/TN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

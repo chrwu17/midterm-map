@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 51.59,
+      "voteShare": 51.62,
       "bio": "Aaron Ford has been Nevada Attorney General since 2019. He is a former state Senate majority leader and former math teacher.",
       "website": "https://www.fordfornevada.com/",
       "positions": [
@@ -47,7 +47,7 @@
       ],
       "sources": [
         "https://thenevadaindependent.com/article/in-bid-for-governor-ford-focuses-on-affordability-slams-lombardo-trump-economy",
-        "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election"
+        "https://www.fordfornevada.com/about"
       ]
     },
     {
@@ -56,9 +56,9 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 44.03,
+      "voteShare": 43.99,
       "bio": "Joe Lombardo is a Republican and a former Clark County sheriff who has been Nevada's governor since 2023. He ran for re-election in 2026.",
-      "website": null,
+      "website": "https://www.joelombardofornv.com/",
       "positions": [
         {
           "issue": "education",
@@ -88,7 +88,7 @@
       ],
       "sources": [
         "https://thenevadaindependent.com/article/joe-lombardo-launches-re-election-bid-for-nevada-governor",
-        "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election"
+        "https://www.nga.org/governor/joe-lombardo/"
       ]
     },
     {
@@ -102,15 +102,16 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/NV"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://news3lv.com/news/local/clark-county-commissioners-certify-2026-general-election-results",
+    "https://www.thegreenpapers.com/G26/NV"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). All shares taken Nov. 25, 2026 from The Green Papers (1,090,879 votes), with None of These Candidates in the total. A state canvass was scheduled for Nov. 24; no page confirming it was found."
 }

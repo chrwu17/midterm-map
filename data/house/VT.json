@@ -14,14 +14,14 @@
      "name": "Becca Balint",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 65.22
+     "voteShare": 65.24
     },
     {
      "id": "gerald-malloy",
      "name": "Gerald Malloy",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 30.87
+     "voteShare": 30.88
     },
     {
      "id": "suzanne-seymour",
@@ -35,7 +35,7 @@
      "name": "Ryan P. Walton",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": 0.9
+     "voteShare": 0.89
     },
     {
      "id": "phoenix-k-altair",
@@ -53,10 +53,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Vermont"
+    "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/elections_results_data/2026_general_election_official_report_canvassing_committee_vermont_statewide_public_questions.pdf",
+    "https://www.thegreenpapers.com/G26/VT"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

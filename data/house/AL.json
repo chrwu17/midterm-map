@@ -14,21 +14,21 @@
      "name": "Jerry Carl",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 59.07
+     "voteShare": 58.9
     },
     {
      "id": "clyde-jones-jr",
      "name": "Clyde Jones Jr.",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 40.93
+     "voteShare": 41.02
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+    "https://www.sos.alabama.gov/sites/default/files/election-2026/2026StateCertificationofGeneralElectionResults-Canvassing.pdf",
+    "https://www.thegreenpapers.com/G26/AL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AL-02",
@@ -41,21 +41,21 @@
      "name": "Shomari Figures",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 53.75
+     "voteShare": 53.72
     },
     {
      "id": "rhett-marques",
      "name": "Rhett Marques",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 46.25
+     "voteShare": 46.14
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+    "https://www.sos.alabama.gov/sites/default/files/election-2026/2026StateCertificationofGeneralElectionResults-Canvassing.pdf",
+    "https://www.thegreenpapers.com/G26/AL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AL-03",
@@ -68,21 +68,21 @@
      "name": "Mike Rogers",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 63.95
+     "voteShare": 63.83
     },
     {
      "id": "lee-mcinnis",
      "name": "Lee McInnis",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 36.05
+     "voteShare": 36.03
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+    "https://www.sos.alabama.gov/sites/default/files/election-2026/2026StateCertificationofGeneralElectionResults-Canvassing.pdf",
+    "https://www.thegreenpapers.com/G26/AL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AL-04",
@@ -95,21 +95,21 @@
      "name": "Robert Aderholt",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 74.9
+     "voteShare": 74.79
     },
     {
      "id": "amanda-pusczek",
      "name": "Amanda Pusczek",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 25.1
+     "voteShare": 25.09
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+    "https://www.sos.alabama.gov/sites/default/files/election-2026/2026StateCertificationofGeneralElectionResults-Canvassing.pdf",
+    "https://www.thegreenpapers.com/G26/AL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AL-05",
@@ -122,7 +122,7 @@
      "name": "Dale Strong",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 53.24
+     "voteShare": 53.13
     },
     {
      "id": "andrew-sneed",
@@ -133,10 +133,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+    "https://www.sos.alabama.gov/sites/default/files/election-2026/2026StateCertificationofGeneralElectionResults-Canvassing.pdf",
+    "https://www.thegreenpapers.com/G26/AL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AL-06",
@@ -149,21 +149,21 @@
      "name": "Gary Palmer",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 57.47
+     "voteShare": 57.39
     },
     {
      "id": "maurice-mercer",
      "name": "Maurice Mercer",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 42.53
+     "voteShare": 42.51
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+    "https://www.sos.alabama.gov/sites/default/files/election-2026/2026StateCertificationofGeneralElectionResults-Canvassing.pdf",
+    "https://www.thegreenpapers.com/G26/AL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AL-07",
@@ -176,21 +176,20 @@
      "name": "Terri Sewell",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 69.4
+     "voteShare": 69.35
     },
     {
      "id": "ammie-akin",
      "name": "Ammie Akin",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 30.6
+     "voteShare": 30.58
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+    "https://www.thegreenpapers.com/G26/AL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

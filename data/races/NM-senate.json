@@ -15,9 +15,9 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 63.26,
+      "voteShare": 63.27,
       "bio": "Ben Ray Luján is the Democratic U.S. Senator from New Mexico and the top Democrat on the Senate Subcommittee on Telecommunications and Media. He won the 2026 Democratic primary over Matt Dodson.",
-      "website": null,
+      "website": "https://benraylujan.com/",
       "positions": [
         {
           "issue": "economy",
@@ -51,7 +51,9 @@
         "https://www.pbs.org/video/new-mexico-us-senate-forum-ivfesx/",
         "https://www.lujan.senate.gov/about/issues/immigration/",
         "https://www.lujan.senate.gov/about/issues/education/",
-        "https://www.lujan.senate.gov/about/issues/environment/"
+        "https://www.lujan.senate.gov/about/issues/environment/",
+        "https://benraylujan.com/",
+        "https://www.lujan.senate.gov/?p=77020"
       ]
     },
     {
@@ -60,8 +62,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 36.74,
-      "bio": "Larry Marker is a Republican and self-employed oil and gas businessperson. He previously ran unsuccessfully for state land commissioner and state senate.",
+      "voteShare": 36.73,
+      "bio": "Larry Marker is a Republican and self-employed oil and gas businessperson. He previously ran unsuccessfully for state senate and ran for state land commissioner in 2022.",
       "website": "https://larrymarker.com",
       "positions": [
         {
@@ -95,15 +97,19 @@
         "https://www.abqjournal.com/election/us-senate-larry-marker-r/3128990",
         "https://www.pbs.org/video/new-mexico-us-senate-forum-ivfesx/",
         "https://www.ballotready.org/people/larry-e-marker",
-        "https://larrymarker.com"
+        "https://larrymarker.com",
+        "https://www.abqjournal.com/news/us-sen-ben-ray-lujan-faces-long-shot-challenge-from-republican-larry-marker-in-reelection-bid/3137106",
+        "https://www.krwg.org/krwg-news/2022-11-03/libertarian-candidate-larry-marker-runs-for-new-mexico-commissioner-of-public-lands"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.sos.nm.gov/2026/11/24/state-canvassing-board-certifies-2026-general-election-results/",
+    "https://electionresults.sos.nm.gov/resultsSW.aspx?type=FED&map=CTY"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Certified: the New Mexico State Canvassing Board certified the results on Nov. 24, 2026 (Secretary of State release). Shares are computed from the Secretary of State page labeled Official Results.",
+  "resultsCertified": true
 }

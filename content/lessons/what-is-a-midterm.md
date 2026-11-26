@@ -9,7 +9,7 @@ A midterm election happens in the middle of a president's four-year term. The pr
 
 ## What is on the ballot
 
-In every midterm, all 435 seats in the U.S. House of Representatives are up for election. House members serve two-year terms, so they are always running soon. You can read an overview in the [USA.gov guide to the branches of government](https://www.usa.gov/branches-of-government).
+In every midterm, all 435 seats in the U.S. House of Representatives are up for election. House members serve two-year terms, so they are always running soon. You can read an overview in the [USA.gov guide to congressional and midterm elections](https://www.usa.gov/midterm-elections).
 
 About one-third of the 100 U.S. Senate seats are also up, because senators serve six-year terms that are staggered. (Our [Senate lesson](/learn/what-a-senator-does) explains how.)
 

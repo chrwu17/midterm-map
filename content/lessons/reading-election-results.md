@@ -9,7 +9,7 @@ Election night can feel confusing. Numbers change, news outlets say different th
 
 ## What "called" means
 
-When a news organization "calls" a race, it is saying one candidate is almost certain to win based on votes counted and votes still out. The [Associated Press](https://www.ap.org/elections/) is one of the main sources for race calls, and it explains its method online.
+When a news organization "calls" a race, it is saying one candidate is almost certain to win based on votes counted and votes still out. The [Associated Press](https://www.ap.org/elections/) is one of the main sources for race calls, and it [explains how it declares winners](https://www.ap.org/elections/our-role-in-the-u-s-elections/how-we-declare-winners/).
 
 A call is not official. Election officials must count every valid ballot, check totals, and then "certify" the results. Certification is the official finish, and the timeline differs by state.
 
@@ -19,7 +19,7 @@ Several things slow the count:
 
 - **Close margins.** If candidates are separated by a few hundred votes, outlets wait.
 - **Mail ballots.** Some states process these early. Others cannot start until Election Day, so counting takes longer.
-- **Late-arriving ballots.** Some states accept mail ballots postmarked by Election Day that arrive later.
+- **Late-arriving ballots.** Some states accept mail ballots postmarked by Election Day that arrive later. [NCSL](https://www.ncsl.org/elections-and-campaigns/table-11-receipt-and-postmark-deadlines-for-absentee-mail-ballots) lists the deadlines.
 - **Provisional ballots.** These need to be checked before they are counted.
 - **Rules about verification.** Signature checks and fixing small errors take time.
 - **Large or slow-reporting counties.** Totals can arrive in batches.

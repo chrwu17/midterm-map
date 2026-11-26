@@ -6,7 +6,7 @@ import { LessonIcon } from "@/components/lesson-icon";
 
 export const metadata: Metadata = pageMeta(
   "Lessons | Midterm Map",
-  "Short, plain-language lessons on how U.S. elections work, from what a senator does to how to read results.",
+  "Short lessons on how U.S. elections work, including what a senator does and how to read results.",
   "/learn/",
 );
 
@@ -15,7 +15,7 @@ export default function LearnPage() {
   return (
     <div className="mx-auto max-w-[760px] px-4 py-12 sm:px-8 sm:py-16">
       <h1 className="text-[clamp(2.25rem,5vw,3.25rem)] font-semibold">Lessons</h1>
-      <p className="mt-3 text-lg text-muted-foreground">Short, plain-language guides for first-time and new voters.</p>
+      <p className="mt-3 text-lg text-muted-foreground">Short guides to U.S. elections, written for first-time and new voters.</p>
       {lessons.length ? (
         <ol className="mt-10 space-y-4">
           {lessons.map((l) => (

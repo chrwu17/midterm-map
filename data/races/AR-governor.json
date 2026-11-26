@@ -16,18 +16,18 @@
       "major": true,
       "incumbent": true,
       "voteShare": 53.8,
-      "bio": "Sarah Huckabee Sanders is a Republican who has been governor of Arkansas since January 2023, the first woman to hold the office. She was White House press secretary in the first Trump administration from 2017 to 2019. Her first term included the LEARNS Act education law and state income tax cuts.",
+      "bio": "Sarah Huckabee Sanders is a Republican who has been governor of Arkansas since January 2023, the first woman to hold the office. She was White House press secretary in the first Trump administration from 2017 to 2019. Her first term included the LEARNS Act education law and state tax cuts.",
       "website": null,
       "positions": [
         {
           "issue": "economy",
-          "summary": "Said in April 2026 that Arkansas has cut its state income tax by 20% over the last three years.",
-          "source": "https://ontheissues.org/Sarah_Huckabee_Sanders.htm"
+          "summary": "Signed bills in May 2026 lowering the top state personal income tax rate from 3.9% to 3.7% and the top corporate rate from 4.3% to 4.1%.",
+          "source": "https://talkbusiness.net/2026/05/governor-signs-tax-cuts-into-law/"
         },
         {
           "issue": "immigration",
-          "summary": "Said in January 2025 she would 'slap enhanced penalties on violent illegal immigrants' and in 2021 pledged to defund sanctuary cities.",
-          "source": "https://ontheissues.org/Sarah_Huckabee_Sanders.htm"
+          "summary": "Announced the Defense Against Criminal Illegals Act, a bill to raise penalties for immigrants in the country illegally who commit additional crimes and to expand the state's sanctuary city ban.",
+          "source": "https://governor.arkansas.gov/news_post/governor-sanders-announces-defense-against-criminal-illegals-act/"
         },
         {
           "issue": "education",
@@ -36,8 +36,8 @@
         },
         {
           "issue": "climate",
-          "summary": "Said in 2020 she would fight what she calls 'radical environmental policies like Green New Deal' and in 2023 sued the EPA over what she called 'out-of-control federal overreach'.",
-          "source": "https://ontheissues.org/Sarah_Huckabee_Sanders.htm"
+          "summary": "Announced a 2023 state lawsuit over the EPA's rejection of Arkansas's air pollution plan, which she called \"out-of-control federal overreach.\"",
+          "source": "https://amp.insurancejournal.com/news/southcentral/2023/02/22/709109.htm"
         },
         {
           "issue": "abortion",
@@ -46,10 +46,12 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Sarah_Huckabee_Sanders",
         "https://governor.arkansas.gov/",
         "https://www.ky3.com/2026/11/04/arkansas-gov-sarah-huckabee-sanders-wins-second-term-defeating-democrat-fred-love/",
-        "https://ontheissues.org/Sarah_Huckabee_Sanders.htm"
+        "https://talkbusiness.net/2026/05/governor-signs-tax-cuts-into-law/",
+        "https://governor.arkansas.gov/news_post/governor-sanders-announces-defense-against-criminal-illegals-act/",
+        "https://amp.insurancejournal.com/news/southcentral/2023/02/22/709109.htm",
+        "https://www.nga.org/governor/sarah-huckabee-sanders/"
       ]
     },
     {
@@ -59,7 +61,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 38.6,
-      "bio": "Fred Love is a Democrat who has represented Arkansas's 15th district in the state Senate since 2023. He served in the Arkansas House of Representatives from 2011 to 2023, including as minority leader from 2019 to 2021.",
+      "bio": "Fred Love is a Democrat who has served in the Arkansas Senate since 2023 and was its minority whip in 2025. He served in the Arkansas House of Representatives from the 2011 session through the 2021 session.",
       "website": "https://www.fredlove.com",
       "positions": [
         {
@@ -84,9 +86,9 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Fredrick_Love",
         "https://www.fredlove.com",
-        "https://www.fredlove.com/issues"
+        "https://www.fredlove.com/issues",
+        "https://arkleg.state.ar.us/Legislators/Detail?member=F.+Love&ddBienniumSession=2025%2F2025R"
       ]
     },
     {
@@ -105,9 +107,10 @@
   "sources": [
     "https://www.ky3.com/2026/11/04/arkansas-gov-sarah-huckabee-sanders-wins-second-term-defeating-democrat-fred-love/",
     "https://www.pollcheck.com/midterms-2026/governor/arkansas",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.thegreenpapers.com/G26/AR"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that vote shares were from a partial count (about 90%)."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that vote shares were from a partial count (about 90%). Shares refreshed on November 25, 2026 from The Green Papers (888,078 votes in total), which does not say the count is certified."
 }

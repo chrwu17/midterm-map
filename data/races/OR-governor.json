@@ -15,8 +15,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 53.26,
-      "bio": "Tina Kotek is the governor of Oregon, in office since January 2023. She previously served in the Oregon House, including as Speaker from 2013 to 2022.",
+      "voteShare": 53.29,
+      "bio": "Tina Kotek is the governor of Oregon, in office since January 2023. She previously served in the Oregon House, where she was elected Speaker in 2013.",
       "website": "https://www.tinafororegon.com",
       "positions": [
         {
@@ -41,7 +41,7 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Tina_Kotek"
+        "https://www.nga.org/governor/Tina-Kotek/"
       ]
     },
     {
@@ -50,8 +50,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 43.7,
-      "bio": "Christine Drazan is a Republican who served in the Oregon House, including as House Republican leader, and was appointed to a state Senate seat in October 2025. She was the Republican nominee for governor in 2022 and again in 2026.",
+      "voteShare": 43.67,
+      "bio": "Christine Drazan is a Republican who formerly led the House Republicans in the Oregon Legislature and was appointed to a state Senate seat in 2025. She ran for governor in 2022, losing to Tina Kotek, and was the Republican nominee in 2026.",
       "website": null,
       "positions": [
         {
@@ -66,7 +66,7 @@
         },
         {
           "issue": "immigration",
-          "summary": "Says she does not want National Guard troops in Oregon, and criticized Portland leaders for failing to uphold the city's own laws in handling protests at the city's ICE facility.",
+          "summary": "Says she does not want National Guard troops in Oregon, and said Portland did not enforce its own laws in handling protests outside the city's ICE facility.",
           "source": "https://katu.com/news/local/more-oregon-gubernatorial-debate-details-and-how-it-could-sway-the-election"
         },
         {
@@ -76,8 +76,9 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Christine_Drazan",
-        "https://www.salemreporter.com/?p=156477"
+        "https://www.salemreporter.com/?p=156477",
+        "https://www.opb.org/article/2025/10/27/christine-drazan-oregon-governor-politics-tina-kotek-republican-leader/",
+        "https://www.ijpr.org/politics-government/2026-05-19/christine-drazan-takes-republican-nomination-for-oregon-governor"
       ]
     },
     {
@@ -96,11 +97,11 @@
   ],
   "sources": [
     "https://katu.com/news/politics/christine-drazan-concedes-oregon-governors-race-to-tina-kotek-says-remaining-ballots-wont-change-outcome",
-    "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
     "https://www.multistate.us/resources/governors-2026-state-election-results",
-    "https://www.thegreenpapers.com/G26/OR"
+    "https://www.thegreenpapers.com/G26/OR",
+    "https://results.oregonvotes.gov/resultsSW.aspx?type=SWPAR&map=CTY"
   ],
-  "lastVerified": "2026-11-15",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Summary note moved: results are unofficial until certification on Dec. 10."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Shares refreshed Nov. 25 from the Oregon Secretary of State count (updated Nov. 25, marked unofficial, 2,000,521 ballots). Write-ins are in the total."
 }

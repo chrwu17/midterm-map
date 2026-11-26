@@ -32,10 +32,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+    "https://www.thegreenpapers.com/G26/CT"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CT-02",
@@ -48,21 +47,20 @@
      "name": "Joe Courtney",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 62.45
+     "voteShare": 62.34
     },
     {
      "id": "george-austin",
      "name": "George Austin",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 37.54
+     "voteShare": 37.65
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+    "https://www.thegreenpapers.com/G26/CT"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CT-03",
@@ -87,16 +85,16 @@
     {
      "id": "thomas-egan",
      "name": "Thomas Egan",
-     "party": "Independent",
+     "party": "Other",
+     "partyLabel": "Independent Party of Connecticut",
      "incumbent": false,
      "voteShare": 2.96
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+    "https://www.thegreenpapers.com/G26/CT"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CT-04",
@@ -109,7 +107,7 @@
      "name": "Jim Himes",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 65.58
+     "voteShare": 65.57
     },
     {
      "id": "michael-goldstein",
@@ -121,16 +119,16 @@
     {
      "id": "benjamin-wesley",
      "name": "Benjamin Wesley",
-     "party": "Independent",
+     "party": "Other",
+     "partyLabel": "Independent Party of Connecticut",
      "incumbent": false,
      "voteShare": 1.91
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+    "https://www.thegreenpapers.com/G26/CT"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CT-05",
@@ -154,10 +152,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+    "https://www.thegreenpapers.com/G26/CT"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

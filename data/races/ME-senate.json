@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 53.1,
+      "voteShare": 53.07,
       "bio": "Troy Jackson is a Democrat who grew up in northern Maine and served as president of the Maine Senate. He became the party's Senate nominee in 2026 after the earlier primary winner, Graham Platner, suspended his campaign.",
       "website": "https://jacksonformaine.com/",
       "positions": [
@@ -51,7 +51,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 46.8,
+      "voteShare": 46.87,
       "bio": "Susan Collins is the Republican U.S. Senator from Maine, first elected in 1996 and reelected four times. A Caribou native and St. Lawrence University graduate, she worked on Capitol Hill and in Maine state government before the Senate. She chairs the Appropriations Committee.",
       "website": "https://www.susancollins.com/",
       "positions": [
@@ -84,11 +84,12 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
     "https://newschannel9.com/news/nation-world/troy-jackson-declares-victory-in-maine-senate-race-as-senator-susan-collins-concedes-maine-politics-election",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/ME",
+    "https://www.nbcnews.com/politics/2026-elections/maine-senate-results"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by newschannel9.com report. Collins conceded; Jackson replaced Platner as nominee in July."
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by newschannel9.com report. Collins conceded; Jackson replaced Platner as nominee in July. 2026-11-25: all shares are computed from the vote counts on the NBC News results page, last updated Nov. 24, 2026, with write-ins in the total; the page estimated 97.4% of expected votes counted. Not marked certified: no page confirming certification could be opened."
 }

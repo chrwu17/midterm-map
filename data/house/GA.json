@@ -14,21 +14,20 @@
      "name": "Jim Kingston",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 51.42
+     "voteShare": 51.4
     },
     {
      "id": "amanda-hollowell",
      "name": "Amanda Hollowell",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 48.58
+     "voteShare": 48.6
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "GA-02",
@@ -41,21 +40,20 @@
      "name": "Sanford Bishop",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 60.79
+     "voteShare": 60.81
     },
     {
      "id": "matt-day",
      "name": "Matt Day",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 39.21
+     "voteShare": 39.19
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "GA-03",
@@ -68,21 +66,20 @@
      "name": "Brian Jack",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 58.62
+     "voteShare": 58.6
     },
     {
      "id": "maura-keller",
      "name": "Maura Keller",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 41.38
+     "voteShare": 41.4
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "GA-04",
@@ -95,21 +92,20 @@
      "name": "Hank Johnson",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 82.71
+     "voteShare": 82.64
     },
     {
      "id": "james-duffie",
      "name": "James Duffie",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 17.38
+     "voteShare": 17.36
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "GA-05",
@@ -122,21 +118,20 @@
      "name": "Nikema Williams",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 90.19
+     "voteShare": 90.2
     },
     {
      "id": "john-oscar-salvesen",
      "name": "John Oscar Salvesen",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 9.8
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "GA-06",
@@ -149,7 +144,7 @@
      "name": "Lucy McBath",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 80.87
+     "voteShare": 80.89
     },
     {
      "id": "kevin-martin",
@@ -160,10 +155,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "GA-07",
@@ -176,21 +170,20 @@
      "name": "Rich McCormick",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 56.19
+     "voteShare": 56.18
     },
     {
      "id": "tony-kozycki",
      "name": "Tony Kozycki",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 43.81
+     "voteShare": 43.82
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "GA-08",
@@ -203,21 +196,20 @@
      "name": "Austin Scott",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 60.43
+     "voteShare": 60.4
     },
     {
      "id": "kelly-esti",
      "name": "Kelly Esti",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 39.58
+     "voteShare": 39.6
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "GA-09",
@@ -230,21 +222,20 @@
      "name": "Andrew Clyde",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 59.3
+     "voteShare": 59.29
     },
     {
      "id": "caitlyn-gegen",
      "name": "Caitlyn Gegen",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 40.7
+     "voteShare": 40.71
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "GA-10",
@@ -257,21 +248,20 @@
      "name": "Houston Gaines",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 53.59
+     "voteShare": 53.64
     },
     {
      "id": "pam-delancy",
      "name": "Pam Delancy",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 46.41
+     "voteShare": 46.36
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "GA-11",
@@ -291,14 +281,13 @@
      "name": "Chris Harden",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 44.63
+     "voteShare": 44.64
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "GA-12",
@@ -311,21 +300,20 @@
      "name": "Rick Allen",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 52.09
+     "voteShare": 52.08
     },
     {
      "id": "ceretta-smith",
      "name": "Ceretta Smith",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 47.91
+     "voteShare": 47.92
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "GA-13",
@@ -338,21 +326,20 @@
      "name": "Jasmine Clark",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 79.87
+     "voteShare": 79.83
     },
     {
      "id": "jonathan-chavez",
      "name": "Jonathan Chavez",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 20.17
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "GA-14",
@@ -365,21 +352,20 @@
      "name": "Clay Fuller",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 58.78
+     "voteShare": 58.77
     },
     {
      "id": "shawn-harris",
      "name": "Shawn Harris",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 41.22
+     "voteShare": 41.23
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+    "https://www.thegreenpapers.com/G26/GA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

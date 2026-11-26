@@ -5,9 +5,9 @@
   "office": "senate",
   "special": false,
   "electionDate": "2026-11-03",
-  "status": "uncalled",
-  "winnerId": null,
-  "summary": "Republican Sen. Dan Sullivan ran again against Democrat Mary Peltola, a former U.S. representative. No winner has been declared yet because no candidate had a majority of first-choice votes, so a ranked-choice count is scheduled for Nov. 18.",
+  "status": "called",
+  "winnerId": "mary-peltola",
+  "summary": "Republican Sen. Dan Sullivan ran for re-election against Democrat Mary Peltola, a former U.S. representative. Peltola won a majority of first-choice votes, so no ranked-choice count was needed.",
   "candidates": [
     {
       "id": "mary-peltola",
@@ -15,8 +15,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 49.94,
-      "bio": "Mary Peltola is a Democratic former U.S. representative who won Alaska's only House seat in a 2022 special election and a full term that November, becoming the first Alaska Native member of Congress. She lost re-election in 2024 to Nick Begich III in the final ranked-choice round. She grew up fishing on the Kuskokwim River, lives in Bethel, and served in the Alaska House from 1999 to 2009.",
+      "voteShare": 50.29,
+      "bio": "Mary Peltola is a Democratic former U.S. representative who won Alaska's only House seat in a 2022 special election and was re-elected that year. She was the first Alaska Native woman elected to Congress. She lost re-election in 2024 to Nick Begich III after a ranked-choice count. She grew up fishing on the Kuskokwim River and served in the Alaska Legislature for ten years.",
       "website": "https://marypeltola.com/",
       "positions": [
         {
@@ -26,18 +26,18 @@
         },
         {
           "issue": "healthcare",
-          "summary": "Said in October 2026 that her immediate priority is reversing the damage to Medicaid.",
-          "source": "https://ontheissues.org/Senate/Mary_Peltola.htm"
+          "summary": "Said in an October 2026 debate that her \"immediate priority\" would be \"reversing the damage to Medicaid and restoring healthcare\" tax credits that ended early in 2026.",
+          "source": "https://adn.com/politics/2026/10/16/sullivan-and-peltola-lob-personal-attacks-as-they-clash-over-iran-war-and-the-economy/"
         },
         {
           "issue": "abortion",
-          "summary": "Describes herself as pro-choice and said in 2024 she supports no restrictions on birth control and in vitro fertilization.",
-          "source": "https://ontheissues.org/Senate/Mary_Peltola.htm"
+          "summary": "Supported House bills to ban abortion restrictions before fetal viability and to protect travel to another state for an abortion, and her campaign said in October 2026 that she would continue to defend abortion access.",
+          "source": "https://www.adn.com/politics/2026/10/27/abortion-takes-a-backseat-to-affordability-in-alaskas-congressional-races/"
         },
         {
           "issue": "climate",
-          "summary": "Said in 2022 that Alaskans are living with the devastating effects of climate change, and says she supports responsible resource development with local control.",
-          "source": "https://ontheissues.org/Senate/Mary_Peltola.htm"
+          "summary": "Says she would fight to restore federal tax credits for solar, wind and hydropower projects, in addition to supporting oil and gas development.",
+          "source": "https://marypeltola.com/priorities/energy/"
         },
         {
           "issue": "education",
@@ -46,9 +46,13 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-        "https://en.wikipedia.org/wiki/Mary_Peltola",
-        "https://marypeltola.com/story/"
+        "https://marypeltola.com/story/",
+        "https://adn.com/politics/2026/10/16/sullivan-and-peltola-lob-personal-attacks-as-they-clash-over-iran-war-and-the-economy/",
+        "https://www.adn.com/politics/2026/10/27/abortion-takes-a-backseat-to-affordability-in-alaskas-congressional-races/",
+        "https://marypeltola.com/priorities/energy/",
+        "https://www.adn.com/politics/2024/11/20/begich-defeats-peltola-flipping-alaskas-lone-us-house-seat/",
+        "https://emilyslist.org/candidate/mary-peltola/",
+        "https://www.thegreenpapers.com/G26/AK"
       ]
     },
     {
@@ -57,7 +61,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 45.96,
+      "voteShare": 45.92,
       "bio": "Dan Sullivan is a Republican U.S. senator from Alaska, sworn in January 6, 2015. He sits on the Commerce, Armed Services, Environment and Public Works, and Veterans' Affairs committees. He is a retired Marine Corps Reserve colonel with 30 years of service and previously served as Alaska attorney general and natural resources commissioner. He earned an economics degree from Harvard and a law degree from Georgetown.",
       "website": "https://dansullivanforalaska.com/",
       "positions": [
@@ -68,8 +72,8 @@
         },
         {
           "issue": "healthcare",
-          "summary": "Said in October 2026 that 'Obamacare destroyed the health care system here,' and supported repealing the Affordable Care Act in 2020.",
-          "source": "https://ontheissues.org/Senate/Dan_Sullivan.htm"
+          "summary": "Said in an October 2026 debate, \"I actually bucked my party and voted to extend the premium tax credits on Obamacare twice.\" Those votes came after he had voted against similar measures.",
+          "source": "https://adn.com/politics/2026/10/16/sullivan-and-peltola-lob-personal-attacks-as-they-clash-over-iran-war-and-the-economy/"
         },
         {
           "issue": "climate",
@@ -78,18 +82,20 @@
         },
         {
           "issue": "immigration",
-          "summary": "Said in 2020 he supported shifting military funding to build a border wall, and said in 2014 that the border should be secured and that President Obama should not give 'executive amnesty'.",
-          "source": "https://ontheissues.org/Senate/Dan_Sullivan.htm"
+          "summary": "Joined 53 other senators in 2025 in introducing the Laken Riley Act, which would require immigration officers to arrest and detain people in the country illegally who commit theft, burglary, larceny or shoplifting.",
+          "source": "https://www.sullivan.senate.gov/newsroom/press-releases/sen-sullivan-joins-53-senate-colleagues-in-introducing-laken-riley-act"
         },
         {
           "issue": "abortion",
-          "summary": "Said in 2020 he supports banning abortion after 20 weeks, and in 2014 that he supports an exception to protect the life of the mother.",
-          "source": "https://ontheissues.org/Senate/Dan_Sullivan.htm"
+          "summary": "Voted in 2018 and 2020 to ban abortion nationwide after 20 weeks, and supported the 2022 decision overturning Roe v. Wade because he said it \"gives it back to the states and the people of our country.\"",
+          "source": "https://www.adn.com/politics/2026/10/27/abortion-takes-a-backseat-to-affordability-in-alaskas-congressional-races/"
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-        "https://www.sullivan.senate.gov/about/"
+        "https://www.sullivan.senate.gov/about/",
+        "https://adn.com/politics/2026/10/16/sullivan-and-peltola-lob-personal-attacks-as-they-clash-over-iran-war-and-the-economy/",
+        "https://www.sullivan.senate.gov/newsroom/press-releases/sen-sullivan-joins-53-senate-colleagues-in-introducing-laken-riley-act",
+        "https://www.adn.com/politics/2026/10/27/abortion-takes-a-backseat-to-affordability-in-alaskas-congressional-races/"
       ]
     },
     {
@@ -98,7 +104,7 @@
       "party": "Republican",
       "major": false,
       "incumbent": false,
-      "voteShare": null,
+      "voteShare": 2.12,
       "bio": null,
       "website": null,
       "positions": [],
@@ -111,7 +117,7 @@
       "partyLabel": "Undeclared / no party listed",
       "major": false,
       "incumbent": false,
-      "voteShare": null,
+      "voteShare": 1.66,
       "bio": null,
       "website": null,
       "positions": [],
@@ -119,11 +125,13 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-    "https://www.wsbtv.com/news/trending/election-day-2026-alaska-us-senate-race-too-close-call/SX432OUIXRED5CONXA55EGTKBA/",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://alaskapublic.org/news/politics/elections/2026-11-23/alaska-certifies-midterm-election-starting-the-clock-for-challenges-and-recounts",
+    "https://www.alaskasnewssource.com/2026/11/23/alaska-certifies-election-locking-wins-peltola-jkt-begich/",
+    "https://alaskapublic.org/news/politics/elections/2026-11-17/mary-peltola-wins-u-s-senate-seat-in-alaska",
+    "https://www.pollcheck.com/midterms-2026/senate/alaska",
+    "https://www.thegreenpapers.com/G26/AK"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Confirmed uncalled by AP-syndicated reports and a Nov 14 tally: Peltola leads by about 10,400 votes with just under 50% of first choices; ranked-choice tabulation scheduled Nov 18."
+  "factCheckNote": "AP called the race for Peltola on Nov 17 (Alaska Public Media). All shares are first-choice shares from The Green Papers (287,479 votes for the named candidates), which leave out write-ins; PollCheck shows the same shares rounded to one decimal. Alaska Public Media and Alaska's News Source (both Nov 23) report that the Division of Elections certified the election that day. resultsCertified is not set because no page with the certified totals could be opened. A first-choice majority meant no ranked-choice tabulation."
 }

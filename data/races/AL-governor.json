@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 51.8,
-      "bio": "Tommy Tuberville is a Republican who has been a U.S. senator from Alabama since January 2021. Before entering politics he was a college football coach, including head coach at Auburn University from 1999 to 2008.",
+      "bio": "Tommy Tuberville is a Republican who was elected to the U.S. Senate from Alabama in 2020. Before entering politics he was a college football coach, including head coach at Auburn University.",
       "website": "https://www.coachforgovernor.com",
       "positions": [
         {
@@ -41,8 +41,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Tommy_Tuberville",
-        "https://www.coachforgovernor.com"
+        "https://www.coachforgovernor.com",
+        "https://www.tuberville.senate.gov/about/"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 47.9,
-      "bio": "Doug Jones is a Democrat who served as a U.S. senator from Alabama from 2018 to 2021. He was U.S. Attorney for the Northern District of Alabama from 1997 to 2001 and later worked in private law practice.",
+      "bio": "Doug Jones is a Democrat who served as a U.S. senator from Alabama from 2018 to 2021. He was U.S. Attorney for the Northern District of Alabama from 1997 to 2001. Before that he practiced law in Birmingham.",
       "website": "https://www.dougjones.com",
       "positions": [
         {
@@ -72,22 +72,26 @@
         },
         {
           "issue": "abortion",
-          "summary": "Said in 2017, during his Senate campaign, that abortion is a woman's intensely personal decision and that he stands with Planned Parenthood.",
-          "source": "https://ontheissues.org/Doug_Jones.htm"
+          "summary": "Said in November 2017, during his Senate campaign, that abortion is an \"intensely personal decision\" for a woman, and pledged to support Planned Parenthood in Congress.",
+          "source": "https://www.bustle.com/p/where-does-doug-jones-stand-on-abortion-his-views-set-him-far-apart-from-his-opponent-7580669"
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Doug_Jones_(politician)",
-        "https://www.dougjones.com/priorities"
+        "https://www.dougjones.com/priorities",
+        "https://www.bustle.com/p/where-does-doug-jones-stand-on-abortion-his-views-set-him-far-apart-from-his-opponent-7580669",
+        "https://politics.georgetown.edu/profiles/doug-jones/"
       ]
     }
   ],
   "sources": [
     "https://www.alreporter.com/2026/11/04/tuberville-escapes-blue-wave-to-clutch-victory-in-governors-race",
     "https://www.fox10tv.com/2026/11/04/doug-jones-concedes-alabama-governors-race-tommy-tuberville/",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.sos.alabama.gov/sites/default/files/election-2026/2026StateCertificationofGeneralElectionResults-Canvassing.pdf",
+    "https://www.thegreenpapers.com/G26/AL"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Original summary noted the result was based on unofficial results."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Original summary noted the result was based on unofficial results. Certified count: pages of the Alabama Secretary of State canvassing PDF are marked \"Certified by the State Canvassing Board November 23, 2026\". Shares include write-ins in the total.",
+  "resultsCertified": true
 }

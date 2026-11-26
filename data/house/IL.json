@@ -25,10 +25,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-02",
@@ -41,21 +40,20 @@
      "name": "Donna Miller",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 73.06
+     "voteShare": 73.16
     },
     {
      "id": "michael-noack",
      "name": "Michael Noack",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 26.94
+     "voteShare": 26.84
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-03",
@@ -68,21 +66,20 @@
      "name": "Delia Ramirez",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 77.53
+     "voteShare": 77.59
     },
     {
      "id": "angel-oakley",
      "name": "Angel Oakley",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 22.47
+     "voteShare": 22.41
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-04",
@@ -95,21 +92,21 @@
      "name": "Patty García",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 71.32
+     "voteShare": 71.41
     },
     {
      "id": "lupe-castillo",
      "name": "Lupe Castillo",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 15.85
+     "voteShare": 15.79
     },
     {
      "id": "chris-getty",
      "name": "Chris Getty",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": 9.16
+     "voteShare": 9.13
     },
     {
      "id": "ed-hershey",
@@ -117,14 +114,13 @@
      "party": "Other",
      "partyLabel": "Working Class",
      "incumbent": false,
-     "voteShare": 3.66
+     "voteShare": 3.68
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-05",
@@ -137,21 +133,20 @@
      "name": "Mike Quigley",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 77.22
+     "voteShare": 77.31
     },
     {
      "id": "tommy-hanson",
      "name": "Tommy Hanson",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 22.78
+     "voteShare": 22.69
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-06",
@@ -164,21 +159,20 @@
      "name": "Sean Casten",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 62.95
+     "voteShare": 63.0
     },
     {
      "id": "niki-conforti",
      "name": "Niki Conforti",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 37.05
+     "voteShare": 37.0
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-07",
@@ -191,21 +185,20 @@
      "name": "La Shawn Ford",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 89.32
+     "voteShare": 89.35
     },
     {
      "id": "chad-koppie",
      "name": "Chad Koppie",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 10.68
+     "voteShare": 10.65
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-08",
@@ -218,21 +211,20 @@
      "name": "Melissa Bean",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 64.32
+     "voteShare": 64.41
     },
     {
      "id": "jennifer-davis",
      "name": "Jennifer Davis",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 35.68
+     "voteShare": 35.59
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-09",
@@ -245,21 +237,20 @@
      "name": "Daniel Biss",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 76.85
+     "voteShare": 76.97
     },
     {
      "id": "john-elleson",
      "name": "John Elleson",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 23.15
+     "voteShare": 23.03
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-10",
@@ -272,21 +263,20 @@
      "name": "Brad Schneider",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 70.36
+     "voteShare": 70.48
     },
     {
      "id": "carl-lambrecht",
      "name": "Carl Lambrecht",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 29.64
+     "voteShare": 29.52
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-11",
@@ -299,21 +289,20 @@
      "name": "Bill Foster",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 64.26
+     "voteShare": 64.43
     },
     {
      "id": "jeff-walter",
      "name": "Jeff Walter",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 35.74
+     "voteShare": 35.57
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-12",
@@ -326,21 +315,20 @@
      "name": "Mike Bost",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 69.53
+     "voteShare": 69.5
     },
     {
      "id": "julie-fortier",
      "name": "Julie Fortier",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 30.47
+     "voteShare": 30.5
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-13",
@@ -353,21 +341,20 @@
      "name": "Nikki Budzinski",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 62.67
+     "voteShare": 62.69
     },
     {
      "id": "jeff-wilson",
      "name": "Jeff Wilson",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 37.33
+     "voteShare": 37.31
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-14",
@@ -380,21 +367,20 @@
      "name": "Lauren Underwood",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 62.65
+     "voteShare": 62.96
     },
     {
      "id": "james-marter",
      "name": "James Marter",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 37.35
+     "voteShare": 37.04
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-15",
@@ -407,21 +393,20 @@
      "name": "Mary Miller",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 66.84
+     "voteShare": 66.8
     },
     {
      "id": "jennifer-todd",
      "name": "Jennifer Todd",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 33.16
+     "voteShare": 33.2
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-16",
@@ -434,21 +419,20 @@
      "name": "Darin LaHood",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 58.85
+     "voteShare": 58.77
     },
     {
      "id": "paul-nolley",
      "name": "Paul Nolley",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 41.15
+     "voteShare": 41.23
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IL-17",
@@ -461,21 +445,20 @@
      "name": "Eric Sorensen",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 60.1
+     "voteShare": 60.11
     },
     {
      "id": "dillan-vancil",
      "name": "Dillan Vancil",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 39.9
+     "voteShare": 39.89
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/IL"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

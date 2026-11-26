@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 54.44,
-      "bio": "Hannah Pingree is a former Speaker of the Maine House (2008-2010) and former director of the Governor's Office of Policy Innovation and the Future.",
+      "bio": "Hannah Pingree is a former Speaker of the Maine House and former director of the Governor's Office of Policy Innovation and the Future.",
       "website": "https://hannahforgovernor.com/",
       "positions": [
         {
@@ -46,7 +46,7 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election"
+        "https://hannahforgovernor.com/meet-hannah-pingree/"
       ]
     },
     {
@@ -56,7 +56,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 37.44,
-      "bio": "Bobby Charles is a lawyer and former U.S. Assistant Secretary of State.",
+      "bio": "Bobby Charles is a former naval intelligence officer and former assistant U.S. secretary of state.",
       "website": "https://bobbyformaine.com/",
       "positions": [
         {
@@ -81,8 +81,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
-        "https://bobbyformaine.com/"
+        "https://bobbyformaine.com/",
+        "https://www.nhpr.org/2026-11-03/hannah-pingree-defeats-bobby-charles-and-rick-bennett-in-three-way-gubernatorial-race"
       ]
     },
     {
@@ -95,15 +95,18 @@
       "bio": null,
       "website": null,
       "positions": [],
-      "sources": []
+      "sources": [
+        "https://www.thegreenpapers.com/G26/ME"
+      ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
     "https://www.nhpr.org/2026-11-03/hannah-pingree-defeats-bobby-charles-and-rick-bennett-in-three-way-gubernatorial-race",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.thegreenpapers.com/G26/ME",
+    "https://www.nbcnews.com/politics/2026-elections/maine-governor-results"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). 2026-11-25: all shares are computed from the vote counts on the NBC News results page, last updated Nov. 24, 2026, with write-ins in the total; the page estimated 97.4% of expected votes counted. Not marked certified: no page confirming certification could be opened."
 }

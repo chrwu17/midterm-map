@@ -32,10 +32,12 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
+    "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NC-02",
@@ -66,10 +68,12 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
+    "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NC-03",
@@ -100,10 +104,12 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
+    "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NC-04",
@@ -134,16 +140,18 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
+    "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NC-05",
    "district": "5",
-   "status": "uncalled",
-   "winnerId": null,
+   "status": "called",
+   "winnerId": "chuck-hubbard",
    "candidates": [
     {
      "id": "chuck-hubbard",
@@ -168,11 +176,12 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
     "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NC-06",
@@ -196,16 +205,18 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
+    "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NC-07",
    "district": "7",
-   "status": "uncalled",
-   "winnerId": null,
+   "status": "called",
+   "winnerId": "david-rouzer",
    "candidates": [
     {
      "id": "david-rouzer",
@@ -230,11 +241,12 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
     "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NC-08",
@@ -265,10 +277,12 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
+    "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NC-09",
@@ -292,16 +306,18 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
+    "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NC-10",
    "district": "10",
-   "status": "uncalled",
-   "winnerId": null,
+   "status": "called",
+   "winnerId": "pat-harrigan",
    "candidates": [
     {
      "id": "pat-harrigan",
@@ -326,10 +342,12 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
+    "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NC-11",
@@ -360,10 +378,12 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
+    "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NC-12",
@@ -387,10 +407,12 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
+    "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NC-13",
@@ -410,7 +432,7 @@
      "name": "Brad Knott",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 48.03
+     "voteShare": 48.04
     },
     {
      "id": "steven-swinton",
@@ -421,10 +443,12 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
+    "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NC-14",
@@ -448,10 +472,12 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+    "https://www.ncsbe.gov/news/press-releases/2026/11/24/state-board-unanimously-certifies-midterm-elections",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Composite_Abstract_Report-Contest-redacted_NCH62_DA21_w.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2026-11-24/Canvass/State_Certification_of_Winner-redacted_NCH62_DA21.pdf",
+    "https://www.thegreenpapers.com/G26/NC"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

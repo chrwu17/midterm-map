@@ -55,7 +55,7 @@
       "party": "Independent",
       "major": true,
       "incumbent": false,
-      "voteShare": 33.56,
+      "voteShare": 33.57,
       "bio": "Achilles is a Boise tech-industry veteran with more than 20 years at companies including Hewlett Packard and T-Mobile, and a former U.S. Army tank commander who grew up on a family farm in Idaho. He was appointed to the Idaho House as a Democrat in February 2024, won election that year, and left in 2025 to run for U.S. Senate as an independent. He says he will not caucus with either party and has published a letter pledging to resign after two terms.",
       "website": "https://www.achillesforidaho.com/",
       "positions": [
@@ -117,10 +117,11 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://gemstatechronicle.com/2026/11/idaho-board-of-canvassers-certifies-2026-election-audit/",
+    "https://www.thegreenpapers.com/G26/ID"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). 2026-11-25: the state release carried by Gem State Chronicle (https://gemstatechronicle.com/2026/11/idaho-board-of-canvassers-certifies-2026-election-audit/) says the Board of Canvassers certified the results Nov 24 but gives no candidate totals. Not marked certified here: shares are from The Green Papers and were not matched to a certified count."
 }

@@ -15,8 +15,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 52.54,
-      "bio": "Abdul El-Sayed is a Democrat and epidemiologist who formerly served as a Wayne County health official and ran for Michigan governor in 2018. He won the 2026 Democratic Senate primary over U.S. Rep. Haley Stevens. His campaign centers on Medicare for All.",
+      "voteShare": 52.56,
+      "bio": "Abdul El-Sayed is a Democrat and epidemiologist who formerly served as a Wayne County health official and ran for Michigan governor in 2018. He won the 2026 Democratic Senate primary over U.S. Rep. Haley Stevens. He campaigned on Medicare for All.",
       "website": "https://abdulforsenate.com",
       "positions": [
         {
@@ -57,7 +57,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 45.46,
+      "voteShare": 45.44,
       "bio": "Mike Rogers is a Republican who was born and raised in Livingston County, Michigan, served as an Army lieutenant, and worked as an FBI special agent. He represented Michigan in the U.S. House from 2001 to 2015 and chaired the House Intelligence Committee. He lost the 2024 Senate race to Elissa Slotkin by about 19,000 votes.",
       "website": "https://www.rogersforsenate.com/",
       "positions": [
@@ -141,11 +141,11 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
     "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
-    "https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-3-2026"
+    "https://www.cbsnews.com/detroit/news/michigan-board-of-state-canvassers-certify-midterm-results/",
+    "https://www.thegreenpapers.com/G26/MI"
   ],
-  "lastVerified": "2026-11-15",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). 2026-11-25: CBS News Detroit (https://www.cbsnews.com/detroit/news/michigan-board-of-state-canvassers-certify-midterm-results/) says the Board of State Canvassers certified the results Nov 23. Not marked certified here: shares are from The Green Papers and were not matched to the certified count."
 }

@@ -14,28 +14,27 @@
      "name": "Amish Shah",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 52.41
+     "voteShare": 52.36
     },
     {
      "id": "jay-feely",
      "name": "Jay Feely",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 45.5
+     "voteShare": 45.4
     },
     {
      "id": "monica-alponte",
      "name": "Monica Alponte",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.17
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+    "https://www.thegreenpapers.com/G26/AZ"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AZ-02",
@@ -55,21 +54,20 @@
      "name": "Jonathan Nez",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 48.51
+     "voteShare": 48.53
     },
     {
      "id": "curtis-goodwin",
      "name": "Curtis Goodwin",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.83
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+    "https://www.thegreenpapers.com/G26/AZ"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AZ-03",
@@ -82,7 +80,7 @@
      "name": "Yassamin Ansari",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 87.4
+     "voteShare": 86.64
     },
     {
      "id": "alan-aversa",
@@ -90,21 +88,20 @@
      "party": "Other",
      "partyLabel": "No Labels",
      "incumbent": false,
-     "voteShare": 6.07
+     "voteShare": 6.01
     },
     {
      "id": "david-redkey",
      "name": "David Redkey",
      "party": "Green",
      "incumbent": false,
-     "voteShare": 5.2
+     "voteShare": 5.16
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+    "https://www.thegreenpapers.com/G26/AZ"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AZ-04",
@@ -117,14 +114,14 @@
      "name": "Greg Stanton",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 62.36
+     "voteShare": 62.3
     },
     {
      "id": "zuhdi-jasser",
      "name": "Zuhdi Jasser",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 35.22
+     "voteShare": 35.14
     },
     {
      "id": "tisha-benoit",
@@ -132,14 +129,13 @@
      "party": "Other",
      "partyLabel": "No Labels",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.34
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+    "https://www.thegreenpapers.com/G26/AZ"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AZ-05",
@@ -152,21 +148,20 @@
      "name": "Mark Lamb",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 51.7
+     "voteShare": 51.59
     },
     {
      "id": "elizabeth-lee",
      "name": "Elizabeth Lee",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 48.3
+     "voteShare": 48.23
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+    "https://www.thegreenpapers.com/G26/AZ"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AZ-06",
@@ -179,35 +174,34 @@
      "name": "JoAnna Mendoza",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 53.0
+     "voteShare": 52.91
     },
     {
      "id": "juan-ciscomani",
      "name": "Juan Ciscomani",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 44.9
+     "voteShare": 44.81
     },
     {
      "id": "jereme-peters",
      "name": "Jereme Peters",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.26
     },
     {
      "id": "gary-swing",
      "name": "Gary Swing",
      "party": "Green",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 0.91
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+    "https://www.thegreenpapers.com/G26/AZ"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AZ-07",
@@ -220,21 +214,20 @@
      "name": "Adelita Grijalva",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 71.95
+     "voteShare": 71.84
     },
     {
      "id": "daniel-butierez",
      "name": "Daniel Butierez",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 28.02
+     "voteShare": 27.98
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+    "https://www.thegreenpapers.com/G26/AZ"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AZ-08",
@@ -247,21 +240,20 @@
      "name": "Abraham Hamadeh",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 51.23
+     "voteShare": 51.08
     },
     {
      "id": "bernadette-greene-placentia",
      "name": "Bernadette Greene-Placentia",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 48.77
+     "voteShare": 48.71
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+    "https://www.thegreenpapers.com/G26/AZ"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "AZ-09",
@@ -274,21 +266,20 @@
      "name": "Paul Gosar",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 57.46
+     "voteShare": 57.41
     },
     {
      "id": "dani-sterbinsky",
      "name": "Dani Sterbinsky",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 42.53
+     "voteShare": 42.46
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+    "https://www.thegreenpapers.com/G26/AZ"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

@@ -53,7 +53,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 49.12,
-      "bio": "Jamie Davis is a Democrat and crop farmer from northeast Louisiana who previously served on the Tensas Parish Police Jury. He won the Democratic nomination in a June 27, 2026 runoff.",
+      "bio": "Jamie Davis is a Democrat and farmer from northeast Louisiana who previously served on the Tensas Parish Police Jury. He won the Democratic nomination in a June 27, 2026 runoff.",
       "website": "https://jamieforlouisiana.com",
       "positions": [
         {
@@ -95,11 +95,11 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Louisiana",
     "https://www.wafb.com/2026/11/04/julia-letlow-projected-win-louisiana-senate-race/",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/LA"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by wafb.com report. Cassidy lost the May primary; Letlow beat Davis by a narrow margin."
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by wafb.com report. Cassidy lost the May primary; Letlow beat Davis by a narrow margin. 2026-11-25: shares match The Green Papers. No page confirming certification was found."
 }

@@ -6,43 +6,46 @@
   {
    "id": "AK-AL",
    "district": "AL",
-   "status": "uncalled",
-   "winnerId": null,
+   "status": "called",
+   "winnerId": "nick-begich-iii",
    "candidates": [
     {
      "id": "nick-begich-iii",
      "name": "Nick Begich III",
      "party": "Republican",
-     "incumbent": false,
-     "voteShare": null
-    },
-    {
-     "id": "eric-hafner",
-     "name": "Eric Hafner",
-     "party": "Democratic",
-     "incumbent": false,
-     "voteShare": null
+     "incumbent": true,
+     "voteShare": 47.6
     },
     {
      "id": "bill-hill",
      "name": "Bill Hill",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 41.84
+    },
+    {
+     "id": "eric-hafner",
+     "name": "Eric Hafner",
+     "party": "Democratic",
+     "incumbent": false,
+     "voteShare": 7.93
     },
     {
      "id": "jim-mcdermott",
      "name": "Jim McDermott",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.63
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Alaska"
+    "https://alaskapublic.org/news/politics/elections/2026-11-23/alaska-certifies-midterm-election-starting-the-clock-for-challenges-and-recounts",
+    "https://alaskapublic.org/news/politics/elections/2026-11-18/republican-u-s-rep-begich-wins-reelection",
+    "https://www.alaskasnewssource.com/2026/11/19/begich-keeps-alaskas-house-seat-heading-into-second-term/",
+    "https://www.thegreenpapers.com/G26/AK"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25",
+   "factCheckNote": "All shares are first-choice shares from one Green Papers count (286,579 votes, write-ins not included). No one had a first-choice majority. Alaska Public Media (Nov 18) reports Begich won the final ranked-choice round with 51.35% to Hill's 48.65%. Alaska's News Source (Nov 19) also reports that he won after the ranked-choice runoff. Alaska Public Media (Nov 23) reports the election was certified."
   }
  ]
 }

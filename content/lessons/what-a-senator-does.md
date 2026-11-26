@@ -13,11 +13,11 @@ The U.S. Senate is one half of Congress. The other half is the House of Represen
 - **Six-year terms.** There is no limit on how many terms a senator can serve.
 - **Statewide voters.** Senators represent everyone in their state, not just one district.
 
-The [Senate's own website](https://www.senate.gov/about/origins-foundations/senate-and-constitution/constitution.htm) explains these rules, which come from Article I of the Constitution and the 17th Amendment. That amendment, passed in 1913, made senators elected by voters. Before that, state legislatures picked them.
+You can read these rules in the Constitution on the [Senate's own website](https://www.senate.gov/about/origins-foundations/senate-and-constitution/constitution.htm). They come from Article I of the Constitution and the 17th Amendment. That amendment, ratified in 1913, made senators elected by voters. Before that, state legislatures picked them.
 
 ## Why not everyone is up at once
 
-Senate terms are staggered. Senators are split into three groups called classes. Each class has a different election year, so about one-third of the Senate is up every two years. The [Senate's explainer on classes](https://www.senate.gov/senators/Class_I_II_III_senators.htm) shows which states are in which class.
+Senate terms are staggered. Senators are split into three groups called classes. Each class has a different election year, so about one-third of the Senate is up every two years. The [Senate's page on classes](https://www.senate.gov/about/origins-foundations/senate-and-constitution/senate-classes.htm) explains the system, and its lists of [Class I](https://www.senate.gov/senators/Class_I.htm), [Class II](https://www.senate.gov/senators/Class_II.htm) and [Class III](https://www.senate.gov/senators/Class_III.htm) senators show each senator's state.
 
 This is why some states have a Senate race in a midterm year and others do not.
 
@@ -33,13 +33,13 @@ Senators do several jobs:
 
 ## Special elections
 
-If a senator leaves office early, the seat gets filled. Under the 17th Amendment, each state's rules say how to fill it. Usually the governor can appoint a temporary replacement, and a special election is held later. Some states require a special election with no appointment. The rules differ by state, so check your state election office.
+If a senator leaves office early, the seat gets filled. Under the 17th Amendment, each state's rules say how to fill it. [NCSL](https://www.ncsl.org/elections-and-campaigns/vacancies-in-the-united-states-senate) compares them. Usually the governor can appoint a temporary replacement, and a special election is held later. Some states require a special election with no appointment. The rules differ by state, so check your state election office.
 
 In 2026, for example, Ohio and Florida each held a special election for a Senate seat, in addition to the regular races.
 
 ## How to find your senators
 
-Go to [senate.gov](https://www.senate.gov/senators/senators-contact.htm) and pick your state. You will see both senators, their contact info, and the committees they serve on. To see how they voted, check [Congress.gov](https://www.congress.gov/).
+Go to [senate.gov](https://www.senate.gov/senators/senators-contact.htm) and pick your state. You will see both senators and their contact info. To see how they voted, use the [roll-call votes page](https://www.congress.gov/roll-call-votes) on Congress.gov.
 
 ## Key takeaways
 

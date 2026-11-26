@@ -15,7 +15,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 50.27,
+      "voteShare": 50.18,
       "bio": "Jim Pillen has been governor of Nebraska since 2023. President Trump endorsed him, and he ran with Lt. Gov. Joe Kelly.",
       "website": "https://www.jimpillen.com/",
       "positions": [
@@ -41,7 +41,9 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election"
+        "https://www.nga.org/governor/jim-pillen/",
+        "https://nebraskapublicmedia.org/en/news/news-articles/what-to-know-about-the-10-candidates-hoping-to-be-the-next-governor-of-nebraska/",
+        "https://www.thegreenpapers.com/G26/NE"
       ]
     },
     {
@@ -50,8 +52,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 42.65,
-      "bio": "Lynne Walz is a former Nebraska state senator (2017-2025) and was the 2018 Democratic nominee for lieutenant governor.",
+      "voteShare": 42.73,
+      "bio": "Lynne Walz is a former Nebraska state senator who served two terms and was the 2018 Democratic nominee for lieutenant governor.",
       "website": "https://lynnewalz.com/",
       "positions": [
         {
@@ -61,13 +63,13 @@
         },
         {
           "issue": "education",
-          "summary": "Says education is under attack and pledges to stop it, and has voiced concern about public money going to private schools.",
-          "source": "https://www.wowt.com/2026/07/16/walz-talks-priorities-pivot-nebraska-primary-election-nov-3-faceoff/"
+          "summary": "Lists stronger schools among her campaign priorities.",
+          "source": "https://nebraskapublicmedia.org/en/news/news-articles/what-to-know-about-the-10-candidates-hoping-to-be-the-next-governor-of-nebraska/"
         },
         {
           "issue": "healthcare",
-          "summary": "Lists accessible health care among her priorities.",
-          "source": "https://www.wowt.com/2026/07/16/walz-talks-priorities-pivot-nebraska-primary-election-nov-3-faceoff/"
+          "summary": "Made efforts to promote health insurance coverage as a state legislator.",
+          "source": "https://nebraskapublicmedia.org/en/news/news-articles/what-to-know-about-the-10-candidates-hoping-to-be-the-next-governor-of-nebraska/"
         },
         {
           "issue": "abortion",
@@ -76,7 +78,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election"
+        "https://nebraskapublicmedia.org/en/news/news-articles/what-to-know-about-the-10-candidates-hoping-to-be-the-next-governor-of-nebraska/",
+        "https://www.thegreenpapers.com/G18/NE"
       ]
     },
     {
@@ -85,7 +88,7 @@
       "party": "Other",
       "major": false,
       "incumbent": false,
-      "voteShare": 4.4,
+      "voteShare": 4.39,
       "bio": null,
       "website": null,
       "positions": [],
@@ -98,7 +101,7 @@
       "party": "Other",
       "major": false,
       "incumbent": false,
-      "voteShare": 2.68,
+      "voteShare": 2.69,
       "bio": null,
       "website": null,
       "positions": [],
@@ -107,11 +110,11 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election",
     "https://www.multistate.us/resources/governors-2026-state-election-results",
-    "https://electionresults.nebraska.gov/resultsSW.aspx"
+    "https://electionresults.nebraska.gov/resultsSW.aspx",
+    "https://sos.nebraska.gov/board-state-canvassers-certify-general-election-results"
   ],
-  "lastVerified": "2026-11-15",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Shares refreshed Nov. 25, 2026 from the Nebraska Secretary of State page, still labeled Unofficial Results. State canvass is set for Nov. 30."
 }

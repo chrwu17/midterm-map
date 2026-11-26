@@ -14,35 +14,34 @@
      "name": "Dina Titus",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 59.21
+     "voteShare": 59.26
     },
     {
      "id": "carrie-buck",
      "name": "Carrie Buck",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 37.69
+     "voteShare": 37.65
     },
     {
      "id": "steven-st-john",
      "name": "Steven St. John",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.73
     },
     {
      "id": "bobby-khan",
      "name": "Bobby Khan",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.36
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada"
+    "https://www.thegreenpapers.com/G26/NV"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NV-02",
@@ -55,28 +54,28 @@
      "name": "Teresa Benitez-Thompson",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 50.22
+     "voteShare": 50.15
     },
     {
      "id": "david-flippo",
      "name": "David Flippo",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 44.3
+     "voteShare": 44.38
     },
     {
      "id": "lynn-chapman",
      "name": "Lynn Chapman",
-     "party": "Independent",
+     "party": "Other",
+     "partyLabel": "Independent American",
      "incumbent": false,
-     "voteShare": 5.47
+     "voteShare": 5.48
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada"
+    "https://www.thegreenpapers.com/G26/NV"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NV-03",
@@ -89,28 +88,28 @@
      "name": "Susie Lee",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 59.6
+     "voteShare": 59.51
     },
     {
      "id": "martin-odonnell",
      "name": "Martin O'Donnell",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 38.1
+     "voteShare": 38.15
     },
     {
      "id": "jon-kamerath",
      "name": "Jon Kamerath",
-     "party": "Independent",
+     "party": "Other",
+     "partyLabel": "Independent American",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.34
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada"
+    "https://www.thegreenpapers.com/G26/NV"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NV-04",
@@ -123,35 +122,35 @@
      "name": "Steven Horsford",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 60.44
+     "voteShare": 60.37
     },
     {
      "id": "cody-whipple",
      "name": "Cody Whipple",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 37.67
+     "voteShare": 37.72
     },
     {
      "id": "russell-best",
      "name": "Russell Best",
-     "party": "Independent",
+     "party": "Other",
+     "partyLabel": "Independent American",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.01
     },
     {
      "id": "william-johnson",
      "name": "William Johnson",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 0.9
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada"
+    "https://www.thegreenpapers.com/G26/NV"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

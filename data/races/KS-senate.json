@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 51.02,
+      "voteShare": 51.18,
       "bio": "Hamilton is a fifth-generation Kansan who grew up in Prairie Village and, with his wife LaVon, started the United Methodist Church of the Resurrection in the Kansas City area in 1990. He has served as its senior pastor for 36 years, and the congregation runs food donations, blood drives and a mobile dental clinic for schoolchildren. He won the Democratic primary with 34.6% of the vote.",
       "website": "https://hamiltonforkansas.com/",
       "positions": [
@@ -55,14 +55,14 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 45.96,
+      "voteShare": 45.79,
       "bio": "Marshall is a Republican from Great Bend who practiced as an OB/GYN for more than 25 years, delivering over 5,000 babies, and grew his medical practice to more than 300 staff. He holds degrees from Kansas State University and the University of Kansas School of Medicine and served seven years in the Army Reserves. He was elected to the U.S. House in 2016 and the Senate in 2020, and sits on the Agriculture, Finance, HELP and Budget committees.",
       "website": null,
       "positions": [
         {
           "issue": "economy",
-          "summary": "Supports the second Trump administration's tariff policy, voted for the 2017 Tax Cuts and Jobs Act, and supports farm subsidies including federal crop insurance.",
-          "source": "https://en.wikipedia.org/wiki/Roger_Marshall"
+          "summary": "Said in April 2025 that he wanted to make President Trump's tax cuts permanent and add tax cuts on wages, tips and Social Security, and that tariffs on Canada are necessary for national security.",
+          "source": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-joins-fox-business-to-discuss-making-president-trumps-tax-cuts-permanent-and-tariffs-on-canada/"
         },
         {
           "issue": "healthcare",
@@ -71,12 +71,12 @@
         },
         {
           "issue": "immigration",
-          "summary": "Wrote in a 2023 Fox News op-ed that he had spoken to Americans paying the price for the Biden administration's border chaos.",
+          "summary": "Wrote a 2023 Fox News op-ed titled \"I've spoken to Americans paying the price for Biden's border chaos, and they're furious.\"",
           "source": "https://www.marshall.senate.gov/newsroom/op-eds/"
         },
         {
           "issue": "climate",
-          "summary": "Praised Trump administration relief for Kansas oil producers and a project to expand refining capacity in El Dorado, in October 2026 press releases.",
+          "summary": "Praised proposed Trump administration relief for Kansas oil producers and a project to expand refining capacity in El Dorado, in October 2026 press releases.",
           "source": "https://www.marshall.senate.gov/newsroom/press-releases/"
         },
         {
@@ -87,7 +87,8 @@
       ],
       "sources": [
         "https://www.marshall.senate.gov/about/",
-        "https://en.wikipedia.org/wiki/Roger_Marshall"
+        "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-joins-fox-business-to-discuss-making-president-trumps-tax-cuts-permanent-and-tariffs-on-canada/",
+        "https://www.thegreenpapers.com/G26/KS"
       ]
     },
     {
@@ -96,7 +97,7 @@
       "party": "Libertarian",
       "major": false,
       "incumbent": false,
-      "voteShare": 3.02,
+      "voteShare": 3.03,
       "bio": null,
       "website": null,
       "positions": [],
@@ -104,10 +105,12 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://kssos.org/media/press-releases.html",
+    "https://www.thegreenpapers.com/G26/KS",
+    "https://www.nbcnews.com/politics/2026-elections/kansas-senate-results"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). 2026-11-25: all shares are computed from the vote counts on the NBC News results page, last updated Nov. 19, 2026. The State Board of Canvassers meets Dec 1 to certify (https://kssos.org/media/press-releases.html)."
 }

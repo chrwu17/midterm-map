@@ -15,7 +15,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 48.16,
+      "voteShare": 48.17,
       "bio": "Kurt Alme is a Republican and former U.S. Attorney for Montana who also served as Gov. Gianforte's budget director. He entered the race in March 2026 after Sen. Steve Daines withdrew and endorsed him.",
       "website": "https://www.almeforsenate.com",
       "positions": [
@@ -51,8 +51,8 @@
       "party": "Independent",
       "major": true,
       "incumbent": false,
-      "voteShare": 37.74,
-      "bio": "Seth Bodnar is an independent, a West Point graduate and former Army Green Beret, and the former president of the University of Montana. He announced his Senate run in March 2026.",
+      "voteShare": 37.72,
+      "bio": "Seth Bodnar is an independent, a former Army Green Beret and the former president of the University of Montana. He announced his Senate run in March 2026.",
       "website": "https://sethformontana.com",
       "positions": [
         {
@@ -82,8 +82,7 @@
         }
       ],
       "sources": [
-        "https://www.mtpr.org/montana-news/2026-03-04/bodnar-enters-montana-senate-race-as-an-independent",
-        "https://www.axios.com/2026/01/22/seth-bodnar-montana-senate-independent"
+        "https://www.mtpr.org/montana-news/2026-03-04/bodnar-enters-montana-senate-race-as-an-independent"
       ]
     },
     {
@@ -93,7 +92,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 12.26,
-      "bio": "Alani Bankhead is a Democrat who describes herself as a moderate and an independent Democrat. She ran in the 2026 Democratic primary for Montana's Senate seat.",
+      "bio": "Alani Bankhead is a Democrat who describes herself as a moderate and an independent Democrat. She was the 2026 Democratic nominee for Montana's Senate seat.",
       "website": "https://www.alaniformt.com",
       "positions": [
         {
@@ -128,9 +127,9 @@
         }
       ],
       "sources": [
-        "https://ballotpedia.org/Alani_Bankhead",
         "https://www.kpax.com/news/montana-politics/fourth-democratic-candidate-running-for-montana-u-s-senate-seat",
-        "https://www.alaniformt.com/healthcare"
+        "https://www.alaniformt.com/healthcare",
+        "https://www.thegreenpapers.com/G26/MT"
       ]
     },
     {
@@ -144,15 +143,15 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana"
+        "https://www.thegreenpapers.com/G26/MT"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/MT"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Shares refreshed Nov. 25, 2026 from The Green Papers. State certification was not confirmed."
 }

@@ -15,8 +15,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 61.47,
-      "bio": "Mark Warner has been a U.S. senator from Virginia since 2009 and was governor of Virginia from 2002 to 2006. Before politics he co-founded the venture capital firm Columbia Capital.",
+      "voteShare": 61.6,
+      "bio": "Mark Warner is a U.S. senator from Virginia, first elected to the Senate in 2008, and was governor of Virginia from 2002 to 2006. He was a founding partner of Columbia Capital.",
       "website": "https://markwarnerva.com",
       "positions": [
         {
@@ -51,8 +51,9 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Mark_Warner",
-        "https://www.warner.senate.gov/about/priorities/health-care/"
+        "https://www.warner.senate.gov/about/priorities/health-care/",
+        "https://www.nga.org/governor/mark-r-warner/",
+        "https://www.warner.senate.gov/about/"
       ]
     },
     {
@@ -61,7 +62,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 38.26,
+      "voteShare": 38.13,
       "bio": "Bert Mizusawa is a retired U.S. Army major general who describes himself as a four-time combat commander and a Silver Star recipient. He served as Deputy Under Secretary of the Army and as a Senate Armed Services Committee staff member, and holds degrees from West Point and Harvard. He won the 2026 Republican nomination for U.S. Senate in Virginia.",
       "website": "https://bertforsenate.com",
       "positions": [
@@ -93,11 +94,11 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://enr.elections.virginia.gov/results/public/virginia/elections/2026-November-General",
+    "https://www.thegreenpapers.com/G26/VA"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Shares refreshed Nov. 25 from the state results site, which marks the count as not official (data as of Nov. 24)."
 }

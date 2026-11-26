@@ -14,21 +14,21 @@
      "name": "Richard Neal",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 65.38
+     "voteShare": 65.03
     },
     {
      "id": "nadia-milleron",
      "name": "Nadia Milleron",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": 34.62
+     "voteShare": 34.17
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/office_id:5/stage:General",
     "https://www.thegreenpapers.com/G26/MA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MA-02",
@@ -41,14 +41,14 @@
      "name": "Jim McGovern",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 100.0
+     "voteShare": 97.74
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/office_id:5/stage:General",
     "https://www.thegreenpapers.com/G26/MA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MA-03",
@@ -61,28 +61,28 @@
      "name": "Lori Trahan",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 67.15
+     "voteShare": 67.27
     },
     {
      "id": "gary-grossi",
      "name": "Gary Grossi",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 30.35
+     "voteShare": 30.1
     },
     {
      "id": "dennis-conlon",
      "name": "Dennis Conlon",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": 2.5
+     "voteShare": 2.51
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/office_id:5/stage:General",
     "https://www.thegreenpapers.com/G26/MA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MA-04",
@@ -95,21 +95,21 @@
      "name": "Jake Auchincloss",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 66.37
+     "voteShare": 66.5
     },
     {
      "id": "thomas-stalcup",
      "name": "Thomas Stalcup",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 33.63
+     "voteShare": 33.09
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/office_id:5/stage:General",
     "https://www.thegreenpapers.com/G26/MA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MA-05",
@@ -122,14 +122,14 @@
      "name": "Katherine Clark",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 100.0
+     "voteShare": 97.78
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/office_id:5/stage:General",
     "https://www.thegreenpapers.com/G26/MA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MA-06",
@@ -142,21 +142,21 @@
      "name": "Dan Koh",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 63.45
+     "voteShare": 63.39
     },
     {
      "id": "micah-jones",
      "name": "Micah Jones",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 36.55
+     "voteShare": 36.47
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/office_id:5/stage:General",
     "https://www.thegreenpapers.com/G26/MA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MA-07",
@@ -169,14 +169,14 @@
      "name": "Ayanna Pressley",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 100.0
+     "voteShare": 97.26
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/office_id:5/stage:General",
     "https://www.thegreenpapers.com/G26/MA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MA-08",
@@ -189,14 +189,14 @@
      "name": "Stephen Lynch",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 69.47
+     "voteShare": 69.7
     },
     {
      "id": "robert-burke",
      "name": "Robert Burke",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 26.77
+     "voteShare": 26.29
     },
     {
      "id": "rasheed-walters",
@@ -207,10 +207,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/office_id:5/stage:General",
     "https://www.thegreenpapers.com/G26/MA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MA-09",
@@ -223,21 +223,21 @@
      "name": "Bill Keating",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 60.9
+     "voteShare": 60.92
     },
     {
      "id": "tyler-macallister",
      "name": "Tyler MacAllister",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 39.1
+     "voteShare": 38.99
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/office_id:5/stage:General",
     "https://www.thegreenpapers.com/G26/MA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

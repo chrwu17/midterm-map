@@ -20,9 +20,12 @@ export async function generateMetadata({ params }: { params: Promise<{ st: strin
   const { st } = await params;
   const s = STATE_BY_CODE.get(st.toUpperCase());
   if (!s) return { title: "Midterm Map" };
+  const top = [s.senate2026 && "Senate", s.governor2026 && "governor"].filter(Boolean).join(" and ");
+  const offices = [s.senate2026 && "U.S. Senate", s.governor2026 && "governor", "U.S. House"].filter(Boolean);
+  const list = offices.length > 2 ? `${offices.slice(0, -1).join(", ")} and ${offices.at(-1)}` : offices.join(" and ");
   return pageMeta(
-    `${s.name}: 2026 Senate and governor races | Midterm Map`,
-    `Who ran and who won in ${s.name}'s 2026 U.S. Senate, governor and U.S. House races, and where the major Senate and governor candidates stand, in plain, nonpartisan language.`,
+    `${s.name}: 2026 ${top || "U.S. House"} races | Midterm Map`,
+    `Candidates and results in ${s.name}'s 2026 ${list} races${top ? `, and where the major ${top} candidates stand` : ""}, in plain, nonpartisan language.`,
     `/state/${st.toLowerCase()}/`,
   );
 }
@@ -53,7 +56,7 @@ export default async function StatePage({ params }: { params: Promise<{ st: stri
         {expected.length
           ? `On November 3, 2026, ${state.name} had ${expected.join(" and ")}${house ? ", plus its U.S. House races" : ""}.`
           : house
-            ? `${state.name} had no U.S. Senate or governor race in 2026, but it did vote for its U.S. House members.`
+            ? `${state.name} had no U.S. Senate or governor race in 2026, but it did elect its U.S. House members.`
             : `${state.name} had no U.S. Senate or governor race in 2026.`}
       </p>
 
@@ -69,8 +72,8 @@ export default async function StatePage({ params }: { params: Promise<{ st: stri
               </Link>
               <p className="mt-4 font-semibold">Data coming soon</p>
               <p className="mt-1 max-w-[60ch] text-muted-foreground">
-                We are still researching and checking this race&apos;s candidates and results. Until then, your state
-                election office and <a className="underline" href="https://vote.gov">vote.gov</a> are good places to look.
+                We are still checking this race&apos;s candidates and results. For now, try your state election office
+                or <a className="underline" href="https://vote.gov">vote.gov</a>.
               </p>
             </div>
           ))}
@@ -79,8 +82,8 @@ export default async function StatePage({ params }: { params: Promise<{ st: stri
           <div data-reveal className="rounded-xl border border-border bg-card p-7">
             <h2 className="text-xl font-semibold">No Senate or governor race in 2026</h2>
             <p className="mt-2 max-w-[60ch] text-muted-foreground">
-              Every state still voted for its members of the U.S. House, and many had state and local races too. Those are not
-              covered on this site yet.
+              Every state still voted for its members of the U.S. House, and many had state and local races too. This
+              page does not cover those yet.
             </p>
           </div>
         )}

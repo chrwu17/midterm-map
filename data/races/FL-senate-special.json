@@ -31,13 +31,13 @@
         },
         {
           "issue": "education",
-          "summary": "Described herself in August 2025 as a long-time advocate for school choice.",
-          "source": "https://ontheissues.org/Senate/Ashley_Moody.htm"
+          "summary": "Said at an August 2025 news conference that she has long been an advocate for school choice.",
+          "source": "https://www.fox13news.com/news/sen-moody-linda-mcmahon-hold-news-conference-tampa-school-choice-expansion-wins"
         },
         {
           "issue": "climate",
-          "summary": "As attorney general, joined a 2023 lawsuit against the federal government over CO2 reductions.",
-          "source": "https://ontheissues.org/Senate/Ashley_Moody.htm"
+          "summary": "As attorney general, filed a 2023 lawsuit against a federal rule requiring states to set targets to reduce CO2 emissions from road travel.",
+          "source": "https://fdot.gov/info/co/news/2023/12212023"
         },
         {
           "issue": "abortion",
@@ -46,9 +46,11 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
         "https://www.moody.senate.gov/about",
-        "https://ashleymoody.com/"
+        "https://ashleymoody.com/",
+        "https://www.fox13news.com/news/sen-moody-linda-mcmahon-hold-news-conference-tampa-school-choice-expansion-wins",
+        "https://fdot.gov/info/co/news/2023/12212023",
+        "https://www.thegreenpapers.com/G26/FL"
       ]
     },
     {
@@ -57,8 +59,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 48,
-      "bio": "Democratic member of the Florida House of Representatives since November 2020, representing Jacksonville, where she was born and raised. She is a union organizer and former executive director of Florida for All, a statewide voter registration coalition, and runs a bookstore and community hub in Jacksonville. She won the Democratic primary with 56.1%, defeating Alex Vindman.",
+      "voteShare": 48.0,
+      "bio": "Democrat first elected to the Florida House of Representatives in 2020, representing Jacksonville, where she was born and raised. She is a union organizer, has led Florida for All, a statewide coalition that registers voters, and runs a bookstore and community hub in Jacksonville. She won the Democratic primary with 56% of the vote, defeating Alex Vindman.",
       "website": "https://angienixon.com/",
       "positions": [
         {
@@ -78,13 +80,13 @@
         },
         {
           "issue": "immigration",
-          "summary": "Supports border security and clear, compassionate pathways to citizenship, and her 2026 platform calls for abolishing ICE.",
-          "source": "https://en.wikipedia.org/wiki/Angie_Nixon"
+          "summary": "Supports secure borders with clear and compassionate pathways to citizenship, and her website calls for abolishing ICE and rebuilding immigration enforcement, according to PolitiFact.",
+          "source": "https://politifact.com/article/2026/aug/21/angie-nixon-florida-senate-ashley-moody-dsa/"
         },
         {
           "issue": "abortion",
-          "summary": "Opposed Florida's ban on most abortions after six weeks in April 2023.",
-          "source": "https://ontheissues.org/Senate/Angie_Nixon.htm"
+          "summary": "Voted against Florida's six-week abortion ban (SB 300) in April 2023.",
+          "source": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
         },
         {
           "issue": "climate",
@@ -93,10 +95,11 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
         "https://angienixon.com/meet-angie/",
-        "https://en.wikipedia.org/wiki/Angie_Nixon",
-        "https://angienixon.com/"
+        "https://angienixon.com/",
+        "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+        "https://politifact.com/article/2026/aug/21/angie-nixon-florida-senate-ashley-moody-dsa/",
+        "https://mynews13.com/fl/orlando/news/2026/08/19/u-s--senate-democratic-primary-results"
       ]
     },
     {
@@ -113,10 +116,10 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/FL"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Shares checked on November 25, 2026 against The Green Papers (8,281,789 votes in total), which does not say the count is certified."
 }

@@ -14,21 +14,20 @@
      "name": "Chellie Pingree",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 65.89
+     "voteShare": 65.85
     },
     {
      "id": "ronald-russell",
      "name": "Ronald Russell",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 34.1
+     "voteShare": 34.15
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maine"
+    "https://www.thegreenpapers.com/G26/ME"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "ME-02",
@@ -52,10 +51,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/ME"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

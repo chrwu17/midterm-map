@@ -25,10 +25,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://electionresults.sos.nm.gov/resultsSW.aspx?type=FED&map=CTY",
     "https://www.thegreenpapers.com/G26/NM"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NM-02",
@@ -41,21 +41,21 @@
      "name": "Gabe Vasquez",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 58.75
+     "voteShare": 58.76
     },
     {
      "id": "greg-cunningham",
      "name": "Greg Cunningham",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 41.25
+     "voteShare": 41.24
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://electionresults.sos.nm.gov/resultsSW.aspx?type=FED&map=CTY",
     "https://www.thegreenpapers.com/G26/NM"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NM-03",
@@ -68,21 +68,21 @@
      "name": "Teresa Leger Fernández",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 61.66
+     "voteShare": 61.67
     },
     {
      "id": "martin-zamora",
      "name": "Martin Zamora",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 38.34
+     "voteShare": 38.33
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://electionresults.sos.nm.gov/resultsSW.aspx?type=FED&map=CTY",
     "https://www.thegreenpapers.com/G26/NM"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

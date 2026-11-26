@@ -15,8 +15,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 55.53,
-      "bio": "Rob Sand is Iowa's state auditor and was first elected in 2022. His running mate was Dave Muhlbauer.",
+      "voteShare": 55.47,
+      "bio": "Rob Sand is Iowa's state auditor, first elected in 2018 and reelected in 2022. His running mate was Dave Muhlbauer.",
       "website": "https://robsand.com/",
       "positions": [
         {
@@ -41,7 +41,8 @@
         }
       ],
       "sources": [
-        "https://ballotpedia.org/Iowa_gubernatorial_election,_2026"
+        "https://ballotpedia.org/Iowa_gubernatorial_election,_2026",
+        "https://robsand.com/about"
       ]
     },
     {
@@ -50,7 +51,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 44.47,
+      "voteShare": 44.4,
       "bio": "Zach Lahn is a businessman who won the Republican nomination in a June 2026 primary, beating U.S. Rep. Randy Feenstra. His running mate was Derek Wulf.",
       "website": "https://zachlahn.com/",
       "positions": [
@@ -83,9 +84,12 @@
   ],
   "sources": [
     "https://ballotpedia.org/Iowa_gubernatorial_election,_2026",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.kcci.com/article/iowa-certifies-november-election-results-with-higher-voter-turnout/74522089",
+    "https://www.thegreenpapers.com/G26/IA",
+    "https://www.rcreader.com/news-releases/iowa-state-board-canvassers-certifies-2026-midterm-election-results"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). 2026-11-25: shares are computed from the totals KCCI reports (https://www.kcci.com/article/iowa-certifies-november-election-results-with-higher-voter-turnout/74522089), with the 1,756 write-ins The Green Papers shows in the total. Not marked certified: the Secretary of State release (https://www.rcreader.com/news-releases/iowa-state-board-canvassers-certifies-2026-midterm-election-results) says the Iowa Legislature certifies the governor race on the first day of its 2027 session."
 }

@@ -62,7 +62,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 40.97,
-      "bio": "Collins was born and raised in Jackson, Georgia, where he still lives, and has a business degree from Georgia State University. He co-founded a trucking company with his wife, Leigh Ann, in the early 1990s that grew to more than 100 employees. He represents Georgia's 10th Congressional District and sponsored the Laken Riley Act, which became law in 2025.",
+      "bio": "Collins was born and raised in Jackson, Georgia, where he still lives, and has a business degree from Georgia State University. He started a trucking company with his wife, Leigh Ann, in the early 1990s that grew to more than 100 employees. He represents Georgia's 10th Congressional District and sponsored the Laken Riley Act, which became law in 2025.",
       "website": "https://mikecollinsga.com/",
       "positions": [
         {
@@ -103,10 +103,11 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://capitol-beat.org/2026/11/its-official-raffensperger-certifies-nov-3-election-results/",
+    "https://www.thegreenpapers.com/G26/GA"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Shares checked on November 25, 2026 against The Green Papers (4,182,732 votes in total), which does not say the count is certified. Capitol Beat reported that Secretary of State Raffensperger certified the results on November 20, 2026, but no page with the certified totals could be opened, so resultsCertified is not set."
 }

@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": true,
       "voteShare": 55.6,
-      "bio": "Katie Hobbs is a Democrat who has been governor of Arizona since January 2023. She was Arizona Secretary of State from 2019 to 2023 and served in the state House and Senate, including as Senate minority leader, after working as a social worker.",
+      "bio": "Katie Hobbs is a Democrat who has been governor of Arizona since January 2023. She was elected Arizona Secretary of State in 2018. She served four terms in the state legislature, including two as Senate minority leader, after working as a social worker.",
       "website": "https://katiehobbs.org",
       "positions": [
         {
@@ -46,9 +46,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Katie_Hobbs",
         "https://www.kold.com/2026/11/07/gov-hobbs-touts-bipartisan-priorities-tucson-victory-rally/",
-        "https://ktar.com/arizona-politics-news/election/katie-hobbs-outspoken"
+        "https://www.nga.org/governor/katie-hobbs/"
       ]
     },
     {
@@ -58,7 +57,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 42.4,
-      "bio": "Andy Biggs is a Republican who has represented Arizona's 5th congressional district in the U.S. House since January 2017. He previously served in the Arizona House from 2003 to 2011 and the Arizona Senate from 2011 to 2017, including as Senate president from 2013 to 2017.",
+      "bio": "Andy Biggs is a Republican who was first elected to the U.S. House from Arizona's 5th congressional district in 2016. He previously served eight years in the Arizona House and six years in the Arizona Senate, and was elected Senate president in 2012.",
       "website": "https://www.biggsforarizona.com",
       "positions": [
         {
@@ -88,8 +87,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Andy_Biggs",
-        "https://www.biggsforarizona.com/issues"
+        "https://www.biggsforarizona.com/issues",
+        "https://biggs.house.gov/about"
       ]
     },
     {
@@ -121,10 +120,11 @@
   "sources": [
     "https://www.azfamily.com/2026/11/04/katie-hobbs-defeats-andy-biggs-win-second-term-arizona-governor/",
     "https://www.pollcheck.com/midterms-2026/governor/arizona",
-    "https://ballotpedia.org/Arizona_gubernatorial_election,_2026",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.aol.com/articles/arizonas-top-officials-certify-midterm-182800000.html",
+    "https://www.thegreenpapers.com/G26/AZ"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that counting was still in progress (about 81% reported), so vote shares were partial."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that counting was still in progress (about 81% reported), so vote shares were partial. Shares refreshed on November 25, 2026 from The Green Papers (2,579,147 votes in total), which does not say the count is certified. State officials certified the election on November 23, 2026, but the canvass totals could not be opened, so resultsCertified is not set."
 }

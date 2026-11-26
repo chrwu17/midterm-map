@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 55.06,
-      "bio": "James Talarico has served in the Texas House of Representatives since 2018 and previously taught sixth-grade language arts in San Antonio. He is pursuing a Master of Divinity at Austin Presbyterian Theological Seminary.",
+      "bio": "James Talarico is a Texas state representative who previously taught sixth-grade language arts in San Antonio. He is a Presbyterian seminarian.",
       "website": "https://jamestalarico.com",
       "positions": [
         {
@@ -51,13 +51,13 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/James_Talarico",
         "https://jamestalarico.com/issue/taxes-cost-of-living/",
         "https://jamestalarico.com/issue/health-care/",
         "https://jamestalarico.com/issue/immigration-border-security/",
         "https://jamestalarico.com/issue/public-education/",
         "https://jamestalarico.com/issue/energy-environment/",
-        "https://jamestalarico.com/issue/freedom-family-faith/"
+        "https://jamestalarico.com/issue/freedom-family-faith/",
+        "https://jamestalarico.com/meet-james"
       ]
     },
     {
@@ -67,7 +67,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 42.97,
-      "bio": "Ken Paxton has been Texas Attorney General since 2015 and previously served in the Texas House and Senate. He won the 2026 Republican Senate nomination in a May runoff after receiving President Trump's endorsement.",
+      "bio": "Ken Paxton has been Texas attorney general since 2015 and previously served in the Texas House and Senate. He won the 2026 Republican Senate nomination in a May runoff.",
       "website": "https://kenpaxton.com",
       "positions": [
         {
@@ -102,8 +102,10 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Ken_Paxton",
-        "https://kenpaxton.com/issues"
+        "https://kenpaxton.com/issues",
+        "https://www.texasattorneygeneral.gov/about-office",
+        "https://kenpaxton.com/about",
+        "https://www.thegreenpapers.com/G26/TX"
       ]
     },
     {
@@ -117,17 +119,16 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas"
+        "https://www.thegreenpapers.com/G26/TX"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
     "https://www.fox4news.com/news/james-talarico-defeats-ken-paxton-become-next-us-senator-from-texas",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/TX"
   ],
-  "lastVerified": "2026-11-15",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by fox4news.com report. Paxton beat Cornyn in May runoff; Talarico won in November (AP call)."
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35); also confirmed by fox4news.com report. Paxton beat Cornyn in May runoff; Talarico won in November (AP call). Vote totals read Nov. 25 from thegreenpapers.com. Certification not confirmed."
 }

@@ -25,10 +25,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-02",
@@ -52,10 +51,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-03",
@@ -79,10 +77,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-04",
@@ -113,10 +110,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-05",
@@ -140,10 +136,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-06",
@@ -167,10 +162,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-07",
@@ -202,10 +196,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-08",
@@ -229,10 +222,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-09",
@@ -256,10 +248,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-10",
@@ -283,10 +274,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-11",
@@ -310,10 +300,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-12",
@@ -353,10 +342,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-13",
@@ -380,10 +368,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-14",
@@ -407,10 +394,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-15",
@@ -435,7 +421,8 @@
     {
      "id": "andre-easton",
      "name": "Andre Easton",
-     "party": "Independent",
+     "party": "Other",
+     "partyLabel": "Socialism PSL",
      "incumbent": false,
      "voteShare": 8.4
     },
@@ -457,10 +444,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-16",
@@ -473,21 +459,20 @@
      "name": "George Latimer",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 73.02
+     "voteShare": 73.01
     },
     {
      "id": "joseph-cinquemani",
      "name": "Joseph Cinquemani",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 23.07
+     "voteShare": 23.06
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-17",
@@ -500,21 +485,20 @@
      "name": "Cait Conley",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 52.52
+     "voteShare": 52.59
     },
     {
      "id": "mike-lawler",
      "name": "Mike Lawler",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 46.56
+     "voteShare": 46.49
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-18",
@@ -538,10 +522,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-19",
@@ -565,10 +548,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-20",
@@ -581,21 +563,20 @@
      "name": "Paul Tonko",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 62.81
+     "voteShare": 62.92
     },
     {
      "id": "ralph-ambrosio",
      "name": "Ralph Ambrosio",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 35.75
+     "voteShare": 35.64
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-21",
@@ -608,21 +589,20 @@
      "name": "Anthony Constantino",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 49.51
+     "voteShare": 49.4
     },
     {
      "id": "blake-gendebien",
      "name": "Blake Gendebien",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 47.79
+     "voteShare": 47.93
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-22",
@@ -635,21 +615,20 @@
      "name": "John Mannion",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 57.76
+     "voteShare": 57.77
     },
     {
      "id": "kailee-buller",
      "name": "Kailee Buller",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 40.98
+     "voteShare": 40.97
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-23",
@@ -662,21 +641,20 @@
      "name": "Nick Langworthy",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 59.34
+     "voteShare": 59.28
     },
     {
      "id": "aaron-gies",
      "name": "Aaron Gies",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 39.24
+     "voteShare": 39.28
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-24",
@@ -696,14 +674,13 @@
      "name": "Alissa Ellman",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 39.0
+     "voteShare": 39.01
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-25",
@@ -727,10 +704,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "NY-26",
@@ -743,21 +719,20 @@
      "name": "Tim Kennedy",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 63.89
+     "voteShare": 64.07
     },
     {
      "id": "dennis-hannon",
      "name": "Dennis Hannon",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 32.86
+     "voteShare": 32.64
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/NY"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

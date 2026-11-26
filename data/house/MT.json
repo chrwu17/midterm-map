@@ -14,28 +14,27 @@
      "name": "Sam Forstag",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 50.33
+     "voteShare": 50.48
     },
     {
      "id": "aaron-flint",
      "name": "Aaron Flint",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 46.78
+     "voteShare": 46.64
     },
     {
      "id": "nick-sheedy",
      "name": "Nick Sheedy",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.88
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana"
+    "https://www.thegreenpapers.com/G26/MT"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MT-02",
@@ -48,14 +47,14 @@
      "name": "Troy Downing",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 58.11
+     "voteShare": 58.1
     },
     {
      "id": "brian-miller",
      "name": "Brian Miller",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 32.26
+     "voteShare": 32.27
     },
     {
      "id": "michael-eisenhauer",
@@ -73,10 +72,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana"
+    "https://www.thegreenpapers.com/G26/MT"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

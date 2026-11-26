@@ -49,8 +49,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <footer className="closing border-t border-border">
           <div className="wrap py-8 text-sm text-muted-foreground">
             Midterm Map is a nonpartisan student project. It does not endorse any candidate or party.{" "}
-            <Link href="/about/" className="underline">How we pick and check facts</Link>.
-            Register or check your status at <a className="underline" href="https://vote.gov">vote.gov</a>.
+            <Link href="/about/" className="underline">How we choose sources and check facts</Link>.
+            Register to vote or check your registration at <a className="underline" href="https://vote.gov">vote.gov</a>.
           </div>
         </footer>
       </body>

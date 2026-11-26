@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 57.71,
-      "bio": "Helena Foulkes is a former president of CVS Health's retail business and a former Hudson's Bay Company executive. She was the Democratic nominee for Rhode Island governor in 2026, after an unsuccessful 2022 primary run.",
+      "bio": "Helena Foulkes is a former president of CVS Pharmacy and a former chief executive of Hudson's Bay Company. She was the Democratic nominee for Rhode Island governor in 2026, after an unsuccessful 2022 primary run.",
       "website": "https://helenafoulkes.com",
       "positions": [
         {
@@ -42,7 +42,7 @@
       ],
       "sources": [
         "https://www.bostonglobe.com/2026/11/03/metro/facts-about-helena-buonanno-foulkes-rhode-island/",
-        "https://www.golocalprov.com/politics/political-profile-helena-foulkes-candidate-for-governor"
+        "https://www.nber.org/news/helena-foulkes-elected-governor-rhode-island"
       ]
     },
     {
@@ -77,8 +77,7 @@
         }
       ],
       "sources": [
-        "https://www.oceanstatemedia.org/politics/elections/ken-blocks-third-run-for-rhode-island-governor-centers-on-one-word-competence",
-        "https://en.wikipedia.org/wiki/Ken_Block_(politician)"
+        "https://www.oceanstatemedia.org/politics/elections/ken-blocks-third-run-for-rhode-island-governor-centers-on-one-word-competence"
       ]
     },
     {
@@ -88,7 +87,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 13.18,
-      "bio": "Aaron Guckian is a Rhode Island businessman who ran for lieutenant governor in 2022. He was the Republican nominee for governor in 2026.",
+      "bio": "Aaron Guckian ran for lieutenant governor of Rhode Island in 2022 and lost. He has also led the Rhode Island Dental Association. He was the Republican candidate for governor in 2026.",
       "website": null,
       "positions": [
         {
@@ -118,17 +117,45 @@
         }
       ],
       "sources": [
-        "https://www.golocalprov.com/politics/republican-guckian-is-running-for-governor",
-        "https://ballotpedia.org/Aaron_Guckian"
+        "https://turnto10.com/news/beyond-the-podium/aaron-guckian-republican-candidate-rhode-island-governor-taxes-truck-tolls-election-2026",
+        "https://www.wbur.org/news/2026/11/04/rhode-island-governor-helena-foulkes-wins"
+      ]
+    },
+    {
+      "id": "cd-reynolds",
+      "name": "C.D. Reynolds",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.57,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://www.thegreenpapers.com/G26/RI"
+      ]
+    },
+    {
+      "id": "jay-gotra",
+      "name": "Jay Gotra",
+      "party": "Independent",
+      "major": false,
+      "incumbent": false,
+      "voteShare": 0.47,
+      "bio": null,
+      "website": null,
+      "positions": [],
+      "sources": [
+        "https://www.thegreenpapers.com/G26/RI"
       ]
     }
   ],
   "sources": [
     "https://www.wbur.org/news/2026/11/04/rhode-island-governor-helena-foulkes-wins",
-    "https://en.wikipedia.org/wiki/2026_Rhode_Island_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.thegreenpapers.com/G26/RI"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Vote totals read Nov. 25 from thegreenpapers.com. Write-ins are in the total. Certification not confirmed."
 }

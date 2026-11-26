@@ -14,21 +14,20 @@
      "name": "Sarah McBride",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 64.35
+     "voteShare": 64.31
     },
     {
      "id": "joseph-arminio",
      "name": "Joseph Arminio",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 35.65
+     "voteShare": 35.63
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Delaware"
+    "https://www.thegreenpapers.com/G26/DE"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

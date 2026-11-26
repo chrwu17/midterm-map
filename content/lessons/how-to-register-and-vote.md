@@ -9,7 +9,7 @@ Voting rules in the United States are set mostly by states, so the details chang
 
 ## Step 1: Check if you are eligible
 
-In general, you must be a U.S. citizen and meet your state's age and residency rules. You can register before you turn 18 in many states, as long as you will be 18 by Election Day. [USA.gov](https://www.usa.gov/voter-registration) gives the basics.
+In general, you must be a U.S. citizen and meet your state's age and residency rules. You can register before you turn 18 in almost every state, as long as you will be 18 by Election Day. [USA.gov](https://www.usa.gov/who-can-vote) lists who can and cannot vote.
 
 ## Step 2: Check your registration
 
@@ -41,7 +41,7 @@ Election workers are there to help. If your name is not on the list, you can usu
 
 ## Primaries matter too
 
-Before the general election, states hold primaries to choose each party's nominees. Rules differ on who can vote in which primary. Check [vote.gov](https://vote.gov) for dates.
+Before the general election, states hold primaries to choose each party's nominees. Rules differ on who can vote in which primary. [USA.gov](https://www.usa.gov/when-to-vote) helps you find your state's election dates.
 
 ## Key takeaways
 

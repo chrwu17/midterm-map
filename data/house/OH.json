@@ -14,28 +14,27 @@
      "name": "Greg Landsman",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 54.36
+     "voteShare": 54.38
     },
     {
      "id": "eric-conroy",
      "name": "Eric Conroy",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 42.93
+     "voteShare": 42.94
     },
     {
      "id": "nathan-weise",
      "name": "Nathan Weise",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.67
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-02",
@@ -59,10 +58,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-03",
@@ -86,10 +84,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-04",
@@ -102,28 +99,28 @@
      "name": "Jim Jordan",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 64.55
+     "voteShare": 64.49
     },
     {
      "id": "joshua-kolasinski",
      "name": "Joshua Kolasinski",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 31.28
+     "voteShare": 31.25
     },
     {
      "id": "tracey-tackett",
      "name": "Tracey Tackett",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 4.26
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH",
+    "https://www.traceytackett.org/about"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-05",
@@ -136,28 +133,27 @@
      "name": "Bob Latta",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 54.31
+     "voteShare": 54.26
     },
     {
      "id": "brian-shaver",
      "name": "Brian Shaver",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 42.59
+     "voteShare": 42.56
     },
     {
      "id": "michael-veloff",
      "name": "Michael Veloff",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 3.18
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-06",
@@ -181,10 +177,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-07",
@@ -197,21 +192,20 @@
      "name": "Brian Poindexter",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 54.94
+     "voteShare": 54.89
     },
     {
      "id": "max-miller",
      "name": "Max Miller",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 45.07
+     "voteShare": 45.03
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-08",
@@ -235,10 +229,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-09",
@@ -251,28 +244,20 @@
      "name": "Marcy Kaptur",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 52.73
+     "voteShare": 52.7
     },
     {
      "id": "derek-merrin",
      "name": "Derek Merrin",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 47.27
-    },
-    {
-     "id": "matthew-althaus",
-     "name": "Matthew Althaus",
-     "party": "Libertarian",
-     "incumbent": false,
-     "voteShare": null
+     "voteShare": 47.25
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-10",
@@ -303,10 +288,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-11",
@@ -330,10 +314,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-12",
@@ -357,10 +340,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-13",
@@ -391,10 +373,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-14",
@@ -418,10 +399,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OH-15",
@@ -434,14 +414,14 @@
      "name": "Don Leonard",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 51.9
+     "voteShare": 51.88
     },
     {
      "id": "mike-carey",
      "name": "Mike Carey",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 45.27
+     "voteShare": 45.26
     },
     {
      "id": "brennan-barrington",
@@ -452,10 +432,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+    "https://www.thegreenpapers.com/G26/OH"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 62.53,
+      "voteShare": 62.66,
       "bio": "Cory Booker is the Democratic U.S. Senator from New Jersey and a former mayor of Newark. He ran unopposed in the 2026 Democratic primary.",
       "website": "https://corybooker.com",
       "positions": [
@@ -60,7 +60,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 34.85,
+      "voteShare": 34.71,
       "bio": "Justin Murphy is a Republican attorney and former committee person in Tabernacle, Burlington County. He won the 2026 Republican Senate primary.",
       "website": "https://jerseyjustin4senate.org/",
       "positions": [
@@ -106,7 +106,7 @@
       "party": "Independent",
       "major": false,
       "incumbent": false,
-      "voteShare": 1.67,
+      "voteShare": 1.68,
       "bio": null,
       "website": null,
       "positions": [],
@@ -127,11 +127,11 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
     "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
-    "https://www.thegreenpapers.com/G26/NJ"
+    "https://www.thegreenpapers.com/G26/NJ",
+    "https://www.nj.gov/state/elections/election-information-2026.shtml"
   ],
-  "lastVerified": "2026-11-15",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). All shares refreshed Nov. 25, 2026 from The Green Papers, a newer count than before. The New Jersey Division of Elections had not posted official general election results as of Nov. 24."
 }

@@ -15,8 +15,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 52.31,
-      "bio": "Amy Acton is a physician and public health professional who served as director of the Ohio Department of Health from 2019 to 2020 under Gov. Mike DeWine. She was the Democratic nominee for governor in 2026.",
+      "voteShare": 52.3,
+      "bio": "Amy Acton is a physician who was director of the Ohio Department of Health from 2019 to 2020 under Gov. Mike DeWine. She previously taught at Ohio State University's College of Public Health. She was the Democratic nominee for governor in 2026.",
       "website": "https://actonforgovernor.com",
       "positions": [
         {
@@ -46,7 +46,9 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Amy_Acton"
+        "https://www.wosu.org/news/2019-02-27/first-woman-appointed-to-lead-ohio-department-of-health",
+        "https://www.wyso.org/post/dr-amy-acton-steps-down-ohio-department-health-director",
+        "https://www.opb.org/article/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/"
       ]
     },
     {
@@ -55,8 +57,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 44.39,
-      "bio": "Vivek Ramaswamy is a businessman who founded the biotechnology company Roivant Sciences and co-founded Strive Asset Management. He sought the 2024 Republican presidential nomination and was the Republican nominee for Ohio governor in 2026.",
+      "voteShare": 44.37,
+      "bio": "Vivek Ramaswamy founded the biotechnology company Roivant Sciences. He sought the 2024 Republican presidential nomination and was the Republican nominee for Ohio governor in 2026.",
       "website": "https://vivekforohio.com",
       "positions": [
         {
@@ -91,7 +93,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Vivek_Ramaswamy"
+        "https://www.cleveland19.com/2026/10/28/high-stakes-ohio-governor-race-vivek-ramaswamy-vs-amy-acton/",
+        "https://www.fox13news.com/news/amy-acton-defeats-vivek-ramaswamy-ohio-governor-race"
       ]
     },
     {
@@ -100,21 +103,21 @@
       "party": "Libertarian",
       "major": false,
       "incumbent": false,
-      "voteShare": 3.31,
+      "voteShare": 3.3,
       "bio": null,
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/OH"
       ]
     }
   ],
   "sources": [
     "https://www.opb.org/article/2026/11/03/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race/",
-    "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.thegreenpapers.com/G26/OH"
   ],
   "lastVerified": "2026-11-14",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Shares taken Nov. 25, 2026 from The Green Papers, unofficial, with write-ins in the total. State certification was not confirmed."
 }

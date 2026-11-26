@@ -15,8 +15,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 57.2,
-      "bio": "Deb Haaland was U.S. Secretary of the Interior from 2021 to 2025 and earlier represented New Mexico's 1st district in the U.S. House.",
+      "voteShare": 57.4,
+      "bio": "Deb Haaland was U.S. Secretary of the Interior under President Biden. Before that she served in the U.S. House, where she was first elected in 2018.",
       "website": "https://debhaaland.com/",
       "positions": [
         {
@@ -41,7 +41,7 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election"
+        "https://rollcall.com/2025/02/11/deb-haaland-new-mexico-governor/"
       ]
     },
     {
@@ -50,7 +50,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 42.8,
+      "voteShare": 42.6,
       "bio": "Gregg Hull was mayor of Rio Rancho from 2014 to 2026.",
       "website": "https://gregghull.com/",
       "positions": [
@@ -76,15 +76,18 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election"
+        "https://nm.news/?p=1843368"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.sos.nm.gov/2026/11/24/state-canvassing-board-certifies-2026-general-election-results/",
+    "https://electionresults.sos.nm.gov/resultsSW.aspx?type=SW&map=CTY",
+    "https://www.abqjournal.com/news/the-race-is-set-deb-haaland-to-face-off-against-gregg-hull-in-new-mexicos-open-contest-for-governor/3055524"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that figures reflected about 95% counted."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that figures reflected about 95% counted. Certified: the New Mexico State Canvassing Board certified the results on Nov. 24, 2026 (Secretary of State release). Shares are computed from the Secretary of State page labeled Official Results.",
+  "resultsCertified": true
 }

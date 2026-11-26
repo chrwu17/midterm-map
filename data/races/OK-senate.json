@@ -15,8 +15,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 57.19,
-      "bio": "Kevin Hern is a former McDonald's franchisee in the Tulsa area who also owns a hog farm and a community bank. He has represented Oklahoma's 1st congressional district in the U.S. House since 2018 and chaired the Republican Study Committee (2023-2025) and the House Republican Policy Committee (2025-2026).",
+      "voteShare": 57.2,
+      "bio": "Kevin Hern bought his first McDonald's restaurant in 1997 and has also worked in hog farming and banking. He has represented Oklahoma's 1st congressional district in the U.S. House since November 2018. He chaired the Republican Study Committee in the 118th Congress and the House Republican Policy Committee in the 119th.",
       "website": "https://hernforsenate.com/",
       "positions": [
         {
@@ -46,9 +46,9 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Kevin_Hern",
         "https://hernforsenate.com/",
-        "https://www.news9.com/national-politics-oklahoma/rep-hern-we-need-to-get-after-the-real-problem-in-healthcare"
+        "https://www.news9.com/national-politics-oklahoma/rep-hern-we-need-to-get-after-the-real-problem-in-healthcare",
+        "https://hern.house.gov/about/"
       ]
     },
     {
@@ -83,9 +83,9 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
         "https://www.news9.com/oklahoma-elections/nkiyla-jasmine-thomas-and-jim-priest-to-battle-in-oklahoma-senate-runoff",
-        "https://www.oudaily.com/news/democratic-socialism-nkiyla-jasmine-thomas-kevin-hern-senate-election/article_fcdfa6da-9f29-4359-8c3b-2abf9d6932ec.htm"
+        "https://www.oudaily.com/news/democratic-socialism-nkiyla-jasmine-thomas-kevin-hern-senate-election/article_fcdfa6da-9f29-4359-8c3b-2abf9d6932ec.htm",
+        "https://www.jasmineforok.com/about"
       ]
     },
     {
@@ -126,11 +126,12 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://oklahoma.gov/elections/elections-results/election-results/2026-election-results/november-general-election.html",
+    "https://www.thegreenpapers.com/G26/OK",
+    "https://okcfox.com/news/local/kevin-hern-wins-us-senate-seat-vacated-by-markwayne-mullin"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Vote totals read Nov. 25 from thegreenpapers.com. The State Election Board page at oklahoma.gov is headed OFFICIAL RESULTS, but it does not show the totals and the official count was not opened, so the race is not marked certified."
 }

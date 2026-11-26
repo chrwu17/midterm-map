@@ -14,28 +14,27 @@
      "name": "Christina Bohannan",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 52.83
+     "voteShare": 52.97
     },
     {
      "id": "mariannette-miller-meeks",
      "name": "Mariannette Miller-Meeks",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 43.58
+     "voteShare": 43.39
     },
     {
      "id": "michael-bridgford",
      "name": "Michael Bridgford",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 3.56
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa"
+    "https://www.thegreenpapers.com/G26/IA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IA-02",
@@ -48,35 +47,34 @@
      "name": "Lindsay James",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 49.54
+     "voteShare": 49.51
     },
     {
      "id": "joe-mitchell",
      "name": "Joe Mitchell",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 45.56
+     "voteShare": 45.53
     },
     {
      "id": "rick-stewart",
      "name": "Rick Stewart",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.74
     },
     {
      "id": "dave-bushaw",
      "name": "Dave Bushaw",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 2.16
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa"
+    "https://www.thegreenpapers.com/G26/IA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IA-03",
@@ -89,21 +87,20 @@
      "name": "Sarah Trone Garriott",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 53.65
+     "voteShare": 53.51
     },
     {
      "id": "zach-nunn",
      "name": "Zach Nunn",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 46.36
+     "voteShare": 46.24
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa"
+    "https://www.thegreenpapers.com/G26/IA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "IA-04",
@@ -116,21 +113,20 @@
      "name": "Chris McGowan",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 59.06
+     "voteShare": 58.97
     },
     {
      "id": "david-dawson",
      "name": "David Dawson",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 40.93
+     "voteShare": 40.9
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa"
+    "https://www.thegreenpapers.com/G26/IA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

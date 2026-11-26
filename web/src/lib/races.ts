@@ -46,6 +46,8 @@ export interface Race {
   sources: string[];
   lastVerified: string;
   crossChecked: boolean;
+  /** Every voteShare comes from the state's certified count. Optional in the data; false when omitted. */
+  resultsCertified: boolean;
   factCheckNote: string | null;
 }
 
@@ -111,6 +113,7 @@ function parseRace(raw: unknown, file: string): Race | null {
     sources: strArr(o.sources),
     lastVerified: str(o.lastVerified) ?? "",
     crossChecked: o.crossChecked === true,
+    resultsCertified: o.resultsCertified === true,
     factCheckNote: str(o.factCheckNote),
   };
 }

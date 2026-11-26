@@ -20,7 +20,7 @@ You do not need to be an expert to make a smart choice. A few good habits are en
 - **[Ballotpedia](https://ballotpedia.org/)** is an encyclopedia of candidates, offices, and ballot measures.
 - **[Vote411](https://www.vote411.org/)** from the League of Women Voters lets you enter your address and see your ballot, with candidate answers to questions.
 - **[OpenSecrets](https://www.opensecrets.org/)** tracks money in politics, including who donates to campaigns.
-- **[Congress.gov](https://www.congress.gov/)** has bill texts, sponsors, and roll-call votes.
+- **[Congress.gov](https://www.congress.gov/)** has bill texts, sponsors, and [roll-call votes](https://www.congress.gov/roll-call-votes).
 - **[FEC.gov](https://www.fec.gov/)** is the official source for federal campaign finance reports.
 
 ## Spotting spin
@@ -45,7 +45,7 @@ Spin is when facts are framed to push you toward a conclusion. Watch for:
 
 ## It's fine to not know everything
 
-Some offices, like local judges, get little coverage. You can skip a race if you're really not sure. A ballot with some blanks is still a valid ballot in most places. Check your state's rules via [vote.gov](https://vote.gov).
+Some offices, like local judges, get little coverage. You can skip a race if you're really not sure. A ballot with some blanks is still a valid ballot in most places. Check the rules with your [state or local election office](https://www.usa.gov/state-election-office).
 
 ## Key takeaways
 

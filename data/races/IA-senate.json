@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 50.55,
+      "voteShare": 50.51,
       "bio": "Turek is a two-time Paralympic gold medalist in wheelchair basketball who competed in four Paralympics and graduated from Southwest Minnesota State University in 2002. He represents Council Bluffs in the Iowa House, in a district Donald Trump carried twice, and was first elected by six votes. Before office he was volunteer director of the Ryan Martin Foundation, which offers disabled children free sports opportunities.",
       "website": "https://turek4iowa.com/",
       "positions": [
@@ -56,8 +56,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 46.36,
-      "bio": "Hinson was a broadcast journalist at KCRG-TV in Cedar Rapids for more than a decade before entering politics. She served in the Iowa House from 2017 to 2021 and has represented Iowa in the U.S. House since 2021, sitting on the Appropriations Committee. She was the Republican nominee for the open Senate seat.",
+      "voteShare": 46.3,
+      "bio": "Hinson was a TV news anchor and reporter at KCRG-TV in Cedar Rapids for more than a decade before entering politics. She served in the Iowa House from 2017 to 2021 and has represented Iowa in the U.S. House since 2021, sitting on the Appropriations Committee. She was the Republican nominee for the open Senate seat.",
       "website": "https://ashleyhinson.com/",
       "positions": [
         {
@@ -72,7 +72,7 @@
         },
         {
           "issue": "immigration",
-          "summary": "Says she supports securing the southern border, enforcing immigration laws and deporting dangerous criminal illegal immigrants.",
+          "summary": "Says she supports securing the southern border by enforcing immigration laws and \"deporting dangerous criminal illegal immigrants.\"",
           "source": "https://ashleyhinson.com/issues"
         },
         {
@@ -88,7 +88,7 @@
       ],
       "sources": [
         "https://ashleyhinson.com/meet-ashley/",
-        "https://en.wikipedia.org/wiki/Ashley_Hinson"
+        "https://www.nrsc.org/ashley-hinson/"
       ]
     },
     {
@@ -97,7 +97,7 @@
       "party": "Libertarian",
       "major": false,
       "incumbent": false,
-      "voteShare": 3.09,
+      "voteShare": 3.07,
       "bio": null,
       "website": null,
       "positions": [],
@@ -105,10 +105,13 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.kcci.com/article/iowa-certifies-november-election-results-with-higher-voter-turnout/74522089",
+    "https://www.rcreader.com/news-releases/iowa-state-board-canvassers-certifies-2026-midterm-election-results",
+    "https://www.thegreenpapers.com/G26/IA"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). 2026-11-25: the Secretary of State release (https://www.rcreader.com/news-releases/iowa-state-board-canvassers-certifies-2026-midterm-election-results) says the State Board of Canvassers \"officially certified the results of the 2026 General Election\" on Nov 24. KCCI (https://www.kcci.com/article/iowa-certifies-november-election-results-with-higher-voter-turnout/74522089) reports the certification and these candidates' totals. The Green Papers shows the same totals and supplies the 1,653 write-ins used in the total.",
+  "resultsCertified": true
 }

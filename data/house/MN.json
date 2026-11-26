@@ -25,11 +25,11 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
-    "https://www.thegreenpapers.com/G26/MN"
+    "https://www.house.mn.gov/sessiondaily/Story/19215",
+    "https://www.thegreenpapers.com/G26/MN",
+    "https://www.fox9.com/news/mn-1st-congressional-district-race-results-certified-recount-lingers-nov-19-2026"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MN-02",
@@ -53,10 +53,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+    "https://www.house.mn.gov/sessiondaily/Story/19215",
+    "https://www.thegreenpapers.com/G26/MN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MN-03",
@@ -80,10 +80,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+    "https://www.house.mn.gov/sessiondaily/Story/19215",
+    "https://www.thegreenpapers.com/G26/MN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MN-04",
@@ -103,14 +103,14 @@
      "name": "Paul Wikstrom",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 26.78
+     "voteShare": 26.79
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+    "https://www.house.mn.gov/sessiondaily/Story/19215",
+    "https://www.thegreenpapers.com/G26/MN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MN-05",
@@ -130,21 +130,21 @@
      "name": "John Nagel",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 16.23
+     "voteShare": 16.21
     },
     {
      "id": "develle-jackson",
      "name": "DeVelle Jackson",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": 7.02
+     "voteShare": 7.03
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+    "https://www.house.mn.gov/sessiondaily/Story/19215",
+    "https://www.thegreenpapers.com/G26/MN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MN-06",
@@ -157,7 +157,7 @@
      "name": "Tom Emmer",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 55.73
+     "voteShare": 55.72
     },
     {
      "id": "doug-chapin",
@@ -168,10 +168,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+    "https://www.house.mn.gov/sessiondaily/Story/19215",
+    "https://www.thegreenpapers.com/G26/MN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MN-07",
@@ -191,14 +191,14 @@
      "name": "Erik Osberg",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 35.03
+     "voteShare": 35.02
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+    "https://www.house.mn.gov/sessiondaily/Story/19215",
+    "https://www.thegreenpapers.com/G26/MN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MN-08",
@@ -211,21 +211,21 @@
      "name": "Pete Stauber",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 53.07
+     "voteShare": 53.04
     },
     {
      "id": "trina-swanson",
      "name": "Trina Swanson",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 46.84
+     "voteShare": 46.86
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota"
+    "https://www.house.mn.gov/sessiondaily/Story/19215",
+    "https://www.thegreenpapers.com/G26/MN"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

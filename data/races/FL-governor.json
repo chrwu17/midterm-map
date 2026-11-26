@@ -15,8 +15,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 50.1,
-      "bio": "Byron Donalds is a Republican who has represented Florida's 19th congressional district in the U.S. House since 2021. He served in the Florida House of Representatives from 2016 to 2020 and previously worked in banking and finance in Southwest Florida. He grew up in Brooklyn, New York.",
+      "voteShare": 50.0,
+      "bio": "Byron Donalds is a Republican who represents Florida's 19th congressional district in the U.S. House. He was elected to the Florida House of Representatives in 2016 and previously worked in banking, finance and insurance in Southwest Florida. He grew up in Brooklyn, New York.",
       "website": "https://byrondonalds.com",
       "positions": [
         {
@@ -43,7 +43,7 @@
       "sources": [
         "https://donalds.house.gov/about",
         "https://byrondonalds.com",
-        "https://en.wikipedia.org/wiki/Byron_Donalds"
+        "https://www.thegreenpapers.com/G26/FL"
       ]
     },
     {
@@ -53,7 +53,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 48.7,
-      "bio": "David Jolly is a Democrat who represented Florida's 13th congressional district in the U.S. House as a Republican from 2014 to 2017. He left the Republican Party in 2018, registered as a Democrat in 2025, and worked as a lawyer, lobbyist and TV political commentator in between.",
+      "bio": "David Jolly is a Democrat who represented Florida's 13th congressional district in the U.S. House as a Republican from 2014 to 2017. He left the Republican Party in 2018 and registered as a Democrat in April 2025. He is an attorney and former lobbyist.",
       "website": "https://davidjolly.com",
       "positions": [
         {
@@ -63,8 +63,8 @@
         },
         {
           "issue": "abortion",
-          "summary": "Describes himself as pro-choice and supports codifying the Roe and Casey framework.",
-          "source": "https://en.wikipedia.org/wiki/David_Jolly"
+          "summary": "Describes himself as pro-choice and proposes replacing Florida's six-week ban with a law allowing abortion until fetal viability.",
+          "source": "https://www.wusf.org/politics-issues/2026-10-30/what-florida-governor-attorney-general-candidates-say-about-abortion"
         },
         {
           "issue": "immigration",
@@ -78,17 +78,19 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/David_Jolly",
-        "https://wusf.org/text/the-florida-roundup/2025-06-09/florida-governor-candidate-david-jolly-on-housing-property-taxes-immigration"
+        "https://wusf.org/text/the-florida-roundup/2025-06-09/florida-governor-candidate-david-jolly-on-housing-property-taxes-immigration",
+        "https://www.wusf.org/politics-issues/2026-10-30/what-florida-governor-attorney-general-candidates-say-about-abortion",
+        "https://www.wusf.org/politics-issues/2025-06-05/tampa-bays-david-jolly-to-run-for-florida-governor",
+        "https://baynews9.com/fl/tampa/news/2025/06/05/former-gop-congressman-david-jolly-to-run-for-florida-governor-as-a-democrat"
       ]
     }
   ],
   "sources": [
     "https://www.floridatrend.com/articles/2026/11/04/donalds-fends-off-jolly-moody-hangs-us-senate-seat/",
-    "https://floridaphoenix.com/2026/11/03/donalds-defeats-jolly-becoming-floridas-first-black-governor/",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.thegreenpapers.com/G26/FL"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Shares checked on November 25, 2026 against The Green Papers (8,271,627 votes in total), which does not say the count is certified."
 }

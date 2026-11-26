@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 49.34,
+      "voteShare": 49.36,
       "bio": "Scott Colom is a Democrat born and raised in Columbus, Mississippi, who has worked as a prosecutor and a judge. He was first elected district attorney of Mississippi's 16th Judicial District in 2015 at age 32, unseating a 27-year incumbent. He announced his Senate campaign in September 2025.",
       "website": "https://www.scottcolom.com/",
       "positions": [
@@ -52,7 +52,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 48.56,
+      "voteShare": 48.54,
       "bio": "Cindy Hyde-Smith is the Republican U.S. Senator from Mississippi and the first woman elected to represent the state in Congress. A graduate of Copiah-Lincoln Community College and the University of Southern Mississippi, she served 12 years in the state Senate and was elected state agriculture commissioner in 2011. She was appointed to the U.S. Senate in 2018 and won a full term in 2020.",
       "website": "https://www.hydesmith.senate.gov/",
       "positions": [
@@ -89,7 +89,6 @@
       ],
       "sources": [
         "https://mississippitoday.org/2025/09/22/field-grows-in-mississippis-2026-us-senate-race-here-are-the-candidates-so-far/",
-        "https://ontheissues.org/senate/Cindy_Hyde-Smith.htm",
         "https://www.hydesmith.senate.gov/biography"
       ]
     },
@@ -104,16 +103,17 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi"
+        "https://www.thegreenpapers.com/G26/MS"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
     "https://www.wrdw.com/2026/11/11/mississippi-elects-democrat-scott-colom-states-first-black-us-senator-since-reconstruction/",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/MS",
+    "https://www.nbcnews.com/politics/2026-elections/mississippi-senate-results"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "AP called Colom the winner Nov 11 and Hyde-Smith conceded (CNN projected earlier); confirmed by AP-syndicated report and political.org tally."
+  "factCheckNote": "AP called Colom the winner Nov 11 and Hyde-Smith conceded (CNN projected earlier); confirmed by AP-syndicated report and political.org tally. 2026-11-25: all shares are computed from the vote counts on the NBC News results page, last updated Nov. 19, 2026. State certification was not confirmed."
 }

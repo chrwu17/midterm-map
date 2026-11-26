@@ -15,8 +15,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 60.7,
-      "bio": "JB Pritzker is a Democrat who has served as governor of Illinois since January 2019. Before that he was a businessman who co-founded the venture capital firm Pritzker Group Private Capital and the startup incubator 1871.",
+      "voteShare": 60.8,
+      "bio": "JB Pritzker is a Democrat who was first elected governor of Illinois in 2018 and re-elected in 2022. His campaign says that before becoming governor he oversaw business operations with 10,000 employees and led the creation of a nonprofit business incubator in Chicago.",
       "website": "https://jbpritzker.com",
       "positions": [
         {
@@ -51,9 +51,9 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/JB_Pritzker",
         "https://jbpritzker.com/meet-jb-pritzker/",
-        "https://capitolnewsillinois.com/news/pritzker-defends-illinois-immigration-laws-in-theatrical-congressional-hearing/"
+        "https://capitolnewsillinois.com/news/pritzker-defends-illinois-immigration-laws-in-theatrical-congressional-hearing/",
+        "https://www.nga.org/governor/jb-pritzker/"
       ]
     },
     {
@@ -62,8 +62,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 36,
-      "bio": "Darren Bailey is a Republican farmer from Louisville, Illinois. He served in the Illinois House from 2019 to 2021 and the Illinois Senate from 2021 to 2023, and was the Republican nominee for governor in 2022 and again in 2026.",
+      "voteShare": 35.8,
+      "bio": "Darren Bailey is a Republican farmer who lives on a family farm near Louisville, Illinois. He served a term in both the Illinois House and the Illinois Senate, and was the Republican nominee for governor in 2022 and again in 2026.",
       "website": "https://baileyforillinois.com",
       "positions": [
         {
@@ -88,10 +88,10 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Darren_Bailey",
         "https://baileyforillinois.com",
         "https://www.cbsnews.com/chicago/news/after-roe-v-wade-was-overturned-where-do-the-candidates-for-illinois-governor-stand-on-abortion/",
-        "https://www.fox32chicago.com/news/election-2026-illinois-gov-pritzker-wins.amp"
+        "https://www.fox32chicago.com/news/election-2026-illinois-gov-pritzker-wins.amp",
+        "https://baileyforillinois.com/darren/"
       ]
     },
     {
@@ -110,9 +110,10 @@
   "sources": [
     "https://www.fox32chicago.com/news/election-2026-illinois-gov-pritzker-wins.amp",
     "https://www.pollcheck.com/midterms-2026/governor/illinois",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.thegreenpapers.com/G26/IL"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Original summary noted vote shares were from a partial count (about 90%)."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Original summary noted vote shares were from a partial count (about 90%). 2026-11-25: all shares refreshed from one count (The Green Papers). No page confirming certification was opened."
 }

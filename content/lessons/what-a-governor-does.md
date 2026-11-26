@@ -19,7 +19,7 @@ Most governors can do these things:
 - **Grant clemency.** Many governors can pardon people or reduce sentences, though some states use a board for that.
 - **Fill some vacancies.** In many states, the governor appoints judges or replaces officials who leave office early.
 
-For a plain overview, see [USA.gov's page on state governments](https://www.usa.gov/state-governments).
+For contact information for your governor, see [USA.gov's page on state governors](https://www.usa.gov/state-governor).
 
 ## Terms vary by state
 
@@ -39,7 +39,7 @@ A governor can only act inside their state. They cannot make national laws, but 
 
 ## How to learn about your governor
 
-Your state's official website, usually ending in .gov, has information about the governor's office. You can find it through [USA.gov's state directory](https://www.usa.gov/states-and-territories). For candidates, see our [research lesson](/learn/how-to-research-a-candidate).
+Your state's official website, usually ending in .gov, has information about the governor's office. You can find it through [USA.gov's state directory](https://www.usa.gov/state-governments). For candidates, see our [research lesson](/learn/how-to-research-a-candidate).
 
 ## Key takeaways
 

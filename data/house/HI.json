@@ -39,10 +39,11 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://elections.hawaii.gov/election-results/",
+    "https://elections.hawaii.gov/wp-content/results/2026%20General/summary.txt",
     "https://www.thegreenpapers.com/G26/HI"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "HI-02",
@@ -66,10 +67,11 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://elections.hawaii.gov/election-results/",
+    "https://elections.hawaii.gov/wp-content/results/2026%20General/summary.txt",
     "https://www.thegreenpapers.com/G26/HI"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

@@ -7,7 +7,7 @@
   "electionDate": "2026-11-03",
   "status": "called",
   "winnerId": "mike-rounds",
-  "summary": "South Dakota's sitting senator, Mike Rounds (Republican), ran again and won a third term, defeating independent Brian Bengs. The Democratic nominee withdrew in August.",
+  "summary": "South Dakota's sitting senator, Mike Rounds (Republican), ran again and won a third term, defeating independent Brian Bengs. Democrat Julian Beaudion ended his campaign in August.",
   "candidates": [
     {
       "id": "mike-rounds",
@@ -51,7 +51,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota"
+        "https://www.rounds.senate.gov/about-mike",
+        "https://www.thegreenpapers.com/G26/SD"
       ]
     },
     {
@@ -61,7 +62,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 39.5,
-      "bio": "Brian Bengs is a U.S. Navy and Air Force veteran and a former Northern State University political science professor. He was the Democratic nominee for U.S. Senate in 2022 and ran as an independent in 2026.",
+      "bio": "Brian Bengs is a U.S. Navy and Air Force veteran and a former criminal justice professor at Northern State University. He ran for U.S. Senate as a Democrat in 2022 and as an independent in 2026.",
       "website": "https://bengsforsouthdakota.com",
       "positions": [
         {
@@ -86,17 +87,21 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
-        "https://bengsforsouthdakota.com/policy-positions"
+        "https://bengsforsouthdakota.com/policy-positions",
+        "https://www.dakotanewsnow.com/2025/04/30/brian-bengs-announces-independent-run-us-senate/",
+        "https://www.foxnews.com/opinion/independent-brian-bengs-why-want-south-dakota-vote-senate",
+        "https://www.foxnews.com/politics/dem-drops-us-senate-bid-leaving-independent-candidate-lone-challenger-incumbent-gop-sen-mike-rounds"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://sdsos.gov/elections-voting/upcoming-elections/general-information/2026%20Election%20Assets/General/2026GeneralElectionStateCanvassandCertificate.pdf",
+    "https://www.thegreenpapers.com/G26/SD",
+    "https://www.dakotanewsnow.com/2026/08/06/bengs-sd-democratic-party-talk-beaudions-exit-us-senate-race/"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Certified: the South Dakota Board of Canvassers signed the state canvass certificate on Nov. 10, 2026 (sdsos.gov PDF).",
+  "resultsCertified": true
 }

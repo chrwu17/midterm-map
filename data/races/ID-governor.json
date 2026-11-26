@@ -15,7 +15,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 57.03,
+      "voteShare": 57.05,
       "bio": "Brad Little is a Republican who has served as governor of Idaho since January 2019. A third-generation rancher from Emmett, he was appointed to the Idaho Senate in 2001, then served as lieutenant governor from 2009 to 2019.",
       "website": "https://www.bradlittleforidaho.com",
       "positions": [
@@ -26,7 +26,7 @@
         },
         {
           "issue": "immigration",
-          "summary": "Points to Operation No Return, which his campaign describes as removing dangerous criminals who are in the country illegally from Idaho communities.",
+          "summary": "Points to Operation No Return, which his campaign says \"is removing dangerous illegal alien criminals from Idaho communities.\"",
           "source": "https://www.bradlittleforidaho.com/accomplishments/"
         },
         {
@@ -51,8 +51,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 32.32,
-      "bio": "Terri Pickens is a Democrat who won her party's primary for governor in May 2026 with about 61% of the vote. She was the Democratic nominee for lieutenant governor in 2022 and has been described in local news as a Boise attorney. Her campaign says she is not a career politician.",
+      "voteShare": 32.33,
+      "bio": "Terri Pickens is a Democrat and attorney who won her party's primary for governor in May 2026 with about 61% of the vote. She was the Democratic nominee for lieutenant governor in 2022.",
       "website": "https://www.terriforidaho.com",
       "positions": [
         {
@@ -82,8 +82,9 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election",
-        "https://www.terriforidaho.com/about-1"
+        "https://www.terriforidaho.com/about-1",
+        "https://idahovoters.com/person/terri-pickens/",
+        "https://www.kivitv.com/news/terri-pickens-wins-democratic-primary-for-idaho-governor-ap-reports"
       ]
     },
     {
@@ -97,7 +98,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/ID"
       ]
     },
     {
@@ -111,7 +112,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/ID"
       ]
     },
     {
@@ -126,17 +127,17 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/ID"
       ]
     }
   ],
   "sources": [
     "https://cdapress.com/news/2026/nov/03/gov-little-wins-third-term/",
-    "https://idahocapitalsun.com/?p=32993",
     "https://www.multistate.us/resources/governors-2026-state-election-results",
-    "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election"
+    "https://gemstatechronicle.com/2026/11/idaho-board-of-canvassers-certifies-2026-election-audit/",
+    "https://www.thegreenpapers.com/G26/ID"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Summary note moved: AP projected the win; final vote shares were not confirmed."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Summary note moved: AP projected the win; final vote shares were not confirmed. 2026-11-25: the state release carried by Gem State Chronicle (https://gemstatechronicle.com/2026/11/idaho-board-of-canvassers-certifies-2026-election-audit/) says the Board of Canvassers certified the results Nov 24 but gives no candidate totals. Not marked certified here: shares are from The Green Papers and were not matched to a certified count. The total leaves out 1,645 uncertified write-ins and includes 145 votes for a write-in candidate."
 }

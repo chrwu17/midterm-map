@@ -56,7 +56,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 45.7,
-      "bio": "Rick Jackson is a Republican businessman who founded the healthcare staffing company Jackson Healthcare in 2000. He grew up in foster care and has not held elected office.",
+      "bio": "Rick Jackson is a Republican businessman who built the medical staffing company Jackson Healthcare. He grew up in foster care.",
       "website": "https://rickjackson.com",
       "positions": [
         {
@@ -87,7 +87,6 @@
       ],
       "sources": [
         "https://rickjackson.com/about",
-        "https://en.wikipedia.org/wiki/Rick_Jackson_(businessman)",
         "https://www.fox5atlanta.com/news/rick-jackson-georgia-governor-candidate-profile"
       ]
     }
@@ -95,9 +94,11 @@
   "sources": [
     "https://atlantanewsfirst.com/2026/11/04/keisha-lance-bottoms-makes-history-nations-first-black-female-governor",
     "https://www.pollcheck.com/midterms-2026/governor/georgia",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://capitol-beat.org/2026/11/its-official-raffensperger-certifies-nov-3-election-results/",
+    "https://www.thegreenpapers.com/G26/GA"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Shares checked on November 25, 2026 against The Green Papers (4,184,844 votes in total), which does not say the count is certified. Capitol Beat reported that Secretary of State Raffensperger certified the results on November 20, 2026, but no page with the certified totals could be opened, so resultsCertified is not set."
 }

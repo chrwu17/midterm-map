@@ -15,8 +15,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 61.97,
-      "bio": "Maura Healey has been governor of Massachusetts since 2023. She ran with Lt. Gov. Kim Driscoll.",
+      "voteShare": 62.31,
+      "bio": "Maura Healey is a Democrat who was first elected governor of Massachusetts in 2022. She ran with Lt. Gov. Kim Driscoll.",
       "website": "https://maurahealey.com/",
       "positions": [
         {
@@ -46,7 +46,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election"
+        "https://maurahealey.com/",
+        "https://www.thegreenpapers.com/G26/MA"
       ]
     },
     {
@@ -55,7 +56,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 34.74,
+      "voteShare": 34.28,
       "bio": "Mike Minogue is a Republican, an Army veteran and a political newcomer who led the medical device company Abiomed for close to two decades. He won the Republican primary for governor on September 1, 2026, defeating Brian Shortsleeve.",
       "website": "https://minogueforma.com/",
       "positions": [
@@ -97,20 +98,21 @@
       "party": "Independent",
       "major": false,
       "incumbent": false,
-      "voteShare": 3.29,
+      "voteShare": 3.31,
       "bio": null,
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election"
+        "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026",
+    "https://franklinobserver.town.news/g/franklin-town-ma/n/398885/galvin-crunches-numbers-near-record-mid-term-turnout"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). 2026-11-25: not marked certified. Shares are from the Secretary of the Commonwealth's election statistics site, with blanks left out. A local news report (https://franklinobserver.town.news/g/franklin-town-ma/n/398885/galvin-crunches-numbers-near-record-mid-term-turnout) says city and town officials certified results Nov 18, but no Secretary of the Commonwealth page was opened that says the 2026 general election results are certified."
 }

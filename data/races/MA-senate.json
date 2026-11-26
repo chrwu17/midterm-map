@@ -15,7 +15,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 63.39,
+      "voteShare": 63.68,
       "bio": "Ed Markey is the Democratic U.S. Senator from Massachusetts and previously served in the U.S. House. He won the Democratic primary against Rep. Seth Moulton in 2026.",
       "website": "https://www.edmarkey.com/",
       "positions": [
@@ -57,7 +57,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 32.14,
+      "voteShare": 31.72,
       "bio": "John Deaton is a Republican attorney and Marine veteran from Massachusetts. He won the 2024 Republican Senate primary and lost that general election to Elizabeth Warren, and launched a 2026 Senate campaign.",
       "website": "https://www.johndeatonforsenate.com",
       "positions": [
@@ -94,7 +94,7 @@
       "party": "Independent",
       "major": false,
       "incumbent": false,
-      "voteShare": 2.3,
+      "voteShare": 2.26,
       "bio": null,
       "website": null,
       "positions": [],
@@ -107,7 +107,7 @@
       "partyLabel": "Party for Socialism and Liberation",
       "major": false,
       "incumbent": false,
-      "voteShare": 2.17,
+      "voteShare": 2.19,
       "bio": null,
       "website": null,
       "positions": [],
@@ -115,10 +115,11 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026",
+    "https://franklinobserver.town.news/g/franklin-town-ma/n/398885/galvin-crunches-numbers-near-record-mid-term-turnout"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). 2026-11-25: not marked certified. Shares are from the Secretary of the Commonwealth's election statistics site, with blanks left out. A local news report (https://franklinobserver.town.news/g/franklin-town-ma/n/398885/galvin-crunches-numbers-near-record-mid-term-turnout) says city and town officials certified results Nov 18, but no Secretary of the Commonwealth page was opened that says the 2026 general election results are certified."
 }

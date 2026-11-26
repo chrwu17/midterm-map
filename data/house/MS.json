@@ -32,10 +32,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/MS"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MS-02",
@@ -48,14 +47,14 @@
      "name": "Bennie Thompson",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 67.89
+     "voteShare": 67.91
     },
     {
      "id": "ron-eller",
      "name": "Ron Eller",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 29.7
+     "voteShare": 29.68
     },
     {
      "id": "bennie-foster",
@@ -66,10 +65,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/MS"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MS-03",
@@ -82,14 +80,14 @@
      "name": "Michael Guest",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 57.32
+     "voteShare": 57.26
     },
     {
      "id": "michael-chiaradio",
      "name": "Michael Chiaradio",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 41.42
+     "voteShare": 41.48
     },
     {
      "id": "erik-kiehle",
@@ -100,10 +98,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/MS"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "MS-04",
@@ -134,10 +131,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/MS"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

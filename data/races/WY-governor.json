@@ -7,7 +7,7 @@
   "electionDate": "2026-11-03",
   "status": "called",
   "winnerId": "eric-barlow",
-  "summary": "This was an open race because Gov. Mark Gordon was term-limited. Eric Barlow (Republican) defeated Rebecca Bextel (Constitution Party) and Ken Casner (Democrat).",
+  "summary": "This was an open race because Gov. Mark Gordon did not run for a third term. Eric Barlow (Republican) defeated Rebecca Bextel (Constitution Party) and Ken Casner (Democrat).",
   "candidates": [
     {
       "id": "eric-barlow",
@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 68.12,
-      "bio": "Eric Barlow is a Wyoming state senator from Gillette. He won the 2026 Republican nomination for governor.",
+      "bio": "Eric Barlow is a Wyoming state senator and a former speaker of the Wyoming House. He won the 2026 Republican nomination for governor.",
       "website": "https://www.barlowforwyo.com",
       "positions": [
         {
@@ -46,8 +46,7 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Eric_Barlow",
-        "https://ballotpedia.org/Eric_Barlow"
+        "https://cowboystatedaily.com/2026/11/03/barlow-outlasts-bextel-casner-to-become-wyoming-governor/"
       ]
     },
     {
@@ -61,7 +60,9 @@
       "bio": null,
       "website": null,
       "positions": [],
-      "sources": []
+      "sources": [
+        "https://www.thegreenpapers.com/G26/WY"
+      ]
     },
     {
       "id": "ken-casner",
@@ -73,16 +74,20 @@
       "bio": null,
       "website": null,
       "positions": [],
-      "sources": []
+      "sources": [
+        "https://www.thegreenpapers.com/G26/WY"
+      ]
     }
   ],
   "sources": [
-    "https://www.newsfromthestates.com/article/republican-eric-barlow-wins-wyoming-governors-race",
     "https://cowboystatedaily.com/2026/11/03/barlow-outlasts-bextel-casner-to-become-wyoming-governor/",
-    "https://en.wikipedia.org/wiki/2026_Wyoming_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://sos.wyo.gov/Elections/Docs/2026/Results/General/2026_Wyoming_General_Election_Results.pdf",
+    "https://sos.wyo.gov/Elections/Docs/2026/Results/General/2026_General_State_Canvassing_Board_Minutes.pdf",
+    "https://www.thegreenpapers.com/G26/WY"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Certified: the Wyoming State Canvassing Board certified the state canvass on Nov. 10, 2026 (board minutes, sos.wyo.gov). Shares exclude overvotes and undervotes.",
+  "resultsCertified": true
 }

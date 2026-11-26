@@ -96,3 +96,33 @@ export function getHouseForState(code: string): HouseState | undefined {
 export function getAllHouse(): HouseState[] {
   return [...load().values()].sort((a, b) => a.stateName.localeCompare(b.stateName));
 }
+
+/** One drawing of a state: the whole state (letter null) or a lettered close-up of its crowded areas. */
+export interface HouseMapView {
+  letter: string | null;
+  parent: string | null; // letter of the drawing this close-up is framed on; null for the whole state
+  box: [number, number, number, number] | null; // frame in the parent's units: x, y, width, height
+  width: number;
+  height: number;
+  districts: { district: string; d: string; x: number; y: number; label: boolean }[];
+}
+
+const GEOMETRY_DIR = process.env.HOUSE_GEOMETRY_DIR ?? path.join(process.cwd(), "..", "data", "house-geometry");
+
+/** The state's 2026 district shapes, or null unless they match the result list exactly. See data/house/GEOMETRY.md. */
+export function getHouseMap(code: string): HouseMapView[] | null {
+  const house = getHouseForState(code);
+  if (!house) return null;
+  const file = path.join(GEOMETRY_DIR, `${house.state}.json`);
+  if (!fs.existsSync(file)) return null;
+  try {
+    const raw = JSON.parse(fs.readFileSync(file, "utf8")) as { views: HouseMapView[] };
+    const drawn = raw.views[0].districts.map((d) => d.district).sort().join();
+    const listed = house.districts.map((d) => d.district).sort().join();
+    if (drawn === listed) return raw.views;
+    console.warn(`[house] ${code}: map districts do not match the results`);
+  } catch (e) {
+    console.warn(`[house] skipping malformed map for ${code}: ${(e as Error).message}`);
+  }
+  return null;
+}

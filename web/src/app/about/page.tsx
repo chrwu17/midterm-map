@@ -6,7 +6,7 @@ import { getAllHouse } from "@/lib/house";
 
 export const metadata: Metadata = pageMeta(
   "About and methodology | Midterm Map",
-  "How Midterm Map picks sources, checks facts and stays nonpartisan.",
+  "How Midterm Map chooses sources and checks facts, and the nonpartisan rules it follows.",
   "/about/",
 );
 
@@ -21,31 +21,30 @@ export default function AboutPage() {
     <div className="prose-lesson mx-auto max-w-[720px] px-4 py-12 sm:px-8 sm:py-16">
       <h1 className="text-[clamp(2.25rem,5vw,3.25rem)] font-semibold">About this site</h1>
       <p className="mt-4 text-lg text-muted-foreground">
-        Midterm Map is a student project that helps new voters understand the 2026 U.S. Senate and governor races, and shows
-        the results of the U.S. House races too. It does not support or oppose any candidate or party.
+        Midterm Map is a student project that helps new voters understand the 2026 U.S. Senate and governor races. It
+        also shows U.S. House results. It does not support or oppose any candidate or party.
       </p>
 
       <h2>Our nonpartisan rules</h2>
       <ul>
-        <li>We describe what a candidate says or did, in their own framing (&ldquo;Says she will…&rdquo;, &ldquo;Voted for…&rdquo;). We don&apos;t say whether they are right or wrong.</li>
-        <li>Every major Senate and governor candidate is asked about the same six issues: economy, health care, immigration, education, climate and energy, and abortion. If we can&apos;t find a clear stance, we leave it blank rather than guess.</li>
-        <li>Every bio fact and position links to a source.</li>
-        <li>House candidates are listed with results only. We did not research their positions.</li>
+        <li>We describe what a candidate says or did, in the candidate&apos;s own framing (&ldquo;Says she will…&rdquo;, &ldquo;Voted for…&rdquo;). We don&apos;t say whether they are right or wrong.</li>
+        <li>We look for every major Senate and governor candidate&apos;s position on the same six issues: economy, health care, immigration, education, climate and energy, and abortion. If we can&apos;t find a clear stance, we leave that issue blank.</li>
+        <li>Every bio lists its sources, and every position links to the page it came from.</li>
+        <li>House candidates are listed with results only, without bios or positions.</li>
         <li>If a result is not certain, we mark the race &ldquo;Uncalled&rdquo; and name no winner.</li>
         <li>The map is colored by which offices were on the ballot, never by party. Party labels all use the same neutral style.</li>
       </ul>
 
       <h2>Where the data comes from</h2>
       <p>
-        Race data is researched by hand from public sources: state election offices, official results pages, candidates&apos;
-        own campaign websites, voting records, and reputable news reporting. Each race lists its sources and the date we last
+        Race data comes from public sources such as state election offices, official results pages, candidates&apos; campaign websites, voting records and news reports from reputable outlets. Each race lists its sources and the date we last
         checked it. In the Senate and governor races, major-party candidates get full profiles and other candidates are listed with name, party and vote share.
       </p>
       <p>
-        Each source link is labelled with where it goes. &ldquo;Campaign site&rdquo; or &ldquo;Official site&rdquo; is the
-        candidate&apos;s own page; a news outlet&apos;s name (such as AP or a local station) is a news report; and Wikipedia,
-        OnTheIssues and similar reference sites are secondary summaries written by others, so treat them as a starting
-        point and check the original where you can.
+        Each source link names the site it goes to. &ldquo;Campaign site&rdquo; or &ldquo;Official site&rdquo; is the
+        candidate&apos;s own page. A news outlet&apos;s name (such as AP or a local station) means a news report. Ballotpedia,
+        The Green Papers and similar reference sites are summaries put together by others, so use them as a starting point and
+        check the original where you can.
       </p>
       <p>
         Map shapes come from the U.S. Census Bureau via the <a href="https://github.com/topojson/us-atlas">us-atlas</a> project.
@@ -53,34 +52,40 @@ export default function AboutPage() {
 
       <h2>How we checked the results</h2>
       <p>
-        Each race&apos;s vote shares and status were first gathered from the results sources listed on its card. The
-        winner and status were then cross-checked against a separate source, usually a tally based on Associated Press
-        race calls or a second news report. We name a winner only when a major news organization has projected one and
-        the second source agrees. If they disagree, or the count is still close, we mark the race &ldquo;Uncalled&rdquo; and
+        We take each race&apos;s vote shares and status from the results sources listed on its card. We then cross-check the winner
+        and status against a separate source, usually a tally based on Associated Press
+        race calls or a second news report. We name a winner only when the state has certified the result, or when a major
+        news organization has projected one and the second source agrees. If they disagree, or the count is still close, we mark the race &ldquo;Uncalled&rdquo; and
         name no winner.
       </p>
       <p>
-        {crossChecked} of {races.length} Senate and governor races have been cross-checked this way. The table below shows which ones and when each
-        was last verified.
+        {crossChecked} of {races.length} Senate and governor races have been cross-checked this way. The table at the end of this page
+        lists them, with the date each race was last verified.
       </p>
       <h2>U.S. House results</h2>
       <p>
-        For the House we show results only: the candidates, their parties, vote shares and the winner in each of the{" "}
-        {districts.length} districts. We did not write bios or research positions for House candidates.
+        For each of the {districts.length} House districts, we show the candidates, their parties, their vote shares and any
+        projected winner. We did not write bios or research positions for House candidates.
       </p>
       <p>
-        House results come from Wikipedia&apos;s election pages and The Green Papers. Both are reference sites, not state
-        election offices. We call a district only when both show the same winner. {houseCalled} districts are called,{" "}
-        {houseUncalled} have no projected winner yet and {houseRunoff} are headed to a runoff. Some minor candidates have no
-        vote share because the sources did not give one. Each state page shows when its House results were last verified.
+        Most House vote shares come from The Green Papers, a reference site. Some come from state results pages.{" "}
+        {houseCalled} districts are called,{" "}
+        {houseUncalled} {houseUncalled === 1 ? "has" : "have"} no projected winner yet and {houseRunoff}{" "}
+        {houseRunoff === 1 ? "is" : "are"} headed to a runoff. A candidate has no vote share if the sources did not give
+        one or no vote was held. Each state page shows when its House results were last verified.
       </p>
+
+      <h2>Unofficial and certified results</h2>
       <p>
-        <strong>All results here are unofficial.</strong> States finish counting and certify official results in the weeks
-        after Election Day, and the numbers can change a little until then. Your state election office has the final word.
+        Senate and governor results on this site are unofficial unless the race is marked as certified. House results are
+        not marked, so treat them as unofficial. States finish counting and certify official
+        results in the weeks after Election Day, and the numbers can change a little until then. When a Senate or governor
+        race is marked as certified, every vote share shown for it comes from the state&apos;s certified count. Your state
+        election office has the official results.
       </p>
 
       <h2>Last verified</h2>
-      <p>This table covers the Senate and governor races.</p>
+      <p>Senate and governor races, by state.</p>
       {races.length ? (
         <div className="overflow-x-auto">
           <table className="w-full text-sm">
@@ -109,7 +114,7 @@ export default function AboutPage() {
       )}
 
       <h2>Found a mistake?</h2>
-      <p>Facts change as votes are counted. If something looks wrong or out of date, tell the course team so we can check it.</p>
+      <p>Results can change as votes are counted. If something looks wrong or out of date, tell the course team so we can check it.</p>
     </div>
   );
 }

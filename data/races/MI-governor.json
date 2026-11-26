@@ -41,7 +41,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election"
+        "https://www.jocelynbenson.com/MeetJocelyn",
+        "https://www.jocelynbenson.com/"
       ]
     },
     {
@@ -50,8 +51,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 43.72,
-      "bio": "John James is a U.S. Representative who was endorsed by President Trump. He ran with Jay DeBoyer.",
+      "voteShare": 43.71,
+      "bio": "John James is the U.S. Representative for Michigan's 10th Congressional District. He ran with Jay DeBoyer.",
       "website": "https://johnjamesmi.com/",
       "positions": [
         {
@@ -76,7 +77,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election"
+        "https://james.house.gov/about/",
+        "https://www.thegreenpapers.com/G26/MI"
       ]
     },
     {
@@ -90,7 +92,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/MI"
       ]
     },
     {
@@ -105,7 +107,7 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/MI"
       ]
     },
     {
@@ -114,20 +116,21 @@
       "party": "Green",
       "major": false,
       "incumbent": false,
-      "voteShare": 0.36,
+      "voteShare": 0.37,
       "bio": null,
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/MI"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.cbsnews.com/detroit/news/michigan-board-of-state-canvassers-certify-midterm-results/",
+    "https://www.thegreenpapers.com/G26/MI"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that figures reflected about 97% reporting."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that figures reflected about 97% reporting. 2026-11-25: CBS News Detroit (https://www.cbsnews.com/detroit/news/michigan-board-of-state-canvassers-certify-midterm-results/) says the Board of State Canvassers certified the results Nov 23. Not marked certified here: shares are from The Green Papers and were not matched to the certified count."
 }

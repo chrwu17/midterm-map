@@ -14,7 +14,7 @@
      "name": "Melat Kiros",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 78.3
+     "voteShare": 78.36
     },
     {
      "id": "christy-peterson",
@@ -35,7 +35,7 @@
      "name": "Chad Humphrey",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.7
     },
     {
      "id": "critter-milton",
@@ -43,14 +43,13 @@
      "party": "Other",
      "partyLabel": "Unity",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 0.37
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+    "https://www.thegreenpapers.com/G26/CO"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CO-02",
@@ -63,28 +62,27 @@
      "name": "Joe Neguse",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 74.58
+     "voteShare": 74.68
     },
     {
      "id": "kelley-dennison",
      "name": "Kelley Dennison",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 23.58
+     "voteShare": 23.42
     },
     {
      "id": "gaylon-kent",
      "name": "Gaylon Kent",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.9
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+    "https://www.thegreenpapers.com/G26/CO"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CO-03",
@@ -97,35 +95,34 @@
      "name": "Jeff Hurd",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 49.27
+     "voteShare": 49.25
     },
     {
      "id": "dwayne-romero",
      "name": "Dwayne Romero",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 47.43
+     "voteShare": 47.47
     },
     {
      "id": "cory-robertson",
      "name": "Cory Robertson",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.68
     },
     {
      "id": "clifton-brown",
      "name": "Clifton Brown",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.61
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+    "https://www.thegreenpapers.com/G26/CO"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CO-04",
@@ -138,28 +135,27 @@
      "name": "Eileen Laubacher",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 48.77
+     "voteShare": 48.8
     },
     {
      "id": "lauren-boebert",
      "name": "Lauren Boebert",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 47.93
+     "voteShare": 47.89
     },
     {
      "id": "douglas-mangeris",
      "name": "Douglas Mangeris",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 3.31
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+    "https://www.thegreenpapers.com/G26/CO"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CO-05",
@@ -172,36 +168,35 @@
      "name": "Jessica Killin",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 50.51
+     "voteShare": 50.7
     },
     {
      "id": "jeff-crank",
      "name": "Jeff Crank",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 45.79
+     "voteShare": 45.61
     },
     {
      "id": "mark-elworth",
      "name": "Mark Elworth",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.96
     },
     {
      "id": "christopher-mitchell",
      "name": "Christopher Mitchell",
      "party": "Other",
-     "partyLabel": "Constitution",
+     "partyLabel": "American Constitution",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.73
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+    "https://www.thegreenpapers.com/G26/CO"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CO-06",
@@ -214,28 +209,28 @@
      "name": "Jason Crow",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 65.76
+     "voteShare": 65.73
     },
     {
      "id": "jason-clark",
      "name": "Jason Clark",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 31.12
+     "voteShare": 31.11
     },
     {
      "id": "patty-mcmahon",
      "name": "Patty McMahon",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.58
     },
     {
      "id": "samir-ezzeldin-witta",
      "name": "Samir Ezzeldin Witta",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 0.93
     },
     {
      "id": "meredith-ryan",
@@ -243,14 +238,13 @@
      "party": "Other",
      "partyLabel": "Unity",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 0.65
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+    "https://www.thegreenpapers.com/G26/CO"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CO-07",
@@ -263,28 +257,28 @@
      "name": "Brittany Pettersen",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 60.68
+     "voteShare": 60.71
     },
     {
      "id": "tim-bennett",
      "name": "Tim Bennett",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 36.11
+     "voteShare": 36.15
     },
     {
      "id": "joe-krzeczkowski",
      "name": "Joe Krzeczkowski",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.2
     },
     {
      "id": "dan-sallis",
      "name": "Dan Sallis",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 1.11
     },
     {
      "id": "susan-hall",
@@ -292,22 +286,21 @@
      "party": "Other",
      "partyLabel": "Unity",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 0.48
     },
     {
      "id": "lawrence-clark",
      "name": "Lawrence Clark",
      "party": "Other",
-     "partyLabel": "Constitution",
+     "partyLabel": "American Constitution",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 0.35
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+    "https://www.thegreenpapers.com/G26/CO"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "CO-08",
@@ -320,28 +313,27 @@
      "name": "Manny Rutinel",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 55.41
+     "voteShare": 55.51
     },
     {
      "id": "gabe-evans",
      "name": "Gabe Evans",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 40.69
+     "voteShare": 40.6
     },
     {
      "id": "dave-wood",
      "name": "Dave Wood",
      "party": "Libertarian",
      "incumbent": false,
-     "voteShare": null
+     "voteShare": 3.89
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+    "https://www.thegreenpapers.com/G26/CO"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

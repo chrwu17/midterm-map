@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 64.88,
-      "bio": "Harriet Hageman has been Wyoming's at-large U.S. representative since 2023 and is a Wyoming attorney who argued for the state in Nebraska v. Wyoming. She finished third in the 2018 Republican gubernatorial primary and served as Republican National Committeewoman in 2020 and 2021.",
+      "bio": "Harriet Hageman is Wyoming's U.S. representative, first elected in 2022. She is an attorney who represented the state in Nebraska v. Wyoming, and she finished third in the 2018 Republican primary for governor.",
       "website": "https://hagemanforwyoming.com",
       "positions": [
         {
@@ -51,9 +51,10 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Harriet_Hageman",
         "https://hageman.house.gov/issues/border-security",
-        "https://hageman.house.gov/issues/energy"
+        "https://hageman.house.gov/issues/energy",
+        "https://cowboystatedaily.com/2022/08/10/harriet-hageman-profile-more-to-hageman-than-just-anti-cheney-pro-trump/",
+        "https://hageman.house.gov/about"
       ]
     },
     {
@@ -94,11 +95,13 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Wyoming",
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://sos.wyo.gov/Elections/Docs/2026/Results/General/2026_Wyoming_General_Election_Results.pdf",
+    "https://sos.wyo.gov/Elections/Docs/2026/Results/General/2026_General_State_Canvassing_Board_Minutes.pdf",
+    "https://www.thegreenpapers.com/G26/WY"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Certified: the Wyoming State Canvassing Board certified the state canvass on Nov. 10, 2026 (board minutes, sos.wyo.gov). Shares exclude overvotes and undervotes.",
+  "resultsCertified": true
 }

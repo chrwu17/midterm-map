@@ -25,10 +25,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma"
+    "https://www.thegreenpapers.com/G26/OK"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OK-02",
@@ -55,14 +54,13 @@
      "name": "Ronnie Hopkins",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": 3.07
+     "voteShare": 3.08
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma"
+    "https://www.thegreenpapers.com/G26/OK"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OK-03",
@@ -86,10 +84,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma"
+    "https://www.thegreenpapers.com/G26/OK"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OK-04",
@@ -120,10 +117,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma"
+    "https://www.thegreenpapers.com/G26/OK"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OK-05",
@@ -136,14 +132,14 @@
      "name": "Stephanie Bice",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 49.51
+     "voteShare": 49.48
     },
     {
      "id": "jena-nelson",
      "name": "Jena Nelson",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 48.25
+     "voteShare": 48.22
     },
     {
      "id": "robert-henri",
@@ -161,10 +157,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma"
+    "https://www.thegreenpapers.com/G26/OK"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

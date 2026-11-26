@@ -14,21 +14,21 @@
      "name": "Suzanne Bonamici",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 71.23
+     "voteShare": 71.26
     },
     {
      "id": "barbara-kahl",
      "name": "Barbara Kahl",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 28.61
+     "voteShare": 28.58
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://results.oregonvotes.gov/resultsSW.aspx?type=FED&map=CTY",
     "https://www.thegreenpapers.com/G26/OR"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OR-02",
@@ -41,21 +41,21 @@
      "name": "Cliff Bentz",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 61.45
+     "voteShare": 61.42
     },
     {
      "id": "chris-beck",
      "name": "Chris Beck",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 38.42
+     "voteShare": 38.45
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://results.oregonvotes.gov/resultsSW.aspx?type=FED&map=CTY",
     "https://www.thegreenpapers.com/G26/OR"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OR-03",
@@ -79,10 +79,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://results.oregonvotes.gov/resultsSW.aspx?type=FED&map=CTY",
     "https://www.thegreenpapers.com/G26/OR"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OR-04",
@@ -95,14 +95,14 @@
      "name": "Val Hoyle",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 53.65
+     "voteShare": 53.67
     },
     {
      "id": "monique-despain",
      "name": "Monique DeSpain",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 42.78
+     "voteShare": 42.76
     },
     {
      "id": "justin-filip",
@@ -110,14 +110,14 @@
      "party": "Other",
      "partyLabel": "Pacific Green",
      "incumbent": false,
-     "voteShare": 3.47
+     "voteShare": 3.48
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://results.oregonvotes.gov/resultsSW.aspx?type=FED&map=CTY",
     "https://www.thegreenpapers.com/G26/OR"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OR-05",
@@ -130,14 +130,14 @@
      "name": "Janelle Bynum",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 53.83
+     "voteShare": 53.88
     },
     {
      "id": "patti-adair",
      "name": "Patti Adair",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 43.88
+     "voteShare": 43.82
     },
     {
      "id": "andrea-townsend",
@@ -149,10 +149,10 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://results.oregonvotes.gov/resultsSW.aspx?type=FED&map=CTY",
     "https://www.thegreenpapers.com/G26/OR"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "OR-06",
@@ -165,21 +165,21 @@
      "name": "Andrea Salinas",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 58.34
+     "voteShare": 58.44
     },
     {
      "id": "david-russ",
      "name": "David Russ",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 41.55
+     "voteShare": 41.45
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://results.oregonvotes.gov/resultsSW.aspx?type=FED&map=CTY",
     "https://www.thegreenpapers.com/G26/OR"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }

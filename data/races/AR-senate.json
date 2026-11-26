@@ -15,8 +15,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 54.26,
-      "bio": "Tom Cotton is a Republican who has been a U.S. senator from Arkansas since January 2015. He is a sixth-generation Arkansan born in Yell County and an Army combat veteran. He serves on the Armed Services Committee and says he authored the RAISE Act on immigration. His current term ends January 3, 2027.",
+      "voteShare": 54.21,
+      "bio": "Tom Cotton is a Republican who has been a U.S. senator from Arkansas since January 2015. He is a sixth-generation Arkansan born in Yell County and an Army combat veteran. He serves on the Armed Services Committee and says he authored the RAISE Act on immigration.",
       "website": "https://tomcotton.com/",
       "positions": [
         {
@@ -51,9 +51,10 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
         "https://tomcotton.com/",
-        "https://tomcotton.com/issues/"
+        "https://tomcotton.com/issues/",
+        "https://tomcotton.com/about/",
+        "https://www.cotton.senate.gov/about"
       ]
     },
     {
@@ -62,7 +63,7 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 42.41,
+      "voteShare": 42.46,
       "bio": "Hallie Shoffner is the Democratic nominee and a sixth-generation farmer who grew up on a soybean and rice farm outside Newport, Arkansas. She attended Vanderbilt University on a full scholarship and studied public service at the Clinton School of Public Service. She ran the family farm, which shut down after the 2024 season.",
       "website": "https://www.hallieshoffner.com/",
       "positions": [
@@ -83,23 +84,25 @@
         },
         {
           "issue": "immigration",
-          "summary": "Said in February 2026 that the country should have immigration reform but that the current approach is not it.",
-          "source": "https://ontheissues.org/Senate/Hallie_Shoffner.htm"
+          "summary": "Says she \"would vote to defund ICE as it exists right now,\" and says her criticism is of the agency's leadership and practices and not of immigration enforcement itself.",
+          "source": "https://katv.com/news/local/defund-ice-as-it-is-now-hallie-shoffner-says-yes-tom-cotton-says-no"
         },
         {
           "issue": "abortion",
-          "summary": "Said in July 2025 that states can decide abortion policy but should not restrict life-saving surgery.",
-          "source": "https://ontheissues.org/Senate/Hallie_Shoffner.htm"
+          "summary": "Said states can decide their own abortion laws and that restrictive laws can keep women from life-saving surgery.",
+          "source": "https://independentarkansas.com/hallie-shoffner/"
         },
         {
           "issue": "climate",
-          "summary": "Said in December 2022 that climate change is a threat and is 'threatening our groceries'.",
-          "source": "https://ontheissues.org/Senate/Hallie_Shoffner.htm"
+          "summary": "Said in 2024 that it is getting harder to make a living from farming as the climate warms.",
+          "source": "https://yaleclimateconnections.org/2024/11/meet-the-arkansas-farmer-trying-to-adapt-to-the-changing-climate/"
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
-        "https://www.hallieshoffner.com/"
+        "https://www.hallieshoffner.com/",
+        "https://katv.com/news/local/defund-ice-as-it-is-now-hallie-shoffner-says-yes-tom-cotton-says-no",
+        "https://www.hallieshoffner.com/about",
+        "https://www.thegreenpapers.com/G26/AR"
       ]
     },
     {
@@ -116,10 +119,10 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/AR"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Shares refreshed on November 25, 2026 from The Green Papers (888,142 votes in total), which does not say the count is certified."
 }

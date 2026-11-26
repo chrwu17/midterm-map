@@ -16,7 +16,7 @@
       "major": true,
       "incumbent": false,
       "voteShare": 54,
-      "bio": "David Crowley is the Milwaukee County Executive, in office since 2020, and a former member of the Wisconsin State Assembly. He was the Democratic nominee for governor in 2026.",
+      "bio": "David Crowley is the Milwaukee County Executive, in office since 2020, and was previously elected to the Wisconsin State Assembly. He was the Democratic nominee for governor in 2026.",
       "website": "https://www.crowleyforwi.com",
       "positions": [
         {
@@ -51,7 +51,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/David_Crowley_(politician)"
+        "https://upnorthnewswi.com/news/politics/crowley-vs-tiffany-top-issues/",
+        "https://www.thegreenpapers.com/G26/WI"
       ]
     },
     {
@@ -96,16 +97,17 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Tom_Tiffany"
+        "https://tiffany.house.gov/about",
+        "https://www.thegreenpapers.com/G26/WI"
       ]
     }
   ],
   "sources": [
     "https://www.news5cleveland.com/politics/america-votes/david-crowley-defeats-tom-tiffany-keeps-wisconsin-governors-office-democratic",
-    "https://en.wikipedia.org/wiki/2026_Wisconsin_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://www.thegreenpapers.com/G26/WI"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called)"
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Vote totals read Nov. 25 from thegreenpapers.com. Certification not confirmed."
 }

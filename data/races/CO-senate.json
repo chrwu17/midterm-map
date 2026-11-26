@@ -15,8 +15,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 60.43,
-      "bio": "Democratic U.S. senator from Colorado who trained as a geologist and, after being laid off, opened Colorado's first brewpub in Denver. He was elected mayor of Denver and later served as governor of Colorado, and is running for a second Senate term. He said in 2024 that this would be his last Senate campaign.",
+      "voteShare": 60.5,
+      "bio": "Democratic U.S. senator from Colorado who trained as a geologist and, after being laid off, opened Colorado's first brewpub in Denver. He was elected mayor of Denver and later served as governor of Colorado, and ran for a second Senate term in 2026. He said in 2024 that his 2026 campaign would be his last for the Senate.",
       "website": "https://hickenlooper.com/",
       "positions": [
         {
@@ -46,9 +46,10 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
         "https://hickenlooper.com/about",
-        "https://hickenlooper.com/"
+        "https://hickenlooper.com/",
+        "https://www.denver7.com/news/politics/john-hickenlooper-says-2026-reelection-campaign-will-be-his-final-senate-run",
+        "https://www.thegreenpapers.com/G26/CO"
       ]
     },
     {
@@ -57,8 +58,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 35.05,
-      "bio": "Republican state senator for Colorado's 4th district since 2023 and a state representative from 2019 to 2023. He is an aerospace engineer by background and president of a software company, and entered the U.S. Senate race in January 2026 after suspending his campaign for governor. He was born in 1955 in Hastings, Minnesota, and earned a degree from Columbia College in Missouri.",
+      "voteShare": 34.98,
+      "bio": "Republican state senator elected in 2022, after being elected to the state House in 2018. He leads a Colorado software company and had a long career as an aerospace engineer. He earned a bachelor's degree from Columbia College.",
       "website": "https://baisleyforsenate.com/",
       "positions": [
         {
@@ -83,9 +84,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
         "https://baisleyforsenate.com/",
-        "https://en.wikipedia.org/wiki/Mark_Baisley"
+        "https://leg.colorado.gov/legislators/mark-baisley"
       ]
     },
     {
@@ -120,7 +120,7 @@
       "partyLabel": "Unity",
       "major": false,
       "incumbent": false,
-      "voteShare": 0.5,
+      "voteShare": 0.51,
       "bio": null,
       "website": null,
       "positions": [],
@@ -141,10 +141,10 @@
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/CO"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Shares refreshed on November 25, 2026 from The Green Papers (2,693,694 votes in total), which does not say the count is certified."
 }

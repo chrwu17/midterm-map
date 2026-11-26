@@ -15,8 +15,8 @@
       "party": "Democratic",
       "major": true,
       "incumbent": true,
-      "voteShare": 64.9,
-      "bio": "Wes Moore has been governor of Maryland since 2023. He ran with Lt. Gov. Aruna Miller.",
+      "voteShare": 65.32,
+      "bio": "Wes Moore is a Democrat who was first elected governor of Maryland in 2022. He ran with Aruna Miller.",
       "website": "https://wesmoore.com/",
       "positions": [
         {
@@ -41,7 +41,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election"
+        "https://www.thegreenpapers.com/G26/MD",
+        "https://www.nga.org/governor/wes-moore/"
       ]
     },
     {
@@ -50,7 +51,7 @@
       "party": "Republican",
       "major": true,
       "incumbent": false,
-      "voteShare": 30.9,
+      "voteShare": 30.32,
       "bio": "Dan Cox is a Republican attorney and small-business owner who is a former Maryland state delegate and former town council member. He was the Republican nominee for governor in 2022 and lost to Wes Moore. He won the Republican primary again on June 23, 2026.",
       "website": "https://dancoxforgovernor.com/",
       "positions": [
@@ -88,12 +89,12 @@
       "party": "Green",
       "major": false,
       "incumbent": false,
-      "voteShare": 2.15,
+      "voteShare": 2.16,
       "bio": null,
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election"
+        "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_1.html"
       ]
     },
     {
@@ -108,15 +109,15 @@
       "website": null,
       "positions": [],
       "sources": [
-        "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election"
+        "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_1.html"
       ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
-    "https://www.multistate.us/resources/governors-2026-state-election-results"
+    "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_1.html"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that figures were from a partial count (94%) and might change."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called) Summary originally noted that figures were from a partial count (94%) and might change. 2026-11-25: all shares refreshed from the state unofficial results page (last refreshed Nov 23). Not certified."
 }

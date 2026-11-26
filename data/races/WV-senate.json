@@ -15,8 +15,8 @@
       "party": "Republican",
       "major": true,
       "incumbent": true,
-      "voteShare": 58.33,
-      "bio": "Shelley Moore Capito has been a U.S. senator from West Virginia since 2015 and served in the U.S. House from 2001 to 2015. She chairs the Senate Environment and Public Works Committee and was a member of the West Virginia House of Delegates from 1996 to 2000.",
+      "voteShare": 58.3,
+      "bio": "Shelley Moore Capito is a U.S. senator from West Virginia, first elected to the Senate in 2014. She chairs the Senate Environment and Public Works Committee. She previously served 14 years in the U.S. House and, before that, four years in the West Virginia House of Delegates.",
       "website": "https://shelleymoorecapito.com",
       "positions": [
         {
@@ -31,8 +31,8 @@
         },
         {
           "issue": "healthcare",
-          "summary": "Voted to repeal the Affordable Care Act, and in 2017 supported keeping its Medicaid expansion.",
-          "source": "https://en.wikipedia.org/wiki/Shelley_Moore_Capito"
+          "summary": "In July 2017, said she voted for a measure to repeal and replace the Affordable Care Act, and said \"we need to care for those who rely on health coverage\" through West Virginia's Medicaid expansion.",
+          "source": "https://www.capito.senate.gov/news/press-releases/capito-statement-on-health-care-vote"
         },
         {
           "issue": "economy",
@@ -41,7 +41,8 @@
         }
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Shelley_Moore_Capito"
+        "https://www.epw.senate.gov/public/index.cfm/chairman",
+        "https://www.thegreenpapers.com/G26/WV"
       ]
     },
     {
@@ -50,29 +51,29 @@
       "party": "Democratic",
       "major": true,
       "incumbent": false,
-      "voteShare": 37.91,
+      "voteShare": 37.95,
       "bio": "Rachel Fetty Anderson is a public interest attorney who has practiced since 1999, representing children, families and people on Medicare, Medicaid or Social Security. She served on the Morgantown City Council from 2017 to 2021 and is a licensed foster parent. She was the 2026 Democratic nominee for U.S. Senate in West Virginia.",
       "website": "https://fettyandersonforsenate.com",
       "positions": [
         {
           "issue": "economy",
-          "summary": "Supports a higher top tax rate for people earning more than $500,000 a year and workers' right to unionize, and opposes privatizing utilities.",
-          "source": "https://fettyandersonforsenate.com/issues"
+          "summary": "Supports a higher top tax rate for people earning more than $500,000 a year and workers' right to unionize, and says privatizing utilities \"to accommodate donors\" jeopardizes the economy.",
+          "source": "https://web.archive.org/web/20261107213716/https://www.fettyandersonforsenate.com/issues"
         },
         {
           "issue": "healthcare",
           "summary": "Says the country must invest in Medicare, Medicaid and Tricare, and wants care based on medical necessity.",
-          "source": "https://fettyandersonforsenate.com/issues"
+          "source": "https://web.archive.org/web/20261107213716/https://www.fettyandersonforsenate.com/issues"
         },
         {
           "issue": "education",
           "summary": "Says investing in young people's education is a top priority and wants public schools to focus on fundamental skills and civic and scientific knowledge.",
-          "source": "https://fettyandersonforsenate.com/issues"
+          "source": "https://web.archive.org/web/20261107213716/https://www.fettyandersonforsenate.com/issues"
         },
         {
           "issue": "climate",
           "summary": "Supports investing in solar, wind and water power, wants coal plants run as cleanly as possible, and wants polluters held accountable.",
-          "source": "https://fettyandersonforsenate.com/issues"
+          "source": "https://web.archive.org/web/20261107213716/https://www.fettyandersonforsenate.com/issues"
         }
       ],
       "sources": [
@@ -86,19 +87,20 @@
       "partyLabel": "Constitution",
       "major": false,
       "incumbent": false,
-      "voteShare": 3.76,
+      "voteShare": 3.75,
       "bio": null,
       "website": null,
       "positions": [],
-      "sources": []
+      "sources": [
+        "https://www.thegreenpapers.com/G26/WV"
+      ]
     }
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia",
-    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/"
+    "https://political.org/2026/11/04/2026-senate-results-how-every-race-compares-with-the-last-10-elections/",
+    "https://www.thegreenpapers.com/G26/WV"
   ],
-  "lastVerified": "2026-11-14",
+  "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35)"
+  "factCheckNote": "Winner matches AP-sourced tally (political.org Nov 14 tally, AP called 34 of 35). Shares refreshed Nov. 25 from thegreenpapers.com, which cites the Secretary of State. Certification not confirmed."
 }

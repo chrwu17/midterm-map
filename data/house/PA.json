@@ -14,21 +14,20 @@
      "name": "Bob Harvie",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 52.74
+     "voteShare": 52.88
     },
     {
      "id": "brian-fitzpatrick",
      "name": "Brian Fitzpatrick",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 47.26
+     "voteShare": 47.12
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania"
+    "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-02",
@@ -41,21 +40,20 @@
      "name": "Brendan Boyle",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 80.86
+     "voteShare": 80.87
     },
     {
      "id": "jessica-arriaga",
      "name": "Jessica Arriaga",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 19.14
+     "voteShare": 19.13
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-03",
@@ -68,21 +66,20 @@
      "name": "Chris Rabb",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 93.65
+     "voteShare": 93.61
     },
     {
      "id": "dennis-mahoney",
      "name": "Dennis Mahoney",
      "party": "Independent",
      "incumbent": false,
-     "voteShare": 6.4
+     "voteShare": 6.39
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania"
+    "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-04",
@@ -95,21 +92,20 @@
      "name": "Madeleine Dean",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 67.19
+     "voteShare": 67.26
     },
     {
      "id": "aurora-stuski",
      "name": "Aurora Stuski",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 32.81
+     "voteShare": 32.74
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-05",
@@ -122,21 +118,20 @@
      "name": "Mary Gay Scanlon",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 72.2
+     "voteShare": 72.22
     },
     {
      "id": "nicholas-manganaro",
      "name": "Nicholas Manganaro",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 27.8
+     "voteShare": 27.78
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-06",
@@ -160,10 +155,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-07",
@@ -176,21 +170,20 @@
      "name": "Bob Brooks",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 56.1
+     "voteShare": 56.37
     },
     {
      "id": "ryan-mackenzie",
      "name": "Ryan Mackenzie",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 43.9
+     "voteShare": 43.63
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania"
+    "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-08",
@@ -203,7 +196,7 @@
      "name": "Paige Cognetti",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 54.47
+     "voteShare": 54.48
     },
     {
      "id": "rob-bresnahan",
@@ -214,10 +207,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania"
+    "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-09",
@@ -241,10 +233,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-10",
@@ -257,21 +248,20 @@
      "name": "Janelle Stelson",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 55.06
+     "voteShare": 55.19
     },
     {
      "id": "scott-perry",
      "name": "Scott Perry",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 44.93
+     "voteShare": 44.81
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania"
+    "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-11",
@@ -295,10 +285,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-12",
@@ -311,21 +300,20 @@
      "name": "Summer Lee",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 65.64
+     "voteShare": 65.68
     },
     {
      "id": "james-hayes",
      "name": "James Hayes",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 34.36
+     "voteShare": 34.32
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-13",
@@ -349,10 +337,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-14",
@@ -365,21 +352,20 @@
      "name": "Guy Reschenthaler",
      "party": "Republican",
      "incumbent": true,
-     "voteShare": 57.5
+     "voteShare": 57.44
     },
     {
      "id": "alan-bradstock",
      "name": "Alan Bradstock",
      "party": "Democratic",
      "incumbent": false,
-     "voteShare": 42.5
+     "voteShare": 42.56
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-15",
@@ -403,10 +389,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-16",
@@ -430,10 +415,9 @@
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   },
   {
    "id": "PA-17",
@@ -446,21 +430,20 @@
      "name": "Chris Deluzio",
      "party": "Democratic",
      "incumbent": true,
-     "voteShare": 62.91
+     "voteShare": 62.97
     },
     {
      "id": "tony-guy",
      "name": "Tony Guy",
      "party": "Republican",
      "incumbent": false,
-     "voteShare": 37.09
+     "voteShare": 37.03
     }
    ],
    "sources": [
-    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
     "https://www.thegreenpapers.com/G26/PA"
    ],
-   "lastVerified": "2026-11-15"
+   "lastVerified": "2026-11-25"
   }
  ]
 }
