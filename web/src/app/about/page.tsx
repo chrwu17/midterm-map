@@ -21,8 +21,8 @@ export default function AboutPage() {
     <div className="prose-lesson mx-auto max-w-[720px] px-4 py-12 sm:px-8 sm:py-16">
       <h1 className="text-[clamp(2.25rem,5vw,3.25rem)] font-semibold">About this site</h1>
       <p className="mt-4 text-lg text-muted-foreground">
-        Midterm Map is a student project that helps new voters understand the 2026 U.S. Senate and governor races. It
-        also shows U.S. House results. It does not support or oppose any candidate or party.
+        Midterm Map is a student project that helps new voters understand the 2026 U.S. Senate and governor races, and
+        it shows U.S. House results too. It does not support or oppose any candidate or party.
       </p>
 
       <h2>Our nonpartisan rules</h2>
@@ -52,7 +52,7 @@ export default function AboutPage() {
 
       <h2>How we checked the results</h2>
       <p>
-        We take each race&apos;s vote shares and status from the results sources listed on its card. We then cross-check the winner
+        Each race&apos;s vote shares and status come from the results sources listed on its card. We then cross-check the winner
         and status against a separate source, usually a tally based on Associated Press
         race calls or a second news report. We name a winner only when the state has certified the result, or when a major
         news organization has projected one and the second source agrees. If they disagree, or the count is still close, we mark the race &ldquo;Uncalled&rdquo; and

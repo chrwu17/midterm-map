@@ -226,7 +226,7 @@ export function HouseDistricts({ views, districts, stateName, children }: {
         </div>
       ) : (
         <p className="mt-6 max-w-[65ch] text-sm text-muted-foreground">
-          No map here: we could not confirm {stateName}&apos;s 2026 district lines. The list below has every result.
+          We could not confirm {stateName}&apos;s 2026 district lines, so there is no map. The list below has every result.
         </p>
       )}
       {single ? (

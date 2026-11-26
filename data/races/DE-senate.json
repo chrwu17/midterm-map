@@ -80,12 +80,18 @@
           "issue": "immigration",
           "summary": "Favors border security, withholding funding from sanctuary jurisdictions and enforcing stricter immigration laws, according to a WHYY voter guide.",
           "source": "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/"
+        },
+        {
+          "issue": "education",
+          "summary": "Said at an October 2026 forum that \"our education system continues to fail our kids.\"",
+          "source": "https://whyy.org/articles/michael-katz-chris-coons-debate-delaware/"
         }
       ],
       "sources": [
         "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/",
         "https://spotlightdelaware.org/2026/10/23/as-early-voting-opens-coons-katz-debate-affordability-israel-aid/",
-        "https://data.delaware.gov/resource/4hbv-7brf.json"
+        "https://data.delaware.gov/resource/4hbv-7brf.json",
+        "https://whyy.org/articles/michael-katz-chris-coons-debate-delaware/"
       ]
     }
   ],

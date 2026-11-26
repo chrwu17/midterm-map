@@ -80,7 +80,7 @@ The site is live on GitHub Pages at https://chrwu17.github.io/midterm-map/. Push
 ## Open tickets, in suggested order
 
 1. `0014-certified-results.md`: swap in certified results as states publish them.
-2. `0013-secondary-sources.md`: replace the last eight OnTheIssues citations.
+2. `0013-secondary-sources.md`: done 2026-11-25.
 3. `0015-design-gate-open.md`: close the design checker's findings on the home and state pages.
 4. `0016-humanize-site-copy.md`: finish the humanizer pass and revisit the stiff position sentences.
 5. `0010-data-freshness.md`: decide who updates the data and how often.

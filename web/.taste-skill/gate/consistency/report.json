@@ -1,25 +1,16 @@
 {
  "page": "/Users/christian/latino-politics/web/out/index.html",
  "url": "http://127.0.0.1:5200/index.html",
- "at": "2026-11-15T21:59:26.223Z",
+ "at": "2026-11-26T05:01:13.400Z",
  "out": "/Users/christian/latino-politics/web/.taste-skill/gate/consistency",
  "widths": [
   {
    "width": 1440,
    "height": 900,
-   "screens": 3,
+   "screens": 4,
    "held": 0,
    "errors": [],
    "findings": [
-    {
-     "check": "effect-kind",
-     "sev": "FAIL",
-     "sel": "(the page)",
-     "text": "",
-     "msg": "a service page (--type) moves with the scroll: scroll libraries or timelines (Lenis, ScrollTrigger, ScrollSmoother): effects fit tech, gaming and software pages and a product with a technical subject, never a place, shop or service page (house rule)",
-     "fix": "take the scroll-driven motion off: on a place, shop or service page the page scrolls plainly and the parts sit still",
-     "stop": null
-    },
     {
      "check": "nav",
      "sev": "WARN",
@@ -33,7 +24,7 @@
     {
      "check": "copy-headline",
      "sev": "WARN",
-     "sel": "section.flex.min-h-svh > div.wrap.grid > div.hero-text > h1.split-parent.inline-block",
+     "sel": "section.flex.min-h-svh:nth-of-type(1) > div.wrap.grid > div.hero-text > h1.split-parent.inline-block",
      "text": "Your guide to the 2026 Senate and governor races",
      "msg": "the h1 has 9 words (2 to 8 read at a glance)",
      "stop": 0,
@@ -41,19 +32,9 @@
      "fix": "put the category noun in the h1 (and who it is for, or where), in 2 to 8 words"
     },
     {
-     "check": "copy-headings",
-     "sev": "WARN",
-     "sel": "h2#learn-heading",
-     "text": "New to this? Start here.",
-     "msg": "\"New to this? Start here.\" names no product, part, place or section (the one brand line a page may have)",
-     "stop": 1,
-     "crop": "1440-05-copy-headings.jpg",
-     "fix": "name the thing in every heading: the product, a part, the place or a section noun"
-    },
-    {
      "check": "copy-buttons",
      "sev": "WARN",
-     "sel": "section.flex.min-h-svh > div.wrap.grid > div.hero-text > a.press.inline-flex",
+     "sel": "section.flex.min-h-svh:nth-of-type(1) > div.wrap.grid > div.hero-text > a.press.inline-flex",
      "text": "Pick your state on the map",
      "msg": "\"Pick your state on the map\" is 6 words (1 to 5)",
      "stop": 0,
@@ -61,32 +42,42 @@
      "fix": "label buttons with a verb and what the visitor gets (\"Book a room\", \"Start free trial\")"
     },
     {
+     "check": "copy-buttons",
+     "sev": "WARN",
+     "sel": "div.wrap.grid > div > div.mt-6.flex > a.press.inline-flex:nth-of-type(2)",
+     "text": "What a Representative does",
+     "msg": "\"What a Representative does\" does not start with a verb (book, buy, try, start, get, see...)",
+     "stop": 1,
+     "crop": "1440-06-copy-buttons.jpg",
+     "fix": "label buttons with a verb and what the visitor gets (\"Book a room\", \"Start free trial\")"
+    },
+    {
+     "check": "copy-actions",
+     "sev": "WARN",
+     "sel": "section.flex.min-h-svh:nth-of-type(1) > div.wrap.grid > div.hero-text > a.press.inline-flex",
+     "text": "Pick your state on the map",
+     "msg": "2 labels for one target /index.html#map: \"Pick your state on the map\", \"Pick a state\"",
+     "stop": 0,
+     "crop": "1440-04-copy-actions.jpg",
+     "fix": "few actions, one wording: at most 2 in the hero, the main action word for word in nav, hero and close"
+    },
+    {
      "check": "copy-actions",
      "sev": "WARN",
      "sel": "(the page)",
      "text": "",
-     "msg": "the main action \"Pick a state\" does not read word for word the same in the nav or hero and the closing section",
+     "msg": "the main action \"Pick your state on the map\" does not read word for word the same in the closing section",
      "stop": null,
      "fix": "few actions, one wording: at most 2 in the hero, the main action word for word in nav, hero and close"
     },
     {
      "check": "section-gaps",
      "sev": "WARN",
-     "sel": "main#main > section.flex.min-h-svh / main#main > section.flex.items-center:nth-of-type(2)",
+     "sel": "main#main > section.flex.items-center:nth-of-type(3) / footer.closing.border-t",
      "text": "",
      "stop": 3,
-     "msg": "269px between these sections, +27% against the median 212px",
+     "msg": "166px between these sections, -44% against the median 297px",
      "crop": "1440-07-section-gaps.jpg",
-     "fix": "use one gap between sections (all within 25% of each other)"
-    },
-    {
-     "check": "section-gaps",
-     "sev": "WARN",
-     "sel": "main#main > section.flex.items-center:nth-of-type(2) / footer.closing.border-t",
-     "text": "",
-     "stop": 2,
-     "msg": "154px between these sections, -27% against the median 212px",
-     "crop": "1440-06-section-gaps.jpg",
      "fix": "use one gap between sections (all within 25% of each other)"
     },
     {
@@ -96,7 +87,7 @@
      "text": "",
      "stop": 0,
      "msg": "the nav's links come in 2 sizes (14, 16px)",
-     "crop": "1440-04-nav-family.jpg",
+     "crop": "1440-05-nav-family.jpg",
      "fix": "keep one nav on every screen: the same bar, fill, links and type"
     },
     {
@@ -109,12 +100,12 @@
      "fix": "name each nav link after the heading of the section it opens"
     },
     {
-     "check": "moment-none",
+     "check": "effects-fit",
      "sev": "WARN",
      "sel": "(the page)",
      "text": "",
-     "msg": "a service page (--type) deals no moment: every kind carries one, two on a long page (moments.md)",
-     "fix": "deal one (moments.mjs pick --page service --photo) and mount it in its own section",
+     "msg": "no page kind found (--page or --type, <html data-type>, <meta name=\"page-type\">, <meta name=\"site-kind\">, or a title written \"Name: what it is for whom\"): effects, prices and pictures were not judged against what the page is",
+     "fix": "mark the kind as the starter does: <html data-type=\"tech|product|place|service\"> and <meta name=\"site-kind\">, or pass --page <kind>",
      "stop": null
     },
     {
@@ -130,7 +121,7 @@
      "check": "hero-screen",
      "sev": "FAIL",
      "sel": "div#map",
-     "text": "Map of 2026 races by stateColors show wh",
+     "text": "Map of 2026 Senate and governor races by",
      "msg": "a strip docked in the hero is 539px tall: at most 96px on a desktop (SR-1)",
      "fix": "keep the hero's content between the nav and 24px above the fold (and the action bar): shorten the picture or the text; a docked strip 96px at most",
      "rule": "SR-1 T4",
@@ -160,7 +151,7 @@
      "sev": "FAIL",
      "sel": "footer.closing.border-t",
      "text": "Midterm Map is a nonpartisan student pro",
-     "msg": "the screen at scroll 985px (the top of section 3) shows 85px of section 3 beside section 2: a screen shows one section (another may peek 8px, 24px WARN) (SR-4)",
+     "msg": "the screen at scroll 1885px (the top of section 4) shows 85px of section 4 beside section 3: a screen shows one section (another may peek 8px, 24px WARN) (SR-4)",
      "fix": "make each section exactly one screen or two, so a screen shows one section and no neighbour peeks",
      "rule": "SR-4 T-views",
      "crop": "1440-rhythm-03-one-section.jpg"
@@ -171,7 +162,7 @@
   {
    "width": 390,
    "height": 844,
-   "screens": 4,
+   "screens": 5,
    "held": 0,
    "errors": [],
    "findings": [
@@ -242,7 +233,7 @@
  ],
  "shaders": 0,
  "hidden": {
-  "screens": 6,
+  "screens": 8,
   "quick": true
  },
  "sweep": {
@@ -284,7 +275,7 @@
   ]
  },
  "counts": {
-  "FAIL": 5,
+  "FAIL": 4,
   "WARN": 18
  },
  "checks": {
@@ -337,7 +328,7 @@
   "pricing-tiers": "PASS",
   "copy-headline": "WARN",
   "copy-fact": "PASS",
-  "copy-headings": "WARN",
+  "copy-headings": "PASS",
   "copy-buttons": "WARN",
   "copy-actions": "WARN",
   "heading-scale": "PASS",
@@ -370,7 +361,7 @@
   "orphan": "PASS",
   "unit-break": "PASS",
   "tab-wrap": "PASS",
-  "effects-fit": "PASS",
+  "effects-fit": "WARN",
   "fade-cut": "PASS",
   "photo-weight": "PASS",
   "copy-length": "PASS",
@@ -392,9 +383,9 @@
   "font-load": "PASS",
   "visual-caption": "PASS",
   "visual-empty": "PASS",
-  "effect-kind": "FAIL",
+  "effect-kind": "PASS",
   "hero-enter": "PASS",
-  "moment-none": "WARN",
+  "moment-none": "PASS",
   "street-number": "PASS",
   "postcode": "PASS",
   "coordinates": "PASS",

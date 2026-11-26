@@ -2,10 +2,10 @@
  "page": "out/index.html",
  "url": null,
  "root": "out",
- "kind": "service",
- "category": "nonpartisan guide to 2026 Senate and governor races",
- "primary": "Pick a state",
+ "kind": null,
+ "category": null,
+ "primary": null,
  "rounds": 3,
- "start": "2026-11-15T21:59:24.162Z",
+ "start": "2026-11-26T05:01:06.780Z",
  "by": "gate.mjs --start"
 }

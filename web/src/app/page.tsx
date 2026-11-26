@@ -64,9 +64,9 @@ export default function Home() {
       </section>
 
       <section aria-labelledby="house-heading" className="flex min-h-svh items-center border-t border-border">
-        <div className="wrap grid gap-8 py-10 lg:grid-cols-2 lg:items-center lg:gap-6 lg:py-16">
+        <div className="wrap grid gap-8 py-10 lg:grid-cols-2 lg:items-start lg:gap-6 lg:py-16">
           <div>
-            <h2 id="house-heading" className="text-3xl font-semibold">U.S. House results by district</h2>
+            <h2 id="house-heading" className="text-3xl font-semibold">2026 U.S. House results by district</h2>
             <p className="mt-2 max-w-[48ch] text-muted-foreground">
               All {districts.length} House seats were up for election. Open a state to see the candidates, vote shares and any
               projected winner in each district. We don&apos;t have bios or positions for House candidates.
@@ -95,8 +95,8 @@ export default function Home() {
       <section aria-labelledby="learn-heading" className="flex min-h-[200svh] items-center border-t border-border bg-card/60 lg:min-h-svh">
         <Reveal className="wrap grid gap-6 py-6 sm:gap-8 sm:py-10 lg:grid-cols-2 lg:items-start lg:gap-6 lg:py-16">
           <div>
-            <h2 id="learn-heading" className="text-3xl font-semibold">Lessons for new voters</h2>
-            <p className="mt-2 max-w-[48ch] text-muted-foreground">Short lessons on how elections work. You don&apos;t need any background.</p>
+            <h2 id="learn-heading" className="text-3xl font-semibold">Lessons on how the races work</h2>
+            <p className="mt-2 max-w-[48ch] text-muted-foreground">Each one is short, and you don&apos;t need any background.</p>
             {lessons.length ? (
               <ul className="mt-6 space-y-3">
                 {lessons.slice(0, 5).map((l) => (

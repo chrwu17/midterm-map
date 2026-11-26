@@ -52,7 +52,7 @@
       "incumbent": false,
       "voteShare": 43.67,
       "bio": "Christine Drazan is a Republican who formerly led the House Republicans in the Oregon Legislature and was appointed to a state Senate seat in 2025. She ran for governor in 2022, losing to Tina Kotek, and was the Republican nominee in 2026.",
-      "website": null,
+      "website": "https://www.christinefororegon.com/",
       "positions": [
         {
           "issue": "economy",
@@ -103,5 +103,5 @@
   ],
   "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Shares refreshed Nov. 25 from the Oregon Secretary of State count (updated Nov. 25, marked unofficial, 2,000,521 ballots). Write-ins are in the total."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). Shares refreshed Nov. 25 from the Oregon Secretary of State count (updated Nov. 25, marked unofficial, 2,000,521 ballots). Write-ins are in the total. Not certified as of Nov. 25. KATU reports the state will certify results on Dec. 10."
 }

@@ -1,81 +1,17 @@
 {
- "start": "2026-11-15T21:59:24.162Z",
+ "start": "2026-11-26T05:01:06.780Z",
  "round": 0,
  "idle": 0,
  "errors": 0,
  "status": "pass",
  "history": [
   {
-   "at": "2026-11-15T22:00:58.072Z",
+   "at": "2026-11-26T05:02:41.628Z",
    "mode": "manual",
    "status": "pass",
    "fails": 0,
    "round": 0,
    "reused": false,
-   "stopHookActive": false
-  },
-  {
-   "at": "2026-11-15T22:04:34.206Z",
-   "mode": "hook",
-   "host": "claude",
-   "decision": "allow",
-   "reason": "no build is active here",
-   "stopHookActive": false
-  },
-  {
-   "at": "2026-11-25T09:52:41.880Z",
-   "mode": "hook",
-   "host": "claude",
-   "decision": "allow",
-   "reason": "no build is active here",
-   "stopHookActive": false
-  },
-  {
-   "at": "2026-11-25T09:55:48.879Z",
-   "mode": "hook",
-   "host": "claude",
-   "decision": "allow",
-   "reason": "no build is active here",
-   "stopHookActive": false
-  },
-  {
-   "at": "2026-11-25T09:59:49.953Z",
-   "mode": "hook",
-   "host": "claude",
-   "decision": "allow",
-   "reason": "no build is active here",
-   "stopHookActive": false
-  },
-  {
-   "at": "2026-11-25T10:00:32.353Z",
-   "mode": "hook",
-   "host": "claude",
-   "decision": "allow",
-   "reason": "no build is active here",
-   "stopHookActive": false
-  },
-  {
-   "at": "2026-11-25T10:01:39.287Z",
-   "mode": "hook",
-   "host": "claude",
-   "decision": "allow",
-   "reason": "no build is active here",
-   "stopHookActive": false
-  },
-  {
-   "at": "2026-11-25T10:02:00.270Z",
-   "mode": "hook",
-   "host": "claude",
-   "decision": "allow",
-   "reason": "no build is active here",
-   "stopHookActive": false
-  },
-  {
-   "at": "2026-11-25T10:02:21.828Z",
-   "mode": "hook",
-   "host": "claude",
-   "decision": "allow",
-   "reason": "no build is active here",
    "stopHookActive": false
   }
  ],
@@ -84,53 +20,21 @@
   "page": "out/index.html",
   "url": null,
   "root": "out",
-  "kind": "service",
-  "category": "nonpartisan guide to 2026 Senate and governor races",
-  "primary": "Pick a state",
+  "kind": null,
+  "category": null,
+  "primary": null,
   "rounds": 3,
-  "start": "2026-11-15T21:59:24.162Z",
+  "start": "2026-11-26T05:01:06.780Z",
   "by": "gate.mjs --start"
  },
  "manual": true,
- "fp": "ee3976330a5803c3",
+ "fp": "f44ccb24af8950ef",
  "page": "out/index.html",
  "found": {
   "fails": [
    {
-    "check": "effect-kind",
-    "where": "(the page)",
-    "msg": "a service page (--type) moves with the scroll: scroll libraries or timelines (Lenis, ScrollTrigger, ScrollSmoother): effects fit tech, gaming and software pages and a product with a technical subject, never a place, shop or service page (house rule)",
-    "fix": "take the scroll-driven motion off: on a place, shop or service page the page scrolls plainly and the parts sit still",
-    "widths": [
-     1440
-    ],
-    "from": "consistency",
-    "ids": [
-     "effect-kind"
-    ],
-    "wheres": [
-     "(the page)"
-    ]
-   },
-   {
-    "check": "moment-none",
-    "where": "(the page)",
-    "msg": "a service page (--type) deals no moment: every kind carries one, two on a long page (moments.md)",
-    "fix": "deal one (moments.mjs pick --page service --photo) and mount it in its own section",
-    "widths": [
-     1440
-    ],
-    "from": "consistency",
-    "ids": [
-     "moment-none"
-    ],
-    "wheres": [
-     "(the page)"
-    ]
-   },
-   {
     "check": "hero-screen",
-    "where": "div#map \"Map of 2026 races by stateColors show wh\"",
+    "where": "div#map \"Map of 2026 Senate and governor races by\"",
     "msg": "a strip docked in the hero is 539px tall: at most 96px on a desktop (SR-1)",
     "fix": "keep the hero's content between the nav and 24px above the fold (and the action bar): shorten the picture or the text; a docked strip 96px at most",
     "widths": [
@@ -141,7 +45,7 @@
      "hero-screen"
     ],
     "wheres": [
-     "div#map \"Map of 2026 races by stateColors show wh\""
+     "div#map \"Map of 2026 Senate and governor races by\""
     ]
    },
    {
@@ -163,7 +67,7 @@
    {
     "check": "one-section",
     "where": "footer.closing.border-t \"Midterm Map is a nonpartisan student pro\"",
-    "msg": "the screen at scroll 985px (the top of section 3) shows 85px of section 3 beside section 2: a screen shows one section (another may peek 8px, 24px WARN) (SR-4)",
+    "msg": "the screen at scroll 1885px (the top of section 4) shows 85px of section 4 beside section 3: a screen shows one section (another may peek 8px, 24px WARN) (SR-4)",
     "fix": "make each section exactly one screen or two, so a screen shows one section and no neighbour peeks",
     "widths": [
      1440
@@ -191,7 +95,7 @@
    },
    {
     "check": "copy-headline",
-    "where": "section.flex.min-h-svh > div.wrap.grid > div.hero-text > h1.split-parent.inline-block \"Your guide to the 2026 Senate and govern\"",
+    "where": "section.flex.min-h-svh:nth-of-type(1) > div.wrap.grid > div.hero-text > h1.split-parent.inline-block \"Your guide to the 2026 Senate and govern\"",
     "msg": "the h1 has 9 words (2 to 8 read at a glance)",
     "fix": "put the category noun in the h1 (and who it is for, or where), in 2 to 8 words",
     "widths": [
@@ -200,18 +104,8 @@
     "from": "consistency"
    },
    {
-    "check": "copy-headings",
-    "where": "h2#learn-heading \"New to this? Start here.\"",
-    "msg": "\"New to this? Start here.\" names no product, part, place or section (the one brand line a page may have)",
-    "fix": "name the thing in every heading: the product, a part, the place or a section noun",
-    "widths": [
-     1440
-    ],
-    "from": "consistency"
-   },
-   {
     "check": "copy-buttons",
-    "where": "section.flex.min-h-svh > div.wrap.grid > div.hero-text > a.press.inline-flex \"Pick your state on the map\"",
+    "where": "section.flex.min-h-svh:nth-of-type(1) > div.wrap.grid > div.hero-text > a.press.inline-flex \"Pick your state on the map\"",
     "msg": "\"Pick your state on the map\" is 6 words (1 to 5)",
     "fix": "label buttons with a verb and what the visitor gets (\"Book a room\", \"Start free trial\")",
     "widths": [
@@ -220,9 +114,29 @@
     "from": "consistency"
    },
    {
+    "check": "copy-buttons",
+    "where": "div.wrap.grid > div > div.mt-6.flex > a.press.inline-flex:nth-of-type(2) \"What a Representative does\"",
+    "msg": "\"What a Representative does\" does not start with a verb (book, buy, try, start, get, see...)",
+    "fix": "label buttons with a verb and what the visitor gets (\"Book a room\", \"Start free trial\")",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "copy-actions",
+    "where": "section.flex.min-h-svh:nth-of-type(1) > div.wrap.grid > div.hero-text > a.press.inline-flex \"Pick your state on the map\"",
+    "msg": "2 labels for one target /index.html#map: \"Pick your state on the map\", \"Pick a state\"",
+    "fix": "few actions, one wording: at most 2 in the hero, the main action word for word in nav, hero and close",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
     "check": "copy-actions",
     "where": "(the page)",
-    "msg": "the main action \"Pick a state\" does not read word for word the same in the nav or hero and the closing section",
+    "msg": "the main action \"Pick your state on the map\" does not read word for word the same in the closing section",
     "fix": "few actions, one wording: at most 2 in the hero, the main action word for word in nav, hero and close",
     "widths": [
      1440
@@ -231,18 +145,8 @@
    },
    {
     "check": "section-gaps",
-    "where": "main#main > section.flex.min-h-svh / main#main > section.flex.items-center:nth-of-type(2)",
-    "msg": "269px between these sections, +27% against the median 212px",
-    "fix": "use one gap between sections (all within 25% of each other)",
-    "widths": [
-     1440
-    ],
-    "from": "consistency"
-   },
-   {
-    "check": "section-gaps",
-    "where": "main#main > section.flex.items-center:nth-of-type(2) / footer.closing.border-t",
-    "msg": "154px between these sections, -27% against the median 212px",
+    "where": "main#main > section.flex.items-center:nth-of-type(3) / footer.closing.border-t",
+    "msg": "166px between these sections, -44% against the median 297px",
     "fix": "use one gap between sections (all within 25% of each other)",
     "widths": [
      1440
@@ -265,6 +169,16 @@
     "where": "header.nav.relative > a.sr-only \"Skip to content\"",
     "msg": "\"Skip to content\" opens a section headed \"Your guide to the 2026 Senate and governor races\"",
     "fix": "name each nav link after the heading of the section it opens",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "effects-fit",
+    "where": "(the page)",
+    "msg": "no page kind found (--page or --type, <html data-type>, <meta name=\"page-type\">, <meta name=\"site-kind\">, or a title written \"Name: what it is for whom\"): effects, prices and pictures were not judged against what the page is",
+    "fix": "mark the kind as the starter does: <html data-type=\"tech|product|place|service\"> and <meta name=\"site-kind\">, or pass --page <kind>",
     "widths": [
      1440
     ],
@@ -315,49 +229,15 @@
   ],
   "crashed": [],
   "seconds": {
-   "consistency": 78,
-   "layout": 15
+   "consistency": 75,
+   "layout": 14
   }
  },
  "open": [],
  "waived": [
   {
-   "check": "effect-kind",
-   "where": "(the page)",
-   "msg": "a service page (--type) moves with the scroll: scroll libraries or timelines (Lenis, ScrollTrigger, ScrollSmoother): effects fit tech, gaming and software pages and a product with a technical subject, never a place, shop or service page (house rule)",
-   "fix": "take the scroll-driven motion off: on a place, shop or service page the page scrolls plainly and the parts sit still",
-   "widths": [
-    1440
-   ],
-   "from": "consistency",
-   "ids": [
-    "effect-kind"
-   ],
-   "wheres": [
-    "(the page)"
-   ],
-   "reason": "The user explicitly asked for Lenis smooth scroll site-wide on this site; it is off under prefers-reduced-motion. Scroll-triggered reveals were removed in the motion review."
-  },
-  {
-   "check": "moment-none",
-   "where": "(the page)",
-   "msg": "a service page (--type) deals no moment: every kind carries one, two on a long page (moments.md)",
-   "fix": "deal one (moments.mjs pick --page service --photo) and mount it in its own section",
-   "widths": [
-    1440
-   ],
-   "from": "consistency",
-   "ids": [
-    "moment-none"
-   ],
-   "wheres": [
-    "(the page)"
-   ],
-   "reason": "Nonpartisan civic explainer for new voters: the brief says motion never delays reading, so no decorative award-site moment."
-  },
-  {
    "check": "hero-screen",
-   "where": "div#map \"Map of 2026 races by stateColors show wh\"",
+   "where": "div#map \"Map of 2026 Senate and governor races by\"",
    "msg": "a strip docked in the hero is 539px tall: at most 96px on a desktop (SR-1)",
    "fix": "keep the hero's content between the nav and 24px above the fold (and the action bar): shorten the picture or the text; a docked strip 96px at most",
    "widths": [
@@ -368,7 +248,7 @@
     "hero-screen"
    ],
    "wheres": [
-    "div#map \"Map of 2026 races by stateColors show wh\""
+    "div#map \"Map of 2026 Senate and governor races by\""
    ],
    "reason": "The map is the site's main action and its first-screen content, so it sits beside the headline as half the hero. It is an interactive control, not a docked strip, and the brief requires it visible on load."
   },
@@ -392,7 +272,7 @@
   {
    "check": "one-section",
    "where": "footer.closing.border-t \"Midterm Map is a nonpartisan student pro\"",
-   "msg": "the screen at scroll 985px (the top of section 3) shows 85px of section 3 beside section 2: a screen shows one section (another may peek 8px, 24px WARN) (SR-4)",
+   "msg": "the screen at scroll 1885px (the top of section 4) shows 85px of section 4 beside section 3: a screen shows one section (another may peek 8px, 24px WARN) (SR-4)",
    "fix": "make each section exactly one screen or two, so a screen shows one section and no neighbour peeks",
    "widths": [
     1440
@@ -407,6 +287,6 @@
    "reason": "Same footer: a single 85px strip under the last section is page furniture, not a section that competes with it."
   }
  ],
- "warnCount": 13,
- "at": "2026-11-15T22:00:58.074Z"
+ "warnCount": 14,
+ "at": "2026-11-26T05:02:41.629Z"
 }

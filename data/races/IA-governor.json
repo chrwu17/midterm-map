@@ -41,8 +41,8 @@
         }
       ],
       "sources": [
-        "https://ballotpedia.org/Iowa_gubernatorial_election,_2026",
-        "https://robsand.com/about"
+        "https://robsand.com/about",
+        "https://www.kcci.com/article/iowa-certifies-november-election-results-with-higher-voter-turnout/74522089"
       ]
     },
     {
@@ -77,13 +77,13 @@
         }
       ],
       "sources": [
-        "https://ballotpedia.org/Iowa_gubernatorial_election,_2026",
+        "https://www.iowapublicradio.org/political-news/2026-06-03/zach-lahn-wins-republican-nomination-for-iowa-governor",
+        "https://www.kcci.com/article/iowa-certifies-november-election-results-with-higher-voter-turnout/74522089",
         "https://zachlahn.com/issues/"
       ]
     }
   ],
   "sources": [
-    "https://ballotpedia.org/Iowa_gubernatorial_election,_2026",
     "https://www.multistate.us/resources/governors-2026-state-election-results",
     "https://www.kcci.com/article/iowa-certifies-november-election-results-with-higher-voter-turnout/74522089",
     "https://www.thegreenpapers.com/G26/IA",
@@ -91,5 +91,5 @@
   ],
   "lastVerified": "2026-11-25",
   "crossChecked": true,
-  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). 2026-11-25: shares are computed from the totals KCCI reports (https://www.kcci.com/article/iowa-certifies-november-election-results-with-higher-voter-turnout/74522089), with the 1,756 write-ins The Green Papers shows in the total. Not marked certified: the Secretary of State release (https://www.rcreader.com/news-releases/iowa-state-board-canvassers-certifies-2026-midterm-election-results) says the Iowa Legislature certifies the governor race on the first day of its 2027 session."
+  "factCheckNote": "Winner matches AP-sourced tally (MultiState governors tracker, updated Nov 4, 35 of 36 races called). 2026-11-25: shares are computed from the totals KCCI reports (https://www.kcci.com/article/iowa-certifies-november-election-results-with-higher-voter-turnout/74522089), with the 1,756 write-ins The Green Papers shows in the total. Not marked certified: the Secretary of State release (https://www.rcreader.com/news-releases/iowa-state-board-canvassers-certifies-2026-midterm-election-results) says the Iowa Legislature certifies the governor race on the first day of its 2027 session. Nov. 25 recheck: the Secretary of State release still says the Legislature certifies the governor race on Jan. 12, 2027."
 }

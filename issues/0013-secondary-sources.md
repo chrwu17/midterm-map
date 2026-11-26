@@ -1,7 +1,7 @@
 ---
 title: Replace Wikipedia and OnTheIssues citations
 labels: [wayfinder:task]
-status: open
+status: done
 parent: 0000-map-midterm-map-site
 ---
 
@@ -12,3 +12,7 @@ Several dozen positions still cite Wikipedia or OnTheIssues because the session 
 ## Progress, 2026-11-25
 
 No race or House file cites Wikipedia. Eight positions still cite OnTheIssues; see `docs/STATUS.md`.
+
+## Resolved 2026-11-25
+
+All OnTheIssues, Ballotpedia and Wikipedia citations are gone. Five OnTheIssues positions were re-sourced and three deleted (Peltola education, Love immigration, Baisley education).

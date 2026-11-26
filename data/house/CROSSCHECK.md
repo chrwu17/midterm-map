@@ -11,7 +11,8 @@ This replaces the earlier cross-checks. No Wikipedia page is cited any more. All
 - **Roster:** every published candidate is in Green Papers (Michael Gist, FL-06, withdrew and was removed). Green Papers lists no ballot candidate that we omit.
 - **Winners:** 432 are called, and Green Papers marks the same person elected in all 432. 1 is uncalled (MN-01). 2 are runoffs (LA-05, LA-06).
 - **Shares:** they match within 0.011 points, apart from the state-count districts below. Vermont and Wyoming match the state documents and Green Papers votes once blanks, undervotes and overvotes are removed.
-- **Second sources:** 323 called districts now rest on Green Papers alone for the winner. The README lists the rest.
+- **Second sources:** no called district now rests on Green Papers alone for the winner. The README lists the rest. On 2026-11-25 the NBC News House results pages for ND, NH, NJ, NV, NY, OH, OK, PA, RI, SC, TN, TX, UT, VA, WA, WI and WV were opened with curl and parsed by script. They name the same winner as Green Papers in all 173 called districts there.
+- **NBC News, Alabama to Montana:** the NBC News House results pages for AL, AR, AZ, CO, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, ME, MI, MN, MO, MS and MT were opened with curl on 2026-11-25 and parsed by script. They name the same winner as Green Papers in all 152 called districts added there (151 that had Green Papers alone, plus AL-07). The only name differences are suffixes: Oliver Gilbert III (FL-24), Hank Johnson Jr. (GA-04), Troy Carter Sr. (LA-02), Johnny Olszewski Jr. (MD-02, not cited) and Emanuel Cleaver II (MO-05). NBC also matched the winners in AK, CA, HI, MA and MD, which already had a second source, so it was not added there. NBC shows LA-05 and LA-06 as going to a runoff and MN-01 with no projected winner.
 - **Past check, no longer cited:** earlier on 2026-11-25 all 432 winners agreed with Wikipedia's check marks. Wikipedia had also been used for rosters.
 
 ## Corrections made in this pass
@@ -46,7 +47,7 @@ North Carolina's certified abstract (districts 1 to 13) and the New Mexico, Oreg
 
 ## Not called
 
-- **MN-01:** no marker on Green Papers, which says the contest is going to a recount. Green Papers has Johnson 163,065 and Finstad 162,741. FOX 9 reports the result was certified and a recount may be requested Nov 30 to Dec 4.
+- **MN-01:** no marker on Green Papers, which says the contest is going to a recount. Green Papers has Johnson 163,065 and Finstad 162,741. The State Canvassing Board certified Johnson the winner by 324 votes on Nov. 19, and Finstad requested a publicly funded hand recount that day (CBS Minnesota). WXOW reports the recount begins Nov. 30 and the board reconvenes Dec. 8. No page opened on 2026-11-25 reports a recount result, so MN-01 stays uncalled. NBC News shows no projected winner.
 - **LA-05, LA-06:** runoff Dec 12. Shares are the Nov 3 open-primary count.
 
 ## Details checked

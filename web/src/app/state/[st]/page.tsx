@@ -51,7 +51,9 @@ export default async function StatePage({ params }: { params: Promise<{ st: stri
       <nav aria-label="Breadcrumb" className="text-sm text-muted-foreground">
         <Link href="/" className="underline">Map</Link> <span aria-hidden="true">/</span> {state.name}
       </nav>
-      <h1 className="mt-3 text-[clamp(2.25rem,5vw,3.5rem)] font-semibold leading-tight">{state.name}</h1>
+      <h1 className="mt-3 text-[clamp(2.25rem,5vw,3.5rem)] font-semibold leading-tight">
+        {state.name}{state.name.endsWith("s") ? "’" : "’s"} 2026 races
+      </h1>
       <p className="mt-2 max-w-[60ch] text-lg text-muted-foreground">
         {expected.length
           ? `On November 3, 2026, ${state.name} had ${expected.join(" and ")}${house ? ", plus its U.S. House races" : ""}.`

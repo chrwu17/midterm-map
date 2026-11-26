@@ -38,12 +38,14 @@ Every number was re-read on 2026-11-25 with plain curl and a parser. Earlier age
 
 432 districts are called. Winners were checked against Wikipedia on 2026-11-25 as a second source. Those links have since been removed at the project owner's request, so that second source no longer backs the data.
 
-- **323 districts: Green Papers alone** for the winner. Some list other links, but those do not name the winner (Minnesota's certification story, North Dakota's, and the OH-04 and FL-06 candidate pages).
+- **No called district rests on Green Papers alone** for the winner any more. Some list other links that do not name the winner (Minnesota's certification story and the FL-06 candidate page), but every called district now also cites a page that does.
 - **California (52):** Green Papers and NBC Los Angeles, which marks a projected winner from the NBC News Decision Desk. All 52 agree.
 - **North Carolina (14):** Green Papers and the State Board's certification of winners.
 - **Massachusetts (9):** Green Papers and the state results page, which prints who won.
 - **Other states (32):** Green Papers and a state count in which the same person leads: Alabama 7 (AL-07 in the scan shows Akin's total only), Hawaii 2, Maryland 8, Nebraska 3, New Mexico 3, Oregon 6, South Dakota 1, Vermont 1, Wyoming 1.
 - **TN-04 and AK-AL:** Green Papers and the news reports listed in `CROSSCHECK.md`.
+- **NBC News state pages, North Carolina to Wyoming (173):** every called district in ND, NH, NJ, NV, NY, OH, OK, PA, RI, SC, TN, TX, UT, VA, WA, WI and WV cites the NBC News House results page for its state (`nbcnews.com/politics/2026-elections/<state>-house-results`). Each page marks a projected winner from the NBC News Decision Desk, with AP vote data. All 173 agree with Green Papers. The shares still come from Green Papers, because NBC's counts are not certified. TN-04 already had a news source.
+- **NBC News state pages, Alabama to Montana (151 plus AL-07):** every called district in AR, AZ, CO, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, ME, MI, MN, MO, MS and MT cites its state's NBC News House results page, and so does AL-07, whose state scan shows only Akin's total. These pages were opened with curl on 2026-11-25 and parsed by script. Each marks a projected winner from the NBC News Decision Desk. All 152 agree with Green Papers. Shares still come from Green Papers, because NBC's counts are not certified. NBC prints some names with a suffix (Gilbert III, Johnson Jr., Carter Sr., Olszewski Jr., Cleaver II); these are the same people.
 
 A state URL is in `sources` only if it opened by ordinary fetch and its content could be read. Alaska, California, Colorado, Georgia, Idaho, Maine, Minnesota (Secretary of State), Nevada, Oklahoma, Rhode Island, South Carolina, Tennessee and West Virginia were closed or refused, and Utah, Virginia, Washington and North Dakota served an empty script page. Those districts use Green Papers.
 
@@ -53,7 +55,7 @@ A state URL is in `sources` only if it opened by ordinary fetch and its content 
 
 ## Not called
 
-- `uncalled` (1): MN-01. Green Papers marks no winner and says the contest is going to a recount. The state canvassing board certified a narrow lead for Jake Johnson and a recount can be requested (FOX 9).
+- `uncalled` (1): MN-01. Green Papers marks no winner and says the contest is going to a recount. The State Canvassing Board certified Jake Johnson the winner by 324 votes on Nov. 19, and Brad Finstad requested a publicly funded hand recount (CBS Minnesota, WXOW). The recount begins Nov. 30 and the board meets again Dec. 8 (WXOW). NBC News shows no projected winner. The district stays uncalled until the recount ends.
 - `runoff` (2): LA-05 and LA-06 (Dec 12). Shares are the Nov 3 open-primary count and `winnerId` is null.
 
 ## Ranked choice
